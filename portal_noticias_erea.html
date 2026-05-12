@@ -239,6 +239,20 @@ const BADGE_CLASS = {
 
 let todasNoticias = [];
 
+// ── Desencapsula links do Google News ──
+function limparLink(url) {
+  if (!url || url === "#") return "#";
+  try {
+    // Google News redirect: https://news.google.com/rss/articles/...?url=LINK_REAL
+    if (url.includes("news.google.com")) {
+      const u = new URL(url);
+      const paramUrl = u.searchParams.get("url");
+      if (paramUrl) return decodeURIComponent(paramUrl);
+    }
+  } catch(e) {}
+  return url;
+}
+
 // ── Formatação de tempo a partir de ISO string ──
 function formatarTempo(isoStr) {
   if (!isoStr) return '';
@@ -346,7 +360,7 @@ function cardHTML(n, cls) {
     </div>
     <div class="card-footer">
       <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
-      <a class="read-btn" href="${n.link}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+      <a class="read-btn" href="${limparLink(n.link)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
     </div>
   </div>`;
 }
@@ -373,7 +387,7 @@ function cardSmallHTML(n) {
     ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
     <div class="card-footer">
       <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
-      <a class="read-btn" href="${n.link}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+      <a class="read-btn" href="${limparLink(n.link)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
     </div>
   </div>`;
 }
@@ -392,7 +406,7 @@ function abrirModal(id) {
     </div>
     <div class="modal-body">${(n.summary||'').split('\n\n').map(p=>`<p>${p}</p>`).join('')}</div>
     ${n.relevance ? `<div class="modal-rel"><h4>Por que é relevante para o time de locações</h4><p>${n.relevance}</p></div>` : ''}
-    <a class="modal-link" href="${n.link}" target="_blank">Ler matéria completa →</a>
+    <a class="modal-link" href="${limparLink(n.link)}" target="_blank">Ler matéria completa →</a>
   `;
   document.getElementById('modal-overlay').classList.add('open');
 }

@@ -37,7 +37,7 @@ OUTPUT_JSON = BASE_DIR / "news_data.json"
 LOG_FILE    = BASE_DIR / "coletor.log"
 
 # Janela de busca: notícias das últimas N horas
-HORAS_JANELA = 24
+HORAS_JANELA = 168  # 7 dias (168h)
 
 # Quantas notícias salvar no JSON (as mais relevantes primeiro)
 MAX_NOTICIAS = 20
@@ -77,23 +77,21 @@ FEEDS = [
     {"url": "https://www.automotivebusiness.com.br/feed/",      "fonte": "Automotive Business"},
 
     # Google News RSS por temas estratégicos
-    # "sem_corte": True — Google News ordena por relevância, não por data recente
-    # então ignoramos o filtro de janela e aceitamos qualquer notícia com keyword
-    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
 
     # Portais especializados via Google News (sites bloqueiam RSS direto)
-    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado"},
+    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila"},
+    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística"},
 ]
 
 # ─────────────────────────────────────────────
@@ -215,35 +213,40 @@ def _tem_keyword(texto: str) -> bool:
 
 
 def _extrair_link(entry) -> str:
-    """Retorna o URL real da notícia, desencapsulando redirects do Google News.
-
-    O Google News envolve cada link num redirect:
-      https://news.google.com/rss/articles/CBMi...
-    O link original fica em dois lugares acessíveis sem fazer HTTP request:
-      1. entry.links[].href com rel='alternate'  (nem sempre presente)
-      2. Parâmetro ?url= dentro do summary HTML   (nem sempre presente)
-      3. Fallback: retorna o link do Google News mesmo (pelo menos abre a notícia)
+    """Retorna o URL real da notícia.
+    Para Google News, tenta desencapsular o redirect em 4 estratégias.
     """
-    raw_link = getattr(entry, "link", "#") or "#"
+    from urllib.parse import urlparse, parse_qs, unquote
 
-    # Tenta extrair de entry.links (rel=alternate)
+    raw_link = getattr(entry, "link", "") or ""
+
+    # Estratégia 1: entry.links com rel=alternate (feedparser preenche às vezes)
     for lnk in getattr(entry, "links", []):
         href = lnk.get("href", "")
-        if href and "news.google.com" not in href:
+        rel  = lnk.get("rel", "")
+        if href and "news.google.com" not in href and rel == "alternate":
             return href
 
-    # Tenta extrair parâmetro url= do summary (alguns feeds embeddm o link)
+    # Estratégia 2: parâmetro ?url= no próprio link do Google News
+    if "news.google.com" in raw_link:
+        parsed = urlparse(raw_link)
+        qs = parse_qs(parsed.query)
+        if "url" in qs:
+            return unquote(qs["url"][0])
+
+    # Estratégia 3: href no summary HTML
     summary_raw = getattr(entry, "summary", "") or ""
     match = re.search(r'href="(https?://(?!news\.google)[^"]+)"', summary_raw)
     if match:
         return match.group(1)
 
-    # O feedparser às vezes popula source.href com o link real
+    # Estratégia 4: source.href do feedparser
     source_href = getattr(getattr(entry, "source", None), "href", None)
     if source_href and "news.google.com" not in source_href:
         return source_href
 
-    return raw_link  # fallback: link do Google News (ainda abre a notícia)
+    # Fallback: retorna o link bruto (abre o Google News que redireciona)
+    return raw_link if raw_link else "#"
 
 
 
@@ -273,7 +276,6 @@ def coletar_feeds(horas: int) -> list[dict]:
     for feed_cfg in FEEDS:
         url       = feed_cfg["url"]
         fonte     = feed_cfg["fonte"]
-        sem_corte = feed_cfg.get("sem_corte", False)
         log.info(f"Buscando: {fonte} — {url[:70]}…")
         try:
             parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0 (compatible)'})
@@ -291,13 +293,10 @@ def coletar_feeds(horas: int) -> list[dict]:
             dt = _parse_data(entry)
 
             if dt is None:
-                if not sem_corte:
-                    sem_data += 1
-                    continue
-                # Google News: aceita sem data, usa hora atual como fallback
-                dt = datetime.now(timezone.utc)
+                sem_data += 1
+                continue
 
-            if not sem_corte and dt < corte:
+            if dt < corte:
                 fora_janela += 1
                 continue
 
