@@ -468,6 +468,21 @@ function cardSmallHTML(n) {
 function abrirModal(id) {
   const n = todasNoticias.find(x => x.id === id);
   if (!n) return;
+
+  // Prepara conteúdo completo se disponível
+  let conteudoHtml = '';
+  if (n.conteudo && n.conteudo.length > 100) {
+    conteudoHtml = `
+      <div class="modal-artigo">
+        <div class="modal-artigo-titulo">Conteúdo da matéria</div>
+        <div class="modal-artigo-texto">
+          ${n.conteudo.split(/\n+/).filter(p => p.trim().length > 20).map(p => `<p>${p}</p>`).join('')}
+        </div>
+      </div>`;
+  } else {
+    conteudoHtml = `<p style="color:var(--gray);font-size:12px;margin-top:16px">Conteúdo completo não disponível para esta notícia.</p>`;
+  }
+
   document.getElementById('modal-conteudo').innerHTML = `
     <div class="badge-row" style="margin-bottom:14px">${badgesHtml(n.badges, n.dt_iso)}</div>
     <h2>${n.headline}</h2>
@@ -476,30 +491,10 @@ function abrirModal(id) {
       <span style="font-size:12px;color:var(--gray)">${n.time}</span>
       ${n.score ? `<span style="font-size:12px;color:var(--gray)">Relevância: <strong style="color:var(--gold)">${n.score}/10</strong></span>` : ''}
     </div>
-    <div class="modal-body">${(n.summary||'').split('\n\n').map(p=>`<p>${p}</p>`).join('')}</div>
     ${n.relevance ? `<div class="modal-rel"><h4>Por que é relevante para o time de locações</h4><p>${n.relevance}</p></div>` : ''}
-    <div id="modal-artigo-area"></div>
-    <button class="modal-ler-btn" id="modal-ler-btn" onclick="lerMateria('${n.id}')">Ler matéria completa</button>
+    ${conteudoHtml}
   `;
   document.getElementById('modal-overlay').classList.add('open');
-}
-
-function lerMateria(id) {
-  const n = todasNoticias.find(x => x.id === id);
-  if (!n) return;
-  const area = document.getElementById('modal-artigo-area');
-  const btn  = document.getElementById('modal-ler-btn');
-
-  // Conteúdo já extraído pelo coletor e salvo no JSON
-  if (n.conteudo && n.conteudo.length > 100) {
-    area.innerHTML = '<div class="modal-artigo"><div class="modal-artigo-titulo">Conteúdo da matéria</div><div class="modal-artigo-texto">' +
-      n.conteudo.split(/\n+/).filter(p => p.trim().length > 20).map(p => `<p>${p}</p>`).join('') +
-      '</div></div>';
-    btn.style.display = 'none';
-  } else {
-    area.innerHTML = '<p style="color:var(--gray);font-size:13px;margin-top:16px;line-height:1.6">Conteúdo não disponível para esta notícia.<br>O site pode bloquear acesso automático.</p>';
-    btn.style.display = 'none';
-  }
 }
 
 function fecharModal() { document.getElementById('modal-overlay').classList.remove('open'); }
