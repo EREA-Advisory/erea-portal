@@ -40,7 +40,7 @@ LOG_FILE    = BASE_DIR / "coletor.log"
 HORAS_JANELA = 168  # 7 dias — aplicado a TODOS os feeds sem exceção
 
 # Quantas notícias salvar no JSON (as mais relevantes primeiro)
-MAX_NOTICIAS = 20
+MAX_NOTICIAS = 30
 
 # Pausa entre chamadas à API Claude (segundos) — evita rate-limit
 PAUSA_API = 0.5
@@ -821,12 +821,110 @@ def main():
     enriquecidas.sort(key=lambda x: x["score"], reverse=True)
     top = enriquecidas[:MAX_NOTICIAS]
 
+    # 5. Resolver links e extrair conteúdo completo
+    log.info("Resolvendo links e extraindo conteúdo das notícias…")
+    for i, n in enumerate(top, 1):
+        log.info(f"  [{i}/{len(top)}] {n['headline'][:60]}…")
+        # Resolve o link final (segue redirect do Google News)
+        link_resolvido = _resolver_link(n["link"])
+        n["link"] = link_resolvido
+        # Extrai conteúdo completo da página
+        conteudo = _extrair_conteudo(link_resolvido, n["headline"])
+        n["conteudo"] = conteudo
+        if conteudo:
+            log.info(f"    Conteúdo: {len(conteudo)} chars")
+        else:
+            log.info(f"    Conteúdo: não disponível")
+        time.sleep(0.5)
+
     log.info(f"Top {len(top)} notícias selecionadas (score mín: {top[-1]['score'] if top else '-'})")
 
-    # 5. Salvar JSON
+    # 6. Salvar JSON
     gerar_json(top)
     log.info("Coleta concluída com sucesso.")
 
 
 if __name__ == "__main__":
     main()
+
+
+# ─────────────────────────────────────────────
+# RESOLUÇÃO DE LINK E EXTRAÇÃO DE CONTEÚDO
+# ─────────────────────────────────────────────
+
+def _resolver_link(url: str) -> str:
+    """Segue redirects HTTP para obter o URL final da notícia.
+    Resolve links do Google News que ainda apontam para o agregador.
+    """
+    if not url or url == "#":
+        return url
+    # Se já é um link direto (não Google News), retorna como está
+    if "news.google.com" not in url:
+        return url
+    try:
+        resp = requests.get(
+            url,
+            allow_redirects=True,
+            timeout=10,
+            headers={"User-Agent": "Mozilla/5.0 (compatible)"},
+        )
+        final = resp.url
+        # Valida que chegamos numa notícia, não numa homepage
+        from urllib.parse import urlparse
+        parsed = urlparse(final)
+        if len(parsed.path.strip("/")) > 5:
+            log.info(f"    Link resolvido: {final[:80]}")
+            return final
+    except Exception as e:
+        log.debug(f"    _resolver_link falhou: {e}")
+    return url
+
+
+def _extrair_conteudo(url: str, titulo: str) -> str:
+    """Faz scraping do conteúdo textual da notícia a partir do URL.
+    Retorna os primeiros ~1500 caracteres do corpo da matéria.
+    """
+    if not url or url == "#" or "news.google.com" in url:
+        return ""
+    try:
+        resp = requests.get(
+            url,
+            timeout=12,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Accept": "text/html,application/xhtml+xml",
+                "Accept-Language": "pt-BR,pt;q=0.9",
+            },
+        )
+        resp.raise_for_status()
+        html = resp.text
+
+        # Remove scripts, styles, nav, footer, header
+        html = re.sub(r'<(script|style|nav|footer|header|aside|form)[^>]*>.*?</\1>', ' ', html, flags=re.DOTALL|re.IGNORECASE)
+        # Remove todas as tags HTML
+        texto = re.sub(r'<[^>]+>', ' ', html)
+        # Limpa espaços e entidades HTML
+        texto = re.sub(r'&[a-z]+;', ' ', texto)
+        texto = re.sub(r'\s+', ' ', texto).strip()
+
+        # Tenta localizar o início do conteúdo da notícia
+        # procura pelo título no texto e pega o que vem depois
+        titulo_limpo = re.sub(r'[^\w\s]', '', titulo.lower())[:40]
+        palavras_titulo = titulo_limpo.split()[:4]
+        padrao = ''.join(p + r'[\s\S]{0,20}' for p in palavras_titulo[:3])
+        match = re.search(padrao, texto, re.IGNORECASE)
+        if match:
+            inicio = match.start()
+            conteudo = texto[inicio:inicio + 6000]
+        else:
+            # Fallback: pega o meio do texto (evita menu/header)
+            meio = len(texto) // 4
+            conteudo = texto[meio:meio + 6000]
+
+        # Limpa e retorna
+        conteudo = re.sub(r'\s+', ' ', conteudo).strip()
+        return conteudo[:1500]
+
+    except Exception as e:
+        log.debug(f"    _extrair_conteudo falhou para {url[:60]}: {e}")
+        return ""

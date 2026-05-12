@@ -282,7 +282,10 @@ function formatarTempo(isoStr) {
 // ── Verifica se notícia é das últimas 24h ──
 function isNovo(dt_iso) {
   if (!dt_iso) return false;
-  const dt = new Date(dt_iso);
+  // Garante que o JS interprete como UTC mesmo sem offset explícito
+  const iso = dt_iso.includes('+') || dt_iso.endsWith('Z') ? dt_iso : dt_iso + 'Z';
+  const dt = new Date(iso);
+  if (isNaN(dt)) return false;
   return (Date.now() - dt.getTime()) <= 24 * 60 * 60 * 1000;
 }
 
@@ -481,36 +484,21 @@ function abrirModal(id) {
   document.getElementById('modal-overlay').classList.add('open');
 }
 
-async function lerMateria(id) {
+function lerMateria(id) {
   const n = todasNoticias.find(x => x.id === id);
   if (!n) return;
   const area = document.getElementById('modal-artigo-area');
   const btn  = document.getElementById('modal-ler-btn');
-  btn.disabled = true;
-  btn.textContent = 'Carregando…';
-  area.innerHTML = '<div class="modal-loading"><div class="modal-loading-spinner"></div><span>Buscando conteúdo da matéria…</span></div>';
-  try {
-    const response = await fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        model: "claude-sonnet-4-20250514",
-        max_tokens: 1500,
-        messages: [{ role: "user", content: `Acesse a notícia no link abaixo e extraia o conteúdo completo do artigo em português.\nRetorne APENAS o texto da matéria organizado em parágrafos. Se não conseguir acessar, escreva exatamente: ERRO_ACESSO\n\nLink: ${n.link}\nTítulo: ${n.headline}` }]
-      })
-    });
-    const data = await response.json();
-    const texto = data?.content?.[0]?.text || "ERRO_ACESSO";
-    if (texto.includes("ERRO_ACESSO") || texto.length < 100) {
-      throw new Error("sem conteúdo");
-    }
-    area.innerHTML = '<div class="modal-artigo"><div class="modal-artigo-titulo">Matéria completa</div><div class="modal-artigo-texto">' + texto.split('\n\n').filter(p=>p.trim()).map(p=>`<p>${p}</p>`).join('') + '</div></div>';
+
+  // Conteúdo já extraído pelo coletor e salvo no JSON
+  if (n.conteudo && n.conteudo.length > 100) {
+    area.innerHTML = '<div class="modal-artigo"><div class="modal-artigo-titulo">Conteúdo da matéria</div><div class="modal-artigo-texto">' +
+      n.conteudo.split(/\n+/).filter(p => p.trim().length > 20).map(p => `<p>${p}</p>`).join('') +
+      '</div></div>';
     btn.style.display = 'none';
-  } catch(e) {
-    area.innerHTML = '<p style="color:var(--gray);font-size:13px;margin-top:16px">Não foi possível carregar o conteúdo automaticamente.</p>';
-    btn.textContent = 'Tentar novamente';
-    btn.disabled = false;
-    btn.onclick = () => lerMateria(id);
+  } else {
+    area.innerHTML = '<p style="color:var(--gray);font-size:13px;margin-top:16px;line-height:1.6">Conteúdo não disponível para esta notícia.<br>O site pode bloquear acesso automático.</p>';
+    btn.style.display = 'none';
   }
 }
 
