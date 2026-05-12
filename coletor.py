@@ -635,45 +635,82 @@ def gerar_json(noticias: list[dict]) -> None:
 # ─────────────────────────────────────────────
 
 def _resolver_link(url: str) -> str:
-    """Segue redirects HTTP para obter o URL final da notícia.
-    Resolve links do Google News que ainda apontam para o agregador.
+    """Resolve o link final da notícia.
+    Para Google News: tenta base64 decode primeiro, depois segue redirect HTTP.
+    Para links diretos: verifica se é homepage e tenta resolver.
     """
+    import base64
+    from urllib.parse import urlparse
+
     if not url or url == "#":
         return url
-    # Se já é um link direto (não Google News), retorna como está
-    if "news.google.com" not in url:
-        return url
+
+    # Estratégia 1: decode base64 CBMi do Google News (mais confiável)
+    if "news.google.com" in url and "articles/" in url:
+        try:
+            part = url.split("articles/")[-1].split("?")[0]
+            padded = part + "=" * (4 - len(part) % 4)
+            decoded = base64.urlsafe_b64decode(padded)
+            urls = re.findall(rb"https?://[^\x00-\x1f\x7f\s<>]+", decoded)
+            if urls:
+                candidate = urls[0].decode("utf-8", errors="ignore").rstrip(".,;)")
+                parsed = urlparse(candidate)
+                if len(parsed.path.strip("/")) > 5:
+                    log.info(f"    Link base64: {candidate[:80]}")
+                    return candidate
+        except Exception:
+            pass
+
+    # Estratégia 2: seguir redirect HTTP
     try:
         resp = requests.get(
             url,
             allow_redirects=True,
             timeout=10,
-            headers={"User-Agent": "Mozilla/5.0 (compatible)"},
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml",
+            },
         )
         final = resp.url
-        # Valida que chegamos numa notícia, não numa homepage
-        from urllib.parse import urlparse
         parsed = urlparse(final)
         if len(parsed.path.strip("/")) > 5:
-            log.info(f"    Link resolvido: {final[:80]}")
+            log.info(f"    Link redirect: {final[:80]}")
             return final
+        # Se chegou numa homepage, tenta extrair link canônico do HTML
+        canonical = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)', resp.text)
+        if canonical:
+            cand = canonical.group(1)
+            if len(urlparse(cand).path.strip("/")) > 5:
+                log.info(f"    Link canonical: {cand[:80]}")
+                return cand
     except Exception as e:
         log.debug(f"    _resolver_link falhou: {e}")
+
     return url
 
 
 def _extrair_conteudo(url: str, titulo: str) -> str:
-    """Faz scraping do conteúdo textual da notícia a partir do URL.
-    Retorna os primeiros ~5000 caracteres do corpo da matéria.
+    """Extrai o texto principal da notícia usando seletores semânticos.
+    Prioriza tags article/main e classes comuns de conteúdo editorial.
+    Retorna até 5000 caracteres.
     """
     if not url or url == "#" or "news.google.com" in url:
         return ""
+
+    # Verifica se o link parece ser uma homepage (sem path de notícia)
+    from urllib.parse import urlparse
+    parsed_url = urlparse(url)
+    if len(parsed_url.path.strip("/")) < 5:
+        log.debug(f"    _extrair_conteudo: URL parece homepage, pulando")
+        return ""
+
     try:
         resp = requests.get(
             url,
             timeout=12,
             headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
                 "Accept": "text/html,application/xhtml+xml",
                 "Accept-Language": "pt-BR,pt;q=0.9",
             },
@@ -681,31 +718,63 @@ def _extrair_conteudo(url: str, titulo: str) -> str:
         resp.raise_for_status()
         html = resp.text
 
-        # Remove scripts, styles, nav, footer, header
-        html = re.sub(r'<(script|style|nav|footer|header|aside|form)[^>]*>.*?</\1>', ' ', html, flags=re.DOTALL|re.IGNORECASE)
-        # Remove todas as tags HTML
-        texto = re.sub(r'<[^>]+>', ' ', html)
-        # Limpa espaços e entidades HTML
-        texto = re.sub(r'&[a-z]+;', ' ', texto)
+        # Tenta extrair bloco semântico principal na ordem de preferência
+        conteudo_raw = ""
+
+        # 1. Tag <article>
+        m = re.search(r'<article[^>]*>(.*?)</article>', html, re.DOTALL | re.IGNORECASE)
+        if m:
+            conteudo_raw = m.group(1)
+
+        # 2. Tag <main>
+        if not conteudo_raw:
+            m = re.search(r'<main[^>]*>(.*?)</main>', html, re.DOTALL | re.IGNORECASE)
+            if m:
+                conteudo_raw = m.group(1)
+
+        # 3. Classes comuns de conteúdo editorial
+        if not conteudo_raw:
+            for cls in ['post-content','article-body','entry-content','td-post-content',
+                        'content-body','materia-conteudo','news-content','article-content',
+                        'single-content','post-body','story-body']:
+                m = re.search(rf'class=["\'][^"\']*{cls}[^"\']*["\'][^>]*>(.*?)</', html, re.DOTALL | re.IGNORECASE)
+                if m:
+                    conteudo_raw = m.group(1)
+                    break
+
+        # 4. Fallback: HTML completo sem nav/header/footer
+        if not conteudo_raw:
+            conteudo_raw = html
+
+        # Limpa o HTML extraído
+        conteudo_raw = re.sub(r'<(script|style|nav|footer|header|aside|form|figure|img|svg)[^>]*>.*?</\1>', ' ', conteudo_raw, flags=re.DOTALL|re.IGNORECASE)
+        texto = re.sub(r'<[^>]+>', ' ', conteudo_raw)
+        texto = re.sub(r'&[a-zA-Z]+;', ' ', texto)
         texto = re.sub(r'\s+', ' ', texto).strip()
 
-        # Tenta localizar o início do conteúdo da notícia
-        # procura pelo título no texto e pega o que vem depois
-        titulo_limpo = re.sub(r'[^\w\s]', '', titulo.lower())[:40]
-        palavras_titulo = titulo_limpo.split()[:4]
-        padrao = ''.join(p + r'[\s\S]{0,20}' for p in palavras_titulo[:3])
-        match = re.search(padrao, texto, re.IGNORECASE)
-        if match:
-            inicio = match.start()
-            conteudo = texto[inicio:inicio + 6000]
-        else:
-            # Fallback: pega o meio do texto (evita menu/header)
-            meio = len(texto) // 4
-            conteudo = texto[meio:meio + 6000]
+        # Localiza o início da matéria pelo título
+        import unicodedata
+        titulo_norm = unicodedata.normalize("NFD", titulo.lower())
+        titulo_norm = "".join(c for c in titulo_norm if unicodedata.category(c) != "Mn")
+        palavras = [w for w in re.sub(r'[^\w\s]',' ',titulo_norm).split() if len(w) > 3][:4]
 
-        # Limpa e retorna
-        conteudo = re.sub(r'\s+', ' ', conteudo).strip()
-        return conteudo[:5000]
+        melhor_pos = -1
+        for i in range(len(palavras), 1, -1):
+            padrao = r'\s+'.join(palavras[:i])
+            m = re.search(padrao, texto, re.IGNORECASE)
+            if m:
+                melhor_pos = m.start()
+                break
+
+        if melhor_pos >= 0:
+            trecho = texto[melhor_pos:melhor_pos + 6000]
+        else:
+            # Começa no primeiro quarto do texto (pula menus)
+            inicio = len(texto) // 4
+            trecho = texto[inicio:inicio + 6000]
+
+        trecho = re.sub(r'\s+', ' ', trecho).strip()
+        return trecho[:5000]
 
     except Exception as e:
         log.debug(f"    _extrair_conteudo falhou para {url[:60]}: {e}")

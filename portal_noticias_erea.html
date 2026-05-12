@@ -252,18 +252,28 @@ const BADGE_CLASS = {
 
 let todasNoticias = [];
 
-// ── Desencapsula links do Google News ──
-function limparLink(url) {
-  if (!url || url === "#") return "#";
+// ── Resolve link: se for homepage, usa busca no Google ──
+function limparLink(url, titulo) {
+  if (!url || url === "#") return buscaGoogle(titulo);
   try {
-    // Google News redirect: https://news.google.com/rss/articles/...?url=LINK_REAL
+    // Desencapsula redirect do Google News
     if (url.includes("news.google.com")) {
       const u = new URL(url);
       const paramUrl = u.searchParams.get("url");
-      if (paramUrl) return decodeURIComponent(paramUrl);
+      if (paramUrl) url = decodeURIComponent(paramUrl);
+    }
+    // Verifica se é homepage (path vazio ou muito curto)
+    const parsed = new URL(url);
+    if (parsed.pathname.replace(/\/+/g, "").length < 5) {
+      return buscaGoogle(titulo);
     }
   } catch(e) {}
   return url;
+}
+
+function buscaGoogle(titulo) {
+  if (!titulo) return "#";
+  return "https://www.google.com/search?q=" + encodeURIComponent(titulo.replace(/ [-|] [^-|]{3,50}$/, "").trim());
 }
 
 // ── Formatação de tempo a partir de ISO string ──
@@ -432,7 +442,7 @@ function cardHTML(n, cls) {
     </div>
     <div class="card-footer">
       <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
-      <a class="read-btn" href="${limparLink(n.link)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+      <a class="read-btn" href="${limparLink(n.link, n.headline)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
     </div>
   </div>`;
 }
@@ -459,7 +469,7 @@ function cardSmallHTML(n) {
     ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
     <div class="card-footer">
       <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
-      <a class="read-btn" href="${limparLink(n.link)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+      <a class="read-btn" href="${limparLink(n.link, n.headline)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
     </div>
   </div>`;
 }
