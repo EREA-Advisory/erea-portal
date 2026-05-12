@@ -1,5 +1,5 @@
 {
-  "gerado_em": "12/05/2026 às 19:17",
+  "gerado_em": "12/05/2026 às 19:25",
   "total": 20,
   "noticias": [
     {
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "id": "1f7b6645c0",
+      "id": "5d5f0c1581",
       "headline": "Mercado Livre abre mão de rentabilidade para crescer no Brasil. ‘Oportunidade rara’ - InvestNews - InvestNews",
       "source": "Google News",
       "link": "https://investnews.com.br",
@@ -51,22 +51,6 @@
       ]
     },
     {
-      "id": "3f24892ce3",
-      "headline": "Tirol inaugura centro de distribuição em Maringá para ampliar operação no Paraná - samais.com.br",
-      "source": "Google News",
-      "link": "https://samais.com.br",
-      "time": "ontem, 07:00",
-      "dt_iso": "2026-05-11T07:00:00+00:00",
-      "summary": "Tirol inaugura centro de distribuição em Maringá para ampliar operação no Paraná &nbsp;&nbsp; samais.com.br",
-      "category": "logistica",
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
       "id": "81d30e79f5",
       "headline": "A Shopee abriu três centros de distribuição de uma vez em Vitória, Curitiba e Fortaleza com capacidade para processar 700 mil pedidos por dia, gerou 900 empregos e já soma 22 centros no Brasil com 200 hubs logísticos e 45 mil motoristas parceiros numa - CPG Click Petróleo e Gás",
       "source": "Google News",
@@ -77,22 +61,6 @@
       "category": "ecommerce",
       "score": 8,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "06377c0355",
-      "headline": "Shopee inaugura centro de distribuição no Ceará e abre 300 vagas de emprego - Portal GCMAIS",
-      "source": "Google News",
-      "link": "https://gcmais.com.br",
-      "time": "06/05 às 11:46",
-      "dt_iso": "2026-05-06T11:46:26+00:00",
-      "summary": "Shopee inaugura centro de distribuição no Ceará e abre 300 vagas de emprego &nbsp;&nbsp; Portal GCMAIS",
-      "category": "ecommerce",
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Destaque",
         "E-commerce"
@@ -114,16 +82,16 @@
       ]
     },
     {
-      "id": "24f94f69cf",
-      "headline": "WEG inaugura centro de distribuição na América Latina e amplia operação a 5 mil km de Jaraguá - JDV",
+      "id": "0c37d2af9b",
+      "headline": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará - Tecnologística",
       "source": "Google News",
-      "link": "https://www.jdv.com.br",
-      "time": "ontem, 14:10",
-      "dt_iso": "2026-05-11T14:10:00+00:00",
-      "summary": "WEG inaugura centro de distribuição na América Latina e amplia operação a 5 mil km de Jaraguá &nbsp;&nbsp; JDV",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "05/05 às 23:58",
+      "dt_iso": "2026-05-05T23:58:47+00:00",
+      "summary": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -141,21 +109,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "0c37d2af9b",
-      "headline": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará - Tecnologística",
-      "source": "Google News",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "05/05 às 23:58",
-      "dt_iso": "2026-05-05T23:58:47+00:00",
-      "summary": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -204,21 +157,6 @@
       ]
     },
     {
-      "id": "d17c6f78b4",
-      "headline": "Shopee abre primeiro centro de distribuição no Ceará - E-Commerce Brasil",
-      "source": "Google News",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "05/05 às 20:07",
-      "dt_iso": "2026-05-05T20:07:17+00:00",
-      "summary": "Shopee abre primeiro centro de distribuição no Ceará &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "4d3ba784a7",
       "headline": "Shopee inaugura centros de distribuição em Vitória, Curitiba e Fortaleza - CNN Brasil",
       "source": "Google News",
@@ -249,7 +187,7 @@
       ]
     },
     {
-      "id": "5582bc0985",
+      "id": "3fa96446da",
       "headline": "Cross-docking vs. fulfillment: qual é a diferença nos centros logísticos da Shopee - Times Brasil | CNBC",
       "source": "Google News",
       "link": "https://timesbrasil.com.br",
@@ -294,18 +232,78 @@
       ]
     },
     {
-      "id": "0b70628d61",
-      "headline": "TAFS Transportes amplia receita em 38% após implantação de sistema de gestão logística da TOTVS - Tecnologística",
+      "id": "103d177ae7",
+      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
       "source": "Google News",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 11:00",
-      "dt_iso": "2026-05-12T11:00:00+00:00",
-      "summary": "TAFS Transportes amplia receita em 38% após implantação de sistema de gestão logística da TOTVS &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
+      "link": "https://www.moneytimes.com.br",
+      "time": "07/05 às 20:47",
+      "dt_iso": "2026-05-07T20:47:00+00:00",
+      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
+      "category": "ecommerce",
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "ee433cdff2",
+      "headline": "Mercado Livre, Shein, Amazon e Shopee impulsionaram os fundos imobiliários em abril e estes 3 FIIs podem se beneficiar desse cenário; veja quais são - Empiricus",
+      "source": "Google News",
+      "link": "https://www.empiricus.com.br",
+      "time": "ontem, 19:17",
+      "dt_iso": "2026-05-11T19:17:00+00:00",
+      "summary": "Mercado Livre, Shein, Amazon e Shopee impulsionaram os fundos imobiliários em abril e estes 3 FIIs podem se beneficiar desse cenário; veja quais são &nbsp;&nbsp; Empiricus",
+      "category": "ecommerce",
+      "score": 7,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "8d65486684",
+      "headline": "Boletim de FIIs: HGLG11 amplia presença logística na Bahia - Nord Investimentos",
+      "source": "Google News",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "ontem, 14:19",
+      "dt_iso": "2026-05-11T14:19:00+00:00",
+      "summary": "Boletim de FIIs: HGLG11 amplia presença logística na Bahia &nbsp;&nbsp; Nord Investimentos",
+      "category": "logistica",
+      "score": 7,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "0baa4d3dba",
+      "headline": "Brasil ganha primeiro reator de alta tensão a óleo vegetal das Américas",
+      "source": "Exame",
+      "link": "https://exame.com/esg/brasil-ganha-primeiro-reator-de-alta-tensao-a-oleo-vegetal-das-americas/",
+      "time": "hoje, 15:30",
+      "dt_iso": "2026-05-12T15:30:17+00:00",
+      "summary": "Com investimento de R$ 18 milhões, ISA ENERGIA e Hitachi Energy instalam em Bauru (SP) equipamento que estabiliza a rede de transmissão e pode reduzir em 11% as emissões do setor",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d7f811acc5",
+      "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
+      "source": "Google News",
+      "link": "https://ndmais.com.br",
+      "time": "ontem, 23:39",
+      "dt_iso": "2026-05-10T23:39:37+00:00",
+      "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
+      "category": "expansao",
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     }
   ]
