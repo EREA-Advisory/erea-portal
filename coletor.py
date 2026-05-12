@@ -253,6 +253,7 @@ def _categoria(texto: str) -> str:
 def coletar_feeds(horas: int) -> list[dict]:
     """Percorre todos os feeds e retorna entradas dentro da janela de tempo."""
     corte = datetime.now(timezone.utc) - timedelta(hours=horas)
+    log.info(f"Janela de busca: ultimas {horas}h (corte UTC: {corte.strftime('%Y-%m-%d %H:%M')})")
     candidatas = []
     ids_vistos  = set()
 
@@ -265,19 +266,24 @@ def coletar_feeds(horas: int) -> list[dict]:
         try:
             parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0 (compatible)'})
         except Exception as e:
-            log.warning(f"Erro ao parsear {url}: {e}")
+            log.warning(f"  Erro ao parsear {fonte}: {e}")
             continue
+
+        total_entradas = len(parsed.entries)
+        sem_data = 0
+        fora_janela = 0
+        sem_keyword = 0
+        aceitas = 0
 
         for entry in parsed.entries:
             dt = _parse_data(entry)
 
-            # ── CORREÇÃO: data obrigatória — sem data válida, descarta ──
             if dt is None:
-                log.debug(f"  Descartada (sem data): {getattr(entry, 'title', '')[:60]}")
+                sem_data += 1
                 continue
 
-            # ── CORREÇÃO: descarta estritamente entradas fora da janela ──
             if dt < corte:
+                fora_janela += 1
                 continue
 
             titulo = getattr(entry, "title", "").strip()
@@ -291,10 +297,12 @@ def coletar_feeds(horas: int) -> list[dict]:
 
             texto = _texto_completo(entry)
             if not _tem_keyword(texto):
+                sem_keyword += 1
                 continue
 
-            # ── CORREÇÃO: extrai link real (desencapsula Google News) ──
             link_real = _extrair_link(entry)
+            aceitas += 1
+            log.info(f"  ACEITA: {titulo[:80]}")
 
             candidatas.append({
                 "id":       uid,
@@ -307,7 +315,9 @@ def coletar_feeds(horas: int) -> list[dict]:
                 "category": _categoria(texto),
             })
 
-    log.info(f"Candidatas após filtragem de keywords: {len(candidatas)}")
+        log.info(f"  {fonte}: {total_entradas} entradas | sem data: {sem_data} | fora janela: {fora_janela} | sem keyword: {sem_keyword} | aceitas: {aceitas}")
+
+    log.info(f"TOTAL candidatas: {len(candidatas)}")
     return candidatas
 
 
