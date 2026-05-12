@@ -407,9 +407,23 @@ log = logging.getLogger(__name__)
 # HELPERS
 # ─────────────────────────────────────────────
 
+def _normalizar_titulo(titulo: str) -> str:
+    """Remove sufixo de fonte (ex: '- InfoMoney', '| G1') e normaliza para deduplicação."""
+    # Remove sufixo após último ' - ' ou ' | ' que indica nome do veículo
+    titulo = re.sub(r" [-|] [^-|]{3,40}$", "", titulo.strip())
+    titulo = re.sub(r"[|][^|]{2,40}$", "", titulo.strip())  # "titulo | Fonte"
+    # Remove acentos e converte para minúsculas
+    import unicodedata
+    titulo = unicodedata.normalize("NFD", titulo)
+    titulo = "".join(c for c in titulo if unicodedata.category(c) != "Mn")
+    # Remove pontuação e espaços extras
+    titulo = re.sub(r"[^\w\s]", " ", titulo).lower()
+    titulo = re.sub(r"\s+", " ", titulo).strip()
+    return titulo
+
 def _id(titulo: str) -> str:
-    """ID estável baseado no título (evita duplicatas)."""
-    return hashlib.md5(titulo.lower().encode()).hexdigest()[:10]
+    """ID estável baseado no título normalizado — evita duplicatas entre fontes."""
+    return hashlib.md5(_normalizar_titulo(titulo).encode()).hexdigest()[:10]
 
 
 def _parse_data(entry) -> datetime | None:
@@ -470,38 +484,57 @@ def _tem_keyword(texto: str) -> bool:
 
 def _extrair_link(entry) -> str:
     """Retorna o URL real da notícia.
-    Para Google News, tenta desencapsular o redirect em 4 estratégias.
+    Para Google News, usa decode base64 do CBMi... para obter o link original.
     """
+    import base64
     from urllib.parse import urlparse, parse_qs, unquote
 
     raw_link = getattr(entry, "link", "") or ""
 
-    # Estratégia 1: entry.links com rel=alternate (feedparser preenche às vezes)
+    # Estratégia 1: entry.links com rel=alternate
     for lnk in getattr(entry, "links", []):
         href = lnk.get("href", "")
         rel  = lnk.get("rel", "")
         if href and "news.google.com" not in href and rel == "alternate":
             return href
 
-    # Estratégia 2: parâmetro ?url= no próprio link do Google News
+    # Estratégia 2: decode base64 do path do Google News (CBMi...)
+    if "news.google.com" in raw_link and "articles/" in raw_link:
+        try:
+            part = raw_link.split("articles/")[-1].split("?")[0]
+            padded = part + "=" * (4 - len(part) % 4)
+            decoded = base64.urlsafe_b64decode(padded)
+            urls = re.findall(rb"https?://[^\x00-\x1f\x7f\s<>]+", decoded)
+            if urls:
+                candidate = urls[0].decode("utf-8", errors="ignore").rstrip(".,;)")
+                # Valida que não é homepage (tem path com pelo menos 2 segmentos)
+                parsed_c = urlparse(candidate)
+                if len(parsed_c.path.strip("/").split("/")) >= 1 and len(parsed_c.path) > 3:
+                    return candidate
+        except Exception:
+            pass
+
+    # Estratégia 3: parâmetro ?url= na query string
     if "news.google.com" in raw_link:
-        parsed = urlparse(raw_link)
-        qs = parse_qs(parsed.query)
+        parsed_q = urlparse(raw_link)
+        qs = parse_qs(parsed_q.query)
         if "url" in qs:
             return unquote(qs["url"][0])
 
-    # Estratégia 3: href no summary HTML
+    # Estratégia 4: href no summary HTML
     summary_raw = getattr(entry, "summary", "") or ""
     match = re.search(r'href="(https?://(?!news\.google)[^"]+)"', summary_raw)
     if match:
-        return match.group(1)
+        candidate = match.group(1)
+        parsed_c = urlparse(candidate)
+        if len(parsed_c.path) > 3:
+            return candidate
 
-    # Estratégia 4: source.href do feedparser
+    # Estratégia 5: source.href
     source_href = getattr(getattr(entry, "source", None), "href", None)
     if source_href and "news.google.com" not in source_href:
         return source_href
 
-    # Fallback: retorna o link bruto (abre o Google News que redireciona)
     return raw_link if raw_link else "#"
 
 

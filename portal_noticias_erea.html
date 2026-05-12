@@ -61,7 +61,7 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .card-secondary{grid-column:2/3;grid-row:1/2;background:var(--navy);border:1px solid var(--border);border-radius:3px;overflow:hidden;display:flex;flex-direction:column;cursor:pointer;transition:border-color .2s;}
 .card-secondary:hover{border-color:rgba(201,168,76,.5);}
 .sidebar{grid-column:3/4;grid-row:1/3;display:flex;flex-direction:column;gap:12px;}
-.cards-row{grid-column:1/3;grid-row:2/3;display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;}
+.cards-row{grid-column:1/3;display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;}
 
 .card-inner{padding:22px 24px;flex:1;display:flex;flex-direction:column;gap:10px;}
 .card-featured .card-inner{padding:26px 28px 26px 32px;}
@@ -313,24 +313,47 @@ function renderizar(data) {
   renderizarGrid(todasNoticias);
 }
 
+// ── Normaliza título para deduplicação no lado do portal ──
+function normalizarTitulo(titulo) {
+  return titulo
+    .replace(/ [-|] [^-|]{3,50}$/, '')   // remove "- Fonte" ou "| Fonte" no fim
+    .replace(/[|][^|]{2,50}$/, '')        // remove "|Fonte" sem espaço
+    .toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // remove acentos
+    .replace(/[^\w\s]/g, ' ')
+    .replace(/\s+/g, ' ').trim();
+}
+
 function renderizarGrid(lista) {
   const grid = document.getElementById('news-grid');
   if (!lista.length) {
     grid.style.display = 'none';
     return;
   }
+
+  // ── Deduplicação no lado do portal ──
+  const vistos = new Set();
+  const semDup = lista.filter(n => {
+    const chave = normalizarTitulo(n.headline || '');
+    if (vistos.has(chave)) return false;
+    vistos.add(chave);
+    return true;
+  });
+
   grid.style.display = 'grid';
   grid.innerHTML = '';
 
-  const destaques = lista.filter(n => (n.score||0) >= 7);
-  const outros    = lista.filter(n => (n.score||0) < 7);
-  // Fallback: se nenhum score>=7, trata os primeiros como destaque
-  const principais = destaques.length >= 2 ? destaques : lista;
+  const destaques = semDup.filter(n => (n.score||0) >= 7);
+  const outros    = semDup.filter(n => (n.score||0) < 7);
+  const principais = destaques.length >= 2 ? destaques : semDup;
 
-  const card1 = principais[0];
-  const card2 = principais[1];
-  const sidebar = (destaques.length >= 2 ? outros : lista.slice(2)).slice(0, 4);
-  const row = (destaques.length >= 2 ? [...destaques.slice(2), ...outros] : lista.slice(2)).slice(0, 3);
+  const card1   = principais[0];
+  const card2   = principais[1];
+  const sidebar = (destaques.length >= 2 ? outros : semDup.slice(2)).slice(0, 4);
+
+  // Todas as notícias restantes vão para linhas de cards
+  const usados  = new Set([card1?.id, card2?.id, ...sidebar.map(n=>n.id)]);
+  const restantes = semDup.filter(n => !usados.has(n.id));
 
   if (card1) grid.innerHTML += cardHTML(card1, 'card-featured');
   if (card2) grid.innerHTML += cardHTML(card2, 'card-secondary');
@@ -342,11 +365,16 @@ function renderizarGrid(lista) {
   sidebar.forEach(n => sidebarEl.innerHTML += sidebarCardHTML(n));
   grid.appendChild(sidebarEl);
 
-  // Row inferior
-  const rowEl = document.createElement('div');
-  rowEl.className = 'cards-row';
-  row.forEach(n => rowEl.innerHTML += cardSmallHTML(n));
-  grid.appendChild(rowEl);
+  // Linhas de 3 cards — renderiza TODAS as notícias restantes
+  for (let i = 0; i < restantes.length; i += 3) {
+    const lote = restantes.slice(i, i + 3);
+    const rowEl = document.createElement('div');
+    rowEl.className = 'cards-row';
+    // cards-row precisa ocupar colunas 1-3 (não a sidebar)
+    rowEl.style.gridColumn = '1 / 3';
+    lote.forEach(n => rowEl.innerHTML += cardSmallHTML(n));
+    grid.appendChild(rowEl);
+  }
 }
 
 function cardHTML(n, cls) {
