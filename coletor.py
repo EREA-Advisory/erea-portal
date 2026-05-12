@@ -788,65 +788,6 @@ def gerar_json(noticias: list[dict]) -> None:
     log.info(f"JSON salvo em: {OUTPUT_JSON} ({len(filtradas)} notícias)")
 
 
-# ─────────────────────────────────────────────
-# MAIN
-# ─────────────────────────────────────────────
-
-def main():
-    log.info("=" * 60)
-    log.info("EREA Coletor iniciado")
-    log.info("=" * 60)
-
-    # 1. Coletar candidatas dos feeds
-    candidatas = coletar_feeds(HORAS_JANELA)
-
-    if not candidatas:
-        log.warning("Nenhuma notícia encontrada. Verifique os feeds e as keywords.")
-        gerar_json([])
-        return
-
-    # 2. Deduplicar por similaridade de título
-    candidatas = _deduplicar(candidatas)
-
-    # 3. Analisar (score + relevância)
-    log.info(f"Analisando {len(candidatas)} notícias…")
-    enriquecidas = []
-    for i, n in enumerate(candidatas, 1):
-        log.info(f"  [{i}/{len(candidatas)}] {n['headline'][:70]}…")
-        resultado = analisar_com_claude(n)
-        enriquecidas.append(resultado)
-        time.sleep(PAUSA_API)
-
-    # 4. Ordenar por score e pegar as top N
-    enriquecidas.sort(key=lambda x: x["score"], reverse=True)
-    top = enriquecidas[:MAX_NOTICIAS]
-
-    # 5. Resolver links e extrair conteúdo completo
-    log.info("Resolvendo links e extraindo conteúdo das notícias…")
-    for i, n in enumerate(top, 1):
-        log.info(f"  [{i}/{len(top)}] {n['headline'][:60]}…")
-        # Resolve o link final (segue redirect do Google News)
-        link_resolvido = _resolver_link(n["link"])
-        n["link"] = link_resolvido
-        # Extrai conteúdo completo da página
-        conteudo = _extrair_conteudo(link_resolvido, n["headline"])
-        n["conteudo"] = conteudo
-        if conteudo:
-            log.info(f"    Conteúdo: {len(conteudo)} chars")
-        else:
-            log.info(f"    Conteúdo: não disponível")
-        time.sleep(0.5)
-
-    log.info(f"Top {len(top)} notícias selecionadas (score mín: {top[-1]['score'] if top else '-'})")
-
-    # 6. Salvar JSON
-    gerar_json(top)
-    log.info("Coleta concluída com sucesso.")
-
-
-if __name__ == "__main__":
-    main()
-
 
 # ─────────────────────────────────────────────
 # RESOLUÇÃO DE LINK E EXTRAÇÃO DE CONTEÚDO
@@ -928,3 +869,62 @@ def _extrair_conteudo(url: str, titulo: str) -> str:
     except Exception as e:
         log.debug(f"    _extrair_conteudo falhou para {url[:60]}: {e}")
         return ""
+
+# ─────────────────────────────────────────────
+# MAIN
+# ─────────────────────────────────────────────
+
+def main():
+    log.info("=" * 60)
+    log.info("EREA Coletor iniciado")
+    log.info("=" * 60)
+
+    # 1. Coletar candidatas dos feeds
+    candidatas = coletar_feeds(HORAS_JANELA)
+
+    if not candidatas:
+        log.warning("Nenhuma notícia encontrada. Verifique os feeds e as keywords.")
+        gerar_json([])
+        return
+
+    # 2. Deduplicar por similaridade de título
+    candidatas = _deduplicar(candidatas)
+
+    # 3. Analisar (score + relevância)
+    log.info(f"Analisando {len(candidatas)} notícias…")
+    enriquecidas = []
+    for i, n in enumerate(candidatas, 1):
+        log.info(f"  [{i}/{len(candidatas)}] {n['headline'][:70]}…")
+        resultado = analisar_com_claude(n)
+        enriquecidas.append(resultado)
+        time.sleep(PAUSA_API)
+
+    # 4. Ordenar por score e pegar as top N
+    enriquecidas.sort(key=lambda x: x["score"], reverse=True)
+    top = enriquecidas[:MAX_NOTICIAS]
+
+    # 5. Resolver links e extrair conteúdo completo
+    log.info("Resolvendo links e extraindo conteúdo das notícias…")
+    for i, n in enumerate(top, 1):
+        log.info(f"  [{i}/{len(top)}] {n['headline'][:60]}…")
+        # Resolve o link final (segue redirect do Google News)
+        link_resolvido = _resolver_link(n["link"])
+        n["link"] = link_resolvido
+        # Extrai conteúdo completo da página
+        conteudo = _extrair_conteudo(link_resolvido, n["headline"])
+        n["conteudo"] = conteudo
+        if conteudo:
+            log.info(f"    Conteúdo: {len(conteudo)} chars")
+        else:
+            log.info(f"    Conteúdo: não disponível")
+        time.sleep(0.5)
+
+    log.info(f"Top {len(top)} notícias selecionadas (score mín: {top[-1]['score'] if top else '-'})")
+
+    # 6. Salvar JSON
+    gerar_json(top)
+    log.info("Coleta concluída com sucesso.")
+
+
+if __name__ == "__main__":
+    main()
