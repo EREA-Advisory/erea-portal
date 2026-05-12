@@ -664,7 +664,7 @@ def _resolver_link(url: str) -> str:
 
 def _extrair_conteudo(url: str, titulo: str) -> str:
     """Faz scraping do conteúdo textual da notícia a partir do URL.
-    Retorna os primeiros ~1500 caracteres do corpo da matéria.
+    Retorna os primeiros ~5000 caracteres do corpo da matéria.
     """
     if not url or url == "#" or "news.google.com" in url:
         return ""
@@ -705,7 +705,7 @@ def _extrair_conteudo(url: str, titulo: str) -> str:
 
         # Limpa e retorna
         conteudo = re.sub(r'\s+', ' ', conteudo).strip()
-        return conteudo[:1500]
+        return conteudo[:5000]
 
     except Exception as e:
         log.debug(f"    _extrair_conteudo falhou para {url[:60]}: {e}")
