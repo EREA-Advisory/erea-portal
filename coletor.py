@@ -206,8 +206,12 @@ def _texto_completo(entry) -> str:
     return f"{titulo}. {summary}".lower()
 
 
+def _contar_keywords(texto: str) -> int:
+    return sum(1 for kw in KEYWORDS if kw in texto)
+
 def _tem_keyword(texto: str) -> bool:
-    return any(kw in texto for kw in KEYWORDS)
+    """Exige pelo menos 2 keywords para reduzir ruído."""
+    return _contar_keywords(texto) >= 2
 
 
 def _extrair_link(entry) -> str:
@@ -355,46 +359,53 @@ Use "Destaque" apenas se score >= 7.
 Use no máximo 2 badges."""
 
 
+def _badges_por_categoria(categoria: str) -> list:
+    return {
+        "expansao":    ["Expansão"],
+        "logistica":   ["Logística"],
+        "investimento":["Investimento"],
+        "ecommerce":   ["E-commerce"],
+        "industrial":  ["Industrial"],
+    }.get(categoria, ["Logística"])
+
+
+def _relevance_automatica(noticia: dict) -> str:
+    """Gera texto de relevância baseado em regras simples quando Claude não está disponível."""
+    texto = (noticia.get("headline","") + " " + noticia.get("summary","")).lower()
+    hints = []
+    if any(t in texto for t in ["build to suit", "bts"]):
+        hints.append("Oportunidade de desenvolvimento BTS.")
+    if any(t in texto for t in ["sale and leaseback"]):
+        hints.append("Potencial de sale & leaseback.")
+    if any(t in texto for t in ["3pl", "operador logístico"]):
+        hints.append("Operador 3PL — potencial demanda de galpão.")
+    if any(t in texto for t in ["centro de distribuição", "cd logístico", "fulfillment"]):
+        hints.append("Expansão de CD — demanda direta por imóvel logístico.")
+    if any(t in texto for t in ["fii", "fundo", "emissão"]):
+        hints.append("Movimento de capital — possível apetite por aquisição de ativos.")
+    if any(t in texto for t in ["expansão", "nova unidade", "inauguração"]):
+        hints.append("Sinal de expansão — prospecção ativa recomendada.")
+    return " ".join(hints) if hints else "Notícia relevante para o mercado logístico."
+
+
 def analisar_com_claude(noticia: dict) -> dict:
-    """Chama a API Claude para enriquecer a notícia com score e análise."""
-    if ANTHROPIC_API_KEY == "SUA_CHAVE_AQUI":
-        log.warning("Chave API não configurada — pulando análise Claude.")
-        return {**noticia, "score": 5, "relevance": "Configure ANTHROPIC_API_KEY para análise automática.", "badges": []}
-
-    prompt = f"""Título: {noticia['headline']}
-
-Resumo: {noticia['summary']}
-
-Fonte: {noticia['source']}"""
-
-    try:
-        resp = requests.post(
-            "https://api.anthropic.com/v1/messages",
-            headers={
-                "x-api-key": ANTHROPIC_API_KEY,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            },
-            json={
-                "model": "claude-3-5-haiku-20241022",
-                "max_tokens": 300,
-                "system": SYSTEM_PROMPT,
-                "messages": [{"role": "user", "content": prompt}],
-            },
-            timeout=20,
-        )
-        resp.raise_for_status()
-        raw = resp.json()["content"][0]["text"].strip()
-        parsed = json.loads(raw)
-        return {
-            **noticia,
-            "score":    int(parsed.get("score", 5)),
-            "relevance": parsed.get("relevance", ""),
-            "badges":   parsed.get("badges", []),
-        }
-    except Exception as e:
-        log.warning(f"Erro Claude para '{noticia['headline'][:60]}': {e}")
-        return {**noticia, "score": 5, "relevance": "Análise indisponível.", "badges": []}
+    """Classificação automática por regras — sem chamada à API."""
+    cat    = noticia.get("category", "logistica")
+    badges = _badges_por_categoria(cat)
+    texto  = (noticia.get("headline","") + " " + noticia.get("summary","")).lower()
+    kw_count = _contar_keywords(texto)
+    # Score proporcional ao número de keywords (mín 5, máx 9)
+    score = min(9, 4 + kw_count)
+    # Muitas keywords = badge Destaque
+    if kw_count >= 4:
+        badges = ["Destaque"] + [b for b in badges if b != "Destaque"]
+    log.info(f"  keywords={kw_count} score={score} cat={cat}")
+    return {
+        **noticia,
+        "score":    score,
+        "relevance": _relevance_automatica(noticia),
+        "badges":   badges,
+    }
 
 
 # ─────────────────────────────────────────────
