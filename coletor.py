@@ -37,7 +37,7 @@ OUTPUT_JSON = BASE_DIR / "news_data.json"
 LOG_FILE    = BASE_DIR / "coletor.log"
 
 # Janela de busca: notícias das últimas N horas
-HORAS_JANELA = 168  # 7 dias (168h)
+HORAS_JANELA = 168  # 7 dias — aplicado a TODOS os feeds sem exceção
 
 # Quantas notícias salvar no JSON (as mais relevantes primeiro)
 MAX_NOTICIAS = 20
@@ -76,22 +76,38 @@ FEEDS = [
     # Automotivo / industrial
     {"url": "https://www.automotivebusiness.com.br/feed/",      "fonte": "Automotive Business"},
 
-    # Google News RSS — sem_corte=True pois ordena por relevância, não por data
-    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
+    # Google News RSS por temas estratégicos
+    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
 
     # Portais especializados via Google News
-    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila", "sem_corte": True},
-    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado"},
+    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila"},
+    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística"},
+
+    # Google News — empresas específicas com filtro de recência (when:7d)
+    {"url": "https://news.google.com/rss/search?q=galpão+logístico+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",              "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+inauguração+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=expansão+logística+brasil+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",     "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=galpão+logístico+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",     "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=operador+logístico+galpão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",     "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=mercado+livre+galpão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",          "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=shopee+amazon+logística+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=magalu+magazine+luiza+logística+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=dhl+fedex+logística+brasil+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=fii+logístico+emissão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",         "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",          "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=ambev+coca-cola+unilever+galpão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=jadlog+loggi+total+express+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
 ]
 
 # ─────────────────────────────────────────────
@@ -516,8 +532,7 @@ def coletar_feeds(horas: int) -> list[dict]:
     for feed_cfg in FEEDS:
         url       = feed_cfg["url"]
         fonte     = feed_cfg["fonte"]
-        sem_corte = feed_cfg.get("sem_corte", False)
-        log.info(f"Buscando: {fonte} {'[sem corte de data]' if sem_corte else ''} — {url[:70]}…")
+        log.info(f"Buscando: {fonte} — {url[:70]}…")
         try:
             parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0 (compatible)'})
         except Exception as e:
@@ -535,11 +550,9 @@ def coletar_feeds(horas: int) -> list[dict]:
 
             if dt is None:
                 sem_data += 1
-                if not sem_corte:
-                    continue
-                dt = datetime.now(timezone.utc)  # Google News: usa data atual se ausente
+                continue
 
-            if not sem_corte and dt < corte:
+            if dt < corte:
                 fora_janela += 1
                 continue
 
@@ -655,14 +668,36 @@ def analisar_com_claude(noticia: dict) -> dict:
 # ─────────────────────────────────────────────
 
 def gerar_json(noticias: list[dict]) -> None:
-    """Salva o news_data.json consumido pelo portal HTML."""
+    """Salva o news_data.json consumido pelo portal HTML.
+    Aplica corte de data como última linha de defesa antes de salvar.
+    """
+    corte_final = datetime.now(timezone.utc) - timedelta(hours=HORAS_JANELA)
+    filtradas = []
+    for n in noticias:
+        dt_iso = n.get("dt_iso")
+        if dt_iso:
+            try:
+                dt = datetime.fromisoformat(dt_iso)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                if dt < corte_final:
+                    log.warning(f"  BLOQUEADA na validação final (data antiga): [{dt.strftime('%d/%m/%Y')}] {n['headline'][:60]}")
+                    continue
+            except Exception:
+                pass
+        filtradas.append(n)
+
+    removidas = len(noticias) - len(filtradas)
+    if removidas:
+        log.warning(f"  {removidas} notícia(s) removida(s) por data anterior a {corte_final.strftime('%d/%m/%Y')} na validação final.")
+
     payload = {
         "gerado_em": datetime.now().strftime("%d/%m/%Y às %H:%M"),
-        "total": len(noticias),
-        "noticias": noticias,
+        "total": len(filtradas),
+        "noticias": filtradas,
     }
     OUTPUT_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    log.info(f"JSON salvo em: {OUTPUT_JSON} ({len(noticias)} notícias)")
+    log.info(f"JSON salvo em: {OUTPUT_JSON} ({len(filtradas)} notícias)")
 
 
 # ─────────────────────────────────────────────
