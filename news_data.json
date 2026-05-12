@@ -1,7 +1,23 @@
 {
-  "gerado_em": "12/05/2026 às 19:25",
+  "gerado_em": "12/05/2026 às 19:36",
   "total": 20,
   "noticias": [
+    {
+      "id": "dd5b28f92c",
+      "headline": "Vivo tem lucro de R$ 1,3 bilhão no trimestre, alta de 19,2%",
+      "source": "TI Inside Supply",
+      "link": "https://tiinside.com.br/11/05/2026/vivo-tem-lucro-de-r-13-bilhao-no-trimestre-alta-de-192/",
+      "time": "ontem, 12:19",
+      "dt_iso": "2026-05-11T12:19:57+00:00",
+      "summary": "A Vivo inicia 2026 com desempenho crescente nos principais indicadores financeiros. No primeiro trimestre, a companhia registra lucro líquido de R$ 1,3 bilhão, alta de 19,2% na comparação anual. A receita total alcança R$ 15,5 bilhões, avanço de 7,4% e 1,2 ponto percentual superior ao crescimento registrado no mesmo período do ano passado. Protagonismo do pós-pago e da fibra, que representam 74,3% de toda a receita de serviços. A evolução do negócio também se reflete no EBITDA, que evolui 8,9%, e chega a R$ 6,2 bilhões, com margem de 40,2%. \n\n Os investimentos atingem R$ 2,0 bilhões, aumento d",
+      "category": "expansao",
+      "score": 9,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
     {
       "id": "6bd6206805",
       "headline": "Trabalhe na Shopee: empresa abre no Brasil mais de 90 vagas em novo Centro de Distribuição no Ceará e promete gerar 300 empregos em operação logística bilionária que amplia disputa com Amazon e Mercado Livre no Nordeste - CPG Click Petróleo e Gás",
@@ -19,13 +35,45 @@
       ]
     },
     {
+      "id": "67301a4646",
+      "headline": "Nuvemshop inaugura centro de crossdocking em Blumenau",
+      "source": "TI Inside Supply",
+      "link": "https://tiinside.com.br/11/05/2026/nuvemshop-inaugura-centro-de-crossdocking-em-blumenau/",
+      "time": "hoje, 21:53",
+      "dt_iso": "2026-05-11T21:53:16+00:00",
+      "summary": "A Nuvemshop anuncia a inauguração de um novo centro de crossdocking em Blumenau (SC), como parte de sua estratégia de investimento em infraestrutura logística. O modelo de crossdocking é focado na agilidade e elimina a necessidade de armazenamento prolongado: os produtos são rapidamente direcionados para entrega, o que contribui para encurtar prazos e aumentar a eficiência na distribuição. A operação beneficia lojistas da plataforma ao melhorar a experiência do consumidor final.\n\nA logística tem se mostrado um ponto crucial para as vendas no e-commerce, tanto que mais da metade dos consumidore",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "09fa654e40",
+      "headline": "Red Hat e Panasonic Connect colaboram para ampliar durabilidade e segurança no edge",
+      "source": "TI Inside Supply",
+      "link": "https://tiinside.com.br/11/05/2026/red-hat-e-panasonic-connect-colaboram-para-ampliar-durabilidade-e-seguranca-no-edge/",
+      "time": "hoje, 21:35",
+      "dt_iso": "2026-05-11T21:35:06+00:00",
+      "summary": "A Red Hat e a Panasonic Connect anunciam hoje uma colaboração global com o objetivo de ampliar o potencial do edge computing em ambientes críticos. A iniciativa prevê a pré-instalação do Red Hat Device Edge em dispositivos Panasonic TOUGHBOOK, oferecendo uma plataforma unificada para processamento de dados em tempo real desde a ativação inicial, com suporte a aplicações em automação industrial, manufatura inteligente e no setor de defesa.\n\nOs dispositivos Panasonic TOUGHBOOK, combinados ao Red Hat Device Edge, compõem uma linha de laptops e tablets robustos voltados a cenários de edge computin",
+      "category": "industrial",
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "Industrial"
+      ]
+    },
+    {
       "id": "239abf0a05",
-      "headline": "Tirol inaugura centro de distribuição em Maringá com foco em expansão no norte do Paraná - MilkPoint",
+      "headline": "Tirol inaugura Centro de Distribuição em Maringá com foco em expansão no Norte do Paraná - Rádio Tropical FM 99.1",
       "source": "Google News",
-      "link": "https://www.milkpoint.com.br",
-      "time": "08/05 às 11:39",
-      "dt_iso": "2026-05-08T11:39:31+00:00",
-      "summary": "Tirol inaugura centro de distribuição em Maringá com foco em expansão no norte do Paraná &nbsp;&nbsp; MilkPoint",
+      "link": "https://tropicalfm99.com.br",
+      "time": "07/05 às 20:22",
+      "dt_iso": "2026-05-07T20:22:00+00:00",
+      "summary": "Tirol inaugura Centro de Distribuição em Maringá com foco em expansão no Norte do Paraná &nbsp;&nbsp; Rádio Tropical FM 99.1",
       "category": "expansao",
       "score": 8,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
@@ -67,6 +115,66 @@
       ]
     },
     {
+      "id": "e5bfa924d7",
+      "headline": "Senior cresce 24,8% em receita líquida e supera R$ 100 milhões em EBITDA",
+      "source": "TI Inside Supply",
+      "link": "https://tiinside.com.br/11/05/2026/senior-supera-r-100-milhoes-em-ebitda-e-cresce-248-em-receita-liquida-no-1t26/",
+      "time": "hoje, 21:49",
+      "dt_iso": "2026-05-11T21:49:39+00:00",
+      "summary": "A Senior Sistemas S.A, uma das maiores empresas de software para gestão da América Latina, iniciou 2026 com resultados expressivos e evolução de seus principais indicadores financeiros. No primeiro trimestre do ano (1T26), a companhia registrou, pela primeira vez em seus 38 anos de história, um EBITDA superior a R$ 100 milhões em um único trimestre, com alta de 36,5% e margem de 29,5%. A Margem Líquida avançou para 19,3%, refletindo o maior peso de cloud no mix e a escala do modelo SaaS.\n\nO crescimento também se reflete na Receita Líquida, que alcançou R$ 339,3 milhões (+24,8%), e Receita Reco",
+      "category": "expansao",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "bb8a38c01a",
+      "headline": "Empresa de IA para mídia digital chega ao Brasil mirando R$ 15 milhões",
+      "source": "TI Inside Supply",
+      "link": "https://tiinside.com.br/11/05/2026/empresa-de-ia-para-midia-digital-chega-ao-brasil-mirando-r-15-milhoes/",
+      "time": "hoje, 21:45",
+      "dt_iso": "2026-05-11T21:45:44+00:00",
+      "summary": "A disputa por eficiência em mídia digital ganhou um novo competidor no Brasil. A Spring Scale Global, empresa de tecnologia aplicada à compra de mídia, iniciou sua operação no país com a meta de faturar R$ 15 milhões em 2026 e a promessa de usar inteligência artificial para ampliar vendas sem transferir ao cliente o risco do investimento em mídia.\n\nA operação é resultado de uma sociedade entre o Grupo Neo e a Spring Scale AI. No exterior, a operação movimenta mais de US$ 80 milhões por ano em mídia digital, com mais de 1 bilhão de impressões e 200 milhões de cliques anuais.\n\nNo Brasil, a Sprin",
+      "category": "investimento",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "165711405a",
+      "headline": "Selbetti anuncia aquisição da Zecode e amplia atuação em automação para varejo e logística",
+      "source": "TI Inside Supply",
+      "link": "https://tiinside.com.br/11/05/2026/selbetti-anuncia-aquisicao-da-zecode-e-amplia-atuacao-em-automacao-para-varejo-e-logistica/",
+      "time": "hoje, 21:25",
+      "dt_iso": "2026-05-11T21:25:20+00:00",
+      "summary": "A Selbetti anuncia a aquisição da Zecode Technology, empresa com mais de 25 anos de atuação especializada em soluções para gestão de balanças, impressoras térmicas, leitores e coletores de dados. A movimentação reforça a estratégia da companhia de consolidar um ecossistema integrado de tecnologia e ampliar sua presença em operações físicas intensivas em dados.\n\n“Nosso movimento de crescimento tem um direcionamento muito claro: construir um ecossistema integrado que resolva problemas reais de negócio. A Zecode agrega uma especialização importante em operações que dependem de captura precisa de ",
+      "category": "expansao",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "0f56d0d86f",
+      "headline": "Data centers avançam no Brasil, mas o país está preparado?",
+      "source": "TI Inside Supply",
+      "link": "https://tiinside.com.br/11/05/2026/data-centers-avancam-no-brasil-mas-o-pais-esta-preparado/",
+      "time": "hoje, 21:03",
+      "dt_iso": "2026-05-11T21:03:50+00:00",
+      "summary": "O avanço acelerado de tecnologias como cloud computing, inteligência artificial e digitalização de serviços vem impulsionando uma demanda sem precedentes por capacidade computacional. Os data centers deixaram de ser apenas ativos técnicos e passaram a ocupar um papel estratégico na economia.\n\nHoje, falar de data centers é falar de competitividade, atração de investimentos, segurança digital e desenvolvimento econômico.\n\nO Brasil reúne condições para se posicionar de forma mais protagonista nesse cenário: matriz energética com enormes fontes renováveis, mercado consumidor robusto e crescente in",
+      "category": "expansao",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "1654cfbd6f",
       "headline": "Jadlog inaugura hub em São Paulo e investe R$ 200 mi - Mundo Logística",
       "source": "Mundo Logística",
@@ -74,21 +182,6 @@
       "time": "07/05 às 19:18",
       "dt_iso": "2026-05-07T19:18:34+00:00",
       "summary": "Jadlog inaugura hub em São Paulo e investe R$ 200 mi &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "0c37d2af9b",
-      "headline": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará - Tecnologística",
-      "source": "Google News",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "05/05 às 23:58",
-      "dt_iso": "2026-05-05T23:58:47+00:00",
-      "summary": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -109,6 +202,21 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "0c37d2af9b",
+      "headline": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará - Tecnologística",
+      "source": "Google News",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "05/05 às 23:58",
+      "dt_iso": "2026-05-05T23:58:47+00:00",
+      "summary": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -199,111 +307,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "b42a006c48",
-      "headline": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho - FashionNetwork Brasil",
-      "source": "Google News",
-      "link": "https://br.fashionnetwork.com",
-      "time": "hoje, 18:06",
-      "dt_iso": "2026-05-12T18:06:08+00:00",
-      "summary": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho &nbsp;&nbsp; FashionNetwork Brasil",
-      "category": "ecommerce",
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "45b1f6d3e7",
-      "headline": "LDC Acelera Investimentos no Brasil em Meio à Expansão - diário do estado",
-      "source": "Google News",
-      "link": "https://diariodoestadogo.com.br",
-      "time": "ontem, 18:00",
-      "dt_iso": "2026-05-11T18:00:46+00:00",
-      "summary": "LDC Acelera Investimentos no Brasil em Meio à Expansão &nbsp;&nbsp; diário do estado",
-      "category": "expansao",
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "103d177ae7",
-      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
-      "source": "Google News",
-      "link": "https://www.moneytimes.com.br",
-      "time": "07/05 às 20:47",
-      "dt_iso": "2026-05-07T20:47:00+00:00",
-      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
-      "category": "ecommerce",
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "ee433cdff2",
-      "headline": "Mercado Livre, Shein, Amazon e Shopee impulsionaram os fundos imobiliários em abril e estes 3 FIIs podem se beneficiar desse cenário; veja quais são - Empiricus",
-      "source": "Google News",
-      "link": "https://www.empiricus.com.br",
-      "time": "ontem, 19:17",
-      "dt_iso": "2026-05-11T19:17:00+00:00",
-      "summary": "Mercado Livre, Shein, Amazon e Shopee impulsionaram os fundos imobiliários em abril e estes 3 FIIs podem se beneficiar desse cenário; veja quais são &nbsp;&nbsp; Empiricus",
-      "category": "ecommerce",
-      "score": 7,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "8d65486684",
-      "headline": "Boletim de FIIs: HGLG11 amplia presença logística na Bahia - Nord Investimentos",
-      "source": "Google News",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 14:19",
-      "dt_iso": "2026-05-11T14:19:00+00:00",
-      "summary": "Boletim de FIIs: HGLG11 amplia presença logística na Bahia &nbsp;&nbsp; Nord Investimentos",
-      "category": "logistica",
-      "score": 7,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "0baa4d3dba",
-      "headline": "Brasil ganha primeiro reator de alta tensão a óleo vegetal das Américas",
-      "source": "Exame",
-      "link": "https://exame.com/esg/brasil-ganha-primeiro-reator-de-alta-tensao-a-oleo-vegetal-das-americas/",
-      "time": "hoje, 15:30",
-      "dt_iso": "2026-05-12T15:30:17+00:00",
-      "summary": "Com investimento de R$ 18 milhões, ISA ENERGIA e Hitachi Energy instalam em Bauru (SP) equipamento que estabiliza a rede de transmissão e pode reduzir em 11% as emissões do setor",
-      "category": "logistica",
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d7f811acc5",
-      "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
-      "source": "Google News",
-      "link": "https://ndmais.com.br",
-      "time": "ontem, 23:39",
-      "dt_iso": "2026-05-10T23:39:37+00:00",
-      "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
-      "category": "expansao",
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     }
   ]
