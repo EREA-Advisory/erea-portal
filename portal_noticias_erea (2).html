@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Portal de Notícias — Time de Locações | EREA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --navy:#0D2137; --navy-mid:#152d48; --gold:#C9A84C; --gold-dim:#a8893e;
+  --gray:#8896A3; --gray-light:#b8c4cc; --white:#f5f7f9; --text:#1a2d3d;
+  --border:rgba(201,168,76,0.18);
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'DM Sans',sans-serif;background:#f0f3f6;color:var(--text);min-height:100vh;}
+
+/* HEADER */
+header{background:var(--navy);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;}
+.header-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 32px;height:64px;}
+.logo-area{display:flex;align-items:center;gap:16px;}
+.logo-mark svg{width:36px;height:36px;}
+.logo-divider{width:1px;height:28px;background:rgba(201,168,76,0.3);}
+.portal-title{font-size:11px;font-weight:500;letter-spacing:0.18em;text-transform:uppercase;color:var(--gray-light);line-height:1.3;}
+.portal-title span{display:block;font-size:9px;color:var(--gray);letter-spacing:0.14em;}
+.header-right{display:flex;align-items:center;gap:20px;}
+.last-update{font-size:11px;color:var(--gray);}
+.last-update strong{color:var(--gold);font-weight:500;}
+.refresh-btn{background:transparent;border:1px solid var(--border);color:var(--gold);font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;padding:7px 14px;cursor:pointer;border-radius:2px;transition:all .2s;}
+.refresh-btn:hover{background:var(--gold);color:var(--navy);}
+.refresh-btn:disabled{opacity:.5;cursor:default;}
+
+/* SUBBAR */
+.subbar{background:var(--navy-mid);border-bottom:1px solid rgba(255,255,255,0.04);}
+.subbar-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 32px;height:44px;}
+.filters{display:flex;gap:4px;}
+.filter-btn{background:transparent;border:none;font-family:'DM Sans',sans-serif;font-size:12px;color:var(--gray);padding:6px 14px;cursor:pointer;border-radius:2px;letter-spacing:.05em;transition:all .15s;border-bottom:2px solid transparent;}
+.filter-btn:hover{color:var(--white);}
+.filter-btn.active{color:var(--gold);border-bottom-color:var(--gold);}
+.search-input{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);color:var(--white);font-family:'DM Sans',sans-serif;font-size:12px;padding:6px 12px;border-radius:2px;width:200px;outline:none;transition:border .2s;}
+.search-input::placeholder{color:var(--gray);}
+.search-input:focus{border-color:var(--gold);}
+
+/* MAIN */
+.main{max-width:1280px;margin:0 auto;padding:28px 32px 60px;}
+
+/* STATS */
+.stats-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:28px;}
+.stat-card{background:var(--navy);border:1px solid var(--border);padding:16px 20px;border-radius:3px;display:flex;align-items:center;gap:14px;}
+.stat-icon{width:32px;height:32px;border-radius:2px;background:rgba(201,168,76,.1);display:flex;align-items:center;justify-content:center;color:var(--gold);font-size:15px;}
+.stat-label{font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:var(--gray);}
+.stat-value{font-size:22px;font-weight:300;color:var(--white);line-height:1.1;font-family:'Cormorant Garamond',serif;}
+
+/* GRID */
+.news-grid{display:grid;grid-template-columns:1fr 1fr 340px;grid-template-rows:auto auto;gap:16px;}
+
+/* CARDS */
+.card-featured{grid-column:1/2;grid-row:1/2;background:var(--navy);border:1px solid var(--border);border-radius:3px;overflow:hidden;display:flex;flex-direction:column;cursor:pointer;transition:border-color .2s;position:relative;}
+.card-featured:hover{border-color:var(--gold);}
+.card-featured::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;background:var(--gold);}
+.card-secondary{grid-column:2/3;grid-row:1/2;background:var(--navy);border:1px solid var(--border);border-radius:3px;overflow:hidden;display:flex;flex-direction:column;cursor:pointer;transition:border-color .2s;}
+.card-secondary:hover{border-color:rgba(201,168,76,.5);}
+.sidebar{grid-column:3/4;grid-row:1/3;display:flex;flex-direction:column;gap:12px;}
+.cards-row{grid-column:1/3;grid-row:2/3;display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;}
+
+.card-inner{padding:22px 24px;flex:1;display:flex;flex-direction:column;gap:10px;}
+.card-featured .card-inner{padding:26px 28px 26px 32px;}
+
+.badge-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.badge{font-size:9px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;border-radius:1px;}
+.badge-destaque{background:var(--gold);color:var(--navy);}
+.badge-expansao{background:rgba(201,168,76,.12);color:var(--gold);border:1px solid rgba(201,168,76,.3);}
+.badge-logistica{background:rgba(136,150,163,.15);color:var(--gray-light);border:1px solid rgba(136,150,163,.2);}
+.badge-investimento{background:rgba(201,168,76,.08);color:var(--gold-dim);border:1px solid rgba(201,168,76,.2);}
+.badge-ecommerce{background:rgba(136,150,163,.12);color:var(--gray-light);border:1px solid rgba(136,150,163,.15);}
+.badge-industrial{background:rgba(201,168,76,.06);color:var(--gold-dim);border:1px solid rgba(201,168,76,.15);}
+
+.card-headline{font-family:'Cormorant Garamond',serif;font-size:20px;font-weight:600;line-height:1.35;color:var(--white);}
+.card-featured .card-headline{font-size:26px;}
+.card-summary{font-size:13px;line-height:1.65;color:var(--gray-light);flex:1;}
+
+.relevance-block{background:rgba(201,168,76,.06);border-left:2px solid var(--gold);padding:10px 14px;border-radius:0 2px 2px 0;margin-top:4px;}
+.relevance-label{font-size:9px;text-transform:uppercase;letter-spacing:.14em;color:var(--gold);font-weight:500;margin-bottom:4px;}
+.relevance-text{font-size:12px;line-height:1.55;color:var(--gray-light);}
+
+.card-footer{padding:12px 24px;border-top:1px solid rgba(255,255,255,.05);display:flex;align-items:center;justify-content:space-between;}
+.card-featured .card-footer{padding:12px 28px 12px 32px;}
+.source-info{display:flex;align-items:center;gap:8px;}
+.source-dot{width:6px;height:6px;border-radius:50%;background:var(--gold);flex-shrink:0;}
+.source-name{font-size:11px;font-weight:500;color:var(--gold);letter-spacing:.06em;}
+.pub-time{font-size:11px;color:var(--gray);}
+.read-btn{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--gray);text-decoration:none;transition:color .2s;display:flex;align-items:center;gap:5px;}
+.read-btn:hover{color:var(--gold);}
+.read-btn::after{content:'→';}
+
+/* SIDEBAR CARDS */
+.sidebar-section-title{font-size:9px;text-transform:uppercase;letter-spacing:.18em;color:var(--gray);padding:0 0 8px;border-bottom:1px solid var(--border);}
+.sidebar-card{background:var(--navy);border:1px solid var(--border);border-radius:3px;padding:16px 18px;cursor:pointer;transition:border-color .2s;display:flex;flex-direction:column;gap:8px;}
+.sidebar-card:hover{border-color:rgba(201,168,76,.4);}
+.sidebar-headline{font-family:'Cormorant Garamond',serif;font-size:15px;font-weight:600;line-height:1.4;color:var(--white);}
+.sidebar-meta{display:flex;align-items:center;justify-content:space-between;margin-top:2px;}
+.sidebar-source{font-size:10px;color:var(--gold);font-weight:500;}
+.sidebar-time{font-size:10px;color:var(--gray);}
+.sidebar-relevance{font-size:11px;color:var(--gray-light);line-height:1.5;padding-top:6px;border-top:1px solid rgba(255,255,255,.04);}
+
+/* SMALL CARDS */
+.card-small{background:var(--navy);border:1px solid var(--border);border-radius:3px;padding:20px 22px;cursor:pointer;transition:border-color .2s;display:flex;flex-direction:column;gap:8px;}
+.card-small:hover{border-color:rgba(201,168,76,.4);}
+.card-small .card-headline{font-size:16px;}
+.card-small .card-summary{font-size:12px;}
+.card-small .card-footer{padding:10px 0 0;border-top:1px solid rgba(255,255,255,.05);margin-top:auto;}
+
+/* MODAL */
+.modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:1000;align-items:center;justify-content:center;backdrop-filter:blur(3px);}
+.modal-overlay.open{display:flex;}
+.modal{background:var(--navy);border:1px solid var(--border);border-radius:4px;max-width:680px;width:90%;max-height:85vh;overflow-y:auto;padding:36px 40px;position:relative;}
+.modal-close{position:absolute;top:16px;right:20px;background:none;border:none;color:var(--gray);font-size:20px;cursor:pointer;line-height:1;}
+.modal-close:hover{color:var(--white);}
+.modal h2{font-family:'Cormorant Garamond',serif;font-size:26px;font-weight:600;color:var(--white);line-height:1.35;margin-bottom:16px;}
+.modal-meta{display:flex;gap:16px;margin-bottom:20px;flex-wrap:wrap;}
+.modal-body{font-size:14px;line-height:1.7;color:var(--gray-light);}
+.modal-body p{margin-bottom:12px;}
+.modal-rel{background:rgba(201,168,76,.06);border-left:3px solid var(--gold);padding:14px 18px;margin-top:20px;}
+.modal-rel h4{font-size:10px;text-transform:uppercase;letter-spacing:.14em;color:var(--gold);margin-bottom:8px;}
+.modal-rel p{font-size:13px;color:var(--gray-light);line-height:1.65;margin:0;}
+.modal-link{display:inline-block;margin-top:20px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);text-decoration:none;border-bottom:1px solid var(--border);padding-bottom:2px;transition:border-color .2s;}
+.modal-link:hover{border-color:var(--gold);}
+
+/* EMPTY / AGUARDANDO */
+.waiting-state{text-align:center;padding:80px 20px 60px;display:none;}
+.waiting-state.show{display:block;}
+.waiting-icon{font-size:40px;margin-bottom:20px;opacity:.3;}
+.waiting-title{font-family:'Cormorant Garamond',serif;font-size:24px;color:var(--navy);margin-bottom:10px;}
+.waiting-sub{font-size:13px;color:var(--gray);line-height:1.7;max-width:480px;margin:0 auto 28px;}
+.waiting-steps{display:inline-flex;flex-direction:column;gap:10px;text-align:left;background:var(--navy);border:1px solid var(--border);padding:20px 28px;border-radius:3px;}
+.waiting-steps li{font-size:12px;color:var(--gray-light);list-style:none;padding-left:16px;position:relative;line-height:1.6;}
+.waiting-steps li::before{content:'›';position:absolute;left:0;color:var(--gold);}
+.waiting-steps code{font-family:monospace;font-size:11px;background:rgba(201,168,76,.1);color:var(--gold);padding:1px 5px;border-radius:2px;}
+
+.empty-filter{text-align:center;padding:60px 20px;color:var(--gray);font-size:14px;display:none;}
+.empty-filter.show{display:block;}
+
+/* FOOTER */
+footer{background:var(--navy);border-top:1px solid var(--border);text-align:center;padding:16px;font-size:10px;color:var(--gray);letter-spacing:.1em;text-transform:uppercase;}
+footer span{color:var(--gold);}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo-area">
+      <div class="logo-mark">
+        <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="2" y="14" width="4" height="18" fill="#C9A84C"/>
+          <rect x="8" y="10" width="4" height="22" fill="#C9A84C" opacity="0.85"/>
+          <rect x="14" y="6" width="4" height="26" fill="#C9A84C" opacity="0.7"/>
+          <rect x="20" y="2" width="4" height="30" fill="#C9A84C" opacity="0.55"/>
+          <rect x="2" y="2" width="18" height="4" fill="#C9A84C" opacity="0.4"/>
+        </svg>
+      </div>
+      <div class="logo-divider"></div>
+      <div class="portal-title">
+        Portal de Notícias
+        <span>Time de Locações · EREA Real Estate</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="last-update">Última atualização: <strong id="last-update-time">—</strong></div>
+      <button class="refresh-btn" onclick="recarregar()">↺ Atualizar</button>
+    </div>
+  </div>
+</header>
+
+<div class="subbar">
+  <div class="subbar-inner">
+    <div class="filters">
+      <button class="filter-btn active" onclick="filtrar('all',this)">Todas</button>
+      <button class="filter-btn" onclick="filtrar('expansao',this)">Expansão</button>
+      <button class="filter-btn" onclick="filtrar('logistica',this)">Logística</button>
+      <button class="filter-btn" onclick="filtrar('investimento',this)">Investimento</button>
+      <button class="filter-btn" onclick="filtrar('ecommerce',this)">E-commerce</button>
+      <button class="filter-btn" onclick="filtrar('industrial',this)">Industrial</button>
+    </div>
+    <input class="search-input" id="search-input" type="text" placeholder="Buscar por empresa ou tema…" oninput="buscar(this.value)"/>
+  </div>
+</div>
+
+<main class="main">
+  <div class="stats-strip">
+    <div class="stat-card"><div class="stat-icon">◈</div><div><div class="stat-label">Notícias hoje</div><div class="stat-value" id="stat-total">—</div></div></div>
+    <div class="stat-card"><div class="stat-icon">▲</div><div><div class="stat-label">Sinais de expansão</div><div class="stat-value" id="stat-exp">—</div></div></div>
+    <div class="stat-card"><div class="stat-icon">◆</div><div><div class="stat-label">Movimentos financeiros</div><div class="stat-value" id="stat-fin">—</div></div></div>
+    <div class="stat-card"><div class="stat-icon">○</div><div><div class="stat-label">Fontes monitoradas</div><div class="stat-value">12</div></div></div>
+  </div>
+
+  <!-- Grid preenchido dinamicamente pelo JS -->
+  <div class="news-grid" id="news-grid" style="display:none;"></div>
+
+  <!-- Estado: aguardando primeira execução do coletor -->
+  <div class="waiting-state" id="waiting-state">
+    <div class="waiting-icon">◈</div>
+    <div class="waiting-title">Aguardando dados do coletor</div>
+    <div class="waiting-sub">
+      O portal está pronto, mas ainda não encontrou o arquivo <code style="font-family:monospace;font-size:12px;background:var(--navy);color:var(--gold);padding:2px 6px;border-radius:2px;">news_data.json</code>.<br>
+      Execute o coletor para carregar as notícias reais das últimas 24 horas.
+    </div>
+    <ul class="waiting-steps">
+      <li>Abra o terminal na pasta do portal</li>
+      <li>Execute: <code>python coletor.py</code></li>
+      <li>Aguarde ~2 minutos e atualize esta página</li>
+      <li>A partir daí, o agendador roda automaticamente às 07h</li>
+    </ul>
+  </div>
+
+  <!-- Estado: filtro sem resultados -->
+  <div class="empty-filter" id="empty-filter">
+    <p>Nenhuma notícia encontrada para esse filtro.</p>
+  </div>
+</main>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="modal-overlay" onclick="fecharModalFora(event)">
+  <div class="modal">
+    <button class="modal-close" onclick="fecharModal()">×</button>
+    <div id="modal-conteudo"></div>
+  </div>
+</div>
+
+<footer>
+  <span>EREA</span> Real Estate For Real &nbsp;·&nbsp; Portal de Notícias Time de Locações
+</footer>
+
+<script>
+const BADGE_CLASS = {
+  'Destaque':'badge-destaque','Expansão':'badge-expansao','Logística':'badge-logistica',
+  'Investimento':'badge-investimento','E-commerce':'badge-ecommerce','Industrial':'badge-industrial'
+};
+
+let todasNoticias = [];
+
+// ── Formatação de tempo a partir de ISO string ──
+function formatarTempo(isoStr) {
+  if (!isoStr) return '';
+  const dt = new Date(isoStr);
+  if (isNaN(dt)) return '';
+  const diff = (Date.now() - dt.getTime()) / 1000;
+  const min = Math.round(diff / 60);
+  if (min < 60) return `há ${min} min`;
+  const h = Math.floor(diff / 3600);
+  if (h < 24) return `hoje, ${String(dt.getHours()).padStart(2,'0')}:${String(dt.getMinutes()).padStart(2,'0')}`;
+  return `ontem, ${String(dt.getHours()).padStart(2,'0')}:${String(dt.getMinutes()).padStart(2,'0')}`;
+}
+
+// ── Badges HTML ──
+function badgesHtml(badges) {
+  if (!badges || !badges.length) return '';
+  return badges.map(b => `<span class="badge ${BADGE_CLASS[b]||'badge-logistica'}">${b}</span>`).join('');
+}
+
+// ── Carrega JSON ──
+async function carregarJSON() {
+  try {
+    const r = await fetch('news_data.json?t=' + Date.now());
+    if (!r.ok) throw new Error('não encontrado');
+    const data = await r.json();
+    if (!data.noticias || data.noticias.length === 0) throw new Error('vazio');
+    renderizar(data);
+  } catch(e) {
+    mostrarAguardando();
+  }
+}
+
+function mostrarAguardando() {
+  document.getElementById('news-grid').style.display = 'none';
+  document.getElementById('waiting-state').classList.add('show');
+  document.getElementById('last-update-time').textContent = '—';
+  ['stat-total','stat-exp','stat-fin'].forEach(id => {
+    document.getElementById(id).textContent = '—';
+  });
+}
+
+// ── Renderiza todas as notícias ──
+function renderizar(data) {
+  // Recalcula tempo relativo a partir do ISO (garante precisão ao abrir)
+  todasNoticias = data.noticias.map(n => ({
+    ...n,
+    time: n.dt_iso ? formatarTempo(n.dt_iso) : (n.time || '')
+  }));
+
+  document.getElementById('waiting-state').classList.remove('show');
+  document.getElementById('last-update-time').textContent = data.gerado_em || 'hoje';
+
+  // Stats
+  document.getElementById('stat-total').textContent = todasNoticias.length;
+  document.getElementById('stat-exp').textContent = todasNoticias.filter(n=>(n.badges||[]).includes('Expansão')).length;
+  document.getElementById('stat-fin').textContent = todasNoticias.filter(n=>(n.badges||[]).includes('Investimento')).length;
+
+  renderizarGrid(todasNoticias);
+}
+
+function renderizarGrid(lista) {
+  const grid = document.getElementById('news-grid');
+  if (!lista.length) {
+    grid.style.display = 'none';
+    return;
+  }
+  grid.style.display = 'grid';
+  grid.innerHTML = '';
+
+  const destaques = lista.filter(n => (n.score||0) >= 7);
+  const outros    = lista.filter(n => (n.score||0) < 7);
+  // Fallback: se nenhum score>=7, trata os primeiros como destaque
+  const principais = destaques.length >= 2 ? destaques : lista;
+
+  const card1 = principais[0];
+  const card2 = principais[1];
+  const sidebar = (destaques.length >= 2 ? outros : lista.slice(2)).slice(0, 4);
+  const row = (destaques.length >= 2 ? [...destaques.slice(2), ...outros] : lista.slice(2)).slice(0, 3);
+
+  if (card1) grid.innerHTML += cardHTML(card1, 'card-featured');
+  if (card2) grid.innerHTML += cardHTML(card2, 'card-secondary');
+
+  // Sidebar
+  const sidebarEl = document.createElement('aside');
+  sidebarEl.className = 'sidebar';
+  sidebarEl.innerHTML = '<div class="sidebar-section-title">Outros sinais do dia</div>';
+  sidebar.forEach(n => sidebarEl.innerHTML += sidebarCardHTML(n));
+  grid.appendChild(sidebarEl);
+
+  // Row inferior
+  const rowEl = document.createElement('div');
+  rowEl.className = 'cards-row';
+  row.forEach(n => rowEl.innerHTML += cardSmallHTML(n));
+  grid.appendChild(rowEl);
+}
+
+function cardHTML(n, cls) {
+  return `
+  <div class="${cls}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+    <div class="card-inner">
+      <div class="badge-row">${badgesHtml(n.badges)}</div>
+      <div class="card-headline">${n.headline}</div>
+      <div class="card-summary">${n.summary}</div>
+      ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
+    </div>
+    <div class="card-footer">
+      <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
+      <a class="read-btn" href="${n.link}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+    </div>
+  </div>`;
+}
+
+function sidebarCardHTML(n) {
+  return `
+  <div class="sidebar-card" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+    <div class="badge-row">${badgesHtml(n.badges)}</div>
+    <div class="sidebar-headline">${n.headline}</div>
+    ${n.relevance ? `<div class="sidebar-relevance">${n.relevance}</div>` : ''}
+    <div class="sidebar-meta">
+      <span class="sidebar-source">${n.source}</span>
+      <span class="sidebar-time">${n.time}</span>
+    </div>
+  </div>`;
+}
+
+function cardSmallHTML(n) {
+  return `
+  <div class="card-small" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+    <div class="badge-row">${badgesHtml(n.badges)}</div>
+    <div class="card-headline">${n.headline}</div>
+    <div class="card-summary">${n.summary}</div>
+    ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
+    <div class="card-footer">
+      <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
+      <a class="read-btn" href="${n.link}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+    </div>
+  </div>`;
+}
+
+// ── Modal ──
+function abrirModal(id) {
+  const n = todasNoticias.find(x => x.id === id);
+  if (!n) return;
+  document.getElementById('modal-conteudo').innerHTML = `
+    <div class="badge-row" style="margin-bottom:14px">${badgesHtml(n.badges)}</div>
+    <h2>${n.headline}</h2>
+    <div class="modal-meta">
+      <span style="font-size:12px;color:var(--gold);font-weight:500">${n.source}</span>
+      <span style="font-size:12px;color:var(--gray)">${n.time}</span>
+      ${n.score ? `<span style="font-size:12px;color:var(--gray)">Relevância: <strong style="color:var(--gold)">${n.score}/10</strong></span>` : ''}
+    </div>
+    <div class="modal-body">${(n.summary||'').split('\n\n').map(p=>`<p>${p}</p>`).join('')}</div>
+    ${n.relevance ? `<div class="modal-rel"><h4>Por que é relevante para o time de locações</h4><p>${n.relevance}</p></div>` : ''}
+    <a class="modal-link" href="${n.link}" target="_blank">Ler matéria completa →</a>
+  `;
+  document.getElementById('modal-overlay').classList.add('open');
+}
+
+function fecharModal() { document.getElementById('modal-overlay').classList.remove('open'); }
+function fecharModalFora(e) { if (e.target.id==='modal-overlay') fecharModal(); }
+document.addEventListener('keydown', e => { if(e.key==='Escape') fecharModal(); });
+
+// ── Filtros e busca ──
+let filtroAtivo = 'all';
+let buscaAtiva  = '';
+
+function filtrar(cat, btn) {
+  filtroAtivo = cat;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  aplicarFiltros();
+}
+
+function buscar(q) {
+  buscaAtiva = q.toLowerCase();
+  aplicarFiltros();
+}
+
+function aplicarFiltros() {
+  const lista = todasNoticias.filter(n => {
+    const catOk  = filtroAtivo === 'all' || n.category === filtroAtivo;
+    const buscaOk = !buscaAtiva || (n.headline + n.summary + n.source).toLowerCase().includes(buscaAtiva);
+    return catOk && buscaOk;
+  });
+  renderizarGrid(lista);
+  document.getElementById('empty-filter').classList.toggle('show', lista.length === 0 && todasNoticias.length > 0);
+}
+
+// ── Atualizar ──
+async function recarregar() {
+  const btn = document.querySelector('.refresh-btn');
+  btn.textContent = '↺ Atualizando…';
+  btn.disabled = true;
+  await carregarJSON();
+  btn.textContent = '↺ Atualizar';
+  btn.disabled = false;
+}
+
+// ── Init ──
+window.addEventListener('DOMContentLoaded', carregarJSON);
+</script>
+</body>
+</html>
