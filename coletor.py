@@ -76,22 +76,22 @@ FEEDS = [
     # Automotivo / industrial
     {"url": "https://www.automotivebusiness.com.br/feed/",      "fonte": "Automotive Business"},
 
-    # Google News RSS por temas estratégicos
-    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
+    # Google News RSS — sem_corte=True pois ordena por relevância, não por data
+    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
 
-    # Portais especializados via Google News (sites bloqueiam RSS direto)
-    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado"},
-    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila"},
-    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística"},
+    # Portais especializados via Google News
+    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística", "sem_corte": True},
 ]
 
 # ─────────────────────────────────────────────
@@ -99,29 +99,269 @@ FEEDS = [
 # ─────────────────────────────────────────────
 
 KEYWORDS = [
-    # Imóvel logístico
-    "galpão", "armazém", "condomínio logístico", "centro de distribuição",
-    "cd logístico", "hub logístico", "fulfillment", "dark store",
-    "cross-docking", "last mile", "last-mile",
+    # ── IMÓVEL LOGÍSTICO ──
+    "galpão", "galpões", "armazém", "armazéns", "armazenagem",
+    "condomínio logístico", "condomínios logísticos",
+    "centro de distribuição", "centros de distribuição",
+    "cd logístico", "cds logísticos",
+    "hub logístico", "hub de distribuição", "hubs logísticos",
+    "fulfillment", "fulfillment center", "dark store", "dark stores",
+    "cross-docking", "crossdocking", "last mile", "last-mile",
+    "ponto de distribuição", "unidade logística", "unidades logísticas",
+    "imóvel logístico", "imóveis logísticos",
+    "galpão industrial", "galpão frigorífico", "galpão refrigerado",
 
-    # Sinais de expansão
-    "expansão logística", "nova operação", "nova unidade", "inauguração",
-    "ampliação", "novo cd", "novo galpão", "contrato de locação",
-    "sale and leaseback", "build to suit", "bts logístico",
-    "nova fase", "novas instalações",
+    # ── SINAIS DE EXPANSÃO — todos os tempos verbais ──
+    # inaugurar
+    "inaugura", "inaugurou", "inauguraram", "inauguração", "inaugurações",
+    "inaugurado", "inaugurada", "inaugurar", "será inaugurado",
+    # expandir
+    "expande", "expandiu", "expandiram", "expansão", "expansões",
+    "expandido", "expandir", "em expansão",
+    # ampliar
+    "amplia", "ampliou", "ampliaram", "ampliação", "ampliações",
+    "ampliado", "ampliar",
+    # abrir / abertura
+    "abre", "abriu", "abriram", "abertura", "abrirá", "nova abertura",
+    "nova unidade", "novas unidades", "nova operação", "novas operações",
+    "nova fase", "novas instalações", "novo cd", "novo galpão", "novos galpões",
+    # investir / investimento
+    "investe", "investiu", "investiram", "investimento", "investimentos",
+    "investir", "aporte",
+    # contratar / contrato
+    "contrata", "contratou", "contrataram", "contrato de locação",
+    "contrato logístico", "locação de galpão",
+    # instalar
+    "instala", "instalou", "instalaram", "instalação", "instalações",
+    # crescer / crescimento
+    "cresce", "cresceu", "crescimento", "crescer",
+    # construir / construção
+    "constrói", "construiu", "construção", "build to suit", "bts logístico",
+    # implantar
+    "implanta", "implantou", "implantação",
+    # mudar / transferir (mudança de endereço = novo galpão)
+    "transfere operação", "transferiu operação", "nova sede logística",
 
-    # Financeiro / capital
-    "aporte logística", "captação logística", "fii logístico",
-    "fundo logístico", "emissão de cotas", "cri logístico",
+    # ── FINANCEIRO ──
+    "sale and leaseback", "fii logístico", "fundo logístico",
+    "emissão de cotas", "cri logístico", "captação logística",
+    "aporte logístico", "investimento logístico",
 
-    # Players
-    "mercado livre logística", "shopee galpão", "amazon brasil armazém",
-    "sequoia logística", "jsl logística", "tegma", "gxo",
-    "dhl supply chain", "localfrio", "3pl brasil",
+    # ── SETOR / MERCADO ──
+    "operador logístico", "3pl", "supply chain brasil",
+    "e-commerce logística", "omnichannel", "real estate logístico",
+    "cadeia de abastecimento", "cadeia logística", "operação logística",
 
-    # Setor / mercado
-    "e-commerce logística", "omnichannel armazém", "supply chain brasil",
-    "operador logístico", "imóvel logístico", "real estate logístico",
+    # ── EMPRESAS MONITORADAS ──
+    # E-commerce / varejo
+    "mercado livre", "mercadolivre",
+    "shopee",
+    "amazon brasil", "amazon logística",
+    "magazine luiza", "magalu",
+    "via varejo", "casas bahia", "ponto frio",
+    "b2w", "americanas", "americanas s.a",
+    "shein",
+    "dafiti",
+    "netshoes", "grupo netshoes",
+    "madeira madeira", "madeiramadeira",
+    "fast shop", "fastshop",
+    "tok stok", "tok&stok",
+    "lojas renner", "renner",
+    "riachuelo",
+    "c&a brasil", "c&a",
+    "pernambucanas",
+    "grupo mateus",
+    "kalunga",
+    "lojas colombo",
+    "lojas lebes",
+    "lojas leader",
+    "centauro", "grupo sbf",
+    "arezzo", "arezzo&co",
+    "zara brasil", "zara",
+    "decathlon brasil", "decathlon",
+    "westwing",
+    "mobly",
+    "grupo muffato",
+    "atacadão",
+    "assaí", "assai atacadista",
+    "grupo zaffari",
+    "supermercado lopes",
+    "o amigão",
+    "chama supermercados",
+    "comercial esperança",
+    "obramax",
+
+    # Logística / transporte
+    "dhl", "dhl supply chain", "dhl express",
+    "fedex", "fedex express",
+    "ups brasil",
+    "correios",
+    "jadlog",
+    "total express",
+    "loggi",
+    "azul cargo", "azul linhas aéreas",
+    "jamef",
+    "braspress",
+    "patrus transportes",
+    "transportadora plimor", "plimor",
+    "expresso 3300",
+    "transbuiatte",
+    "transportadora minuano", "minuano",
+    "sigma transportes",
+    "unilog express",
+    "j&t express", "j&t brasil",
+    "anjun brasil",
+    "movvi logística", "movvi",
+    "modular cargas",
+    "transrapido",
+    "master cargas",
+    "postall log",
+    "brasmundi logística",
+    "gat logística",
+    "ellece logística",
+    "renovação logística",
+    "ativa logística",
+    "smart logística",
+    "intecom logística",
+    "fivelog",
+    "ziran logística",
+    "comando log",
+    "fitlogística",
+    "vtc operador logístico",
+    "mr3 operador logístico",
+    "osten group",
+    "supporte full commerce",
+    "vendemmia logística",
+    "belenus",
+
+    # 3PL / operadores especializados
+    "luft logistics",
+    "id logistics", "id logístics",
+    "ceva logistics",
+    "kuehne nagel", "kuehne+nagel",
+    "dsv", "dsv air sea",
+    "fm logistic",
+    "martin brower",
+    "maersk logística", "maersk",
+    "yusen logistics",
+    "andreani",
+    "bomi group",
+    "celistics",
+    "infracommerce",
+    "multilog",
+    "grupo tecadi", "tecadi",
+    "unidão transportes",
+    "mundial logistics",
+    "comfrio",
+    "friozem",
+    "superfrio logística",
+    "arfrio",
+    "frigelar",
+    "grupo friopeças",
+
+    # Indústria / manufatura
+    "ambev",
+    "coca-cola femsa", "coca cola femsa", "femsa",
+    "heineken brasil", "heineken",
+    "pepsico brasil", "pepsico",
+    "bauducco",
+    "wickbold",
+    "m. dias branco", "m dias branco",
+    "fini brasil",
+    "brf",
+    "seara alimentos", "seara",
+    "jbs",
+    "natura",
+    "grupo boticário", "boticário", "boticario",
+    "l'oréal brasil", "loreal brasil", "l oreal",
+    "unilever brasil", "unilever",
+    "colgate palmolive", "colgate-palmolive",
+    "sanofi brasil", "sanofi",
+    "reckitt brasil", "reckitt",
+    "hypera farmacêutica", "hypera",
+    "eurofarma",
+    "davene",
+    "premierPet", "premieRpet",
+    "ypê", "ype",
+    "whirlpool",
+    "electrolux",
+    "midea carrier", "midea",
+    "britânia eletrodomésticos", "britania",
+    "samsung brasil", "samsung",
+    "lenovo brasil", "lenovo",
+    "foxconn brasil", "foxconn",
+    "semp tcl", "semp",
+    "elgin",
+    "bosch",
+    "mercedes benz brasil", "mercedes-benz",
+    "ford motor brasil", "ford brasil",
+    "gm brasil", "general motors brasil",
+    "renault nissan", "renault brasil",
+    "volkswagen brasil",
+    "agco brasil",
+    "john deere brasil", "john deere",
+    "embraer",
+    "braskem",
+    "suzano",
+    "bridgestone brasil", "bridgestone",
+    "benteler brasil", "benteler",
+    "plascar",
+    "marelli",
+    "cummins brasil", "cummins",
+    "ericsson brasil", "ericsson",
+    "ascenty",
+    "scala data centers", "scala",
+    "iron mountain brasil", "iron mountain",
+    "sealed air",
+    "skf brasil",
+    "assa abloy",
+    "galderma",
+    "ingredient incorporated", "ingredion",
+    "ontex brasil",
+    "dorel juvenile",
+    "cal-comp",
+    "yangzi brasil",
+    "grupo seb",
+    "grupo dpsp", "drogaria são paulo",
+    "rd raia drogasil", "raia drogasil", "rd saúde",
+    "grupo belmicro", "belmicro",
+    "petlove",
+    "viveo",
+    "tpc logística", "tpc",
+    "grupo martins", "martins",
+    "mcassab",
+    "ascensus",
+    "cantu pneus",
+    "rojemac",
+    "mtc log",
+    "nagumo",
+    "fortgreen fertilizantes",
+    "zaraplast",
+    "plasnox",
+    "grupo mirassol",
+    "grupo toniato",
+    "grupo pegoraro",
+    "dufrio",
+    "embare",
+    "unicharm",
+    "interbrands",
+    "fotus distribuidora",
+    "somos educação",
+    "gpa brasil", "gpa",
+    "grupo sc",
+    "petz",
+    "localiza",
+    "lojas caedu", "caedu",
+    "gtex",
+    "obramax",
+    "multi armazéns",
+    "sca hygiene",
+    "caedú",
+    "vonder",
+    "grupo ovd",
+    "eixo snetor",
+    "grupo 3 corações", "3 corações",
+    "grupo muffato",
 ]
 
 # Categorias para classificação
@@ -276,7 +516,8 @@ def coletar_feeds(horas: int) -> list[dict]:
     for feed_cfg in FEEDS:
         url       = feed_cfg["url"]
         fonte     = feed_cfg["fonte"]
-        log.info(f"Buscando: {fonte} — {url[:70]}…")
+        sem_corte = feed_cfg.get("sem_corte", False)
+        log.info(f"Buscando: {fonte} {'[sem corte de data]' if sem_corte else ''} — {url[:70]}…")
         try:
             parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0 (compatible)'})
         except Exception as e:
@@ -294,9 +535,11 @@ def coletar_feeds(horas: int) -> list[dict]:
 
             if dt is None:
                 sem_data += 1
-                continue
+                if not sem_corte:
+                    continue
+                dt = datetime.now(timezone.utc)  # Google News: usa data atual se ausente
 
-            if dt < corte:
+            if not sem_corte and dt < corte:
                 fora_janela += 1
                 continue
 
