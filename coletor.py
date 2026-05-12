@@ -42,7 +42,10 @@ HORAS_JANELA = 24
 MAX_NOTICIAS = 20
 
 # Pausa entre chamadas à API Claude (segundos) — evita rate-limit
-PAUSA_API = 1.2
+PAUSA_API = 0.5
+
+# Timeout por feed RSS (segundos) — evita travamentos
+FEED_TIMEOUT = 10
 
 # ─────────────────────────────────────────────
 # FEEDS RSS
@@ -229,6 +232,11 @@ def _extrair_link(entry) -> str:
         return source_href
 
     return raw_link  # fallback: link do Google News (ainda abre a notícia)
+
+
+
+
+def _categoria(texto: str) -> str:
     scores = {cat: 0 for cat in CATEGORIAS}
     for cat, termos in CATEGORIAS.items():
         for t in termos:
@@ -236,7 +244,6 @@ def _extrair_link(entry) -> str:
                 scores[cat] += 1
     melhor = max(scores, key=scores.get)
     return melhor if scores[melhor] > 0 else "logistica"
-
 
 # ─────────────────────────────────────────────
 # COLETA RSS
@@ -253,7 +260,8 @@ def coletar_feeds(horas: int) -> list[dict]:
         fonte  = feed_cfg["fonte"]
         log.info(f"Buscando: {fonte} — {url[:70]}…")
         try:
-            parsed = feedparser.parse(url)
+            feedparser.api.urllib2.socket.setdefaulttimeout(FEED_TIMEOUT)
+            parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
         except Exception as e:
             log.warning(f"Erro ao parsear {url}: {e}")
             continue
