@@ -313,15 +313,40 @@ function renderizar(data) {
   renderizarGrid(todasNoticias);
 }
 
-// ── Normaliza título para deduplicação no lado do portal ──
-function normalizarTitulo(titulo) {
-  return titulo
-    .replace(/ [-|] [^-|]{3,50}$/, '')   // remove "- Fonte" ou "| Fonte" no fim
-    .replace(/[|][^|]{2,50}$/, '')        // remove "|Fonte" sem espaço
-    .toLowerCase()
-    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // remove acentos
-    .replace(/[^\w\s]/g, ' ')
-    .replace(/\s+/g, ' ').trim();
+// ── Deduplicação por similaridade Jaccard ──
+const STOPWORDS_JS = new Set(['e','o','a','os','as','de','do','da','dos','das','em','no','na',
+  'nos','nas','com','por','para','que','um','uma','ao','aos','se','mais','seu','sua',
+  'novo','nova','novos','novas','grande','gigante','trabalhe','empresa','brasil',
+  'grupo','seus','suas','industrial','logistica','operacao','regional','mercado']);
+
+const ABREV_JS = {sp:'sao paulo',rj:'rio janeiro',mg:'minas gerais',pr:'parana',
+  sc:'santa catarina',rs:'rio grande sul',ba:'bahia',ce:'ceara',go:'goias',
+  pe:'pernambuco',es:'espirito santo'};
+
+function tokensJaccard(titulo) {
+  let t = titulo.replace(/ [-|] .{3,50}$/, '').replace(/[|].{2,50}$/, '');
+  t = t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  t = t.replace(/[^\w\s]/g, ' ');
+  const palavras = t.split(/\s+/).map(p => ABREV_JS[p] || p);
+  return new Set(palavras.filter(p => p.length > 2 && !STOPWORDS_JS.has(p)));
+}
+
+function jaccard(t1, t2) {
+  const s1 = tokensJaccard(t1), s2 = tokensJaccard(t2);
+  if (!s1.size || !s2.size) return 0;
+  const inter = new Set([...s1].filter(x => s2.has(x)));
+  const uniao = new Set([...s1, ...s2]);
+  return inter.size / uniao.size;
+}
+
+function deduplicar(lista) {
+  const THRESHOLD = 0.35;
+  const resultado = [];
+  for (const nova of lista) {
+    const similar = resultado.find(ex => jaccard(nova.headline||'', ex.headline||'') >= THRESHOLD);
+    if (!similar) resultado.push(nova);
+  }
+  return resultado;
 }
 
 function renderizarGrid(lista) {
@@ -331,14 +356,8 @@ function renderizarGrid(lista) {
     return;
   }
 
-  // ── Deduplicação no lado do portal ──
-  const vistos = new Set();
-  const semDup = lista.filter(n => {
-    const chave = normalizarTitulo(n.headline || '');
-    if (vistos.has(chave)) return false;
-    vistos.add(chave);
-    return true;
-  });
+  // ── Deduplicação por similaridade ──
+  const semDup = deduplicar(lista);
 
   grid.style.display = 'grid';
   grid.innerHTML = '';

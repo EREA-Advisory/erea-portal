@@ -407,23 +407,67 @@ log = logging.getLogger(__name__)
 # HELPERS
 # ─────────────────────────────────────────────
 
-def _normalizar_titulo(titulo: str) -> str:
-    """Remove sufixo de fonte (ex: '- InfoMoney', '| G1') e normaliza para deduplicação."""
-    # Remove sufixo após último ' - ' ou ' | ' que indica nome do veículo
-    titulo = re.sub(r" [-|] [^-|]{3,40}$", "", titulo.strip())
-    titulo = re.sub(r"[|][^|]{2,40}$", "", titulo.strip())  # "titulo | Fonte"
-    # Remove acentos e converte para minúsculas
+# Abreviações de estados para deduplicação
+_ABREV = {"sp":"sao paulo","rj":"rio de janeiro","mg":"minas gerais","pr":"parana",
+          "sc":"santa catarina","rs":"rio grande do sul","ba":"bahia","ce":"ceara",
+          "go":"goias","pe":"pernambuco","am":"amazonas","pa":"para","ma":"maranhao",
+          "es":"espirito santo","mt":"mato grosso","ms":"mato grosso do sul",
+          "df":"distrito federal","to":"tocantins","pi":"piaui","rn":"rio grande norte"}
+
+_STOPWORDS_DEDUP = {"e","o","a","os","as","de","do","da","dos","das","em","no","na",
+                    "nos","nas","com","por","para","que","um","uma","ao","aos","se",
+                    "mais","seu","sua","novo","nova","novos","novas","grande","gigante",
+                    "trabalhe","empresa","presenca","brasil","grupo","seus","suas",
+                    "industrial","logistica","operacao","regional","mercado"}
+
+def _tokens(titulo: str) -> set:
+    titulo = re.sub(r" [-|] .{3,50}$", "", titulo)
+    titulo = re.sub(r"[|].{2,50}$", "", titulo)
     import unicodedata
     titulo = unicodedata.normalize("NFD", titulo)
     titulo = "".join(c for c in titulo if unicodedata.category(c) != "Mn")
-    # Remove pontuação e espaços extras
     titulo = re.sub(r"[^\w\s]", " ", titulo).lower()
-    titulo = re.sub(r"\s+", " ", titulo).strip()
-    return titulo
+    palavras = titulo.split()
+    # Expande abreviações
+    palavras = [_ABREV.get(p, p) for p in palavras]
+    return set(p for p in palavras if len(p) > 2 and p not in _STOPWORDS_DEDUP)
+
+def _jaccard(t1: str, t2: str) -> float:
+    s1, s2 = _tokens(t1), _tokens(t2)
+    if not s1 or not s2: return 0.0
+    return len(s1 & s2) / len(s1 | s2)
+
+def _normalizar_titulo(titulo: str) -> str:
+    titulo = re.sub(r" [-|] .{3,50}$", "", titulo.strip())
+    titulo = re.sub(r"[|].{2,50}$", "", titulo.strip())
+    import unicodedata
+    titulo = unicodedata.normalize("NFD", titulo)
+    titulo = "".join(c for c in titulo if unicodedata.category(c) != "Mn")
+    titulo = re.sub(r"[^\w\s]", " ", titulo).lower()
+    return re.sub(r"\s+", " ", titulo).strip()
 
 def _id(titulo: str) -> str:
-    """ID estável baseado no título normalizado — evita duplicatas entre fontes."""
+    """ID estável baseado no título normalizado."""
     return hashlib.md5(_normalizar_titulo(titulo).encode()).hexdigest()[:10]
+
+def _deduplicar(candidatas: list) -> list:
+    """Remove notícias similares (Jaccard >= 0.35) mantendo a de maior score."""
+    THRESHOLD = 0.35
+    resultado = []
+    for nova in candidatas:
+        similar = False
+        for existente in resultado:
+            if _jaccard(nova["headline"], existente["headline"]) >= THRESHOLD:
+                # Mantém a que tiver mais keywords (score maior)
+                if nova.get("score", 0) > existente.get("score", 0):
+                    resultado.remove(existente)
+                    resultado.append(nova)
+                similar = True
+                break
+        if not similar:
+            resultado.append(nova)
+    log.info(f"Após deduplicação por similaridade: {len(resultado)} notícias ({len(candidatas)-len(resultado)} removidas)")
+    return resultado
 
 
 def _parse_data(entry) -> datetime | None:
@@ -567,7 +611,18 @@ def coletar_feeds(horas: int) -> list[dict]:
         fonte     = feed_cfg["fonte"]
         log.info(f"Buscando: {fonte} — {url[:70]}…")
         try:
-            parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0 (compatible)'})
+            # Busca o XML bruto para preservar os links CBMi do Google News
+            # antes que o feedparser os resolva/corrompa
+            raw_xml = None
+            if "news.google.com" in url:
+                try:
+                    import urllib.request as _ur
+                    req = _ur.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible)"})
+                    raw_xml = _ur.urlopen(req, timeout=FEED_TIMEOUT).read()
+                except Exception:
+                    pass
+            parsed = feedparser.parse(raw_xml or url,
+                                      request_headers={"User-Agent": "Mozilla/5.0 (compatible)"})
         except Exception as e:
             log.warning(f"  Erro ao parsear {fonte}: {e}")
             continue
@@ -750,8 +805,11 @@ def main():
         gerar_json([])
         return
 
-    # 2. Analisar com Claude (score + relevância)
-    log.info(f"Analisando {len(candidatas)} notícias com Claude…")
+    # 2. Deduplicar por similaridade de título
+    candidatas = _deduplicar(candidatas)
+
+    # 3. Analisar (score + relevância)
+    log.info(f"Analisando {len(candidatas)} notícias…")
     enriquecidas = []
     for i, n in enumerate(candidatas, 1):
         log.info(f"  [{i}/{len(candidatas)}] {n['headline'][:70]}…")
@@ -759,13 +817,13 @@ def main():
         enriquecidas.append(resultado)
         time.sleep(PAUSA_API)
 
-    # 3. Ordenar por score e pegar as top N
+    # 4. Ordenar por score e pegar as top N
     enriquecidas.sort(key=lambda x: x["score"], reverse=True)
     top = enriquecidas[:MAX_NOTICIAS]
 
     log.info(f"Top {len(top)} notícias selecionadas (score mín: {top[-1]['score'] if top else '-'})")
 
-    # 4. Salvar JSON
+    # 5. Salvar JSON
     gerar_json(top)
     log.info("Coleta concluída com sucesso.")
 
