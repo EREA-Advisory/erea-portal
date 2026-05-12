@@ -1,23 +1,7 @@
 {
-  "gerado_em": "12/05/2026 às 18:32",
+  "gerado_em": "12/05/2026 às 18:44",
   "total": 20,
   "noticias": [
-    {
-      "id": "e3511bdbcc",
-      "headline": "Grande investimento para ampliar suas instalações no Brasil é anunciado pela alemã Liebherr Aerospace - AEROIN",
-      "source": "Google News",
-      "link": "https://aeroin.net",
-      "time": "15/01 às 08:00",
-      "dt_iso": "2025-01-15T08:00:00+00:00",
-      "summary": "Grande investimento para ampliar suas instalações no Brasil é anunciado pela alemã Liebherr Aerospace &nbsp;&nbsp; AEROIN",
-      "category": "logistica",
-      "score": 9,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "71484a024b",
       "headline": "Em expansão, Shopee inaugura o 10º centro de distribuição no Brasil - InfoMoney",
@@ -314,6 +298,22 @@
       "time": "28/08 às 07:00",
       "dt_iso": "2024-08-28T07:00:00+00:00",
       "summary": "Mercado Livre continua expansão no Brasil e inaugura centro de distribuição que vai gerar 1.500 empregos &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "988d1483a6",
+      "headline": "Solistica investe R$ 8 milhões em expansão de centro de distribuição no interior de SP - Transporte Moderno",
+      "source": "Google News",
+      "link": "https://transportemoderno.com.br",
+      "time": "20/08 às 07:00",
+      "dt_iso": "2024-08-20T07:00:00+00:00",
+      "summary": "Solistica investe R$ 8 milhões em expansão de centro de distribuição no interior de SP &nbsp;&nbsp; Transporte Moderno",
       "category": "expansao",
       "score": 8,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
