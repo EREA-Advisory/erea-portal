@@ -63,7 +63,6 @@ FEEDS = [
     {"url": "https://www.logisticadescomplicada.com/feed/",     "fonte": "Logística Descomplicada"},
     {"url": "https://www.portosenavios.com.br/feed",            "fonte": "Portos e Navios"},
     {"url": "https://www.logisticsnews.com.br/feed/",           "fonte": "Logistics News"},
-    {"url": "https://www.tiinside.com.br/feed/",                "fonte": "TI Inside Supply"},
 
     # Real estate e FII
     {"url": "https://www.fundsexplorer.com.br/feed",            "fonte": "Funds Explorer"},
@@ -114,8 +113,8 @@ FEEDS = [
 # PALAVRAS-CHAVE (gatilho de coleta)
 # ─────────────────────────────────────────────
 
-KEYWORDS = [
-    # ── IMÓVEL LOGÍSTICO ──
+# ── Grupo 1: Âncoras logísticas — imóvel, infraestrutura ou operação física ──
+KEYWORDS_ANCORA = [
     "galpão", "galpões", "armazém", "armazéns", "armazenagem",
     "condomínio logístico", "condomínios logísticos",
     "centro de distribuição", "centros de distribuição",
@@ -126,259 +125,86 @@ KEYWORDS = [
     "ponto de distribuição", "unidade logística", "unidades logísticas",
     "imóvel logístico", "imóveis logísticos",
     "galpão industrial", "galpão frigorífico", "galpão refrigerado",
+    "operação logística", "operações logísticas",
+    "cadeia logística", "cadeia de abastecimento", "supply chain",
+    "3pl", "operador logístico", "operadores logísticos",
+    "build to suit", "bts logístico", "sale and leaseback",
+    "fii logístico", "fundo logístico", "real estate logístico",
+]
 
-    # ── SINAIS DE EXPANSÃO — todos os tempos verbais ──
+# ── Grupo 2: Sinais de ação — movimento corporativo ou financeiro ──
+KEYWORDS_ACAO = [
     # inaugurar
     "inaugura", "inaugurou", "inauguraram", "inauguração", "inaugurações",
-    "inaugurado", "inaugurada", "inaugurar", "será inaugurado",
+    "inaugurado", "inaugurada",
     # expandir
-    "expande", "expandiu", "expandiram", "expansão", "expansões",
-    "expandido", "expandir", "em expansão",
+    "expande", "expandiu", "expandiram", "expansão", "expansões", "expandido",
     # ampliar
-    "amplia", "ampliou", "ampliaram", "ampliação", "ampliações",
-    "ampliado", "ampliar",
-    # abrir / abertura
-    "abre", "abriu", "abriram", "abertura", "abrirá", "nova abertura",
+    "amplia", "ampliou", "ampliaram", "ampliação", "ampliado",
+    # abrir
+    "abre", "abriu", "abriram", "abertura", "abrirá",
     "nova unidade", "novas unidades", "nova operação", "novas operações",
     "nova fase", "novas instalações", "novo cd", "novo galpão", "novos galpões",
-    # investir / investimento
-    "investe", "investiu", "investiram", "investimento", "investimentos",
-    "investir", "aporte",
-    # contratar / contrato
+    # investir
+    "investe", "investiu", "investiram", "investimento", "investimentos", "aporte",
+    # contratar
     "contrata", "contratou", "contrataram", "contrato de locação",
-    "contrato logístico", "locação de galpão",
     # instalar
-    "instala", "instalou", "instalaram", "instalação", "instalações",
-    # crescer / crescimento
-    "cresce", "cresceu", "crescimento", "crescer",
-    # construir / construção
-    "constrói", "construiu", "construção", "build to suit", "bts logístico",
+    "instala", "instalou", "instalaram", "instalação",
+    # construir
+    "constrói", "construiu", "construção",
     # implantar
     "implanta", "implantou", "implantação",
-    # mudar / transferir (mudança de endereço = novo galpão)
-    "transfere operação", "transferiu operação", "nova sede logística",
-
-    # ── FINANCEIRO ──
-    "sale and leaseback", "fii logístico", "fundo logístico",
+    # crescer
+    "cresce", "cresceu", "crescimento",
+    # locar / alugar
+    "locação", "aluguel", "aluga", "alugou",
+    # emissão / captação financeira
     "emissão de cotas", "cri logístico", "captação logística",
-    "aporte logístico", "investimento logístico",
+]
 
-    # ── SETOR / MERCADO ──
-    "operador logístico", "3pl", "supply chain brasil",
-    "e-commerce logística", "omnichannel", "real estate logístico",
-    "cadeia de abastecimento", "cadeia logística", "operação logística",
-
-    # ── EMPRESAS MONITORADAS ──
-    # E-commerce / varejo
+# ── Grupo 3: Empresas monitoradas — presença garante relevância ──
+KEYWORDS_EMPRESA = [
     "mercado livre", "mercadolivre",
-    "shopee",
-    "amazon brasil", "amazon logística",
+    "shopee", "amazon brasil", "amazon logística",
     "magazine luiza", "magalu",
     "via varejo", "casas bahia", "ponto frio",
-    "b2w", "americanas", "americanas s.a",
-    "shein",
-    "dafiti",
-    "netshoes", "grupo netshoes",
-    "madeira madeira", "madeiramadeira",
-    "fast shop", "fastshop",
-    "tok stok", "tok&stok",
-    "lojas renner", "renner",
-    "riachuelo",
-    "c&a brasil", "c&a",
-    "pernambucanas",
-    "grupo mateus",
-    "kalunga",
-    "lojas colombo",
-    "lojas lebes",
-    "lojas leader",
-    "centauro", "grupo sbf",
-    "arezzo", "arezzo&co",
-    "zara brasil", "zara",
-    "decathlon brasil", "decathlon",
-    "westwing",
-    "mobly",
-    "grupo muffato",
-    "atacadão",
-    "assaí", "assai atacadista",
-    "grupo zaffari",
-    "supermercado lopes",
-    "o amigão",
-    "chama supermercados",
-    "comercial esperança",
-    "obramax",
-
-    # Logística / transporte
-    "dhl", "dhl supply chain", "dhl express",
-    "fedex", "fedex express",
-    "ups brasil",
-    "correios",
-    "jadlog",
-    "total express",
-    "loggi",
-    "azul cargo", "azul linhas aéreas",
-    "jamef",
-    "braspress",
-    "patrus transportes",
-    "transportadora plimor", "plimor",
-    "expresso 3300",
-    "transbuiatte",
-    "transportadora minuano", "minuano",
-    "sigma transportes",
-    "unilog express",
-    "j&t express", "j&t brasil",
-    "anjun brasil",
-    "movvi logística", "movvi",
-    "modular cargas",
-    "transrapido",
-    "master cargas",
-    "postall log",
-    "brasmundi logística",
-    "gat logística",
-    "ellece logística",
-    "renovação logística",
-    "ativa logística",
-    "smart logística",
-    "intecom logística",
-    "fivelog",
-    "ziran logística",
-    "comando log",
-    "fitlogística",
-    "vtc operador logístico",
-    "mr3 operador logístico",
-    "osten group",
-    "supporte full commerce",
-    "vendemmia logística",
-    "belenus",
-
-    # 3PL / operadores especializados
-    "luft logistics",
-    "id logistics", "id logístics",
-    "ceva logistics",
-    "kuehne nagel", "kuehne+nagel",
-    "dsv", "dsv air sea",
-    "fm logistic",
-    "martin brower",
-    "maersk logística", "maersk",
-    "yusen logistics",
-    "andreani",
-    "bomi group",
-    "celistics",
-    "infracommerce",
-    "multilog",
-    "grupo tecadi", "tecadi",
-    "unidão transportes",
-    "mundial logistics",
-    "comfrio",
-    "friozem",
-    "superfrio logística",
-    "arfrio",
-    "frigelar",
-    "grupo friopeças",
-
-    # Indústria / manufatura
-    "ambev",
-    "coca-cola femsa", "coca cola femsa", "femsa",
-    "heineken brasil", "heineken",
-    "pepsico brasil", "pepsico",
-    "bauducco",
-    "wickbold",
-    "m. dias branco", "m dias branco",
-    "fini brasil",
-    "brf",
-    "seara alimentos", "seara",
-    "jbs",
-    "natura",
-    "grupo boticário", "boticário", "boticario",
-    "l'oréal brasil", "loreal brasil", "l oreal",
-    "unilever brasil", "unilever",
-    "colgate palmolive", "colgate-palmolive",
-    "sanofi brasil", "sanofi",
-    "reckitt brasil", "reckitt",
-    "hypera farmacêutica", "hypera",
-    "eurofarma",
-    "davene",
-    "premierPet", "premieRpet",
-    "ypê", "ype",
-    "whirlpool",
-    "electrolux",
-    "midea carrier", "midea",
-    "britânia eletrodomésticos", "britania",
-    "samsung brasil", "samsung",
-    "lenovo brasil", "lenovo",
-    "foxconn brasil", "foxconn",
-    "semp tcl", "semp",
-    "elgin",
-    "bosch",
-    "mercedes benz brasil", "mercedes-benz",
-    "ford motor brasil", "ford brasil",
-    "gm brasil", "general motors brasil",
-    "renault nissan", "renault brasil",
-    "volkswagen brasil",
-    "agco brasil",
-    "john deere brasil", "john deere",
-    "embraer",
-    "braskem",
-    "suzano",
-    "bridgestone brasil", "bridgestone",
-    "benteler brasil", "benteler",
-    "plascar",
-    "marelli",
-    "cummins brasil", "cummins",
-    "ericsson brasil", "ericsson",
-    "ascenty",
-    "scala data centers", "scala",
-    "iron mountain brasil", "iron mountain",
-    "sealed air",
-    "skf brasil",
-    "assa abloy",
-    "galderma",
-    "ingredient incorporated", "ingredion",
-    "ontex brasil",
-    "dorel juvenile",
-    "cal-comp",
-    "yangzi brasil",
-    "grupo seb",
-    "grupo dpsp", "drogaria são paulo",
-    "rd raia drogasil", "raia drogasil", "rd saúde",
-    "grupo belmicro", "belmicro",
-    "petlove",
-    "viveo",
-    "tpc logística", "tpc",
-    "grupo martins", "martins",
-    "mcassab",
-    "ascensus",
-    "cantu pneus",
-    "rojemac",
-    "mtc log",
-    "nagumo",
-    "fortgreen fertilizantes",
-    "zaraplast",
-    "plasnox",
-    "grupo mirassol",
-    "grupo toniato",
-    "grupo pegoraro",
-    "dufrio",
-    "embare",
-    "unicharm",
-    "interbrands",
-    "fotus distribuidora",
-    "somos educação",
-    "gpa brasil", "gpa",
-    "grupo sc",
-    "petz",
-    "localiza",
-    "lojas caedu", "caedu",
-    "gtex",
-    "obramax",
-    "multi armazéns",
-    "sca hygiene",
-    "caedú",
-    "vonder",
-    "grupo ovd",
-    "eixo snetor",
-    "grupo 3 corações", "3 corações",
-    "grupo muffato",
+    "b2w", "americanas",
+    "shein", "dafiti", "netshoes",
+    "madeira madeira", "fast shop", "tok stok", "tok&stok",
+    "lojas renner", "renner", "riachuelo", "c&a",
+    "pernambucanas", "grupo mateus", "kalunga", "lojas colombo",
+    "lojas lebes", "lojas leader", "centauro", "arezzo",
+    "zara brasil", "decathlon brasil", "westwing", "mobly",
+    "grupo muffato", "atacadão", "assaí", "grupo zaffari",
+    "dhl", "fedex", "ups brasil", "correios", "jadlog",
+    "total express", "loggi", "azul cargo", "jamef", "braspress",
+    "patrus transportes", "plimor", "expresso 3300",
+    "transportadora minuano", "sigma transportes", "unilog express",
+    "j&t express", "anjun brasil", "movvi logística",
+    "luft logistics", "id logistics", "ceva logistics",
+    "kuehne nagel", "kuehne+nagel", "dsv", "fm logistic",
+    "martin brower", "maersk", "yusen logistics",
+    "andreani", "bomi group", "celistics", "multilog",
+    "grupo tecadi", "comfrio", "friozem", "superfrio",
+    "ambev", "coca-cola femsa", "heineken", "pepsico",
+    "bauducco", "brf", "seara", "jbs", "natura",
+    "grupo boticário", "boticário", "l'oréal", "loreal",
+    "unilever", "colgate", "sanofi", "reckitt", "hypera",
+    "eurofarma", "whirlpool", "electrolux", "midea",
+    "samsung brasil", "lenovo brasil", "foxconn", "semp tcl",
+    "bosch", "mercedes benz", "mercedes-benz", "ford brasil",
+    "gm brasil", "general motors", "renault brasil",
+    "volkswagen brasil", "agco brasil", "john deere", "embraer",
+    "braskem", "suzano", "bridgestone", "benteler",
+    "ascenty", "scala data centers", "iron mountain",
+    "petz", "petlove", "rd raia drogasil", "grupo dpsp",
+    "viveo", "tpc logística", "grupo martins",
+    "infracommerce", "grupo sbf",
 ]
+
+# Mantém KEYWORDS como union dos três grupos para compatibilidade
+KEYWORDS = list(set(KEYWORDS_ANCORA + KEYWORDS_ACAO + KEYWORDS_EMPRESA))
 
 # Categorias para classificação
 CATEGORIAS = {
@@ -522,8 +348,21 @@ def _contar_keywords(texto: str) -> int:
     return sum(1 for kw in KEYWORDS if kw in texto)
 
 def _tem_keyword(texto: str) -> bool:
-    """Exige pelo menos 2 keywords para reduzir ruído."""
-    return _contar_keywords(texto) >= 2
+    """Filtragem em dois grupos:
+    - Notícias com empresa monitorada + ancora OU empresa + ação → relevantes
+    - Notícias sem empresa precisam de ancora + ação (contexto logístico confirmado)
+    - Evita capturar notícias de outros setores que usam palavras genéricas
+    """
+    tem_ancora  = any(kw in texto for kw in KEYWORDS_ANCORA)
+    tem_acao    = any(kw in texto for kw in KEYWORDS_ACAO)
+    tem_empresa = any(kw in texto for kw in KEYWORDS_EMPRESA)
+
+    if tem_empresa:
+        # Empresa monitorada + ancora OU ação já é suficiente
+        return tem_ancora or tem_acao
+    else:
+        # Sem empresa conhecida: exige ancora logística + ação
+        return tem_ancora and tem_acao
 
 
 def _extrair_link(entry) -> str:
@@ -737,10 +576,12 @@ def analisar_com_claude(noticia: dict) -> dict:
     badges = _badges_por_categoria(cat)
     texto  = (noticia.get("headline","") + " " + noticia.get("summary","")).lower()
     kw_count = _contar_keywords(texto)
-    # Score proporcional ao número de keywords (mín 5, máx 9)
-    score = min(9, 4 + kw_count)
-    # Muitas keywords = badge Destaque
-    if kw_count >= 4:
+    tem_ancora  = any(kw in texto for kw in KEYWORDS_ANCORA)
+    tem_empresa = any(kw in texto for kw in KEYWORDS_EMPRESA)
+    # Score: base 5, +1 por keyword, bônus por ancora+empresa
+    score = min(9, 4 + kw_count + (1 if tem_ancora and tem_empresa else 0))
+    # Destaque: ancora + empresa + 3+ keywords
+    if tem_ancora and tem_empresa and kw_count >= 3:
         badges = ["Destaque"] + [b for b in badges if b != "Destaque"]
     log.info(f"  keywords={kw_count} score={score} cat={cat}")
     return {
