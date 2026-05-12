@@ -1,5 +1,326 @@
 {
-  "gerado_em": "12/05/2026 às 18:20",
-  "total": 0,
-  "noticias": []
+  "gerado_em": "12/05/2026 às 18:32",
+  "total": 20,
+  "noticias": [
+    {
+      "id": "e3511bdbcc",
+      "headline": "Grande investimento para ampliar suas instalações no Brasil é anunciado pela alemã Liebherr Aerospace - AEROIN",
+      "source": "Google News",
+      "link": "https://aeroin.net",
+      "time": "15/01 às 08:00",
+      "dt_iso": "2025-01-15T08:00:00+00:00",
+      "summary": "Grande investimento para ampliar suas instalações no Brasil é anunciado pela alemã Liebherr Aerospace &nbsp;&nbsp; AEROIN",
+      "category": "logistica",
+      "score": 9,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "71484a024b",
+      "headline": "Em expansão, Shopee inaugura o 10º centro de distribuição no Brasil - InfoMoney",
+      "source": "Google News",
+      "link": "https://www.infomoney.com.br",
+      "time": "23/02 às 08:00",
+      "dt_iso": "2024-02-23T08:00:00+00:00",
+      "summary": "Em expansão, Shopee inaugura o 10º centro de distribuição no Brasil &nbsp;&nbsp; InfoMoney",
+      "category": "expansao",
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "dc4dd4927f",
+      "headline": "Shopee aposta em expansão logística e inaugura 11º centro de distribuição no Brasil - InfoMoney",
+      "source": "Google News",
+      "link": "https://www.infomoney.com.br",
+      "time": "26/03 às 07:00",
+      "dt_iso": "2024-03-26T07:00:00+00:00",
+      "summary": "Shopee aposta em expansão logística e inaugura 11º centro de distribuição no Brasil &nbsp;&nbsp; InfoMoney",
+      "category": "expansao",
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "cf60974db9",
+      "headline": "Grupo Boticário investe na expansão do centro de distribuição de Varginha - Brazil Beauty News",
+      "source": "Google News",
+      "link": "https://www.brazilbeautynews.com",
+      "time": "10/11 às 08:00",
+      "dt_iso": "2022-11-10T08:00:00+00:00",
+      "summary": "Grupo Boticário investe na expansão do centro de distribuição de Varginha &nbsp;&nbsp; Brazil Beauty News",
+      "category": "expansao",
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "5964ecbb73",
+      "headline": "Em expansão, Shopee inaugura 1º centro de distribuição no Centro-Oeste - Diário de Goiás",
+      "source": "Google News",
+      "link": "https://diariodegoias.com.br",
+      "time": "24/02 às 08:00",
+      "dt_iso": "2024-02-24T08:00:00+00:00",
+      "summary": "Em expansão, Shopee inaugura 1º centro de distribuição no Centro-Oeste &nbsp;&nbsp; Diário de Goiás",
+      "category": "expansao",
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "640c11629a",
+      "headline": "Rede Big Mart em expansão: Inauguração do Centro de Distribuição - Hojemais",
+      "source": "Google News",
+      "link": "https://www.hojemais.com.br",
+      "time": "11/09 às 15:58",
+      "dt_iso": "2020-09-11T15:58:01+00:00",
+      "summary": "Rede Big Mart em expansão: Inauguração do Centro de Distribuição &nbsp;&nbsp; Hojemais",
+      "category": "expansao",
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "c124c477d9",
+      "headline": "Em expansão no país, Shein aluga novo galpão da GLP - Valor Econômico",
+      "source": "Google News",
+      "link": "https://valor.globo.com",
+      "time": "06/07 às 07:00",
+      "dt_iso": "2023-07-06T07:00:00+00:00",
+      "summary": "Em expansão no país, Shein aluga novo galpão da GLP &nbsp;&nbsp; Valor Econômico",
+      "category": "expansao",
+      "score": 9,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "5306ab7d1b",
+      "headline": "FII investe R$ 207 mi em galpões alugados para Arezzo, Whirlpool e Suzano - InfoMoney",
+      "source": "Google News",
+      "link": "https://www.infomoney.com.br",
+      "time": "05/11 às 08:00",
+      "dt_iso": "2025-11-05T08:00:00+00:00",
+      "summary": "FII investe R$ 207 mi em galpões alugados para Arezzo, Whirlpool e Suzano &nbsp;&nbsp; InfoMoney",
+      "category": "investimento",
+      "score": 9,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "Destaque",
+        "Investimento"
+      ]
+    },
+    {
+      "id": "c7b97900e7",
+      "headline": "Gigante chinesa das entregas investe R$ 135 milhões em megagalpão logístico de 33 mil m² para ampliar operação da Shopee e acelerar entregas no Sul do Brasil - CPG Click Petróleo e Gás",
+      "source": "Google News",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "03/03 às 08:00",
+      "dt_iso": "2026-03-03T08:00:00+00:00",
+      "summary": "Gigante chinesa das entregas investe R$ 135 milhões em megagalpão logístico de 33 mil m² para ampliar operação da Shopee e acelerar entregas no Sul do Brasil &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "score": 9,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "e6fea938fb",
+      "headline": "Centro de distribuição do Mercado Livre em Fortaleza será inaugurado em 2025, segundo a empresa - O POVO",
+      "source": "Google News",
+      "link": "https://www.opovo.com.br",
+      "time": "25/09 às 07:00",
+      "dt_iso": "2024-09-25T07:00:00+00:00",
+      "summary": "Centro de distribuição do Mercado Livre em Fortaleza será inaugurado em 2025, segundo a empresa &nbsp;&nbsp; O POVO",
+      "category": "ecommerce",
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "0c889df3ed",
+      "headline": "Shopee fecha o maior galpão logístico do Brasil em Guarulhos: 220 mil m² na Dutra, contrato antes da obra, paga R$ 45/m² e acelera entregas em escala, pressionando Mercado Livre e Amazon - CPG Click Petróleo e Gás",
+      "source": "Google News",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "31/03 às 07:00",
+      "dt_iso": "2026-03-31T07:00:00+00:00",
+      "summary": "Shopee fecha o maior galpão logístico do Brasil em Guarulhos: 220 mil m² na Dutra, contrato antes da obra, paga R$ 45/m² e acelera entregas em escala, pressionando Mercado Livre e Amazon &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "708f401dad",
+      "headline": "Shopee fecha maior locação de galpão logístico já registrada no Brasil - EuQueroInvestir",
+      "source": "Google News",
+      "link": "https://euqueroinvestir.com",
+      "time": "09/03 às 07:00",
+      "dt_iso": "2026-03-09T07:00:00+00:00",
+      "summary": "Shopee fecha maior locação de galpão logístico já registrada no Brasil &nbsp;&nbsp; EuQueroInvestir",
+      "category": "ecommerce",
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "708b89abc2",
+      "headline": "Shopee fecha maior contrato de locação de galpão logístico da história do Brasil - MundoBA",
+      "source": "Google News",
+      "link": "https://mundoba.com.br",
+      "time": "05/03 às 08:00",
+      "dt_iso": "2026-03-05T08:00:00+00:00",
+      "summary": "Shopee fecha maior contrato de locação de galpão logístico da história do Brasil &nbsp;&nbsp; MundoBA",
+      "category": "ecommerce",
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "b441a9359e",
+      "headline": "Shopee garante R$ 350 milhões em investimentos com galpão gigante no Brasil - A TARDE",
+      "source": "Google News",
+      "link": "https://atarde.com.br",
+      "time": "12/09 às 07:00",
+      "dt_iso": "2025-09-12T07:00:00+00:00",
+      "summary": "Shopee garante R$ 350 milhões em investimentos com galpão gigante no Brasil &nbsp;&nbsp; A TARDE",
+      "category": "ecommerce",
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "9e666bbea1",
+      "headline": "FII HGLG11 expande na Bahia com novo galpão logístico para Mercado Livre - BPMoney",
+      "source": "Google News",
+      "link": "https://bpmoney.com.br",
+      "time": "22/08 às 07:00",
+      "dt_iso": "2024-08-22T07:00:00+00:00",
+      "summary": "FII HGLG11 expande na Bahia com novo galpão logístico para Mercado Livre &nbsp;&nbsp; BPMoney",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "e43a87f2e8",
+      "headline": "Tirol inaugura centro de distribuição em Maringá com foco em expansão no norte do Paraná - MilkPoint",
+      "source": "Google News",
+      "link": "https://www.milkpoint.com.br",
+      "time": "08/05 às 11:39",
+      "dt_iso": "2026-05-08T11:39:31+00:00",
+      "summary": "Tirol inaugura centro de distribuição em Maringá com foco em expansão no norte do Paraná &nbsp;&nbsp; MilkPoint",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "81d90eacb7",
+      "headline": "Elgin investe R$ 15 milhões em novo Centro de Distribuição em Pernambuco e reforça expansão e presença nacional - O Diário de Mogi",
+      "source": "Google News",
+      "link": "https://www.odiariodemogi.net.br",
+      "time": "21/01 às 08:00",
+      "dt_iso": "2026-01-21T08:00:00+00:00",
+      "summary": "Elgin investe R$ 15 milhões em novo Centro de Distribuição em Pernambuco e reforça expansão e presença nacional &nbsp;&nbsp; O Diário de Mogi",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "ab8699bcfa",
+      "headline": "Em expansão no mercado mineiro, Liv Up inaugura centro de distribuição em Juiz de Fora - Diário do Comércio",
+      "source": "Google News",
+      "link": "https://diariodocomercio.com.br",
+      "time": "27/11 às 08:00",
+      "dt_iso": "2025-11-27T08:00:00+00:00",
+      "summary": "Em expansão no mercado mineiro, Liv Up inaugura centro de distribuição em Juiz de Fora &nbsp;&nbsp; Diário do Comércio",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "3fda77ba6c",
+      "headline": "Prefeito Vanazzi prestigia inauguração da expansão do Centro de Distribuição 43 da Stihl - Prefeitura de São Leopoldo/RS",
+      "source": "Google News",
+      "link": "http://www.saoleopoldo.rs.gov.br",
+      "time": "07/03 às 08:00",
+      "dt_iso": "2024-03-07T08:00:00+00:00",
+      "summary": "Prefeito Vanazzi prestigia inauguração da expansão do Centro de Distribuição 43 da Stihl &nbsp;&nbsp; Prefeitura de São Leopoldo/RS",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
+      "id": "aaa29ed540",
+      "headline": "Mercado Livre continua expansão no Brasil e inaugura centro de distribuição que vai gerar 1.500 empregos - CPG Click Petróleo e Gás",
+      "source": "Google News",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "28/08 às 07:00",
+      "dt_iso": "2024-08-28T07:00:00+00:00",
+      "summary": "Mercado Livre continua expansão no Brasil e inaugura centro de distribuição que vai gerar 1.500 empregos &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    }
+  ]
 }
