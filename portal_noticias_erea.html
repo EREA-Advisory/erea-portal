@@ -74,6 +74,8 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .badge-investimento{background:rgba(201,168,76,.08);color:var(--gold-dim);border:1px solid rgba(201,168,76,.2);}
 .badge-ecommerce{background:rgba(136,150,163,.12);color:var(--gray-light);border:1px solid rgba(136,150,163,.15);}
 .badge-industrial{background:rgba(201,168,76,.06);color:var(--gold-dim);border:1px solid rgba(201,168,76,.15);}
+.badge-novo{background:#c9a84c;color:#0d2137;font-weight:700;animation:pulse-novo 2s ease-in-out infinite;}
+@keyframes pulse-novo{0%,100%{opacity:1}50%{opacity:.7}}
 
 .card-headline{font-family:'Cormorant Garamond',serif;font-size:20px;font-weight:600;line-height:1.35;color:var(--white);}
 .card-featured .card-headline{font-size:26px;}
@@ -125,6 +127,16 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .modal-rel p{font-size:13px;color:var(--gray-light);line-height:1.65;margin:0;}
 .modal-link{display:inline-block;margin-top:20px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);text-decoration:none;border-bottom:1px solid var(--border);padding-bottom:2px;transition:border-color .2s;}
 .modal-link:hover{border-color:var(--gold);}
+.modal-ler-btn{margin-top:20px;background:transparent;border:1px solid var(--gold);color:var(--gold);font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:.12em;text-transform:uppercase;padding:10px 20px;cursor:pointer;border-radius:2px;transition:all .2s;width:100%;}
+.modal-ler-btn:hover{background:var(--gold);color:var(--navy);}
+.modal-ler-btn:disabled{opacity:.5;cursor:default;}
+.modal-loading{display:flex;align-items:center;gap:12px;padding:20px 0;color:var(--gray);font-size:13px;}
+.modal-loading-spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--gold);border-radius:50%;animation:spin .8s linear infinite;flex-shrink:0;}
+@keyframes spin{to{transform:rotate(360deg)}}
+.modal-artigo{margin-top:20px;border-top:1px solid var(--border);padding-top:20px;}
+.modal-artigo-titulo{font-size:9px;text-transform:uppercase;letter-spacing:.14em;color:var(--gold);margin-bottom:14px;}
+.modal-artigo-texto{font-size:14px;line-height:1.75;color:var(--gray-light);}
+.modal-artigo-texto p{margin-bottom:12px;}
 
 /* EMPTY / AGUARDANDO */
 .waiting-state{text-align:center;padding:80px 20px 60px;display:none;}
@@ -234,7 +246,8 @@ footer span{color:var(--gold);}
 <script>
 const BADGE_CLASS = {
   'Destaque':'badge-destaque','Expansão':'badge-expansao','Logística':'badge-logistica',
-  'Investimento':'badge-investimento','E-commerce':'badge-ecommerce','Industrial':'badge-industrial'
+  'Investimento':'badge-investimento','E-commerce':'badge-ecommerce','Industrial':'badge-industrial',
+  'Novo':'badge-novo'
 };
 
 let todasNoticias = [];
@@ -266,10 +279,19 @@ function formatarTempo(isoStr) {
   return `ontem, ${String(dt.getHours()).padStart(2,'0')}:${String(dt.getMinutes()).padStart(2,'0')}`;
 }
 
+// ── Verifica se notícia é das últimas 24h ──
+function isNovo(dt_iso) {
+  if (!dt_iso) return false;
+  const dt = new Date(dt_iso);
+  return (Date.now() - dt.getTime()) <= 24 * 60 * 60 * 1000;
+}
+
 // ── Badges HTML ──
-function badgesHtml(badges) {
-  if (!badges || !badges.length) return '';
-  return badges.map(b => `<span class="badge ${BADGE_CLASS[b]||'badge-logistica'}">${b}</span>`).join('');
+function badgesHtml(badges, dt_iso) {
+  const lista = [...(badges||[])];
+  if (dt_iso && isNovo(dt_iso) && !lista.includes('Novo')) lista.unshift('Novo');
+  if (!lista.length) return '';
+  return lista.map(b => `<span class="badge ${BADGE_CLASS[b]||'badge-logistica'}">${b}</span>`).join('');
 }
 
 // ── Carrega JSON ──
@@ -400,7 +422,7 @@ function cardHTML(n, cls) {
   return `
   <div class="${cls}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="card-inner">
-      <div class="badge-row">${badgesHtml(n.badges)}</div>
+      <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
       <div class="card-headline">${n.headline}</div>
       <div class="card-summary">${n.summary}</div>
       ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
@@ -415,7 +437,7 @@ function cardHTML(n, cls) {
 function sidebarCardHTML(n) {
   return `
   <div class="sidebar-card" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
-    <div class="badge-row">${badgesHtml(n.badges)}</div>
+    <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
     <div class="sidebar-headline">${n.headline}</div>
     ${n.relevance ? `<div class="sidebar-relevance">${n.relevance}</div>` : ''}
     <div class="sidebar-meta">
@@ -428,7 +450,7 @@ function sidebarCardHTML(n) {
 function cardSmallHTML(n) {
   return `
   <div class="card-small" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
-    <div class="badge-row">${badgesHtml(n.badges)}</div>
+    <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
     <div class="card-headline">${n.headline}</div>
     <div class="card-summary">${n.summary}</div>
     ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
@@ -444,7 +466,7 @@ function abrirModal(id) {
   const n = todasNoticias.find(x => x.id === id);
   if (!n) return;
   document.getElementById('modal-conteudo').innerHTML = `
-    <div class="badge-row" style="margin-bottom:14px">${badgesHtml(n.badges)}</div>
+    <div class="badge-row" style="margin-bottom:14px">${badgesHtml(n.badges, n.dt_iso)}</div>
     <h2>${n.headline}</h2>
     <div class="modal-meta">
       <span style="font-size:12px;color:var(--gold);font-weight:500">${n.source}</span>
@@ -453,9 +475,43 @@ function abrirModal(id) {
     </div>
     <div class="modal-body">${(n.summary||'').split('\n\n').map(p=>`<p>${p}</p>`).join('')}</div>
     ${n.relevance ? `<div class="modal-rel"><h4>Por que é relevante para o time de locações</h4><p>${n.relevance}</p></div>` : ''}
-    <a class="modal-link" href="${limparLink(n.link)}" target="_blank">Ler matéria completa →</a>
+    <div id="modal-artigo-area"></div>
+    <button class="modal-ler-btn" id="modal-ler-btn" onclick="lerMateria('${n.id}')">Ler matéria completa</button>
   `;
   document.getElementById('modal-overlay').classList.add('open');
+}
+
+async function lerMateria(id) {
+  const n = todasNoticias.find(x => x.id === id);
+  if (!n) return;
+  const area = document.getElementById('modal-artigo-area');
+  const btn  = document.getElementById('modal-ler-btn');
+  btn.disabled = true;
+  btn.textContent = 'Carregando…';
+  area.innerHTML = '<div class="modal-loading"><div class="modal-loading-spinner"></div><span>Buscando conteúdo da matéria…</span></div>';
+  try {
+    const response = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        model: "claude-sonnet-4-20250514",
+        max_tokens: 1500,
+        messages: [{ role: "user", content: `Acesse a notícia no link abaixo e extraia o conteúdo completo do artigo em português.\nRetorne APENAS o texto da matéria organizado em parágrafos. Se não conseguir acessar, escreva exatamente: ERRO_ACESSO\n\nLink: ${n.link}\nTítulo: ${n.headline}` }]
+      })
+    });
+    const data = await response.json();
+    const texto = data?.content?.[0]?.text || "ERRO_ACESSO";
+    if (texto.includes("ERRO_ACESSO") || texto.length < 100) {
+      throw new Error("sem conteúdo");
+    }
+    area.innerHTML = '<div class="modal-artigo"><div class="modal-artigo-titulo">Matéria completa</div><div class="modal-artigo-texto">' + texto.split('\n\n').filter(p=>p.trim()).map(p=>`<p>${p}</p>`).join('') + '</div></div>';
+    btn.style.display = 'none';
+  } catch(e) {
+    area.innerHTML = '<p style="color:var(--gray);font-size:13px;margin-top:16px">Não foi possível carregar o conteúdo automaticamente.</p>';
+    btn.textContent = 'Tentar novamente';
+    btn.disabled = false;
+    btn.onclick = () => lerMateria(id);
+  }
 }
 
 function fecharModal() { document.getElementById('modal-overlay').classList.remove('open'); }
