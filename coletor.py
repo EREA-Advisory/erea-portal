@@ -20,6 +20,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from email.utils import parsedate_to_datetime
 
+import socket
 import feedparser
 import requests
 
@@ -255,13 +256,14 @@ def coletar_feeds(horas: int) -> list[dict]:
     candidatas = []
     ids_vistos  = set()
 
+    socket.setdefaulttimeout(FEED_TIMEOUT)
+
     for feed_cfg in FEEDS:
         url    = feed_cfg["url"]
         fonte  = feed_cfg["fonte"]
         log.info(f"Buscando: {fonte} — {url[:70]}…")
         try:
-            feedparser.api.urllib2.socket.setdefaulttimeout(FEED_TIMEOUT)
-            parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
+            parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0 (compatible)'})
         except Exception as e:
             log.warning(f"Erro ao parsear {url}: {e}")
             continue
