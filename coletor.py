@@ -77,16 +77,23 @@ FEEDS = [
     {"url": "https://www.automotivebusiness.com.br/feed/",      "fonte": "Automotive Business"},
 
     # Google News RSS por temas estratégicos
-    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
-    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
+    # "sem_corte": True — Google News ordena por relevância, não por data recente
+    # então ignoramos o filtro de janela e aceitamos qualquer notícia com keyword
+    {"url": "https://news.google.com/rss/search?q=galpão+logístico+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=centro+de+distribuição+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=condomínio+logístico+locação&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=operador+logístico+novo+contrato&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=fulfillment+center+Brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",            "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+armazém+CD&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=Amazon+Brasil+logística+galpão&hl=pt-BR&gl=BR&ceid=BR:pt-419",  "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News", "sem_corte": True},
+
+    # Portais especializados via Google News (sites bloqueiam RSS direto)
+    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila", "sem_corte": True},
+    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística", "sem_corte": True},
 ]
 
 # ─────────────────────────────────────────────
@@ -260,8 +267,9 @@ def coletar_feeds(horas: int) -> list[dict]:
     socket.setdefaulttimeout(FEED_TIMEOUT)
 
     for feed_cfg in FEEDS:
-        url    = feed_cfg["url"]
-        fonte  = feed_cfg["fonte"]
+        url       = feed_cfg["url"]
+        fonte     = feed_cfg["fonte"]
+        sem_corte = feed_cfg.get("sem_corte", False)
         log.info(f"Buscando: {fonte} — {url[:70]}…")
         try:
             parsed = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0 (compatible)'})
@@ -279,10 +287,13 @@ def coletar_feeds(horas: int) -> list[dict]:
             dt = _parse_data(entry)
 
             if dt is None:
-                sem_data += 1
-                continue
+                if not sem_corte:
+                    sem_data += 1
+                    continue
+                # Google News: aceita sem data, usa hora atual como fallback
+                dt = datetime.now(timezone.utc)
 
-            if dt < corte:
+            if not sem_corte and dt < corte:
                 fora_janela += 1
                 continue
 
