@@ -94,6 +94,10 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .read-btn{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--gray);text-decoration:none;transition:color .2s;display:flex;align-items:center;gap:5px;}
 .read-btn:hover{color:var(--gold);}
 .read-btn::after{content:'→';}
+.google-btn{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--navy);background:var(--gold);text-decoration:none;padding:5px 10px;border-radius:2px;transition:opacity .2s;white-space:nowrap;}
+.google-btn:hover{opacity:.85;}
+.modal-google-btn{display:inline-block;margin-top:18px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--navy);background:var(--gold);text-decoration:none;padding:10px 20px;border-radius:2px;transition:opacity .2s;}
+.modal-google-btn:hover{opacity:.85;}
 
 /* SIDEBAR CARDS */
 .sidebar-section-title{font-size:9px;text-transform:uppercase;letter-spacing:.18em;color:var(--gray);padding:0 0 8px;border-bottom:1px solid var(--border);}
@@ -252,28 +256,11 @@ const BADGE_CLASS = {
 
 let todasNoticias = [];
 
-// ── Resolve link: se for homepage, usa busca no Google ──
-function limparLink(url, titulo) {
-  if (!url || url === "#") return buscaGoogle(titulo);
-  try {
-    // Desencapsula redirect do Google News
-    if (url.includes("news.google.com")) {
-      const u = new URL(url);
-      const paramUrl = u.searchParams.get("url");
-      if (paramUrl) url = decodeURIComponent(paramUrl);
-    }
-    // Verifica se é homepage (path vazio ou muito curto)
-    const parsed = new URL(url);
-    if (parsed.pathname.replace(/\/+/g, "").length < 5) {
-      return buscaGoogle(titulo);
-    }
-  } catch(e) {}
-  return url;
-}
-
+// ── Gera URL de busca no Google pelo título da notícia ──
 function buscaGoogle(titulo) {
   if (!titulo) return "#";
-  return "https://www.google.com/search?q=" + encodeURIComponent(titulo.replace(/ [-|] [^-|]{3,50}$/, "").trim());
+  const q = titulo.replace(/ [-|] [^-|]{3,50}$/, "").trim();
+  return "https://www.google.com/search?q=" + encodeURIComponent(q);
 }
 
 // ── Formatação de tempo a partir de ISO string ──
@@ -442,7 +429,7 @@ function cardHTML(n, cls) {
     </div>
     <div class="card-footer">
       <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
-      <a class="read-btn" href="${limparLink(n.link, n.headline)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+      <a class="google-btn" href="${buscaGoogle(n.headline)}" target="_blank" onclick="event.stopPropagation()">Buscar →</a>
     </div>
   </div>`;
 }
@@ -469,7 +456,7 @@ function cardSmallHTML(n) {
     ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
     <div class="card-footer">
       <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
-      <a class="read-btn" href="${limparLink(n.link, n.headline)}" target="_blank" onclick="event.stopPropagation()">Ler</a>
+      <a class="google-btn" href="${buscaGoogle(n.headline)}" target="_blank" onclick="event.stopPropagation()">Buscar →</a>
     </div>
   </div>`;
 }
@@ -503,6 +490,7 @@ function abrirModal(id) {
     </div>
     ${n.relevance ? `<div class="modal-rel"><h4>Por que é relevante para o time de locações</h4><p>${n.relevance}</p></div>` : ''}
     ${conteudoHtml}
+    <a class="modal-google-btn" href="${buscaGoogle(n.headline)}" target="_blank">Buscar notícia no Google →</a>
   `;
   document.getElementById('modal-overlay').classList.add('open');
 }
