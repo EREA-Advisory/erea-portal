@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/05/2026 às 09:26",
-  "total": 29,
+  "gerado_em": "13/05/2026 às 10:27",
+  "total": 30,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -24,7 +24,7 @@
       "headline": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) - Tecnologística",
       "source": "Google News",
       "link": "https://www.tecnologistica.com.br",
-      "time": "há 33 min",
+      "time": "hoje, 08:52",
       "dt_iso": "2026-05-13T11:52:57+00:00",
       "summary": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -214,6 +214,22 @@
       "conteudo": ""
     },
     {
+      "id": "103d177ae7",
+      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
+      "source": "Google News",
+      "link": "https://www.moneytimes.com.br",
+      "time": "07/05 às 17:47",
+      "dt_iso": "2026-05-07T20:47:00+00:00",
+      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
+      "category": "ecommerce",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ],
+      "conteudo": ""
+    },
+    {
       "id": "2dbce9aaa6",
       "headline": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi - InfoMoney",
       "source": "Google News",
@@ -310,22 +326,6 @@
       "conteudo": ""
     },
     {
-      "id": "3a324d04c1",
-      "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
-      "source": "Google News",
-      "link": "https://www.terra.com.br",
-      "time": "ontem, 10:51",
-      "dt_iso": "2026-05-11T13:51:00+00:00",
-      "summary": "RL Higiene inaugura novo centro de distribuição em Santos &nbsp;&nbsp; Terra",
-      "category": "logistica",
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ],
-      "conteudo": ""
-    },
-    {
       "id": "c4a60c9c2f",
       "headline": "Nuvemshop inaugura centro de cross-docking em Blumenau (SC) - Mundo Logística",
       "source": "Google News",
@@ -342,11 +342,27 @@
       "conteudo": ""
     },
     {
+      "id": "3a324d04c1",
+      "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
+      "source": "Google News",
+      "link": "https://www.terra.com.br",
+      "time": "ontem, 10:51",
+      "dt_iso": "2026-05-11T13:51:00+00:00",
+      "summary": "RL Higiene inaugura novo centro de distribuição em Santos &nbsp;&nbsp; Terra",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ],
+      "conteudo": ""
+    },
+    {
       "id": "53f20c52fe",
       "headline": "Mercedes-Benz Caminhões e Ônibus inaugura novo centro industrial em Zárate, na Argentina - Tecnologística",
       "source": "Google News",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 09:45",
+      "time": "11/05 às 09:45",
       "dt_iso": "2026-05-11T12:45:23+00:00",
       "summary": "Mercedes-Benz Caminhões e Ônibus inaugura novo centro industrial em Zárate, na Argentina &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -422,6 +438,38 @@
       "conteudo": ""
     },
     {
+      "id": "3bb10149a6",
+      "headline": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas - JC Concursos",
+      "source": "Google News",
+      "link": "https://jcconcursos.com.br",
+      "time": "hoje, 00:26",
+      "dt_iso": "2026-05-13T03:26:20+00:00",
+      "summary": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas &nbsp;&nbsp; JC Concursos",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ],
+      "conteudo": ""
+    },
+    {
+      "id": "ffdbfcf1fb",
+      "headline": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar - JC Concursos",
+      "source": "Google News",
+      "link": "https://jcconcursos.com.br",
+      "time": "07/05 às 21:16",
+      "dt_iso": "2026-05-08T00:16:00+00:00",
+      "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ],
+      "conteudo": ""
+    },
+    {
       "id": "dc322d4c7a",
       "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
       "source": "Google News",
@@ -429,38 +477,6 @@
       "time": "hoje, 18:45",
       "dt_iso": "2026-05-12T21:45:06+00:00",
       "summary": "GGRC11 compra dois galpões e amplia presença logística &nbsp;&nbsp; suno.com.br",
-      "category": "logistica",
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ],
-      "conteudo": ""
-    },
-    {
-      "id": "a34ea0dc29",
-      "headline": "Jadlog investe para enfrentar as gigantes do varejo - Valor Econômico",
-      "source": "Google News",
-      "link": "https://valor.globo.com",
-      "time": "07/05 às 05:02",
-      "dt_iso": "2026-05-07T08:02:20+00:00",
-      "summary": "Jadlog investe para enfrentar as gigantes do varejo &nbsp;&nbsp; Valor Econômico",
-      "category": "logistica",
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ],
-      "conteudo": ""
-    },
-    {
-      "id": "8ed4193e49",
-      "headline": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar - Tribuna de Jundiaí",
-      "source": "Google News",
-      "link": "https://tribunadejundiai.com.br",
-      "time": "07/05 às 08:00",
-      "dt_iso": "2026-05-07T11:00:00+00:00",
-      "summary": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar &nbsp;&nbsp; Tribuna de Jundiaí",
       "category": "logistica",
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
