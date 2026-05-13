@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/05/2026 às 11:34",
-  "total": 37,
+  "gerado_em": "13/05/2026 às 11:41",
+  "total": 34,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -45,27 +45,6 @@
       "badges": [
         "Destaque",
         "Logística"
-      ]
-    },
-    {
-      "id": "cdfc939a27",
-      "headline": "Grupo Mateus amplia atuação no setor farmacêutico e prepara inauguração de nova rede de farmácias - Portal Lupa1",
-      "source": "Google News",
-      "link": "https://lupa1.com.br",
-      "time": "ontem, 15:19",
-      "dt_iso": "2026-05-11T18:19:10+00:00",
-      "summary": "Grupo Mateus amplia atuação no setor farmacêutico e prepara inauguração de nova rede de farmácias &nbsp;&nbsp; Portal Lupa1",
-      "category": "expansao",
-      "keywords": [
-        "grupo mateus",
-        "inaugura",
-        "inauguração",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -525,7 +504,7 @@
       "headline": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas - ND Mais",
       "source": "Google News",
       "link": "https://ndmais.com.br",
-      "time": "há 42 min",
+      "time": "há 49 min",
       "dt_iso": "2026-05-13T13:51:04+00:00",
       "summary": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas &nbsp;&nbsp; ND Mais",
       "category": "expansao",
@@ -537,25 +516,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "a842997708",
-      "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
-      "source": "Google News",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "11/05 às 10:56",
-      "dt_iso": "2026-05-11T13:56:05+00:00",
-      "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -575,25 +535,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "806bfafbcb",
-      "headline": "Renner vê 1º semestre com crescimento de vendas ainda abaixo da previsão - CNN Brasil",
-      "source": "Google News",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "08/05 às 12:31",
-      "dt_iso": "2026-05-08T15:31:00+00:00",
-      "summary": "Renner vê 1º semestre com crescimento de vendas ainda abaixo da previsão &nbsp;&nbsp; CNN Brasil",
-      "category": "logistica",
-      "keywords": [
-        "renner",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
