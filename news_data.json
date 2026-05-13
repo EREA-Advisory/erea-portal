@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/05/2026 às 11:50",
-  "total": 38,
+  "gerado_em": "13/05/2026 às 11:59",
+  "total": 37,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -268,6 +268,26 @@
       ]
     },
     {
+      "id": "103d177ae7",
+      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "07/05 às 17:47",
+      "dt_iso": "2026-05-07T20:47:00+00:00",
+      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "2dbce9aaa6",
       "headline": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi - InfoMoney",
       "source": "InfoMoney",
@@ -323,26 +343,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "103d177ae7",
-      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "07/05 às 17:47",
-      "dt_iso": "2026-05-07T20:47:00+00:00",
-      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -481,25 +481,6 @@
       ]
     },
     {
-      "id": "67301a4646",
-      "headline": "Nuvemshop inaugura centro de crossdocking em Blumenau - TI INSIDE Online",
-      "source": "TI Inside",
-      "link": "https://tiinside.com.br",
-      "time": "ontem, 18:53",
-      "dt_iso": "2026-05-11T21:53:16+00:00",
-      "summary": "Nuvemshop inaugura centro de crossdocking em Blumenau &nbsp;&nbsp; TI INSIDE Online",
-      "category": "logistica",
-      "keywords": [
-        "crossdocking",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d650b75944",
       "headline": "Mercedes-Benz inaugura nova fábrica na Argentina e reforça estratégia industrial da Daimler Truck na América Latina - Mecânica Online",
       "source": "Mecanicaonline",
@@ -523,7 +504,7 @@
       "headline": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas - ND Mais",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "há 58 min",
+      "time": "hoje, 10:51",
       "dt_iso": "2026-05-13T13:51:04+00:00",
       "summary": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas &nbsp;&nbsp; ND Mais",
       "category": "expansao",
@@ -538,13 +519,13 @@
       ]
     },
     {
-      "id": "b42a006c48",
-      "headline": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho - FashionNetwork Brasil",
-      "source": "Google News",
-      "link": "https://br.fashionnetwork.com",
-      "time": "hoje, 15:06",
-      "dt_iso": "2026-05-12T18:06:08+00:00",
-      "summary": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho &nbsp;&nbsp; FashionNetwork Brasil",
+      "id": "a842997708",
+      "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "11/05 às 10:56",
+      "dt_iso": "2026-05-11T13:56:05+00:00",
+      "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -557,13 +538,13 @@
       ]
     },
     {
-      "id": "a842997708",
-      "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "11/05 às 10:56",
-      "dt_iso": "2026-05-11T13:56:05+00:00",
-      "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
+      "id": "b42a006c48",
+      "headline": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho - FashionNetwork Brasil",
+      "source": "Google News",
+      "link": "https://br.fashionnetwork.com",
+      "time": "hoje, 15:06",
+      "dt_iso": "2026-05-12T18:06:08+00:00",
+      "summary": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho &nbsp;&nbsp; FashionNetwork Brasil",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -614,6 +595,25 @@
       ]
     },
     {
+      "id": "ffdbfcf1fb",
+      "headline": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar - JC Concursos",
+      "source": "Jcconcursos",
+      "link": "https://jcconcursos.com.br",
+      "time": "07/05 às 21:16",
+      "dt_iso": "2026-05-08T00:16:00+00:00",
+      "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "dc322d4c7a",
       "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
       "source": "Suno",
@@ -644,25 +644,6 @@
       "keywords": [
         "jadlog",
         "investe"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "8ed4193e49",
-      "headline": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar - Tribuna de Jundiaí",
-      "source": "Tribunadejundiai",
-      "link": "https://tribunadejundiai.com.br",
-      "time": "07/05 às 08:00",
-      "dt_iso": "2026-05-07T11:00:00+00:00",
-      "summary": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar &nbsp;&nbsp; Tribuna de Jundiaí",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
-        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
