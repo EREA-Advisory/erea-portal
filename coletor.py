@@ -486,6 +486,75 @@ def _extrair_link(entry) -> str:
 
 
 
+def _extrair_fonte(link: str, fonte_feed: str) -> str:
+    """Extrai o nome do portal a partir do link da notícia.
+    Se o link for do Google News ou inválido, usa o nome do feed como fallback.
+    """
+    from urllib.parse import urlparse
+
+    NOMES_PORTAIS = {
+        "valor.globo.com":          "Valor Econômico",
+        "exame.com":                "Exame",
+        "infomoney.com.br":         "InfoMoney",
+        "cnnbrasil.com.br":         "CNN Brasil",
+        "logisticadescomplicada.com": "Logística Descomplicada",
+        "portosenavios.com.br":     "Portos e Navios",
+        "logisticsnews.com.br":     "Logistics News",
+        "fundsexplorer.com.br":     "Funds Explorer",
+        "buildings.com.br":         "Buildings",
+        "griclub.org":              "GRI Club",
+        "ecommercebrasil.com.br":   "E-commerce Brasil",
+        "automotivebusiness.com.br":"Automotive Business",
+        "mundologistica.com.br":    "Mundo Logística",
+        "modaisemfoco.com.br":      "Modais em Foco",
+        "tecnologistica.com.br":    "Tecnologística",
+        "investnews.com.br":        "InvestNews",
+        "moneyreport.com.br":       "Money Report",
+        "moneytimes.com.br":        "Money Times",
+        "terra.com.br":             "Terra",
+        "uol.com.br":               "UOL",
+        "folha.uol.com.br":         "Folha de S.Paulo",
+        "estadao.com.br":           "Estadão",
+        "g1.globo.com":             "G1",
+        "oglobo.globo.com":         "O Globo",
+        "gazetadopovo.com.br":      "Gazeta do Povo",
+        "correio24horas.com.br":    "Correio 24h",
+        "correiobraziliense.com.br":"Correio Braziliense",
+        "ndmais.com.br":            "ND Mais",
+        "gauchazh.cne.com.br":      "GaúchaZH",
+        "nsctotal.com.br":          "NSC Total",
+        "opovo.com.br":             "O Povo",
+        "diariodopernambuco.com.br":"Diário de Pernambuco",
+        "jornaldocomercio.com.br":  "Jornal do Comércio",
+        "agazeta.com.br":           "A Gazeta",
+        "segs.com.br":              "SEGS",
+        "suno.com.br":              "Suno",
+        "bloomberg.com.br":         "Bloomberg",
+        "reuters.com":              "Reuters",
+        "tiinside.com.br":          "TI Inside",
+        "sobral.news":              "Sobral Online",
+        "gcmais.com.br":            "GC Mais",
+    }
+
+    if not link or link == "#" or "news.google.com" in link:
+        return fonte_feed
+
+    try:
+        domain = urlparse(link).netloc.lower().replace("www.", "")
+        # Verifica match exato primeiro
+        if domain in NOMES_PORTAIS:
+            return NOMES_PORTAIS[domain]
+        # Verifica match parcial (subdomínios)
+        for key, nome in NOMES_PORTAIS.items():
+            if key in domain:
+                return nome
+        # Fallback: capitaliza o domínio sem TLD
+        nome_raw = domain.split(".")[0].replace("-", " ").title()
+        return nome_raw if len(nome_raw) > 2 else fonte_feed
+    except Exception:
+        return fonte_feed
+
+
 def _categoria(texto: str) -> str:
     scores = {cat: 0 for cat in CATEGORIAS}
     for cat, termos in CATEGORIAS.items():
@@ -573,7 +642,7 @@ def coletar_feeds(horas: int) -> list[dict]:
             candidatas.append({
                 "id":       uid,
                 "headline": titulo,
-                "source":   fonte,
+                "source":   _extrair_fonte(link_real, fonte),
                 "link":     link_real,
                 "time":     _formata_tempo(dt),
                 "dt_iso":   dt.isoformat(),
