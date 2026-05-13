@@ -98,6 +98,9 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .read-btn::after{content:'→';}
 .google-btn{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--navy);background:var(--gold);text-decoration:none;padding:5px 10px;border-radius:2px;transition:opacity .2s;white-space:nowrap;}
 .google-btn:hover{opacity:.85;}
+.kw-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px;}
+.empresa-highlight{text-decoration:underline;text-decoration-color:var(--gold);text-decoration-thickness:2px;text-underline-offset:3px;color:inherit;}
+.kw-tag{font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--gray);background:rgba(136,150,163,.1);border:1px solid rgba(136,150,163,.15);padding:2px 7px;border-radius:1px;}
 .modal-google-btn{display:inline-block;margin-top:18px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--navy);background:var(--gold);text-decoration:none;padding:10px 20px;border-radius:2px;transition:opacity .2s;}
 .modal-google-btn:hover{opacity:.85;}
 
@@ -278,6 +281,37 @@ const BADGE_CLASS = {
 };
 
 let todasNoticias = [];
+
+// ── Lista de empresas monitoradas para highlight no título ──
+const EMPRESAS_HIGHLIGHT = [
+  "Mercado Livre","MercadoLivre","Shopee","Amazon","Magazine Luiza","Magalu",
+  "Via Varejo","Casas Bahia","Americanas","B2W","Shein","Dafiti","Netshoes",
+  "Madeira Madeira","Fast Shop","Tok&Stok","Tok Stok","Lojas Renner","Renner",
+  "Riachuelo","C&A","Pernambucanas","Grupo Mateus","Kalunga","Atacadão","Assaí",
+  "DHL","FedEx","UPS","Correios","Jadlog","Total Express","Loggi","Azul Cargo",
+  "Jamef","Braspress","Patrus","JSL","Sequoia","Luft","ID Logistics","CEVA",
+  "Kuehne+Nagel","Kuehne Nagel","DSV","FM Logistic","Maersk","Yusen","Multilog",
+  "Comfrio","SuperFrio","Ambev","Heineken","Coca-Cola","FEMSA","PepsiCo",
+  "JBS","BRF","Seara","Natura","Boticário","Boticario","Unilever","Colgate",
+  "L'Oréal","Loreal","Reckitt","Hypera","Eurofarma","Whirlpool","Electrolux",
+  "Samsung","Foxconn","Lenovo","Mercedes-Benz","Mercedes Benz","Ford","Volkswagen",
+  "Renault","John Deere","AGCO","Embraer","Braskem","Suzano","Bridgestone","Bosch",
+  "Petz","Petlove","Raia Drogasil","Iron Mountain","Ascenty","Scala","Infracommerce",
+  "Arezzo","Zara","Decathlon","Tok&Stok","MadeiraMadeira","Centauro","Grupo SBF",
+  "Lojas Colombo","Lojas Lebes","Lojas Leader","Grupo Zaffari","Grupo Muffato",
+  "Modais em Foco","Viveo","GPA","Localiza","Mobly","Westwing","Dufrio",
+];
+
+function destacarEmpresas(titulo) {
+  let result = titulo;
+  // Ordena por tamanho decrescente para substituir nomes longos primeiro
+  const sorted = [...EMPRESAS_HIGHLIGHT].sort((a,b) => b.length - a.length);
+  for (const empresa of sorted) {
+    const regex = new RegExp('(' + empresa.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+    result = result.replace(regex, '<span class="empresa-highlight">$1</span>');
+  }
+  return result;
+}
 
 // ── Gera URL de busca no Google pelo título da notícia ──
 function buscaGoogle(titulo) {
@@ -460,10 +494,11 @@ function cardHTML(n, cls) {
   <div class="${cls}${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="card-inner">
       <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
-      <div class="card-headline">${n.headline}</div>
+      <div class="card-headline">${destacarEmpresas(n.headline)}</div>
       <div class="card-summary">${n.summary}</div>
       ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
     </div>
+    ${n.keywords && n.keywords.length ? `<div class="kw-tags">${n.keywords.map(k=>`<span class="kw-tag">${k}</span>`).join('')}</div>` : ''}
     <div class="card-footer">
       <div class="source-info"><div class="source-dot"></div><span class="source-name">${n.source}</span><span class="pub-time">&nbsp;· ${n.time}</span></div>
       <a class="google-btn" href="${buscaGoogle(n.headline)}" target="_blank" onclick="event.stopPropagation()">Buscar →</a>
@@ -476,7 +511,7 @@ function sidebarCardHTML(n) {
   return `
   <div class="sidebar-card${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
-    <div class="sidebar-headline">${n.headline}</div>
+    <div class="sidebar-headline">${destacarEmpresas(n.headline)}</div>
     ${n.relevance ? `<div class="sidebar-relevance">${n.relevance}</div>` : ''}
     <div class="sidebar-meta">
       <span class="sidebar-source">${n.source}</span>
@@ -506,12 +541,13 @@ function abrirModal(id) {
   if (!n) return;
   document.getElementById('modal-conteudo').innerHTML = `
     <div class="badge-row" style="margin-bottom:14px">${badgesHtml(n.badges, n.dt_iso)}</div>
-    <h2>${n.headline}</h2>
+    <h2>${destacarEmpresas(n.headline)}</h2>
     <div class="modal-meta">
       <span style="font-size:12px;color:var(--gold);font-weight:500">${n.source}</span>
       <span style="font-size:12px;color:var(--gray)">${n.time}</span>
       ${n.score ? `<span style="font-size:12px;color:var(--gray)">Relevância: <strong style="color:var(--gold)">${n.score}/10</strong></span>` : ''}
     </div>
+    ${n.keywords && n.keywords.length ? `<div class="kw-tags" style="margin-bottom:12px">${n.keywords.map(k=>`<span class="kw-tag">${k}</span>`).join('')}</div>` : ''}
     ${n.relevance ? `<div class="modal-rel"><h4>Por que é relevante para o time de locações</h4><p>${n.relevance}</p></div>` : ''}
     <a class="modal-google-btn" href="${buscaGoogle(n.headline)}" target="_blank">Buscar notícia no Google →</a>
   `;

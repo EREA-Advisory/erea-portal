@@ -193,7 +193,7 @@ KEYWORDS_ANCORA = [
     "cadeia logística", "cadeia de abastecimento", "supply chain",
     "3pl", "operador logístico", "operadores logísticos",
     "build to suit", "bts logístico", "sale and leaseback",
-    "fii logístico", "fundo logístico", "real estate logístico",
+    "fundo logístico", "real estate logístico",
 ]
 
 # ── Grupo 2: Sinais de ação — movimento corporativo ou financeiro ──
@@ -212,8 +212,7 @@ KEYWORDS_ACAO = [
     # investir
     "investe", "investiu", "investiram", "investimento", "investimentos", "aporte",
     # contratar
-    "contrata", "contratou", "contrataram", "contrato de locação",
-    # instalar
+        # instalar
     "instala", "instalou", "instalaram", "instalação",
     # construir
     "constrói", "construiu", "construção",
@@ -224,7 +223,7 @@ KEYWORDS_ACAO = [
     # locar / alugar
     "locação", "aluguel", "aluga", "alugou",
     # emissão / captação financeira
-    "emissão de cotas", "cri logístico", "captação logística",
+    "cri logístico", "captação logística",
 ]
 
 # ── Grupo 3: Empresas monitoradas — presença garante relevância ──
@@ -565,6 +564,12 @@ def coletar_feeds(horas: int) -> list[dict]:
             aceitas += 1
             log.info(f"  ACEITA: {titulo[:80]}")
 
+            # Salva as keywords encontradas para exibição no portal
+            kws_ancora  = [kw for kw in KEYWORDS_ANCORA  if kw in texto]
+            kws_acao    = [kw for kw in KEYWORDS_ACAO    if kw in texto]
+            kws_empresa = [kw for kw in KEYWORDS_EMPRESA if kw in texto]
+            kws_matches = list(dict.fromkeys(kws_empresa + kws_ancora + kws_acao))[:6]
+
             candidatas.append({
                 "id":       uid,
                 "headline": titulo,
@@ -574,6 +579,7 @@ def coletar_feeds(horas: int) -> list[dict]:
                 "dt_iso":   dt.isoformat(),
                 "summary":  re.sub(r"<[^>]+>", " ", getattr(entry, "summary", "") or "").strip()[:600],
                 "category": _categoria(texto),
+                "keywords": kws_matches,
             })
 
         log.info(f"  {fonte}: {total_entradas} entradas | sem data: {sem_data} | fora janela: {fora_janela} | sem keyword: {sem_keyword} | aceitas: {aceitas}")
