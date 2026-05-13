@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/05/2026 às 10:52",
-  "total": 38,
+  "gerado_em": "13/05/2026 às 11:11",
+  "total": 39,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -11,6 +11,14 @@
       "dt_iso": "2026-05-09T21:10:00+00:00",
       "summary": "Trabalhe na Shopee: empresa abre no Brasil mais de 90 vagas em novo Centro de Distribuição no Ceará e promete gerar 300 empregos em operação logística bilionária que amplia disputa com Amazon e Mercado Livre no Nordeste &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "centro de distribuição",
+        "operação logística",
+        "amplia",
+        "abre"
+      ],
       "score": 9,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -27,6 +35,11 @@
       "dt_iso": "2026-05-13T11:52:57+00:00",
       "summary": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
+      "keywords": [
+        "friozem",
+        "centro de distribuição",
+        "inaugura"
+      ],
       "score": 8,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -43,6 +56,11 @@
       "dt_iso": "2026-05-08T09:30:00+00:00",
       "summary": "Cross-docking vs. fulfillment: qual é a diferença nos centros logísticos da Shopee &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "logistica",
+      "keywords": [
+        "shopee",
+        "fulfillment",
+        "cross-docking"
+      ],
       "score": 8,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -59,6 +77,11 @@
       "dt_iso": "2026-05-12T13:31:24+00:00",
       "summary": "Total Express amplia operação de fulfillment no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
+      "keywords": [
+        "total express",
+        "fulfillment",
+        "amplia"
+      ],
       "score": 8,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -75,6 +98,11 @@
       "dt_iso": "2026-05-08T11:39:31+00:00",
       "summary": "Tirol inaugura centro de distribuição em Maringá com foco em expansão no norte do Paraná &nbsp;&nbsp; MilkPoint",
       "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "expansão"
+      ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
@@ -90,6 +118,11 @@
       "dt_iso": "2026-05-07T19:18:34+00:00",
       "summary": "Jadlog inaugura hub em São Paulo e investe R$ 200 mi &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
+      "keywords": [
+        "jadlog",
+        "inaugura",
+        "investe"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -105,6 +138,11 @@
       "dt_iso": "2026-05-08T19:55:15+00:00",
       "summary": "Mercado Livre abre mão de rentabilidade para crescer no Brasil. ‘Oportunidade rara’ - InvestNews &nbsp;&nbsp; InvestNews",
       "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre",
+        "cresce"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -120,6 +158,10 @@
       "dt_iso": "2026-05-08T17:04:25+00:00",
       "summary": "50 mil pacotes de 11 cidades estão parados em galpão de Piracicaba em segundo dia de greve dos entregadores da Shopee &nbsp;&nbsp; PIRANOT",
       "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "galpão"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -135,6 +177,11 @@
       "dt_iso": "2026-05-09T17:42:00+00:00",
       "summary": "WEG inaugura centro de distribuição de pintura industrial, reforça presença na América Latina com soluções anticorrosivas de alta tecnologia e amplia capacidade de atendimento regional a partir de Bogotá, com mais agilidade e proximidade ao mercado na &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "industrial",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "amplia"
+      ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -150,6 +197,11 @@
       "dt_iso": "2026-05-08T20:02:39+00:00",
       "summary": "WEG anuncia a inauguração do seu Centro de Distribuição de tintas industriais na Colômbia &nbsp;&nbsp; OCP News",
       "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "inauguração"
+      ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
@@ -165,21 +217,11 @@
       "dt_iso": "2026-05-08T12:13:31+00:00",
       "summary": "Mercedes-Benz inaugura nova fábrica na Argentina após investimento de US$ 110 milhões &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "510db7469f",
-      "headline": "O que é cross-docking? Entenda o modelo usado pela Shopee para acelerar entregas - Times Brasil | CNBC",
-      "source": "Google News",
-      "link": "https://timesbrasil.com.br",
-      "time": "06/05 às 11:10",
-      "dt_iso": "2026-05-06T14:10:00+00:00",
-      "summary": "O que é cross-docking? Entenda o modelo usado pela Shopee para acelerar entregas &nbsp;&nbsp; Times Brasil | CNBC",
-      "category": "logistica",
+      "keywords": [
+        "mercedes-benz",
+        "inaugura",
+        "investimento"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -195,6 +237,11 @@
       "dt_iso": "2026-05-06T18:30:40+00:00",
       "summary": "ID Logistics cresce 17,2% no 1º trimestre e amplia operações de e-commerce no Brasil &nbsp;&nbsp; Transporte Moderno",
       "category": "ecommerce",
+      "keywords": [
+        "id logistics",
+        "amplia",
+        "cresce"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -210,6 +257,10 @@
       "dt_iso": "2026-05-12T10:03:45+00:00",
       "summary": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos &nbsp;&nbsp; Portal do Agronegócio",
       "category": "logistica",
+      "keywords": [
+        "suzano",
+        "hub logístico"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -225,6 +276,10 @@
       "dt_iso": "2026-05-12T20:16:48+00:00",
       "summary": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
+      "keywords": [
+        "shopee",
+        "galpões"
+      ],
       "score": 7,
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
@@ -240,6 +295,10 @@
       "dt_iso": "2026-05-08T13:20:00+00:00",
       "summary": "Shopee oferta 90 vagas de emprego em Centro de Distribuição no Ceará; veja detalhes - Papo Carreira &nbsp;&nbsp; Diário do Nordeste",
       "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -255,6 +314,11 @@
       "dt_iso": "2026-05-11T20:39:56+00:00",
       "summary": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
+      "keywords": [
+        "braspress",
+        "amplia",
+        "investe"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -270,6 +334,11 @@
       "dt_iso": "2026-05-07T20:47:00+00:00",
       "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
       "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -285,6 +354,11 @@
       "dt_iso": "2026-05-07T21:00:51+00:00",
       "summary": "O GPA pode ter uma redução de 84% no prejuízo líquido entre este ano e 2029. Já o Grupo Mateus deve ter um crescimento de quase 50% no Ebitda ajustado, enquanto o Assaí deve e aproximar dos R$ 100 bilhões. 📍 Confira a matéria completa no link nos &nbsp;&nbsp; instagram.com",
       "category": "logistica",
+      "keywords": [
+        "grupo mateus",
+        "assaí",
+        "crescimento"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -300,25 +374,15 @@
       "dt_iso": "2026-05-08T17:17:53+00:00",
       "summary": "Natura e Avon aprofundam sua integração no Cone Sul e projetam novas inaugurações no interior da Argentina &nbsp;&nbsp; FashionNetwork Brasil",
       "category": "logistica",
+      "keywords": [
+        "natura",
+        "inaugura",
+        "inaugurações"
+      ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "4264639f41",
-      "headline": "Ex-executivos da Ambev criaram uma trading que já movimenta R$ 1,2 bilhão — e querem o dobro",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/ex-executivos-da-ambev-criaram-uma-trading-que-ja-movimenta-r-12-bilhao-e-querem-o-dobro/",
-      "time": "hoje, 05:52",
-      "dt_iso": "2026-05-13T08:52:48+00:00",
-      "summary": "A DESH Global Trading aposta em expansão comercial e internacionalização para acelerar operações de comércio exterior",
-      "category": "expansao",
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -330,6 +394,10 @@
       "dt_iso": "2026-05-10T23:39:37+00:00",
       "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
       "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
@@ -345,6 +413,10 @@
       "dt_iso": "2026-05-12T11:47:36+00:00",
       "summary": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes &nbsp;&nbsp; Money Times",
       "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investe"
+      ],
       "score": 6,
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
@@ -360,6 +432,10 @@
       "dt_iso": "2026-05-08T20:36:00+00:00",
       "summary": "WEG inaugura novo centro de distribuição de pinturas industriais na América Latina &nbsp;&nbsp; NSC Total",
       "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -375,6 +451,10 @@
       "dt_iso": "2026-05-11T13:51:00+00:00",
       "summary": "RL Higiene inaugura novo centro de distribuição em Santos &nbsp;&nbsp; Terra",
       "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
@@ -390,6 +470,29 @@
       "dt_iso": "2026-05-11T12:45:23+00:00",
       "summary": "Mercedes-Benz Caminhões e Ônibus inaugura novo centro industrial em Zárate, na Argentina &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
+      "keywords": [
+        "mercedes-benz",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "67301a4646",
+      "headline": "Nuvemshop inaugura centro de crossdocking em Blumenau - TI INSIDE Online",
+      "source": "Google News",
+      "link": "https://tiinside.com.br",
+      "time": "ontem, 18:53",
+      "dt_iso": "2026-05-11T21:53:16+00:00",
+      "summary": "Nuvemshop inaugura centro de crossdocking em Blumenau &nbsp;&nbsp; TI INSIDE Online",
+      "category": "logistica",
+      "keywords": [
+        "crossdocking",
+        "inaugura"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -405,6 +508,10 @@
       "dt_iso": "2026-05-11T18:44:13+00:00",
       "summary": "Mercedes-Benz inaugura nova fábrica na Argentina e reforça estratégia industrial da Daimler Truck na América Latina &nbsp;&nbsp; Mecânica Online",
       "category": "industrial",
+      "keywords": [
+        "mercedes-benz",
+        "inaugura"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -412,14 +519,37 @@
       ]
     },
     {
+      "id": "c777a694da",
+      "headline": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas - ND Mais",
+      "source": "Google News",
+      "link": "https://ndmais.com.br",
+      "time": "há 19 min",
+      "dt_iso": "2026-05-13T13:51:04+00:00",
+      "summary": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas &nbsp;&nbsp; ND Mais",
+      "category": "expansao",
+      "keywords": [
+        "mercado livre",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "a842997708",
       "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
       "source": "Google News",
       "link": "https://www.cnnbrasil.com.br",
-      "time": "ontem, 10:56",
+      "time": "11/05 às 10:56",
       "dt_iso": "2026-05-11T13:56:05+00:00",
       "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
       "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "crescimento"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -435,6 +565,10 @@
       "dt_iso": "2026-05-12T18:06:08+00:00",
       "summary": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho &nbsp;&nbsp; FashionNetwork Brasil",
       "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "crescimento"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -450,6 +584,29 @@
       "dt_iso": "2026-05-08T15:31:00+00:00",
       "summary": "Renner vê 1º semestre com crescimento de vendas ainda abaixo da previsão &nbsp;&nbsp; CNN Brasil",
       "category": "logistica",
+      "keywords": [
+        "renner",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3bb10149a6",
+      "headline": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas - JC Concursos",
+      "source": "Google News",
+      "link": "https://jcconcursos.com.br",
+      "time": "hoje, 00:26",
+      "dt_iso": "2026-05-13T03:26:20+00:00",
+      "summary": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas &nbsp;&nbsp; JC Concursos",
+      "category": "logistica",
+      "keywords": [
+        "pepsico",
+        "abre"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -465,6 +622,10 @@
       "dt_iso": "2026-05-08T00:16:00+00:00",
       "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
       "category": "logistica",
+      "keywords": [
+        "jbs",
+        "abre"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -480,6 +641,10 @@
       "dt_iso": "2026-05-12T21:45:06+00:00",
       "summary": "GGRC11 compra dois galpões e amplia presença logística &nbsp;&nbsp; suno.com.br",
       "category": "logistica",
+      "keywords": [
+        "galpões",
+        "amplia"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -495,6 +660,10 @@
       "dt_iso": "2026-05-07T08:02:20+00:00",
       "summary": "Jadlog investe para enfrentar as gigantes do varejo &nbsp;&nbsp; Valor Econômico",
       "category": "logistica",
+      "keywords": [
+        "jadlog",
+        "investe"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -510,6 +679,10 @@
       "dt_iso": "2026-05-08T19:34:59+00:00",
       "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
+      "keywords": [
+        "loggi",
+        "amplia"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -525,6 +698,10 @@
       "dt_iso": "2026-05-07T13:34:50+00:00",
       "summary": "Mercado Livre (MELI34) segue movendo céus e terra para crescer: no 1T26, vendas devem subir forte, enquanto lucro não acompanha &nbsp;&nbsp; Seu Dinheiro",
       "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "cresce"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -540,6 +717,10 @@
       "dt_iso": "2026-05-09T12:58:17+00:00",
       "summary": "Riachuelo usa moda brasileira para crescer no varejo &nbsp;&nbsp; InvestNews",
       "category": "logistica",
+      "keywords": [
+        "riachuelo",
+        "cresce"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -555,6 +736,10 @@
       "dt_iso": "2026-05-06T14:31:10+00:00",
       "summary": "Consumo de cerveja cresce no Brasil e Ambev supera previsões &nbsp;&nbsp; Safra",
       "category": "logistica",
+      "keywords": [
+        "ambev",
+        "cresce"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
@@ -570,6 +755,10 @@
       "dt_iso": "2026-05-13T11:53:23+00:00",
       "summary": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce &nbsp;&nbsp; Autos Segredos",
       "category": "ecommerce",
+      "keywords": [
+        "mercedes-benz",
+        "amplia"
+      ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
