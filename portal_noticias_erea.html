@@ -74,8 +74,10 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .badge-investimento{background:rgba(201,168,76,.08);color:var(--gold-dim);border:1px solid rgba(201,168,76,.2);}
 .badge-ecommerce{background:rgba(136,150,163,.12);color:var(--gray-light);border:1px solid rgba(136,150,163,.15);}
 .badge-industrial{background:rgba(201,168,76,.06);color:var(--gold-dim);border:1px solid rgba(201,168,76,.15);}
-.badge-novo{background:#c9a84c;color:#0d2137;font-weight:700;animation:pulse-novo 2s ease-in-out infinite;}
-@keyframes pulse-novo{0%,100%{opacity:1}50%{opacity:.7}}
+.badge-novo{background:#c9a84c;color:#0d2137;font-weight:700;font-size:10px;letter-spacing:.16em;animation:pulse-novo 2s ease-in-out infinite;}
+@keyframes pulse-novo{0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(201,168,76,.6)}50%{opacity:.9;box-shadow:0 0 0 4px rgba(201,168,76,0)}}
+.card-novo{border-color:rgba(201,168,76,0.6) !important;}
+.card-novo::after{content:'';position:absolute;top:0;right:0;width:0;height:0;border-style:solid;border-width:0 28px 28px 0;border-color:transparent var(--gold) transparent transparent;}
 
 .card-headline{font-family:'Cormorant Garamond',serif;font-size:20px;font-weight:600;line-height:1.35;color:var(--white);}
 .card-featured .card-headline{font-size:26px;}
@@ -260,14 +262,19 @@ function buscaGoogle(titulo) {
 // ── Formatação de tempo a partir de ISO string ──
 function formatarTempo(isoStr) {
   if (!isoStr) return '';
-  const dt = new Date(isoStr);
+  const iso = isoStr.includes('+') || isoStr.endsWith('Z') ? isoStr : isoStr + 'Z';
+  const dt = new Date(iso);
   if (isNaN(dt)) return '';
   const diff = (Date.now() - dt.getTime()) / 1000;
   const min = Math.round(diff / 60);
   if (min < 60) return `há ${min} min`;
   const h = Math.floor(diff / 3600);
-  if (h < 24) return `hoje, ${String(dt.getHours()).padStart(2,'0')}:${String(dt.getMinutes()).padStart(2,'0')}`;
-  return `ontem, ${String(dt.getHours()).padStart(2,'0')}:${String(dt.getMinutes()).padStart(2,'0')}`;
+  // Sempre exibe em BRT (UTC-3)
+  const brt = new Date(dt.getTime() - 3 * 60 * 60 * 1000);
+  const hh  = String(brt.getUTCHours()).padStart(2,'0');
+  const mm  = String(brt.getUTCMinutes()).padStart(2,'0');
+  if (h < 24) return `hoje, ${hh}:${mm}`;
+  return `ontem, ${hh}:${mm}`;
 }
 
 // ── Verifica se notícia é das últimas 24h ──
@@ -375,6 +382,14 @@ function renderizarGrid(lista) {
   // ── Deduplicação por similaridade ──
   const semDup = deduplicar(lista);
 
+  // ── Ordena: novas (24h) primeiro, depois por score ──
+  semDup.sort((a, b) => {
+    const aNovo = a.dt_iso && isNovo(a.dt_iso) ? 1 : 0;
+    const bNovo = b.dt_iso && isNovo(b.dt_iso) ? 1 : 0;
+    if (bNovo !== aNovo) return bNovo - aNovo;
+    return (b.score||0) - (a.score||0);
+  });
+
   grid.style.display = 'grid';
   grid.innerHTML = '';
 
@@ -413,8 +428,9 @@ function renderizarGrid(lista) {
 }
 
 function cardHTML(n, cls) {
+  const novoClass = (n.dt_iso && isNovo(n.dt_iso)) ? ' card-novo' : '';
   return `
-  <div class="${cls}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+  <div class="${cls}${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="card-inner">
       <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
       <div class="card-headline">${n.headline}</div>
@@ -429,8 +445,9 @@ function cardHTML(n, cls) {
 }
 
 function sidebarCardHTML(n) {
+  const novoClass = (n.dt_iso && isNovo(n.dt_iso)) ? ' card-novo' : '';
   return `
-  <div class="sidebar-card" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+  <div class="sidebar-card${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
     <div class="sidebar-headline">${n.headline}</div>
     ${n.relevance ? `<div class="sidebar-relevance">${n.relevance}</div>` : ''}
@@ -442,8 +459,9 @@ function sidebarCardHTML(n) {
 }
 
 function cardSmallHTML(n) {
+  const novoClass = (n.dt_iso && isNovo(n.dt_iso)) ? ' card-novo' : '';
   return `
-  <div class="card-small" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+  <div class="card-small${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
     <div class="card-headline">${n.headline}</div>
     <div class="card-summary">${n.summary}</div>

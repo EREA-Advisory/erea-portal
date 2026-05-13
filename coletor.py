@@ -17,6 +17,8 @@ import os
 import re
 import time
 from datetime import datetime, timezone, timedelta
+
+BRT = timezone(timedelta(hours=-3))  # Horário de Brasília
 from pathlib import Path
 from email.utils import parsedate_to_datetime
 
@@ -321,19 +323,19 @@ def _parse_data(entry) -> datetime | None:
 
 
 def _formata_tempo(dt: datetime) -> str:
-    """Formata data relativa. dt é sempre válido (entradas sem data são descartadas)."""
-    agora = datetime.now(timezone.utc)
-    diff  = agora - dt
+    """Formata data relativa em horário de Brasília (BRT = UTC-3)."""
+    agora   = datetime.now(timezone.utc)
+    dt_brt  = dt.astimezone(BRT)
+    diff    = agora - dt
     minutos = int(diff.total_seconds() / 60)
     if minutos < 60:
         return f"há {minutos} min"
     horas = int(diff.total_seconds() / 3600)
     if horas < 24:
-        return f"hoje, {dt.astimezone().strftime('%H:%M')}"
+        return f"hoje, {dt_brt.strftime('%H:%M')}"
     if horas < 48:
-        return f"ontem, {dt.astimezone().strftime('%H:%M')}"
-    # Não deve chegar aqui (entradas >24h são descartadas), mas por segurança:
-    return dt.astimezone().strftime("%d/%m às %H:%M")
+        return f"ontem, {dt_brt.strftime('%H:%M')}"
+    return dt_brt.strftime("%d/%m às %H:%M")
 
 
 def _texto_completo(entry) -> str:
@@ -439,7 +441,7 @@ def _categoria(texto: str) -> str:
 def coletar_feeds(horas: int) -> list[dict]:
     """Percorre todos os feeds e retorna entradas dentro da janela de tempo."""
     corte = datetime.now(timezone.utc) - timedelta(hours=horas)
-    log.info(f"Janela de busca: ultimas {horas}h (corte UTC: {corte.strftime('%Y-%m-%d %H:%M')})")
+    log.info(f"Janela de busca: ultimas {horas}h (corte BRT: {corte.astimezone(BRT).strftime('%Y-%m-%d %H:%M')})")
     candidatas = []
     ids_vistos  = set()
 
@@ -621,7 +623,7 @@ def gerar_json(noticias: list[dict]) -> None:
         log.warning(f"  {removidas} notícia(s) removida(s) por data anterior a {corte_final.strftime('%d/%m/%Y')} na validação final.")
 
     payload = {
-        "gerado_em": datetime.now().strftime("%d/%m/%Y às %H:%M"),
+        "gerado_em": datetime.now(BRT).strftime("%d/%m/%Y às %H:%M"),
         "total": len(filtradas),
         "noticias": filtradas,
     }
