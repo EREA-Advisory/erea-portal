@@ -1,24 +1,7 @@
 {
-  "gerado_em": "12/05/2026 às 20:56",
-  "total": 29,
+  "gerado_em": "13/05/2026 às 11:51",
+  "total": 28,
   "noticias": [
-    {
-      "id": "81d30e79f5",
-      "headline": "A Shopee abriu três centros de distribuição de uma vez em Vitória, Curitiba e Fortaleza com capacidade para processar 700 mil pedidos por dia, gerou 900 empregos e já soma 22 centros no Brasil com 200 hubs logísticos e 45 mil motoristas parceiros numa - CPG Click Petróleo e Gás",
-      "source": "Google News",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "06/05 às 02:21",
-      "dt_iso": "2026-05-06T02:21:00+00:00",
-      "summary": "A Shopee abriu três centros de distribuição de uma vez em Vitória, Curitiba e Fortaleza com capacidade para processar 700 mil pedidos por dia, gerou 900 empregos e já soma 22 centros no Brasil com 200 hubs logísticos e 45 mil motoristas parceiros numa &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
-      "score": 9,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ],
-      "conteudo": ""
-    },
     {
       "id": "6bd6206805",
       "headline": "Trabalhe na Shopee: empresa abre no Brasil mais de 90 vagas em novo Centro de Distribuição no Ceará e promete gerar 300 empregos em operação logística bilionária que amplia disputa com Amazon e Mercado Livre no Nordeste - CPG Click Petróleo e Gás",
@@ -33,40 +16,6 @@
       "badges": [
         "Destaque",
         "E-commerce"
-      ],
-      "conteudo": ""
-    },
-    {
-      "id": "1ea00b17eb",
-      "headline": "Shopee Ceará: gigante do e-commerce inaugura centro de distribuição e acirra disputa logística no Nordeste - Sobral Online",
-      "source": "Google News",
-      "link": "https://sobralonline.com.br",
-      "time": "06/05 às 03:21",
-      "dt_iso": "2026-05-06T03:21:39+00:00",
-      "summary": "Shopee Ceará: gigante do e-commerce inaugura centro de distribuição e acirra disputa logística no Nordeste &nbsp;&nbsp; Sobral Online",
-      "category": "ecommerce",
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ],
-      "conteudo": ""
-    },
-    {
-      "id": "0c37d2af9b",
-      "headline": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará - Tecnologística",
-      "source": "Google News",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "05/05 às 23:58",
-      "dt_iso": "2026-05-05T23:58:47+00:00",
-      "summary": "Shopee abre novos centros de distribuição no Espírito Santo, Paraná e Ceará &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
       ],
       "conteudo": ""
     },
@@ -216,22 +165,6 @@
       "conteudo": ""
     },
     {
-      "id": "ba931e9e58",
-      "headline": "Shopee no ES: Viana é escolhida para 1º Centro de Distribuição - ES Brasil",
-      "source": "Google News",
-      "link": "https://esbrasil.com.br",
-      "time": "06/05 às 19:44",
-      "dt_iso": "2026-05-06T19:44:05+00:00",
-      "summary": "Shopee no ES: Viana é escolhida para 1º Centro de Distribuição &nbsp;&nbsp; ES Brasil",
-      "category": "ecommerce",
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ],
-      "conteudo": ""
-    },
-    {
       "id": "c74c6a0022",
       "headline": "ID Logistics cresce 17,2% no 1º trimestre e amplia operações de e-commerce no Brasil - Transporte Moderno",
       "source": "Google News",
@@ -248,27 +181,11 @@
       "conteudo": ""
     },
     {
-      "id": "c222870246",
-      "headline": "Shopee anuncia centro de distribuição no Ceará; veja onde - O POVO+",
-      "source": "Google News",
-      "link": "https://mais.opovo.com.br",
-      "time": "06/05 às 04:15",
-      "dt_iso": "2026-05-06T04:15:00+00:00",
-      "summary": "Shopee anuncia centro de distribuição no Ceará; veja onde &nbsp;&nbsp; O POVO+",
-      "category": "ecommerce",
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ],
-      "conteudo": ""
-    },
-    {
       "id": "02f45204e0",
       "headline": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos - Portal do Agronegócio",
       "source": "Google News",
       "link": "https://www.portaldoagronegocio.com.br",
-      "time": "hoje, 10:03",
+      "time": "ontem, 10:03",
       "dt_iso": "2026-05-12T10:03:45+00:00",
       "summary": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos &nbsp;&nbsp; Portal do Agronegócio",
       "category": "logistica",
@@ -300,7 +217,7 @@
       "headline": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi - InfoMoney",
       "source": "Google News",
       "link": "https://www.infomoney.com.br",
-      "time": "há 38 min",
+      "time": "hoje, 20:16",
       "dt_iso": "2026-05-12T20:16:48+00:00",
       "summary": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
@@ -312,11 +229,27 @@
       "conteudo": ""
     },
     {
+      "id": "93851d39c9",
+      "headline": "Shopee oferta 90 vagas de emprego em Centro de Distribuição no Ceará; veja detalhes - Papo Carreira - Diário do Nordeste",
+      "source": "Google News",
+      "link": "https://diariodonordeste.verdesmares.com.br",
+      "time": "08/05 às 13:20",
+      "dt_iso": "2026-05-08T13:20:00+00:00",
+      "summary": "Shopee oferta 90 vagas de emprego em Centro de Distribuição no Ceará; veja detalhes - Papo Carreira &nbsp;&nbsp; Diário do Nordeste",
+      "category": "ecommerce",
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ],
+      "conteudo": ""
+    },
+    {
       "id": "d7f811acc5",
       "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
       "source": "Google News",
       "link": "https://ndmais.com.br",
-      "time": "ontem, 23:39",
+      "time": "10/05 às 23:39",
       "dt_iso": "2026-05-10T23:39:37+00:00",
       "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
       "category": "expansao",
@@ -332,7 +265,7 @@
       "headline": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes - Money Times",
       "source": "Google News",
       "link": "https://www.moneytimes.com.br",
-      "time": "hoje, 11:47",
+      "time": "ontem, 11:47",
       "dt_iso": "2026-05-12T11:47:36+00:00",
       "summary": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes &nbsp;&nbsp; Money Times",
       "category": "logistica",
@@ -360,22 +293,6 @@
       "conteudo": ""
     },
     {
-      "id": "c4a60c9c2f",
-      "headline": "Nuvemshop inaugura centro de cross-docking em Blumenau (SC) - Mundo Logística",
-      "source": "Google News",
-      "link": "https://mundologistica.com.br",
-      "time": "06/05 às 13:42",
-      "dt_iso": "2026-05-06T13:42:56+00:00",
-      "summary": "Nuvemshop inaugura centro de cross-docking em Blumenau (SC) &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ],
-      "conteudo": ""
-    },
-    {
       "id": "3a324d04c1",
       "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
       "source": "Google News",
@@ -386,6 +303,22 @@
       "category": "logistica",
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ],
+      "conteudo": ""
+    },
+    {
+      "id": "c4a60c9c2f",
+      "headline": "Nuvemshop inaugura centro de cross-docking em Blumenau (SC) - Mundo Logística",
+      "source": "Google News",
+      "link": "https://mundologistica.com.br",
+      "time": "06/05 às 13:42",
+      "dt_iso": "2026-05-06T13:42:56+00:00",
+      "summary": "Nuvemshop inaugura centro de cross-docking em Blumenau (SC) &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ],
@@ -456,13 +389,61 @@
       "conteudo": ""
     },
     {
-      "id": "ffdbfcf1fb",
-      "headline": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar - JC Concursos",
+      "id": "806bfafbcb",
+      "headline": "Renner vê 1º semestre com crescimento de vendas ainda abaixo da previsão - CNN Brasil",
       "source": "Google News",
-      "link": "https://jcconcursos.com.br",
-      "time": "08/05 às 00:16",
-      "dt_iso": "2026-05-08T00:16:00+00:00",
-      "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "08/05 às 15:31",
+      "dt_iso": "2026-05-08T15:31:00+00:00",
+      "summary": "Renner vê 1º semestre com crescimento de vendas ainda abaixo da previsão &nbsp;&nbsp; CNN Brasil",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ],
+      "conteudo": ""
+    },
+    {
+      "id": "dc322d4c7a",
+      "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
+      "source": "Google News",
+      "link": "https://www.suno.com.br",
+      "time": "hoje, 21:45",
+      "dt_iso": "2026-05-12T21:45:06+00:00",
+      "summary": "GGRC11 compra dois galpões e amplia presença logística &nbsp;&nbsp; suno.com.br",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ],
+      "conteudo": ""
+    },
+    {
+      "id": "a34ea0dc29",
+      "headline": "Jadlog investe para enfrentar as gigantes do varejo - Valor Econômico",
+      "source": "Google News",
+      "link": "https://valor.globo.com",
+      "time": "07/05 às 08:02",
+      "dt_iso": "2026-05-07T08:02:20+00:00",
+      "summary": "Jadlog investe para enfrentar as gigantes do varejo &nbsp;&nbsp; Valor Econômico",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ],
+      "conteudo": ""
+    },
+    {
+      "id": "8ed4193e49",
+      "headline": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar - Tribuna de Jundiaí",
+      "source": "Google News",
+      "link": "https://tribunadejundiai.com.br",
+      "time": "07/05 às 11:00",
+      "dt_iso": "2026-05-07T11:00:00+00:00",
+      "summary": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar &nbsp;&nbsp; Tribuna de Jundiaí",
       "category": "logistica",
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
