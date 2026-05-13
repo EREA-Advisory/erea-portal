@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/05/2026 às 11:11",
-  "total": 39,
+  "gerado_em": "13/05/2026 às 11:34",
+  "total": 37,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -45,6 +45,27 @@
       "badges": [
         "Destaque",
         "Logística"
+      ]
+    },
+    {
+      "id": "cdfc939a27",
+      "headline": "Grupo Mateus amplia atuação no setor farmacêutico e prepara inauguração de nova rede de farmácias - Portal Lupa1",
+      "source": "Google News",
+      "link": "https://lupa1.com.br",
+      "time": "ontem, 15:19",
+      "dt_iso": "2026-05-11T18:19:10+00:00",
+      "summary": "Grupo Mateus amplia atuação no setor farmacêutico e prepara inauguração de nova rede de farmácias &nbsp;&nbsp; Portal Lupa1",
+      "category": "expansao",
+      "keywords": [
+        "grupo mateus",
+        "inaugura",
+        "inauguração",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -481,25 +502,6 @@
       ]
     },
     {
-      "id": "67301a4646",
-      "headline": "Nuvemshop inaugura centro de crossdocking em Blumenau - TI INSIDE Online",
-      "source": "Google News",
-      "link": "https://tiinside.com.br",
-      "time": "ontem, 18:53",
-      "dt_iso": "2026-05-11T21:53:16+00:00",
-      "summary": "Nuvemshop inaugura centro de crossdocking em Blumenau &nbsp;&nbsp; TI INSIDE Online",
-      "category": "logistica",
-      "keywords": [
-        "crossdocking",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d650b75944",
       "headline": "Mercedes-Benz inaugura nova fábrica na Argentina e reforça estratégia industrial da Daimler Truck na América Latina - Mecânica Online",
       "source": "Google News",
@@ -523,7 +525,7 @@
       "headline": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas - ND Mais",
       "source": "Google News",
       "link": "https://ndmais.com.br",
-      "time": "há 19 min",
+      "time": "há 42 min",
       "dt_iso": "2026-05-13T13:51:04+00:00",
       "summary": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas &nbsp;&nbsp; ND Mais",
       "category": "expansao",
@@ -595,44 +597,6 @@
       ]
     },
     {
-      "id": "3bb10149a6",
-      "headline": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas - JC Concursos",
-      "source": "Google News",
-      "link": "https://jcconcursos.com.br",
-      "time": "hoje, 00:26",
-      "dt_iso": "2026-05-13T03:26:20+00:00",
-      "summary": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas &nbsp;&nbsp; JC Concursos",
-      "category": "logistica",
-      "keywords": [
-        "pepsico",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ffdbfcf1fb",
-      "headline": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar - JC Concursos",
-      "source": "Google News",
-      "link": "https://jcconcursos.com.br",
-      "time": "07/05 às 21:16",
-      "dt_iso": "2026-05-08T00:16:00+00:00",
-      "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
-      "category": "logistica",
-      "keywords": [
-        "jbs",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "dc322d4c7a",
       "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
       "source": "Google News",
@@ -663,6 +627,25 @@
       "keywords": [
         "jadlog",
         "investe"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "8ed4193e49",
+      "headline": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar - Tribuna de Jundiaí",
+      "source": "Google News",
+      "link": "https://tribunadejundiai.com.br",
+      "time": "07/05 às 08:00",
+      "dt_iso": "2026-05-07T11:00:00+00:00",
+      "summary": "Magalu abre vagas de emprego em Jundiaí; veja como se candidatar &nbsp;&nbsp; Tribuna de Jundiaí",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -719,25 +702,6 @@
       "category": "logistica",
       "keywords": [
         "riachuelo",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "23aba6b02b",
-      "headline": "Consumo de cerveja cresce no Brasil e Ambev supera previsões - Safra",
-      "source": "Google News",
-      "link": "https://oespecialista.safra.com.br",
-      "time": "06/05 às 11:31",
-      "dt_iso": "2026-05-06T14:31:10+00:00",
-      "summary": "Consumo de cerveja cresce no Brasil e Ambev supera previsões &nbsp;&nbsp; Safra",
-      "category": "logistica",
-      "keywords": [
-        "ambev",
         "cresce"
       ],
       "score": 6,
