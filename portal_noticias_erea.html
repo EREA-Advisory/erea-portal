@@ -303,12 +303,16 @@ const EMPRESAS_HIGHLIGHT = [
 ];
 
 function destacarEmpresas(titulo) {
+  if (!titulo) return titulo;
   let result = titulo;
-  // Ordena por tamanho decrescente para substituir nomes longos primeiro
   const sorted = [...EMPRESAS_HIGHLIGHT].sort((a,b) => b.length - a.length);
   for (const empresa of sorted) {
-    const regex = new RegExp('(' + empresa.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
-    result = result.replace(regex, '<span class="empresa-highlight">$1</span>');
+    // Escapa caracteres especiais de regex corretamente no JS
+    const escaped = empresa.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+    try {
+      const regex = new RegExp('(' + escaped + ')', 'gi');
+      result = result.replace(regex, '<span class="empresa-highlight">$1</span>');
+    } catch(e) {}
   }
   return result;
 }
@@ -525,7 +529,7 @@ function cardSmallHTML(n) {
   return `
   <div class="card-small${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
-    <div class="card-headline">${n.headline}</div>
+    <div class="card-headline">${destacarEmpresas(n.headline)}</div>
     <div class="card-summary">${n.summary}</div>
     ${n.relevance ? `<div class="relevance-block"><div class="relevance-label">Por que é relevante</div><div class="relevance-text">${n.relevance}</div></div>` : ''}
     <div class="card-footer">
