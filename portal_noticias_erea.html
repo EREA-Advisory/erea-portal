@@ -233,7 +233,7 @@ footer span{color:var(--gold);}
     <div class="stat-card"><div class="stat-icon">◈</div><div><div class="stat-label">Notícias hoje</div><div class="stat-value" id="stat-total">—</div></div></div>
     <div class="stat-card"><div class="stat-icon">▲</div><div><div class="stat-label">Sinais de expansão</div><div class="stat-value" id="stat-exp">—</div></div></div>
     <div class="stat-card"><div class="stat-icon">◆</div><div><div class="stat-label">Movimentos financeiros</div><div class="stat-value" id="stat-fin">—</div></div></div>
-    <div class="stat-card"><div class="stat-icon">○</div><div><div class="stat-label">Fontes monitoradas</div><div class="stat-value">12</div></div></div>
+    <div class="stat-card"><div class="stat-icon">○</div><div><div class="stat-label">Fontes monitoradas</div><div class="stat-value" id="stat-fontes">—</div></div></div>
   </div>
 
   <!-- Grid preenchido dinamicamente pelo JS -->
@@ -397,6 +397,7 @@ function renderizar(data) {
   document.getElementById('stat-total').textContent = todasNoticias.length;
   document.getElementById('stat-exp').textContent = todasNoticias.filter(n=>(n.badges||[]).includes('Expansão')).length;
   document.getElementById('stat-fin').textContent = todasNoticias.filter(n=>(n.badges||[]).includes('Investimento')).length;
+  document.getElementById('stat-fontes').textContent = new Set(todasNoticias.map(n=>n.source)).size;
 
   renderizarGrid(todasNoticias);
 }
