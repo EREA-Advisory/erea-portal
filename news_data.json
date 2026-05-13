@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/05/2026 às 10:27",
-  "total": 30,
+  "gerado_em": "13/05/2026 às 10:52",
+  "total": 38,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -16,8 +16,7 @@
       "badges": [
         "Destaque",
         "E-commerce"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "ffeb6accab",
@@ -33,8 +32,7 @@
       "badges": [
         "Destaque",
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "3fa96446da",
@@ -50,8 +48,23 @@
       "badges": [
         "Destaque",
         "Logística"
-      ],
-      "conteudo": ""
+      ]
+    },
+    {
+      "id": "46b79c0bf7",
+      "headline": "Total Express amplia operação de fulfillment no Brasil - Mundo Logística",
+      "source": "Google News",
+      "link": "https://mundologistica.com.br",
+      "time": "ontem, 10:31",
+      "dt_iso": "2026-05-12T13:31:24+00:00",
+      "summary": "Total Express amplia operação de fulfillment no Brasil &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
     },
     {
       "id": "239abf0a05",
@@ -66,8 +79,7 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "1654cfbd6f",
@@ -82,8 +94,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "5d5f0c1581",
@@ -98,8 +109,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "24d24424d9",
@@ -114,8 +124,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "2dedd15056",
@@ -130,8 +139,7 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Industrial"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "d81eade048",
@@ -146,8 +154,7 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "a244ff5967",
@@ -162,8 +169,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "510db7469f",
@@ -178,8 +184,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "c74c6a0022",
@@ -194,8 +199,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "02f45204e0",
@@ -210,24 +214,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
-    },
-    {
-      "id": "103d177ae7",
-      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
-      "source": "Google News",
-      "link": "https://www.moneytimes.com.br",
-      "time": "07/05 às 17:47",
-      "dt_iso": "2026-05-07T20:47:00+00:00",
-      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
-      "category": "ecommerce",
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "2dbce9aaa6",
@@ -242,8 +229,7 @@
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
         "Investimento"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "93851d39c9",
@@ -258,8 +244,67 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
-      ],
-      "conteudo": ""
+      ]
+    },
+    {
+      "id": "0230101acd",
+      "headline": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "ontem, 17:39",
+      "dt_iso": "2026-05-11T20:39:56+00:00",
+      "summary": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "103d177ae7",
+      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
+      "source": "Google News",
+      "link": "https://www.moneytimes.com.br",
+      "time": "07/05 às 17:47",
+      "dt_iso": "2026-05-07T20:47:00+00:00",
+      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
+      "category": "ecommerce",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "ae97ed961c",
+      "headline": "O GPA pode ter uma redução de 84% no prejuízo líquido entre este ano e 2029. Já o Grupo Mateus deve ter um crescimento de quase 50% no Ebitda ajustado, enquanto o Assaí deve e aproximar dos R$ 100 bilhões. 📍 Confira a matéria completa no link nos - instagram.com",
+      "source": "Google News",
+      "link": "https://www.instagram.com",
+      "time": "07/05 às 18:00",
+      "dt_iso": "2026-05-07T21:00:51+00:00",
+      "summary": "O GPA pode ter uma redução de 84% no prejuízo líquido entre este ano e 2029. Já o Grupo Mateus deve ter um crescimento de quase 50% no Ebitda ajustado, enquanto o Assaí deve e aproximar dos R$ 100 bilhões. 📍 Confira a matéria completa no link nos &nbsp;&nbsp; instagram.com",
+      "category": "logistica",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "eb0e3030b1",
+      "headline": "Natura e Avon aprofundam sua integração no Cone Sul e projetam novas inaugurações no interior da Argentina - FashionNetwork Brasil",
+      "source": "Google News",
+      "link": "https://br.fashionnetwork.com",
+      "time": "08/05 às 14:17",
+      "dt_iso": "2026-05-08T17:17:53+00:00",
+      "summary": "Natura e Avon aprofundam sua integração no Cone Sul e projetam novas inaugurações no interior da Argentina &nbsp;&nbsp; FashionNetwork Brasil",
+      "category": "logistica",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
     },
     {
       "id": "4264639f41",
@@ -274,8 +319,7 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ],
-      "conteudo": "ome"
+      ]
     },
     {
       "id": "d7f811acc5",
@@ -290,8 +334,7 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "9ac7e9069e",
@@ -306,8 +349,7 @@
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "ad1edf03c7",
@@ -322,31 +364,14 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
-    },
-    {
-      "id": "c4a60c9c2f",
-      "headline": "Nuvemshop inaugura centro de cross-docking em Blumenau (SC) - Mundo Logística",
-      "source": "Google News",
-      "link": "https://mundologistica.com.br",
-      "time": "06/05 às 10:42",
-      "dt_iso": "2026-05-06T13:42:56+00:00",
-      "summary": "Nuvemshop inaugura centro de cross-docking em Blumenau (SC) &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "3a324d04c1",
       "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
       "source": "Google News",
       "link": "https://www.terra.com.br",
-      "time": "ontem, 10:51",
+      "time": "11/05 às 10:51",
       "dt_iso": "2026-05-11T13:51:00+00:00",
       "summary": "RL Higiene inaugura novo centro de distribuição em Santos &nbsp;&nbsp; Terra",
       "category": "logistica",
@@ -354,8 +379,7 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "53f20c52fe",
@@ -370,8 +394,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "d650b75944",
@@ -386,8 +409,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Industrial"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "a842997708",
@@ -402,8 +424,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "b42a006c48",
@@ -418,8 +439,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "806bfafbcb",
@@ -434,24 +454,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
-    },
-    {
-      "id": "3bb10149a6",
-      "headline": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas - JC Concursos",
-      "source": "Google News",
-      "link": "https://jcconcursos.com.br",
-      "time": "hoje, 00:26",
-      "dt_iso": "2026-05-13T03:26:20+00:00",
-      "summary": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas &nbsp;&nbsp; JC Concursos",
-      "category": "logistica",
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "ffdbfcf1fb",
@@ -466,8 +469,7 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
     },
     {
       "id": "dc322d4c7a",
@@ -482,8 +484,97 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ],
-      "conteudo": ""
+      ]
+    },
+    {
+      "id": "a34ea0dc29",
+      "headline": "Jadlog investe para enfrentar as gigantes do varejo - Valor Econômico",
+      "source": "Google News",
+      "link": "https://valor.globo.com",
+      "time": "07/05 às 05:02",
+      "dt_iso": "2026-05-07T08:02:20+00:00",
+      "summary": "Jadlog investe para enfrentar as gigantes do varejo &nbsp;&nbsp; Valor Econômico",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "65609fb3c2",
+      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "08/05 às 16:34",
+      "dt_iso": "2026-05-08T19:34:59+00:00",
+      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "f0171da8c0",
+      "headline": "Mercado Livre (MELI34) segue movendo céus e terra para crescer: no 1T26, vendas devem subir forte, enquanto lucro não acompanha - Seu Dinheiro",
+      "source": "Google News",
+      "link": "https://www.seudinheiro.com",
+      "time": "07/05 às 10:34",
+      "dt_iso": "2026-05-07T13:34:50+00:00",
+      "summary": "Mercado Livre (MELI34) segue movendo céus e terra para crescer: no 1T26, vendas devem subir forte, enquanto lucro não acompanha &nbsp;&nbsp; Seu Dinheiro",
+      "category": "ecommerce",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "11774a804b",
+      "headline": "Riachuelo usa moda brasileira para crescer no varejo - InvestNews",
+      "source": "Google News",
+      "link": "https://investnews.com.br",
+      "time": "09/05 às 09:58",
+      "dt_iso": "2026-05-09T12:58:17+00:00",
+      "summary": "Riachuelo usa moda brasileira para crescer no varejo &nbsp;&nbsp; InvestNews",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "23aba6b02b",
+      "headline": "Consumo de cerveja cresce no Brasil e Ambev supera previsões - Safra",
+      "source": "Google News",
+      "link": "https://oespecialista.safra.com.br",
+      "time": "06/05 às 11:31",
+      "dt_iso": "2026-05-06T14:31:10+00:00",
+      "summary": "Consumo de cerveja cresce no Brasil e Ambev supera previsões &nbsp;&nbsp; Safra",
+      "category": "logistica",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "27d5fb0291",
+      "headline": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce - Autos Segredos",
+      "source": "Google News",
+      "link": "https://www.autossegredos.com.br",
+      "time": "hoje, 08:53",
+      "dt_iso": "2026-05-13T11:53:23+00:00",
+      "summary": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce &nbsp;&nbsp; Autos Segredos",
+      "category": "ecommerce",
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
     }
   ]
 }
