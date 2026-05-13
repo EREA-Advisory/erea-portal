@@ -158,9 +158,44 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .empty-filter{text-align:center;padding:60px 20px;color:var(--gray);font-size:14px;display:none;}
 .empty-filter.show{display:block;}
 
+/* FILTER NOVO */
+.filter-novo{color:var(--gold) !important;}
+.filter-novo.active{color:var(--navy) !important;background:var(--gold);border-radius:2px;border-bottom-color:transparent !important;}
+
 /* FOOTER */
 footer{background:var(--navy);border-top:1px solid var(--border);text-align:center;padding:16px;font-size:10px;color:var(--gray);letter-spacing:.1em;text-transform:uppercase;}
 footer span{color:var(--gold);}
+
+/* ── RESPONSIVE MOBILE ── */
+@media (max-width: 768px) {
+  .header-inner{padding:0 16px;height:56px;}
+  .portal-title{display:none;}
+  .last-update{display:none;}
+  .subbar-inner{padding:0 12px;height:auto;flex-direction:column;align-items:flex-start;gap:8px;padding-top:8px;padding-bottom:8px;}
+  .filters{flex-wrap:wrap;gap:2px;}
+  .filter-btn{font-size:11px;padding:5px 10px;}
+  .search-input{width:100%;}
+  .main{padding:16px 12px 40px;}
+  .stats-strip{grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px;}
+  .stat-card{padding:12px 14px;}
+  .stat-value{font-size:18px;}
+  .news-grid{grid-template-columns:1fr !important;grid-template-rows:auto !important;gap:12px;}
+  .card-featured{grid-column:1/2 !important;grid-row:auto !important;}
+  .card-secondary{grid-column:1/2 !important;grid-row:auto !important;}
+  .sidebar{grid-column:1/2 !important;grid-row:auto !important;}
+  .cards-row{grid-column:1/2 !important;grid-template-columns:1fr !important;gap:12px;}
+  .card-featured .card-headline{font-size:20px;}
+  .card-featured .card-inner{padding:18px 16px 18px 20px;}
+  .card-featured .card-footer{padding:10px 16px 10px 20px;}
+  .modal{padding:24px 20px;max-height:92vh;}
+  .modal h2{font-size:20px;}
+}
+@media (max-width: 480px) {
+  .stats-strip{grid-template-columns:1fr 1fr;gap:6px;}
+  .stat-label{font-size:9px;}
+  .stat-value{font-size:16px;}
+  .filter-btn{font-size:10px;padding:4px 8px;}
+}
 </style>
 </head>
 <body>
@@ -188,6 +223,7 @@ footer span{color:var(--gold);}
   <div class="subbar-inner">
     <div class="filters">
       <button class="filter-btn active" onclick="filtrar('all',this)">Todas</button>
+      <button class="filter-btn filter-novo" onclick="filtrar('novo',this)">● Novas</button>
       <button class="filter-btn" onclick="filtrar('expansao',this)">Expansão</button>
       <button class="filter-btn" onclick="filtrar('logistica',this)">Logística</button>
       <button class="filter-btn" onclick="filtrar('investimento',this)">Investimento</button>
@@ -522,6 +558,10 @@ function filtrar(cat, btn) {
   aplicarFiltros();
 }
 
+function _isNovoFn(n) {
+  return n.dt_iso && isNovo(n.dt_iso);
+}
+
 function buscar(q) {
   buscaAtiva = q.toLowerCase();
   aplicarFiltros();
@@ -529,7 +569,8 @@ function buscar(q) {
 
 function aplicarFiltros() {
   const lista = todasNoticias.filter(n => {
-    const catOk  = filtroAtivo === 'all' || n.category === filtroAtivo;
+    const catOk  = filtroAtivo === 'all' || n.category === filtroAtivo
+                   || (filtroAtivo === 'novo' && _isNovoFn(n));
     const buscaOk = !buscaAtiva || (n.headline + n.summary + n.source).toLowerCase().includes(buscaAtiva);
     return catOk && buscaOk;
   });
