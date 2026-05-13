@@ -25,7 +25,7 @@ jobs:
       - name: Executar coletor
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python coletar.py
+        run: python coletor.py
 
       - name: Commit e push do news_data.json
         run: |
