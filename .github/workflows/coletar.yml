@@ -1,20 +1,13 @@
 name: EREA — Coletor de Notícias
 
 on:
-  # Executa automaticamente de segunda a sexta às 07:00 (horário de Brasília = UTC-3 → 10:00 UTC)
+  workflow_dispatch:        # mantém o botão "Run workflow" manual
   schedule:
-    - cron: '0 10 * * 1-5'
-
-  # Permite rodar manualmente pelo painel do GitHub (útil para testar)
-  workflow_dispatch:
+    - cron: '0 9 * * *'    # 06:00 horário de Brasília (UTC-3 = 09:00 UTC)
 
 jobs:
   coletar:
     runs-on: ubuntu-latest
-
-    # Permissão para commitar o news_data.json de volta no repositório
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout do repositório
@@ -26,17 +19,18 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependências
-        run: pip install feedparser requests
+        run: |
+          pip install feedparser requests
 
       - name: Executar coletor
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python coletor.py
+        run: python coletar.py
 
-      - name: Salvar news_data.json no repositório
+      - name: Commit e push do news_data.json
         run: |
-          git config user.name  "EREA Bot"
-          git config user.email "bot@erea-portal"
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news_data.json
-          git diff --staged --quiet || git commit -m "chore: atualiza notícias $(date +'%d/%m/%Y %H:%M')"
+          git diff --cached --quiet || git commit -m "chore: atualização automática de notícias [$(date +'%d/%m/%Y %H:%M')]"
           git push
