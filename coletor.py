@@ -42,7 +42,7 @@ LOG_FILE    = BASE_DIR / "coletor.log"
 HORAS_JANELA = 168  # 7 dias — aplicado a TODOS os feeds sem exceção
 
 # Quantas notícias salvar no JSON (as mais relevantes primeiro)
-MAX_NOTICIAS = 30
+MAX_NOTICIAS = 50
 
 # Pausa entre chamadas à API Claude (segundos) — evita rate-limit
 PAUSA_API = 0.5
@@ -93,6 +93,12 @@ FEEDS = [
     {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado"},
     {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila"},
     {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística"},
+    {"url": "https://mundologistica.com.br/feed",                                                                     "fonte": "Mundo Logística"},
+    {"url": "https://mundologistica.com.br/rss",                                                                      "fonte": "Mundo Logística"},
+
+    # Portais adicionais via RSS direto
+    {"url": "https://www.modaisemfoco.com.br/feed/",  "fonte": "Modais em Foco"},
+    {"url": "https://www.modaisemfoco.com.br/rss/",   "fonte": "Modais em Foco"},
 
     # Google News — empresas específicas com filtro de recência (when:7d)
     {"url": "https://news.google.com/rss/search?q=galpão+logístico+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",              "fonte": "Google News"},
@@ -109,6 +115,62 @@ FEEDS = [
     {"url": "https://news.google.com/rss/search?q=build+to+suit+galpão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",          "fonte": "Google News"},
     {"url": "https://news.google.com/rss/search?q=ambev+coca-cola+unilever+galpão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419","fonte": "Google News"},
     {"url": "https://news.google.com/rss/search?q=jadlog+loggi+total+express+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=total+express+fulfillment+operação+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=site:modaisemfoco.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",           "fonte": "Modais em Foco"},
+    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",         "fonte": "Mundo Logística"},
+    {"url": "https://news.google.com/rss/search?q=site:portosenavios.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",          "fonte": "Portos e Navios"},
+    {"url": "https://news.google.com/rss/search?q=site:logisticsnews.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",          "fonte": "Logistics News"},
+
+    # Google News — busca dedicada por empresa monitorada
+    {"url": "https://news.google.com/rss/search?q=Mercado+Livre+Amazon+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Mercado Livre | Amazon Brasil
+    {"url": "https://news.google.com/rss/search?q=Shopee+Shein+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Shopee | Shein
+    {"url": "https://news.google.com/rss/search?q=Magazine+Luiza+Magalu+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Magazine Luiza | Magalu
+    {"url": "https://news.google.com/rss/search?q=Via+Varejo+Casas+Bahia+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Via Varejo | Casas Bahia
+    {"url": "https://news.google.com/rss/search?q=Americanas+B2W+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Americanas | B2W
+    {"url": "https://news.google.com/rss/search?q=Dafiti+Netshoes+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Dafiti | Netshoes
+    {"url": "https://news.google.com/rss/search?q=Assaí+Atacadista+Atacadão+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Assaí Atacadista | Atacadão
+    {"url": "https://news.google.com/rss/search?q=Lojas+Renner+Riachuelo+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Lojas Renner | Riachuelo
+    {"url": "https://news.google.com/rss/search?q=C&A+Brasil+Pernambucanas+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # C&A Brasil | Pernambucanas
+    {"url": "https://news.google.com/rss/search?q=Grupo+Mateus+GPA+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Grupo Mateus | GPA Brasil
+    {"url": "https://news.google.com/rss/search?q=DHL+Supply+Chain+FedEx+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # DHL Supply Chain | FedEx Brasil
+    {"url": "https://news.google.com/rss/search?q=Jadlog+Total+Express+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Jadlog | Total Express
+    {"url": "https://news.google.com/rss/search?q=Loggi+Azul+Cargo+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Loggi | Azul Cargo
+    {"url": "https://news.google.com/rss/search?q=JSL+Logística+Sequoia+Logística+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # JSL Logística | Sequoia Logística
+    {"url": "https://news.google.com/rss/search?q=Luft+Logistics+ID+Logistics+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Luft Logistics | ID Logistics
+    {"url": "https://news.google.com/rss/search?q=CEVA+Logistics+Kuehne+Nagel+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # CEVA Logistics | Kuehne Nagel
+    {"url": "https://news.google.com/rss/search?q=DSV+Logística+FM+Logistic+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # DSV Logística | FM Logistic
+    {"url": "https://news.google.com/rss/search?q=Maersk+Brasil+Yusen+Logistics+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Maersk Brasil | Yusen Logistics
+    {"url": "https://news.google.com/rss/search?q=Multilog+Grupo+Tecadi+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Multilog | Grupo Tecadi
+    {"url": "https://news.google.com/rss/search?q=Comfrio+SuperFrio+Logística+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Comfrio | SuperFrio Logística
+    {"url": "https://news.google.com/rss/search?q=Ambev+Heineken+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Ambev | Heineken Brasil
+    {"url": "https://news.google.com/rss/search?q=Coca-Cola+FEMSA+PepsiCo+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Coca-Cola FEMSA | PepsiCo Brasil
+    {"url": "https://news.google.com/rss/search?q=JBS+BRF+Seara+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # JBS | BRF | Seara
+    {"url": "https://news.google.com/rss/search?q=Natura+Grupo+Boticário+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Natura | Grupo Boticário
+    {"url": "https://news.google.com/rss/search?q=Unilever+Brasil+Colgate-Palmolive+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Unilever Brasil | Colgate-Palmolive
+    {"url": "https://news.google.com/rss/search?q=L'Oréal+Brasil+Reckitt+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # L'Oréal Brasil | Reckitt Brasil
+    {"url": "https://news.google.com/rss/search?q=Hypera+Farmacêutica+Eurofarma+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Hypera Farmacêutica | Eurofarma
+    {"url": "https://news.google.com/rss/search?q=Whirlpool+Electrolux+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Whirlpool | Electrolux Brasil
+    {"url": "https://news.google.com/rss/search?q=Samsung+Brasil+LG+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Samsung Brasil | LG Brasil
+    {"url": "https://news.google.com/rss/search?q=Foxconn+Brasil+Lenovo+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Foxconn Brasil | Lenovo Brasil
+    {"url": "https://news.google.com/rss/search?q=Mercedes-Benz+Brasil+Ford+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Mercedes-Benz Brasil | Ford Brasil
+    {"url": "https://news.google.com/rss/search?q=Volkswagen+Brasil+Renault+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Volkswagen Brasil | Renault Brasil
+    {"url": "https://news.google.com/rss/search?q=John+Deere+Brasil+AGCO+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # John Deere Brasil | AGCO Brasil
+    {"url": "https://news.google.com/rss/search?q=Embraer+Braskem+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Embraer | Braskem
+    {"url": "https://news.google.com/rss/search?q=Suzano+Bridgestone+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Suzano | Bridgestone Brasil
+    {"url": "https://news.google.com/rss/search?q=Bosch+Brasil+Electrolux+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Bosch Brasil | Electrolux
+    {"url": "https://news.google.com/rss/search?q=Petz+Petlove+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Petz | Petlove
+    {"url": "https://news.google.com/rss/search?q=RD+Raia+Drogasil+Grupo+DPSP+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # RD Raia Drogasil | Grupo DPSP
+    {"url": "https://news.google.com/rss/search?q=Viveo+Iron+Mountain+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Viveo | Iron Mountain Brasil
+    {"url": "https://news.google.com/rss/search?q=Ascenty+Scala+Data+Centers+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Ascenty | Scala Data Centers
+    {"url": "https://news.google.com/rss/search?q=Infracommerce+Grupo+SBF+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Infracommerce | Grupo SBF
+    {"url": "https://news.google.com/rss/search?q=Arezzo+Zara+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Arezzo | Zara Brasil
+    {"url": "https://news.google.com/rss/search?q=Decathlon+Brasil+Fast+Shop+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Decathlon Brasil | Fast Shop
+    {"url": "https://news.google.com/rss/search?q=Tok+Stok+MadeiraMadeira+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Tok Stok | MadeiraMadeira
+    {"url": "https://news.google.com/rss/search?q=Kalunga+Lojas+Colombo+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Kalunga | Lojas Colombo
+    {"url": "https://news.google.com/rss/search?q=Patrus+Transportes+Braspress+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Patrus Transportes | Braspress
+    {"url": "https://news.google.com/rss/search?q=Jamef+Expresso+3300+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Jamef | Expresso 3300
+    {"url": "https://news.google.com/rss/search?q=Transportadora+Minuano+Plimor+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Transportadora Minuano | Plimor
+    {"url": "https://news.google.com/rss/search?q=J&T+Express+Brasil+Anjun+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # J&T Express Brasil | Anjun Brasil
 ]
 
 # ─────────────────────────────────────────────
@@ -633,156 +695,6 @@ def gerar_json(noticias: list[dict]) -> None:
 
 
 # ─────────────────────────────────────────────
-# RESOLUÇÃO DE LINK E EXTRAÇÃO DE CONTEÚDO
-# ─────────────────────────────────────────────
-
-def _resolver_link(url: str) -> str:
-    """Resolve o link final da notícia.
-    Para Google News: tenta base64 decode primeiro, depois segue redirect HTTP.
-    Para links diretos: verifica se é homepage e tenta resolver.
-    """
-    import base64
-    from urllib.parse import urlparse
-
-    if not url or url == "#":
-        return url
-
-    # Estratégia 1: decode base64 CBMi do Google News (mais confiável)
-    if "news.google.com" in url and "articles/" in url:
-        try:
-            part = url.split("articles/")[-1].split("?")[0]
-            padded = part + "=" * (4 - len(part) % 4)
-            decoded = base64.urlsafe_b64decode(padded)
-            urls = re.findall(rb"https?://[^\x00-\x1f\x7f\s<>]+", decoded)
-            if urls:
-                candidate = urls[0].decode("utf-8", errors="ignore").rstrip(".,;)")
-                parsed = urlparse(candidate)
-                if len(parsed.path.strip("/")) > 5:
-                    log.info(f"    Link base64: {candidate[:80]}")
-                    return candidate
-        except Exception:
-            pass
-
-    # Estratégia 2: seguir redirect HTTP
-    try:
-        resp = requests.get(
-            url,
-            allow_redirects=True,
-            timeout=10,
-            headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-                "Accept": "text/html,application/xhtml+xml",
-            },
-        )
-        final = resp.url
-        parsed = urlparse(final)
-        if len(parsed.path.strip("/")) > 5:
-            log.info(f"    Link redirect: {final[:80]}")
-            return final
-        # Se chegou numa homepage, tenta extrair link canônico do HTML
-        canonical = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)', resp.text)
-        if canonical:
-            cand = canonical.group(1)
-            if len(urlparse(cand).path.strip("/")) > 5:
-                log.info(f"    Link canonical: {cand[:80]}")
-                return cand
-    except Exception as e:
-        log.debug(f"    _resolver_link falhou: {e}")
-
-    return url
-
-
-def _extrair_conteudo(url: str, titulo: str) -> str:
-    """Extrai o texto principal da notícia usando seletores semânticos.
-    Prioriza tags article/main e classes comuns de conteúdo editorial.
-    Retorna até 5000 caracteres.
-    """
-    if not url or url == "#" or "news.google.com" in url:
-        return ""
-
-    # Verifica se o link parece ser uma homepage (sem path de notícia)
-    from urllib.parse import urlparse
-    parsed_url = urlparse(url)
-    if len(parsed_url.path.strip("/")) < 5:
-        log.debug(f"    _extrair_conteudo: URL parece homepage, pulando")
-        return ""
-
-    try:
-        resp = requests.get(
-            url,
-            timeout=12,
-            headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-                "Accept": "text/html,application/xhtml+xml",
-                "Accept-Language": "pt-BR,pt;q=0.9",
-            },
-        )
-        resp.raise_for_status()
-        html = resp.text
-
-        # Tenta extrair bloco semântico principal na ordem de preferência
-        conteudo_raw = ""
-
-        # 1. Tag <article>
-        m = re.search(r'<article[^>]*>(.*?)</article>', html, re.DOTALL | re.IGNORECASE)
-        if m:
-            conteudo_raw = m.group(1)
-
-        # 2. Tag <main>
-        if not conteudo_raw:
-            m = re.search(r'<main[^>]*>(.*?)</main>', html, re.DOTALL | re.IGNORECASE)
-            if m:
-                conteudo_raw = m.group(1)
-
-        # 3. Classes comuns de conteúdo editorial
-        if not conteudo_raw:
-            for cls in ['post-content','article-body','entry-content','td-post-content',
-                        'content-body','materia-conteudo','news-content','article-content',
-                        'single-content','post-body','story-body']:
-                m = re.search(rf'class=["\'][^"\']*{cls}[^"\']*["\'][^>]*>(.*?)</', html, re.DOTALL | re.IGNORECASE)
-                if m:
-                    conteudo_raw = m.group(1)
-                    break
-
-        # 4. Fallback: HTML completo sem nav/header/footer
-        if not conteudo_raw:
-            conteudo_raw = html
-
-        # Limpa o HTML extraído
-        conteudo_raw = re.sub(r'<(script|style|nav|footer|header|aside|form|figure|img|svg)[^>]*>.*?</\1>', ' ', conteudo_raw, flags=re.DOTALL|re.IGNORECASE)
-        texto = re.sub(r'<[^>]+>', ' ', conteudo_raw)
-        texto = re.sub(r'&[a-zA-Z]+;', ' ', texto)
-        texto = re.sub(r'\s+', ' ', texto).strip()
-
-        # Localiza o início da matéria pelo título
-        import unicodedata
-        titulo_norm = unicodedata.normalize("NFD", titulo.lower())
-        titulo_norm = "".join(c for c in titulo_norm if unicodedata.category(c) != "Mn")
-        palavras = [w for w in re.sub(r'[^\w\s]',' ',titulo_norm).split() if len(w) > 3][:4]
-
-        melhor_pos = -1
-        for i in range(len(palavras), 1, -1):
-            padrao = r'\s+'.join(palavras[:i])
-            m = re.search(padrao, texto, re.IGNORECASE)
-            if m:
-                melhor_pos = m.start()
-                break
-
-        if melhor_pos >= 0:
-            trecho = texto[melhor_pos:melhor_pos + 6000]
-        else:
-            # Começa no primeiro quarto do texto (pula menus)
-            inicio = len(texto) // 4
-            trecho = texto[inicio:inicio + 6000]
-
-        trecho = re.sub(r'\s+', ' ', trecho).strip()
-        return trecho[:5000]
-
-    except Exception as e:
-        log.debug(f"    _extrair_conteudo falhou para {url[:60]}: {e}")
-        return ""
-
-# ─────────────────────────────────────────────
 # MAIN
 # ─────────────────────────────────────────────
 
@@ -815,25 +727,7 @@ def main():
     enriquecidas.sort(key=lambda x: x["score"], reverse=True)
     top = enriquecidas[:MAX_NOTICIAS]
 
-    # 5. Resolver links e extrair conteúdo completo
-    log.info("Resolvendo links e extraindo conteúdo das notícias…")
-    for i, n in enumerate(top, 1):
-        log.info(f"  [{i}/{len(top)}] {n['headline'][:60]}…")
-        # Resolve o link final (segue redirect do Google News)
-        link_resolvido = _resolver_link(n["link"])
-        n["link"] = link_resolvido
-        # Extrai conteúdo completo da página
-        conteudo = _extrair_conteudo(link_resolvido, n["headline"])
-        n["conteudo"] = conteudo
-        if conteudo:
-            log.info(f"    Conteúdo: {len(conteudo)} chars")
-        else:
-            log.info(f"    Conteúdo: não disponível")
-        time.sleep(0.5)
-
-    log.info(f"Top {len(top)} notícias selecionadas (score mín: {top[-1]['score'] if top else '-'})")
-
-    # 6. Salvar JSON
+    # 5. Salvar JSON
     gerar_json(top)
     log.info("Coleta concluída com sucesso.")
 
