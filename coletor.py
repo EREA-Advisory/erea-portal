@@ -714,6 +714,24 @@ def coletar_feeds(horas: int) -> list[dict]:
                 sem_keyword += 1
                 continue
 
+            # Descarta notícias de vagas de emprego sem contexto de expansão física
+            RUIDO_KEYWORDS = [
+                "vagas de emprego", "processo seletivo", "oportunidade de emprego",
+                "trabalhe na", "curriculum", "recrutamento",
+                "amplia prejuízo", "reduz lucro", "queda no lucro",
+                "resultado financeiro", "lucro líquido recua", "prejuízo líquido",
+            ]
+            if any(r in texto for r in RUIDO_KEYWORDS):
+                tem_ancora_fisica = any(kw in texto for kw in [
+                    "galpão", "armazém", "centro de distribuição", "hub logístico",
+                    "fulfillment", "condomínio logístico"
+                ])
+                if not tem_ancora_fisica:
+                    log.debug(f"  Descartada (ruído): {titulo[:60]}")
+                    continue
+
+            link_real = _extrair_link(entry)
+
             # Descarta fontes de baixa qualidade
             FONTES_BLOQUEADAS = {
                 "instagram.com", "facebook.com", "twitter.com",
@@ -724,24 +742,6 @@ def coletar_feeds(horas: int) -> list[dict]:
                 log.debug(f"  Descartada (fonte bloqueada): {titulo[:60]}")
                 continue
 
-            # Descarta notícias de vagas de emprego sem contexto de expansão física
-            RUIDO_KEYWORDS = [
-                "vagas de emprego", "processo seletivo", "oportunidade de emprego",
-                "trabalhe na", "curriculum", "recrutamento",
-                "amplia prejuízo", "reduz lucro", "queda no lucro",
-                "resultado financeiro", "lucro líquido recua", "prejuízo líquido",
-            ]
-            if any(r in texto for r in RUIDO_KEYWORDS):
-                # Só passa se tiver ancora logística física junto
-                tem_ancora_fisica = any(kw in texto for kw in [
-                    "galpão", "armazém", "centro de distribuição", "hub logístico",
-                    "fulfillment", "condomínio logístico"
-                ])
-                if not tem_ancora_fisica:
-                    log.debug(f"  Descartada (ruído): {titulo[:60]}")
-                    continue
-
-            link_real = _extrair_link(entry)
             aceitas += 1
             log.info(f"  ACEITA: {titulo[:80]}")
 
