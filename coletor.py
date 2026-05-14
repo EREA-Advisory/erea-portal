@@ -340,18 +340,70 @@ def _id(titulo: str) -> str:
     """ID estável baseado no título normalizado."""
     return hashlib.md5(_normalizar_titulo(titulo).encode()).hexdigest()[:10]
 
+# ── Ranking de fontes confiáveis (1 = maior prioridade) ──
+FONTE_PRIORIDADE = {
+    # Prioridade 1 — negócios, economia e logística de referência
+    "Valor Econômico":        1,
+    "Estadão":                1,
+    "Folha de S.Paulo":       1,
+    "O Globo":                1,
+    "CNN Brasil":             1,
+    "Exame":                  1,
+    "InfoMoney":              1,
+    "Bloomberg":              1,
+    "Reuters":                1,
+    "InvestNews":             1,
+    "Money Times":            1,
+    "Mundo Logística":        1,
+    "Buildings":              1,
+    "Siila":                  1,
+    # Prioridade 2 — demais portais especializados e regionais
+    "Tecnologística":         2,
+    "Modais em Foco":         2,
+    "Logistics News":         2,
+    "Portos e Navios":        2,
+    "Logística Descomplicada":2,
+    "GRI Club":               2,
+    "Funds Explorer":         2,
+    "Automotive Business":    2,
+    "E-commerce Brasil":      2,
+    "ND Mais":                2,
+    "Suno":                   2,
+    "G1":                     2,
+    "UOL":                    2,
+    "Terra":                  2,
+    # Prioridade 3 — portais não listados (domínio extraído do link)
+    # (atribuído automaticamente via _prioridade_fonte com fallback 3)
+    # Prioridade 99 — Google News (fonte genérica, menor prioridade)
+    "Google News":           99,
+}
+
+def _prioridade_fonte(fonte: str) -> int:
+    """Retorna o ranking da fonte (menor = mais confiável).
+    Fontes desconhecidas recebem prioridade 50 (acima do Google News).
+    """
+    return FONTE_PRIORIDADE.get(fonte, 3)
+
+
 def _deduplicar(candidatas: list) -> list:
-    """Remove notícias similares (Jaccard >= 0.35) mantendo a de maior score."""
+    """Remove notícias similares (Jaccard >= 0.35).
+    Entre duplicatas, mantém a de fonte mais confiável.
+    Em caso de empate de fonte, mantém a de maior score.
+    """
     THRESHOLD = 0.35
     resultado = []
     for nova in candidatas:
         similar = False
-        for existente in resultado:
+        for i, existente in enumerate(resultado):
             if _jaccard(nova["headline"], existente["headline"]) >= THRESHOLD:
-                # Mantém a que tiver mais keywords (score maior)
-                if nova.get("score", 0) > existente.get("score", 0):
-                    resultado.remove(existente)
-                    resultado.append(nova)
+                prio_nova     = _prioridade_fonte(nova.get("source", ""))
+                prio_existente = _prioridade_fonte(existente.get("source", ""))
+                # Substitui se nova tem fonte melhor, ou mesma fonte e score maior
+                if prio_nova < prio_existente:
+                    log.info(f"    Dedup: '{nova['source']}' (p{prio_nova}) substitui '{existente['source']}' (p{prio_existente})")
+                    resultado[i] = nova
+                else:
+                    log.debug(f"    Dedup: mantendo '{existente['source']}' (p{prio_existente}) sobre '{nova['source']}' (p{prio_nova})")
                 similar = True
                 break
         if not similar:
@@ -401,11 +453,15 @@ def _formata_tempo(dt: datetime) -> str:
 
 
 def _texto_completo(entry) -> str:
+    import unicodedata
     titulo  = getattr(entry, "title", "") or ""
     summary = getattr(entry, "summary", "") or ""
-    # Remove tags HTML simples do summary
     summary = re.sub(r"<[^>]+>", " ", summary)
-    return f"{titulo}. {summary}".lower()
+    texto = f"{titulo}. {summary}".lower()
+    # Versão sem acentos para capturar títulos RSS que perdem acentuação
+    sem_acento = unicodedata.normalize("NFD", texto)
+    sem_acento = "".join(c for c in sem_acento if unicodedata.category(c) != "Mn")
+    return texto + " " + sem_acento
 
 
 def _contar_keywords(texto: str) -> int:
@@ -557,10 +613,12 @@ def _extrair_fonte(link: str, fonte_feed: str) -> str:
 
 
 KEYWORDS_ALERTA = [
-    "recuperação judicial", "pedido de recuperação",
-    "falência", "concordata", "devolve galpão",
-    "encerra operação", "encerrou operação", "fecha unidade",
-    "demite", "demitiu", "reduz operação",
+    "recuperação judicial", "recuperacao judicial",
+    "pedido de recuperação", "pedido de recuperacao",
+    "falência", "falencia",
+    "concordata", "devolve galpão", "devolve galpao",
+    "encerra operação", "encerrou operacao", "fecha unidade",
+    "demite", "demitiu", "reduz operação", "reduz operacao",
 ]
 
 def _categoria(texto: str) -> str:
