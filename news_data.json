@@ -1,5 +1,5 @@
 {
-  "gerado_em": "14/05/2026 às 11:09",
+  "gerado_em": "14/05/2026 às 11:35",
   "total": 37,
   "noticias": [
     {
@@ -252,6 +252,26 @@
       ]
     },
     {
+      "id": "c2cd00eba7",
+      "headline": "DHL Express amplia operação com nova unidade em São Bernardo - Portal ABC do ABC",
+      "source": "Abcdoabc",
+      "link": "https://www.abcdoabc.com.br",
+      "time": "há 14 min",
+      "dt_iso": "2026-05-14T14:21:00+00:00",
+      "summary": "DHL Express amplia operação com nova unidade em São Bernardo &nbsp;&nbsp; Portal ABC do ABC",
+      "category": "expansao",
+      "keywords": [
+        "dhl",
+        "amplia",
+        "nova unidade"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "02f45204e0",
       "headline": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos - Portal do Agronegócio",
       "source": "Portaldoagronegocio",
@@ -389,13 +409,13 @@
       ]
     },
     {
-      "id": "7156e5f2fa",
-      "headline": "Tirol inaugura Centro de Distribuição em Maringá (PR) - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "hoje, 13:52",
-      "dt_iso": "2026-05-13T16:52:58+00:00",
-      "summary": "Tirol inaugura Centro de Distribuição em Maringá (PR) &nbsp;&nbsp; SuperVarejo",
+      "id": "3a324d04c1",
+      "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
+      "source": "Terra",
+      "link": "https://www.terra.com.br",
+      "time": "11/05 às 10:51",
+      "dt_iso": "2026-05-11T13:51:00+00:00",
+      "summary": "RL Higiene inaugura novo centro de distribuição em Santos &nbsp;&nbsp; Terra",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -636,25 +656,6 @@
       ]
     },
     {
-      "id": "ffdbfcf1fb",
-      "headline": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar - JC Concursos",
-      "source": "Jcconcursos",
-      "link": "https://jcconcursos.com.br",
-      "time": "07/05 às 21:16",
-      "dt_iso": "2026-05-08T00:16:00+00:00",
-      "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
-      "category": "logistica",
-      "keywords": [
-        "jbs",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "dc322d4c7a",
       "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
       "source": "Suno",
@@ -697,7 +698,7 @@
       "headline": "Casas Bahia amplia prejuízo para R$ 1,06 bilhão no 1T26, mas operação mostra avanço e geração de caixa - ADVFN",
       "source": "Google News",
       "link": "https://br.advfn.com",
-      "time": "há 33 min",
+      "time": "há 59 min",
       "dt_iso": "2026-05-14T13:35:39+00:00",
       "summary": "Casas Bahia amplia prejuízo para R$ 1,06 bilhão no 1T26, mas operação mostra avanço e geração de caixa &nbsp;&nbsp; ADVFN",
       "category": "logistica",
