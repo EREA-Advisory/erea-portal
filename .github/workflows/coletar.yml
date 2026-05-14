@@ -1,5 +1,6 @@
 name: EREA — Coletor de Notícias
 
+
 on:
   workflow_dispatch:        # mantém o botão "Run workflow" manual
   schedule:
