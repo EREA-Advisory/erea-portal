@@ -1,6 +1,6 @@
 {
-  "gerado_em": "14/05/2026 às 10:17",
-  "total": 36,
+  "gerado_em": "14/05/2026 às 11:09",
+  "total": 37,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -95,7 +95,7 @@
       "headline": "Total Express amplia operação de fulfillment no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 10:31",
+      "time": "12/05 às 10:31",
       "dt_iso": "2026-05-12T13:31:24+00:00",
       "summary": "Total Express amplia operação de fulfillment no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -545,7 +545,7 @@
       "headline": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas - ND Mais",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "hoje, 10:51",
+      "time": "ontem, 10:51",
       "dt_iso": "2026-05-13T13:51:04+00:00",
       "summary": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas &nbsp;&nbsp; ND Mais",
       "category": "expansao",
@@ -636,6 +636,25 @@
       ]
     },
     {
+      "id": "ffdbfcf1fb",
+      "headline": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar - JC Concursos",
+      "source": "Jcconcursos",
+      "link": "https://jcconcursos.com.br",
+      "time": "07/05 às 21:16",
+      "dt_iso": "2026-05-08T00:16:00+00:00",
+      "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "dc322d4c7a",
       "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
       "source": "Suno",
@@ -674,22 +693,22 @@
       ]
     },
     {
-      "id": "f0171da8c0",
-      "headline": "Mercado Livre (MELI34) segue movendo céus e terra para crescer: no 1T26, vendas devem subir forte, enquanto lucro não acompanha - Seu Dinheiro",
-      "source": "Seudinheiro",
-      "link": "https://www.seudinheiro.com",
-      "time": "07/05 às 10:34",
-      "dt_iso": "2026-05-07T13:34:50+00:00",
-      "summary": "Mercado Livre (MELI34) segue movendo céus e terra para crescer: no 1T26, vendas devem subir forte, enquanto lucro não acompanha &nbsp;&nbsp; Seu Dinheiro",
-      "category": "ecommerce",
+      "id": "dada78918b",
+      "headline": "Casas Bahia amplia prejuízo para R$ 1,06 bilhão no 1T26, mas operação mostra avanço e geração de caixa - ADVFN",
+      "source": "Google News",
+      "link": "https://br.advfn.com",
+      "time": "há 33 min",
+      "dt_iso": "2026-05-14T13:35:39+00:00",
+      "summary": "Casas Bahia amplia prejuízo para R$ 1,06 bilhão no 1T26, mas operação mostra avanço e geração de caixa &nbsp;&nbsp; ADVFN",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "cresce"
+        "casas bahia",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
