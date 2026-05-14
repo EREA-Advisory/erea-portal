@@ -1,5 +1,5 @@
 {
-  "gerado_em": "14/05/2026 às 09:45",
+  "gerado_em": "14/05/2026 às 10:17",
   "total": 36,
   "noticias": [
     {
@@ -389,25 +389,6 @@
       ]
     },
     {
-      "id": "7184480469",
-      "headline": "Fim da taxa das blusinhas: 'Queremos os mesmos benefícios', diz CEO da Renner",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/fim-da-taxa-das-blusinhas-queremos-os-mesmos-beneficios-diz-ceo-da-renner/",
-      "time": "hoje, 03:55",
-      "dt_iso": "2026-05-14T06:55:45+00:00",
-      "summary": "Fabio Faccio defende isonomia tributária entre varejo nacional e plataformas estrangeiras e diz que decisão amplia desequilíbrio que já existia no setor",
-      "category": "logistica",
-      "keywords": [
-        "renner",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "7156e5f2fa",
       "headline": "Tirol inaugura Centro de Distribuição em Maringá (PR) - SuperVarejo",
       "source": "Supervarejo",
@@ -627,6 +608,25 @@
       "category": "logistica",
       "keywords": [
         "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3bb10149a6",
+      "headline": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas - JC Concursos",
+      "source": "Jcconcursos",
+      "link": "https://jcconcursos.com.br",
+      "time": "ontem, 00:26",
+      "dt_iso": "2026-05-13T03:26:20+00:00",
+      "summary": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas &nbsp;&nbsp; JC Concursos",
+      "category": "logistica",
+      "keywords": [
+        "pepsico",
         "abre"
       ],
       "score": 6,
