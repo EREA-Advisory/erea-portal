@@ -505,9 +505,8 @@ function renderizarGrid(lista) {
 function cardHTML(n, cls) {
   const novoClass = (n.dt_iso && isNovo(n.dt_iso)) ? ' card-novo' : '';
   const alertaClass = n.category === 'alerta' ? ' card-alerta' : '';
-  const alertaClass = n.category === 'alerta' ? ' card-alerta' : '';
   return `
-  <div class="${cls}${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+  <div class="${cls}${novoClass}${alertaClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="card-inner">
       <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
       <div class="card-headline">${destacarEmpresas(n.headline)}</div>
@@ -524,8 +523,9 @@ function cardHTML(n, cls) {
 
 function sidebarCardHTML(n) {
   const novoClass = (n.dt_iso && isNovo(n.dt_iso)) ? ' card-novo' : '';
+  const alertaClass = n.category === 'alerta' ? ' card-alerta' : '';
   return `
-  <div class="sidebar-card${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+  <div class="sidebar-card${novoClass}${alertaClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
     <div class="sidebar-headline">${destacarEmpresas(n.headline)}</div>
     ${n.relevance ? `<div class="sidebar-relevance">${n.relevance}</div>` : ''}
@@ -538,8 +538,9 @@ function sidebarCardHTML(n) {
 
 function cardSmallHTML(n) {
   const novoClass = (n.dt_iso && isNovo(n.dt_iso)) ? ' card-novo' : '';
+  const alertaClass = n.category === 'alerta' ? ' card-alerta' : '';
   return `
-  <div class="card-small${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
+  <div class="card-small${novoClass}${alertaClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="badge-row">${badgesHtml(n.badges, n.dt_iso)}</div>
     <div class="card-headline">${destacarEmpresas(n.headline)}</div>
     <div class="card-summary">${n.summary}</div>
