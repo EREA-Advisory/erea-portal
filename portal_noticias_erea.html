@@ -74,9 +74,12 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .badge-investimento{background:rgba(201,168,76,.08);color:var(--gold-dim);border:1px solid rgba(201,168,76,.2);}
 .badge-ecommerce{background:rgba(136,150,163,.12);color:var(--gray-light);border:1px solid rgba(136,150,163,.15);}
 .badge-industrial{background:rgba(201,168,76,.06);color:var(--gold-dim);border:1px solid rgba(201,168,76,.15);}
+.badge-alerta{background:rgba(180,50,50,.15);color:#e07070;border:1px solid rgba(180,50,50,.35);font-weight:600;}
 .badge-novo{background:#c9a84c;color:#0d2137;font-weight:700;font-size:10px;letter-spacing:.16em;animation:pulse-novo 2s ease-in-out infinite;}
 @keyframes pulse-novo{0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(201,168,76,.6)}50%{opacity:.9;box-shadow:0 0 0 4px rgba(201,168,76,0)}}
 .card-novo{border-color:rgba(201,168,76,0.6) !important;}
+.card-alerta{border-color:rgba(180,50,50,0.5) !important;}
+.card-alerta::before{background:rgba(180,50,50,0.8) !important;}
 .card-novo::after{content:'';position:absolute;top:0;right:0;width:0;height:0;border-style:solid;border-width:0 28px 28px 0;border-color:transparent var(--gold) transparent transparent;}
 
 .card-headline{font-family:'Cormorant Garamond',serif;font-size:20px;font-weight:600;line-height:1.35;color:var(--white);}
@@ -155,6 +158,8 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 /* FILTER NOVO */
 .filter-novo{color:var(--gold) !important;}
 .filter-novo.active{color:var(--navy) !important;background:var(--gold);border-radius:2px;border-bottom-color:transparent !important;}
+.filter-alerta{color:#e07070 !important;}
+.filter-alerta.active{color:#fff !important;background:rgba(180,50,50,.7);border-radius:2px;border-bottom-color:transparent !important;}
 
 /* FOOTER */
 footer{background:var(--navy);border-top:1px solid var(--border);text-align:center;padding:16px;font-size:10px;color:var(--gray);letter-spacing:.1em;text-transform:uppercase;}
@@ -223,6 +228,7 @@ footer span{color:var(--gold);}
       <button class="filter-btn" onclick="filtrar('investimento',this)">Investimento</button>
       <button class="filter-btn" onclick="filtrar('ecommerce',this)">E-commerce</button>
       <button class="filter-btn" onclick="filtrar('industrial',this)">Industrial</button>
+      <button class="filter-btn filter-alerta" onclick="filtrar('alerta',this)">⚠ Alerta</button>
     </div>
     <input class="search-input" id="search-input" type="text" placeholder="Buscar por empresa ou tema…" oninput="buscar(this.value)"/>
   </div>
@@ -277,7 +283,8 @@ footer span{color:var(--gold);}
 const BADGE_CLASS = {
   'Destaque':'badge-destaque','Expansão':'badge-expansao','Logística':'badge-logistica',
   'Investimento':'badge-investimento','E-commerce':'badge-ecommerce','Industrial':'badge-industrial',
-  'Novo':'badge-novo'
+  'Novo':'badge-novo',
+  'Alerta':'badge-alerta'
 };
 
 let todasNoticias = [];
@@ -497,6 +504,8 @@ function renderizarGrid(lista) {
 
 function cardHTML(n, cls) {
   const novoClass = (n.dt_iso && isNovo(n.dt_iso)) ? ' card-novo' : '';
+  const alertaClass = n.category === 'alerta' ? ' card-alerta' : '';
+  const alertaClass = n.category === 'alerta' ? ' card-alerta' : '';
   return `
   <div class="${cls}${novoClass}" data-category="${n.category||'logistica'}" data-id="${n.id}" onclick="abrirModal('${n.id}')">
     <div class="card-inner">
@@ -588,7 +597,8 @@ function buscar(q) {
 function aplicarFiltros() {
   const lista = todasNoticias.filter(n => {
     const catOk  = filtroAtivo === 'all' || n.category === filtroAtivo
-                   || (filtroAtivo === 'novo' && _isNovoFn(n));
+                   || (filtroAtivo === 'novo' && _isNovoFn(n))
+                   || (filtroAtivo === 'alerta' && n.category === 'alerta');
     const buscaOk = !buscaAtiva || (n.headline + n.summary + n.source).toLowerCase().includes(buscaAtiva);
     return catOk && buscaOk;
   });

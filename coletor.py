@@ -276,6 +276,7 @@ CATEGORIAS = {
     "investimento":["fii", "fundo", "captação", "aporte", "emissão", "sale and leaseback", "cri", "build to suit"],
     "ecommerce":   ["e-commerce", "mercado livre", "shopee", "amazon", "marketplace", "gmv", "omnichannel"],
     "industrial":  ["industrial", "galpão industrial", "ilg", "automotivo", "montadora", "fornecedor"],
+    "alerta":      ["recuperação judicial", "falência", "concordata", "devolve galpão", "encerra operação"],
 }
 
 # ─────────────────────────────────────────────
@@ -555,7 +556,17 @@ def _extrair_fonte(link: str, fonte_feed: str) -> str:
         return fonte_feed
 
 
+KEYWORDS_ALERTA = [
+    "recuperação judicial", "pedido de recuperação",
+    "falência", "concordata", "devolve galpão",
+    "encerra operação", "encerrou operação", "fecha unidade",
+    "demite", "demitiu", "reduz operação",
+]
+
 def _categoria(texto: str) -> str:
+    # Alerta tem prioridade sobre outras categorias
+    if any(kw in texto for kw in KEYWORDS_ALERTA):
+        return "alerta"
     scores = {cat: 0 for cat in CATEGORIAS}
     for cat, termos in CATEGORIAS.items():
         for t in termos:
@@ -687,6 +698,7 @@ def _badges_por_categoria(categoria: str) -> list:
         "investimento":["Investimento"],
         "ecommerce":   ["E-commerce"],
         "industrial":  ["Industrial"],
+        "alerta":      ["Alerta"],
     }.get(categoria, ["Logística"])
 
 
