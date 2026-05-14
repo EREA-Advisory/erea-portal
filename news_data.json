@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/05/2026 às 11:59",
-  "total": 37,
+  "gerado_em": "14/05/2026 às 09:45",
+  "total": 36,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -27,11 +27,33 @@
       ]
     },
     {
+      "id": "e07931fdb9",
+      "headline": "Shopee avalia instalação de centro de distribuição em Belém - Pará Web News",
+      "source": "Parawebnews",
+      "link": "https://parawebnews.com",
+      "time": "hoje, 17:31",
+      "dt_iso": "2026-05-13T20:31:12+00:00",
+      "summary": "Shopee avalia instalação de centro de distribuição em Belém &nbsp;&nbsp; Pará Web News",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição",
+        "instala",
+        "instalação"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "ffeb6accab",
       "headline": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 08:52",
+      "time": "ontem, 08:52",
       "dt_iso": "2026-05-13T11:52:57+00:00",
       "summary": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -90,23 +112,24 @@
       ]
     },
     {
-      "id": "239abf0a05",
-      "headline": "Tirol inaugura centro de distribuição em Maringá com foco em expansão no norte do Paraná - MilkPoint",
-      "source": "Milkpoint",
-      "link": "https://www.milkpoint.com.br",
-      "time": "08/05 às 08:39",
-      "dt_iso": "2026-05-08T11:39:31+00:00",
-      "summary": "Tirol inaugura centro de distribuição em Maringá com foco em expansão no norte do Paraná &nbsp;&nbsp; MilkPoint",
-      "category": "expansao",
+      "id": "ed68cba41e",
+      "headline": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 18:00",
+      "dt_iso": "2026-05-13T21:00:36+00:00",
+      "summary": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
       "keywords": [
+        "mercado livre",
         "centro de distribuição",
-        "inaugura",
-        "expansão"
+        "instala"
       ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
-        "Expansão"
+        "Destaque",
+        "Logística"
       ]
     },
     {
@@ -229,31 +252,11 @@
       ]
     },
     {
-      "id": "c74c6a0022",
-      "headline": "ID Logistics cresce 17,2% no 1º trimestre e amplia operações de e-commerce no Brasil - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "06/05 às 15:30",
-      "dt_iso": "2026-05-06T18:30:40+00:00",
-      "summary": "ID Logistics cresce 17,2% no 1º trimestre e amplia operações de e-commerce no Brasil &nbsp;&nbsp; Transporte Moderno",
-      "category": "ecommerce",
-      "keywords": [
-        "id logistics",
-        "amplia",
-        "cresce"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "02f45204e0",
       "headline": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos - Portal do Agronegócio",
       "source": "Portaldoagronegocio",
       "link": "https://www.portaldoagronegocio.com.br",
-      "time": "ontem, 07:03",
+      "time": "12/05 às 07:03",
       "dt_iso": "2026-05-12T10:03:45+00:00",
       "summary": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos &nbsp;&nbsp; Portal do Agronegócio",
       "category": "logistica",
@@ -292,7 +295,7 @@
       "headline": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 17:16",
+      "time": "ontem, 17:16",
       "dt_iso": "2026-05-12T20:16:48+00:00",
       "summary": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
@@ -330,7 +333,7 @@
       "headline": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 17:39",
+      "time": "11/05 às 17:39",
       "dt_iso": "2026-05-11T20:39:56+00:00",
       "summary": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -386,6 +389,44 @@
       ]
     },
     {
+      "id": "7184480469",
+      "headline": "Fim da taxa das blusinhas: 'Queremos os mesmos benefícios', diz CEO da Renner",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/fim-da-taxa-das-blusinhas-queremos-os-mesmos-beneficios-diz-ceo-da-renner/",
+      "time": "hoje, 03:55",
+      "dt_iso": "2026-05-14T06:55:45+00:00",
+      "summary": "Fabio Faccio defende isonomia tributária entre varejo nacional e plataformas estrangeiras e diz que decisão amplia desequilíbrio que já existia no setor",
+      "category": "logistica",
+      "keywords": [
+        "renner",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7156e5f2fa",
+      "headline": "Tirol inaugura Centro de Distribuição em Maringá (PR) - SuperVarejo",
+      "source": "Supervarejo",
+      "link": "https://www.supervarejo.com.br",
+      "time": "hoje, 13:52",
+      "dt_iso": "2026-05-13T16:52:58+00:00",
+      "summary": "Tirol inaugura Centro de Distribuição em Maringá (PR) &nbsp;&nbsp; SuperVarejo",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d7f811acc5",
       "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
       "source": "ND Mais",
@@ -405,11 +446,49 @@
       ]
     },
     {
+      "id": "3467e2b921",
+      "headline": "Pátria amplia aposta em condomínio logístico na Bahia com movimentação milionária - SiiLA",
+      "source": "Siila",
+      "link": "https://siila.com.br",
+      "time": "09/05 às 04:50",
+      "dt_iso": "2026-05-09T07:50:04+00:00",
+      "summary": "Pátria amplia aposta em condomínio logístico na Bahia com movimentação milionária &nbsp;&nbsp; SiiLA",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "f61696c1aa",
+      "headline": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "hoje, 16:20",
+      "dt_iso": "2026-05-13T19:20:00+00:00",
+      "summary": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota &nbsp;&nbsp; melhorinvestimento.net",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "9ac7e9069e",
       "headline": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "ontem, 08:47",
+      "time": "12/05 às 08:47",
       "dt_iso": "2026-05-12T11:47:36+00:00",
       "summary": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes &nbsp;&nbsp; Money Times",
       "category": "logistica",
@@ -431,25 +510,6 @@
       "time": "08/05 às 17:36",
       "dt_iso": "2026-05-08T20:36:00+00:00",
       "summary": "WEG inaugura novo centro de distribuição de pinturas industriais na América Latina &nbsp;&nbsp; NSC Total",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "3a324d04c1",
-      "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
-      "source": "Terra",
-      "link": "https://www.terra.com.br",
-      "time": "11/05 às 10:51",
-      "dt_iso": "2026-05-11T13:51:00+00:00",
-      "summary": "RL Higiene inaugura novo centro de distribuição em Santos &nbsp;&nbsp; Terra",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -485,7 +545,7 @@
       "headline": "Mercedes-Benz inaugura nova fábrica na Argentina e reforça estratégia industrial da Daimler Truck na América Latina - Mecânica Online",
       "source": "Mecanicaonline",
       "link": "https://mecanicaonline.com.br",
-      "time": "ontem, 15:44",
+      "time": "11/05 às 15:44",
       "dt_iso": "2026-05-11T18:44:13+00:00",
       "summary": "Mercedes-Benz inaugura nova fábrica na Argentina e reforça estratégia industrial da Daimler Truck na América Latina &nbsp;&nbsp; Mecânica Online",
       "category": "industrial",
@@ -542,7 +602,7 @@
       "headline": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho - FashionNetwork Brasil",
       "source": "Google News",
       "link": "https://br.fashionnetwork.com",
-      "time": "hoje, 15:06",
+      "time": "ontem, 15:06",
       "dt_iso": "2026-05-12T18:06:08+00:00",
       "summary": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho &nbsp;&nbsp; FashionNetwork Brasil",
       "category": "ecommerce",
@@ -557,54 +617,16 @@
       ]
     },
     {
-      "id": "806bfafbcb",
-      "headline": "Renner vê 1º semestre com crescimento de vendas ainda abaixo da previsão - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "08/05 às 12:31",
-      "dt_iso": "2026-05-08T15:31:00+00:00",
-      "summary": "Renner vê 1º semestre com crescimento de vendas ainda abaixo da previsão &nbsp;&nbsp; CNN Brasil",
-      "category": "logistica",
-      "keywords": [
-        "renner",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "3bb10149a6",
-      "headline": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas - JC Concursos",
+      "id": "8226e88866",
+      "headline": "Mercado Livre abre 296 vagas de emprego no Brasil; oportunidades são para tecnologia, logística e dados - JC Concursos",
       "source": "Jcconcursos",
       "link": "https://jcconcursos.com.br",
-      "time": "hoje, 00:26",
-      "dt_iso": "2026-05-13T03:26:20+00:00",
-      "summary": "PepsiCo abre 53 vagas de emprego no Brasil para áreas de logística, qualidade e vendas &nbsp;&nbsp; JC Concursos",
+      "time": "11/05 às 16:22",
+      "dt_iso": "2026-05-11T19:22:00+00:00",
+      "summary": "Mercado Livre abre 296 vagas de emprego no Brasil; oportunidades são para tecnologia, logística e dados &nbsp;&nbsp; JC Concursos",
       "category": "logistica",
       "keywords": [
-        "pepsico",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ffdbfcf1fb",
-      "headline": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar - JC Concursos",
-      "source": "Jcconcursos",
-      "link": "https://jcconcursos.com.br",
-      "time": "07/05 às 21:16",
-      "dt_iso": "2026-05-08T00:16:00+00:00",
-      "summary": "JBS abre 284 vagas de emprego no Brasil; veja cargos e como se candidatar &nbsp;&nbsp; JC Concursos",
-      "category": "logistica",
-      "keywords": [
-        "jbs",
+        "mercado livre",
         "abre"
       ],
       "score": 6,
@@ -618,32 +640,13 @@
       "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "hoje, 18:45",
+      "time": "ontem, 18:45",
       "dt_iso": "2026-05-12T21:45:06+00:00",
       "summary": "GGRC11 compra dois galpões e amplia presença logística &nbsp;&nbsp; suno.com.br",
       "category": "logistica",
       "keywords": [
         "galpões",
         "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "a34ea0dc29",
-      "headline": "Jadlog investe para enfrentar as gigantes do varejo - Valor Econômico",
-      "source": "Valor Econômico",
-      "link": "https://valor.globo.com",
-      "time": "07/05 às 05:02",
-      "dt_iso": "2026-05-07T08:02:20+00:00",
-      "summary": "Jadlog investe para enfrentar as gigantes do varejo &nbsp;&nbsp; Valor Econômico",
-      "category": "logistica",
-      "keywords": [
-        "jadlog",
-        "investe"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -690,31 +693,12 @@
       ]
     },
     {
-      "id": "11774a804b",
-      "headline": "Riachuelo usa moda brasileira para crescer no varejo - InvestNews",
-      "source": "InvestNews",
-      "link": "https://investnews.com.br",
-      "time": "09/05 às 09:58",
-      "dt_iso": "2026-05-09T12:58:17+00:00",
-      "summary": "Riachuelo usa moda brasileira para crescer no varejo &nbsp;&nbsp; InvestNews",
-      "category": "logistica",
-      "keywords": [
-        "riachuelo",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "27d5fb0291",
       "headline": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce - Autos Segredos",
       "source": "Autossegredos",
       "link": "https://www.autossegredos.com.br",
-      "time": "hoje, 08:53",
-      "dt_iso": "2026-05-13T11:53:23+00:00",
+      "time": "ontem, 08:30",
+      "dt_iso": "2026-05-13T11:30:00+00:00",
       "summary": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce &nbsp;&nbsp; Autos Segredos",
       "category": "ecommerce",
       "keywords": [
