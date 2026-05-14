@@ -57,8 +57,12 @@ FEED_TIMEOUT = 10
 FEEDS = [
     # Geral — negócios e economia
     {"url": "https://feeds.valor.com.br/rss/empresas",          "fonte": "Valor Econômico"},
+    {"url": "https://feeds.valor.com.br/rss/financas",          "fonte": "Valor Econômico"},
     {"url": "https://exame.com/feed/",                          "fonte": "Exame"},
     {"url": "https://www.infomoney.com.br/feed/",               "fonte": "InfoMoney"},
+    {"url": "https://www.infomoney.com.br/mercados/feed/",      "fonte": "InfoMoney"},
+    {"url": "https://www.estadao.com.br/rss/economia.xml",      "fonte": "Estadão"},
+    {"url": "https://www.estadao.com.br/rss/negocios.xml",      "fonte": "Estadão"},
     {"url": "https://www.cnnbrasil.com.br/economia/feed/",      "fonte": "CNN Brasil"},
 
     # Logística e supply chain
@@ -120,6 +124,9 @@ FEEDS = [
     {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",         "fonte": "Mundo Logística"},
     {"url": "https://news.google.com/rss/search?q=site:portosenavios.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",          "fonte": "Portos e Navios"},
     {"url": "https://news.google.com/rss/search?q=site:logisticsnews.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",          "fonte": "Logistics News"},
+    {"url": "https://news.google.com/rss/search?q=Tok%26Stok+recuperacao+judicial+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=recuperacao+judicial+logistica+brasil+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},
+    {"url": "https://news.google.com/rss/search?q=falencia+empresa+logistica+brasil+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",   "fonte": "Google News"},
 
     # Google News — busca dedicada por empresa monitorada
     {"url": "https://news.google.com/rss/search?q=Mercado+Livre+Amazon+Brasil+galpão+OR+logística+OR+distribuição+OR+expansão+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419", "fonte": "Google News"},  # Mercado Livre | Amazon Brasil
@@ -543,6 +550,15 @@ def _extrair_link(entry) -> str:
 
 
 
+def _extrair_dominio(link: str) -> str:
+    """Retorna o domínio limpo do link."""
+    from urllib.parse import urlparse
+    try:
+        return urlparse(link).netloc.lower().replace("www.", "")
+    except Exception:
+        return ""
+
+
 def _extrair_fonte(link: str, fonte_feed: str) -> str:
     """Extrai o nome do portal a partir do link da notícia.
     Se o link for do Google News ou inválido, usa o nome do feed como fallback.
@@ -697,6 +713,33 @@ def coletar_feeds(horas: int) -> list[dict]:
             if not _tem_keyword(texto):
                 sem_keyword += 1
                 continue
+
+            # Descarta fontes de baixa qualidade
+            FONTES_BLOQUEADAS = {
+                "instagram.com", "facebook.com", "twitter.com",
+                "x.com", "tiktok.com", "youtube.com", "linkedin.com",
+            }
+            link_domain = _extrair_dominio(link_real)
+            if any(bloq in link_domain for bloq in FONTES_BLOQUEADAS):
+                log.debug(f"  Descartada (fonte bloqueada): {titulo[:60]}")
+                continue
+
+            # Descarta notícias de vagas de emprego sem contexto de expansão física
+            RUIDO_KEYWORDS = [
+                "vagas de emprego", "processo seletivo", "oportunidade de emprego",
+                "trabalhe na", "curriculum", "recrutamento",
+                "amplia prejuízo", "reduz lucro", "queda no lucro",
+                "resultado financeiro", "lucro líquido recua", "prejuízo líquido",
+            ]
+            if any(r in texto for r in RUIDO_KEYWORDS):
+                # Só passa se tiver ancora logística física junto
+                tem_ancora_fisica = any(kw in texto for kw in [
+                    "galpão", "armazém", "centro de distribuição", "hub logístico",
+                    "fulfillment", "condomínio logístico"
+                ])
+                if not tem_ancora_fisica:
+                    log.debug(f"  Descartada (ruído): {titulo[:60]}")
+                    continue
 
             link_real = _extrair_link(entry)
             aceitas += 1
