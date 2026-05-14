@@ -1,6 +1,7 @@
 # EREA — Portal de Notícias | Time de Locações
 ## Guia de instalação e uso
 
+
 ---
 
 ## Estrutura de arquivos
