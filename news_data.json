@@ -1,6 +1,6 @@
 {
-  "gerado_em": "14/05/2026 às 11:59",
-  "total": 32,
+  "gerado_em": "15/05/2026 às 08:57",
+  "total": 37,
   "noticias": [
     {
       "id": "6bd6206805",
@@ -31,7 +31,7 @@
       "headline": "Shopee avalia instalação de centro de distribuição em Belém - Pará Web News",
       "source": "Parawebnews",
       "link": "https://parawebnews.com",
-      "time": "hoje, 17:31",
+      "time": "ontem, 17:31",
       "dt_iso": "2026-05-13T20:31:12+00:00",
       "summary": "Shopee avalia instalação de centro de distribuição em Belém &nbsp;&nbsp; Pará Web News",
       "category": "ecommerce",
@@ -49,11 +49,33 @@
       ]
     },
     {
+      "id": "f129986a9e",
+      "headline": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 15:35",
+      "dt_iso": "2026-05-14T18:35:07+00:00",
+      "summary": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "suzano",
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
       "id": "ffeb6accab",
       "headline": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:52",
+      "time": "13/05 às 08:52",
       "dt_iso": "2026-05-13T11:52:57+00:00",
       "summary": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -70,21 +92,21 @@
       ]
     },
     {
-      "id": "3fa96446da",
-      "headline": "Cross-docking vs. fulfillment: qual é a diferença nos centros logísticos da Shopee - Times Brasil | CNBC",
-      "source": "Timesbrasil",
-      "link": "https://timesbrasil.com.br",
-      "time": "08/05 às 06:30",
-      "dt_iso": "2026-05-08T09:30:00+00:00",
-      "summary": "Cross-docking vs. fulfillment: qual é a diferença nos centros logísticos da Shopee &nbsp;&nbsp; Times Brasil | CNBC",
+      "id": "cc41c662d6",
+      "headline": "Jadlog inaugura hub logístico de 200 milhões com 80% de automação - Frota&Cia",
+      "source": "Frotacia",
+      "link": "https://frotacia.com.br",
+      "time": "08/05 às 14:55",
+      "dt_iso": "2026-05-08T17:55:16+00:00",
+      "summary": "Jadlog inaugura hub logístico de 200 milhões com 80% de automação &nbsp;&nbsp; Frota&amp;Cia",
       "category": "logistica",
       "keywords": [
-        "shopee",
-        "fulfillment",
-        "cross-docking"
+        "jadlog",
+        "hub logístico",
+        "inaugura"
       ],
       "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
         "Logística"
@@ -116,7 +138,7 @@
       "headline": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 18:00",
+      "time": "ontem, 18:00",
       "dt_iso": "2026-05-13T21:00:36+00:00",
       "summary": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -129,26 +151,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "1654cfbd6f",
-      "headline": "Jadlog inaugura hub em São Paulo e investe R$ 200 mi - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "07/05 às 16:18",
-      "dt_iso": "2026-05-07T19:18:34+00:00",
-      "summary": "Jadlog inaugura hub em São Paulo e investe R$ 200 mi &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "jadlog",
-        "inaugura",
-        "investe"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
         "Logística"
       ]
     },
@@ -256,7 +258,7 @@
       "headline": "DHL Express amplia operação com nova unidade em São Bernardo - Portal ABC do ABC",
       "source": "Abcdoabc",
       "link": "https://www.abcdoabc.com.br",
-      "time": "há 38 min",
+      "time": "hoje, 11:21",
       "dt_iso": "2026-05-14T14:21:00+00:00",
       "summary": "DHL Express amplia operação com nova unidade em São Bernardo &nbsp;&nbsp; Portal ABC do ABC",
       "category": "expansao",
@@ -291,31 +293,11 @@
       ]
     },
     {
-      "id": "103d177ae7",
-      "headline": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "07/05 às 17:47",
-      "dt_iso": "2026-05-07T20:47:00+00:00",
-      "summary": "Mercado Livre (MELI34): Lucro recua para US$ 417 milhões em meio a investimentos; veja números &nbsp;&nbsp; Money Times",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "2dbce9aaa6",
       "headline": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "ontem, 17:16",
+      "time": "12/05 às 17:16",
       "dt_iso": "2026-05-12T20:16:48+00:00",
       "summary": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
@@ -389,6 +371,25 @@
       ]
     },
     {
+      "id": "d7f811acc5",
+      "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
+      "source": "ND Mais",
+      "link": "https://ndmais.com.br",
+      "time": "10/05 às 20:39",
+      "dt_iso": "2026-05-10T23:39:37+00:00",
+      "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "3a324d04c1",
       "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
       "source": "Terra",
@@ -408,20 +409,20 @@
       ]
     },
     {
-      "id": "d7f811acc5",
-      "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
-      "source": "ND Mais",
-      "link": "https://ndmais.com.br",
-      "time": "10/05 às 20:39",
-      "dt_iso": "2026-05-10T23:39:37+00:00",
-      "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
+      "id": "e99b5b0446",
+      "headline": "HGLG11 acelera expansão com galpão BTS de R$ 468 mi na Bahia - suno.com.br",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "hoje, 16:25",
+      "dt_iso": "2026-05-14T19:25:07+00:00",
+      "summary": "HGLG11 acelera expansão com galpão BTS de R$ 468 mi na Bahia &nbsp;&nbsp; suno.com.br",
       "category": "expansao",
       "keywords": [
-        "centro de distribuição",
+        "galpão",
         "expansão"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Oportunidade de desenvolvimento BTS. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -450,7 +451,7 @@
       "headline": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 16:20",
+      "time": "ontem, 16:20",
       "dt_iso": "2026-05-13T19:20:00+00:00",
       "summary": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota &nbsp;&nbsp; melhorinvestimento.net",
       "category": "logistica",
@@ -469,8 +470,8 @@
       "headline": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "12/05 às 08:47",
-      "dt_iso": "2026-05-12T11:47:36+00:00",
+      "time": "12/05 às 04:00",
+      "dt_iso": "2026-05-12T07:00:00+00:00",
       "summary": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes &nbsp;&nbsp; Money Times",
       "category": "logistica",
       "keywords": [
@@ -479,6 +480,25 @@
       ],
       "score": 6,
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3b9a67aad2",
+      "headline": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego - GuarulhosWeb",
+      "source": "Guarulhosweb",
+      "link": "https://guarulhosweb.com.br",
+      "time": "há 35 min",
+      "dt_iso": "2026-05-15T11:21:32+00:00",
+      "summary": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego &nbsp;&nbsp; GuarulhosWeb",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -560,11 +580,30 @@
       ]
     },
     {
+      "id": "63a5920d4d",
+      "headline": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos - Balada IN",
+      "source": "Portalin",
+      "link": "https://www.portalin.com.br",
+      "time": "hoje, 14:54",
+      "dt_iso": "2026-05-14T17:54:00+00:00",
+      "summary": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "b42a006c48",
       "headline": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho - FashionNetwork Brasil",
       "source": "Google News",
       "link": "https://br.fashionnetwork.com",
-      "time": "ontem, 15:06",
+      "time": "12/05 às 15:06",
       "dt_iso": "2026-05-12T18:06:08+00:00",
       "summary": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho &nbsp;&nbsp; FashionNetwork Brasil",
       "category": "ecommerce",
@@ -583,7 +622,7 @@
       "headline": "GGRC11 compra dois galpões e amplia presença logística - suno.com.br",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "ontem, 18:45",
+      "time": "12/05 às 18:45",
       "dt_iso": "2026-05-12T21:45:06+00:00",
       "summary": "GGRC11 compra dois galpões e amplia presença logística &nbsp;&nbsp; suno.com.br",
       "category": "logistica",
@@ -595,6 +634,44 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "4a9e7b3f84",
+      "headline": "DHL Express aposta no serviço premium para crescer no país - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "hoje, 05:00",
+      "dt_iso": "2026-05-15T08:00:55+00:00",
+      "summary": "DHL Express aposta no serviço premium para crescer no país &nbsp;&nbsp; Valor Econômico",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7fe79566c2",
+      "headline": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos - arevista.com.br",
+      "source": "Arevista",
+      "link": "https://arevista.com.br",
+      "time": "hoje, 14:38",
+      "dt_iso": "2026-05-14T17:38:27+00:00",
+      "summary": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos &nbsp;&nbsp; arevista.com.br",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -621,7 +698,7 @@
       "headline": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce - Autos Segredos",
       "source": "Autossegredos",
       "link": "https://www.autossegredos.com.br",
-      "time": "ontem, 08:30",
+      "time": "13/05 às 08:30",
       "dt_iso": "2026-05-13T11:30:00+00:00",
       "summary": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce &nbsp;&nbsp; Autos Segredos",
       "category": "ecommerce",
@@ -633,6 +710,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "4c6723336b",
+      "headline": "Petz lucra R$ 7,9 milhões no 1T26 e acelera crescimento operacional antes dos efeitos da fusão com a Cobasi - ADVFN",
+      "source": "Google News",
+      "link": "https://br.advfn.com",
+      "time": "08/05 às 15:54",
+      "dt_iso": "2026-05-08T18:54:43+00:00",
+      "summary": "Petz lucra R$ 7,9 milhões no 1T26 e acelera crescimento operacional antes dos efeitos da fusão com a Cobasi &nbsp;&nbsp; ADVFN",
+      "category": "logistica",
+      "keywords": [
+        "petz",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     }
   ]
