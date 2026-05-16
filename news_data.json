@@ -1,13 +1,13 @@
 {
-  "gerado_em": "15/05/2026 às 13:19",
-  "total": 34,
+  "gerado_em": "16/05/2026 às 09:08",
+  "total": 26,
   "noticias": [
     {
       "id": "f129986a9e",
       "headline": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 15:35",
+      "time": "ontem, 15:35",
       "dt_iso": "2026-05-14T18:35:07+00:00",
       "summary": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -53,7 +53,7 @@
       "headline": "Shopee avalia instalação de centro de distribuição em Belém - Pará Web News",
       "source": "Parawebnews",
       "link": "https://parawebnews.com",
-      "time": "ontem, 17:31",
+      "time": "13/05 às 17:31",
       "dt_iso": "2026-05-13T20:31:12+00:00",
       "summary": "Shopee avalia instalação de centro de distribuição em Belém &nbsp;&nbsp; Pará Web News",
       "category": "ecommerce",
@@ -92,27 +92,6 @@
       ]
     },
     {
-      "id": "cc41c662d6",
-      "headline": "Jadlog inaugura hub logístico de 200 milhões com 80% de automação - Frota&Cia",
-      "source": "Frotacia",
-      "link": "https://frotacia.com.br",
-      "time": "08/05 às 14:55",
-      "dt_iso": "2026-05-08T17:55:16+00:00",
-      "summary": "Jadlog inaugura hub logístico de 200 milhões com 80% de automação &nbsp;&nbsp; Frota&amp;Cia",
-      "category": "logistica",
-      "keywords": [
-        "jadlog",
-        "hub logístico",
-        "inaugura"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
       "id": "46b79c0bf7",
       "headline": "Total Express amplia operação de fulfillment no Brasil - Mundo Logística",
       "source": "Mundo Logística",
@@ -138,7 +117,7 @@
       "headline": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 18:00",
+      "time": "13/05 às 18:00",
       "dt_iso": "2026-05-13T21:00:36+00:00",
       "summary": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -155,23 +134,23 @@
       ]
     },
     {
-      "id": "5d5f0c1581",
-      "headline": "Mercado Livre abre mão de rentabilidade para crescer no Brasil. ‘Oportunidade rara’ - InvestNews - InvestNews",
-      "source": "InvestNews",
-      "link": "https://investnews.com.br",
-      "time": "08/05 às 16:55",
-      "dt_iso": "2026-05-08T19:55:15+00:00",
-      "summary": "Mercado Livre abre mão de rentabilidade para crescer no Brasil. ‘Oportunidade rara’ - InvestNews &nbsp;&nbsp; InvestNews",
-      "category": "ecommerce",
+      "id": "065c46da33",
+      "headline": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre - Portal Notícias Goiás",
+      "source": "Portalnoticiasgoias",
+      "link": "https://portalnoticiasgoias.com.br",
+      "time": "hoje, 14:03",
+      "dt_iso": "2026-05-15T17:03:14+00:00",
+      "summary": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre &nbsp;&nbsp; Portal Notícias Goiás",
+      "category": "expansao",
       "keywords": [
         "mercado livre",
-        "abre",
-        "cresce"
+        "amplia",
+        "novo cd"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "E-commerce"
+        "Expansão"
       ]
     },
     {
@@ -195,26 +174,6 @@
       ]
     },
     {
-      "id": "d81eade048",
-      "headline": "WEG anuncia a inauguração do seu Centro de Distribuição de tintas industriais na Colômbia - OCP News",
-      "source": "Ocp",
-      "link": "https://ocp.news",
-      "time": "08/05 às 17:02",
-      "dt_iso": "2026-05-08T20:02:39+00:00",
-      "summary": "WEG anuncia a inauguração do seu Centro de Distribuição de tintas industriais na Colômbia &nbsp;&nbsp; OCP News",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "inauguração"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "c2cd00eba7",
       "headline": "DHL Express amplia operação com nova unidade em São Bernardo - Portal ABC do ABC",
       "source": "Abcdoabc",
@@ -232,25 +191,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "02f45204e0",
-      "headline": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos - Portal do Agronegócio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "12/05 às 07:03",
-      "dt_iso": "2026-05-12T10:03:45+00:00",
-      "summary": "Suzano escolhe Avondale Global Gateway como hub logístico na Costa do Golfo e retoma importação de celulose nos EUA após mais de 30 anos &nbsp;&nbsp; Portal do Agronegócio",
-      "category": "logistica",
-      "keywords": [
-        "suzano",
-        "hub logístico"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -293,69 +233,11 @@
       ]
     },
     {
-      "id": "eb0e3030b1",
-      "headline": "Natura e Avon aprofundam sua integração no Cone Sul e projetam novas inaugurações no interior da Argentina - FashionNetwork Brasil",
-      "source": "Google News",
-      "link": "https://br.fashionnetwork.com",
-      "time": "08/05 às 14:17",
-      "dt_iso": "2026-05-08T17:17:53+00:00",
-      "summary": "Natura e Avon aprofundam sua integração no Cone Sul e projetam novas inaugurações no interior da Argentina &nbsp;&nbsp; FashionNetwork Brasil",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "inaugura",
-        "inaugurações"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d7f811acc5",
-      "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
-      "source": "ND Mais",
-      "link": "https://ndmais.com.br",
-      "time": "10/05 às 20:39",
-      "dt_iso": "2026-05-10T23:39:37+00:00",
-      "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "86326ba44e",
-      "headline": "Prologis dará início à fase de pré-locação de galpões logísticos em terreno em São Bernardo - Diário do Grande ABC",
-      "source": "Dgabc",
-      "link": "https://www.dgabc.com.br",
-      "time": "hoje, 12:05",
-      "dt_iso": "2026-05-15T15:05:00+00:00",
-      "summary": "Prologis dará início à fase de pré-locação de galpões logísticos em terreno em São Bernardo &nbsp;&nbsp; Diário do Grande ABC",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "locação"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e99b5b0446",
       "headline": "HGLG11 acelera expansão com galpão BTS de R$ 468 mi na Bahia - suno.com.br",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "hoje, 16:25",
+      "time": "ontem, 16:25",
       "dt_iso": "2026-05-14T19:25:07+00:00",
       "summary": "HGLG11 acelera expansão com galpão BTS de R$ 468 mi na Bahia &nbsp;&nbsp; suno.com.br",
       "category": "expansao",
@@ -367,44 +249,6 @@
       "relevance": "Oportunidade de desenvolvimento BTS. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "3467e2b921",
-      "headline": "Pátria amplia aposta em condomínio logístico na Bahia com movimentação milionária - SiiLA",
-      "source": "Siila",
-      "link": "https://siila.com.br",
-      "time": "09/05 às 04:50",
-      "dt_iso": "2026-05-09T07:50:04+00:00",
-      "summary": "Pátria amplia aposta em condomínio logístico na Bahia com movimentação milionária &nbsp;&nbsp; SiiLA",
-      "category": "logistica",
-      "keywords": [
-        "condomínio logístico",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "f61696c1aa",
-      "headline": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "ontem, 16:20",
-      "dt_iso": "2026-05-13T19:20:00+00:00",
-      "summary": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota &nbsp;&nbsp; melhorinvestimento.net",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -427,30 +271,11 @@
       ]
     },
     {
-      "id": "ad1edf03c7",
-      "headline": "WEG inaugura novo centro de distribuição de pinturas industriais na América Latina - NSC Total",
-      "source": "NSC Total",
-      "link": "https://www.nsctotal.com.br",
-      "time": "08/05 às 17:36",
-      "dt_iso": "2026-05-08T20:36:00+00:00",
-      "summary": "WEG inaugura novo centro de distribuição de pinturas industriais na América Latina &nbsp;&nbsp; NSC Total",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "3b9a67aad2",
       "headline": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego - GuarulhosWeb",
       "source": "Guarulhosweb",
       "link": "https://guarulhosweb.com.br",
-      "time": "hoje, 08:21",
+      "time": "ontem, 08:21",
       "dt_iso": "2026-05-15T11:21:32+00:00",
       "summary": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego &nbsp;&nbsp; GuarulhosWeb",
       "category": "logistica",
@@ -484,13 +309,13 @@
       ]
     },
     {
-      "id": "4a1d6c5a00",
-      "headline": "Mercedes-Benz inaugura fábrica de caminhões de US$ 110 milhões na Argentina - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "08/05 às 13:55",
-      "dt_iso": "2026-05-08T16:55:00+00:00",
-      "summary": "Mercedes-Benz inaugura fábrica de caminhões de US$ 110 milhões na Argentina &nbsp;&nbsp; Estadão",
+      "id": "53f20c52fe",
+      "headline": "Mercedes-Benz Caminhões e Ônibus inaugura novo centro industrial em Zárate, na Argentina - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "11/05 às 09:45",
+      "dt_iso": "2026-05-11T12:45:23+00:00",
+      "summary": "Mercedes-Benz Caminhões e Ônibus inaugura novo centro industrial em Zárate, na Argentina &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "mercedes-benz",
@@ -522,25 +347,6 @@
       ]
     },
     {
-      "id": "63a5920d4d",
-      "headline": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos - Balada IN",
-      "source": "Portalin",
-      "link": "https://www.portalin.com.br",
-      "time": "hoje, 14:54",
-      "dt_iso": "2026-05-14T17:54:00+00:00",
-      "summary": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
-      "category": "logistica",
-      "keywords": [
-        "correios",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "a842997708",
       "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
       "source": "CNN Brasil",
@@ -557,6 +363,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "63a5920d4d",
+      "headline": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos - Balada IN",
+      "source": "Portalin",
+      "link": "https://www.portalin.com.br",
+      "time": "ontem, 14:54",
+      "dt_iso": "2026-05-14T17:54:00+00:00",
+      "summary": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -583,7 +408,7 @@
       "headline": "DHL Express aposta no serviço premium para crescer no país - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "hoje, 05:00",
+      "time": "ontem, 05:00",
       "dt_iso": "2026-05-15T08:00:55+00:00",
       "summary": "DHL Express aposta no serviço premium para crescer no país &nbsp;&nbsp; Valor Econômico",
       "category": "logistica",
@@ -602,7 +427,7 @@
       "headline": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos - arevista.com.br",
       "source": "Arevista",
       "link": "https://arevista.com.br",
-      "time": "hoje, 14:38",
+      "time": "ontem, 14:38",
       "dt_iso": "2026-05-14T17:38:27+00:00",
       "summary": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos &nbsp;&nbsp; arevista.com.br",
       "category": "expansao",
@@ -617,17 +442,36 @@
       ]
     },
     {
-      "id": "65609fb3c2",
-      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "08/05 às 16:34",
-      "dt_iso": "2026-05-08T19:34:59+00:00",
-      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; Mundo Logística",
+      "id": "f61696c1aa",
+      "headline": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "13/05 às 16:20",
+      "dt_iso": "2026-05-13T19:20:00+00:00",
+      "summary": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota &nbsp;&nbsp; melhorinvestimento.net",
       "category": "logistica",
       "keywords": [
-        "loggi",
-        "amplia"
+        "galpões",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "09a8c7ce03",
+      "headline": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz - Frota&Cia",
+      "source": "Frotacia",
+      "link": "https://frotacia.com.br",
+      "time": "hoje, 10:18",
+      "dt_iso": "2026-05-15T13:18:00+00:00",
+      "summary": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz &nbsp;&nbsp; Frota&amp;Cia",
+      "category": "logistica",
+      "keywords": [
+        "mercedes-benz",
+        "inaugura"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
