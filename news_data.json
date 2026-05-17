@@ -1,13 +1,13 @@
 {
-  "gerado_em": "16/05/2026 às 09:08",
-  "total": 26,
+  "gerado_em": "17/05/2026 às 09:07",
+  "total": 28,
   "noticias": [
     {
       "id": "f129986a9e",
       "headline": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 15:35",
+      "time": "14/05 às 15:35",
       "dt_iso": "2026-05-14T18:35:07+00:00",
       "summary": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -25,49 +25,25 @@
       ]
     },
     {
-      "id": "6bd6206805",
-      "headline": "Trabalhe na Shopee: empresa abre no Brasil mais de 90 vagas em novo Centro de Distribuição no Ceará e promete gerar 300 empregos em operação logística bilionária que amplia disputa com Amazon e Mercado Livre no Nordeste - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "09/05 às 18:10",
-      "dt_iso": "2026-05-09T21:10:00+00:00",
-      "summary": "Trabalhe na Shopee: empresa abre no Brasil mais de 90 vagas em novo Centro de Distribuição no Ceará e promete gerar 300 empregos em operação logística bilionária que amplia disputa com Amazon e Mercado Livre no Nordeste &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
+      "id": "0545662df7",
+      "headline": "Hidrolândia inaugura maior Centro de Distribuição do Mercado Livre em Goiás e amplia força logística no Centro-Oeste - Diario de Aparecida",
+      "source": "Diariodeaparecida",
+      "link": "https://www.diariodeaparecida.com.br",
+      "time": "hoje, 10:08",
+      "dt_iso": "2026-05-16T13:08:28+00:00",
+      "summary": "Hidrolândia inaugura maior Centro de Distribuição do Mercado Livre em Goiás e amplia força logística no Centro-Oeste &nbsp;&nbsp; Diario de Aparecida",
+      "category": "logistica",
       "keywords": [
         "mercado livre",
-        "shopee",
         "centro de distribuição",
-        "operação logística",
-        "amplia",
-        "abre"
+        "inaugura",
+        "amplia"
       ],
       "score": 9,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "e07931fdb9",
-      "headline": "Shopee avalia instalação de centro de distribuição em Belém - Pará Web News",
-      "source": "Parawebnews",
-      "link": "https://parawebnews.com",
-      "time": "13/05 às 17:31",
-      "dt_iso": "2026-05-13T20:31:12+00:00",
-      "summary": "Shopee avalia instalação de centro de distribuição em Belém &nbsp;&nbsp; Pará Web News",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centro de distribuição",
-        "instala",
-        "instalação"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -138,7 +114,7 @@
       "headline": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre - Portal Notícias Goiás",
       "source": "Portalnoticiasgoias",
       "link": "https://portalnoticiasgoias.com.br",
-      "time": "hoje, 14:03",
+      "time": "ontem, 14:03",
       "dt_iso": "2026-05-15T17:03:14+00:00",
       "summary": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre &nbsp;&nbsp; Portal Notícias Goiás",
       "category": "expansao",
@@ -154,31 +130,11 @@
       ]
     },
     {
-      "id": "2dedd15056",
-      "headline": "WEG inaugura centro de distribuição de pintura industrial, reforça presença na América Latina com soluções anticorrosivas de alta tecnologia e amplia capacidade de atendimento regional a partir de Bogotá, com mais agilidade e proximidade ao mercado na - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "09/05 às 14:42",
-      "dt_iso": "2026-05-09T17:42:00+00:00",
-      "summary": "WEG inaugura centro de distribuição de pintura industrial, reforça presença na América Latina com soluções anticorrosivas de alta tecnologia e amplia capacidade de atendimento regional a partir de Bogotá, com mais agilidade e proximidade ao mercado na &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "industrial",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Industrial"
-      ]
-    },
-    {
       "id": "c2cd00eba7",
       "headline": "DHL Express amplia operação com nova unidade em São Bernardo - Portal ABC do ABC",
       "source": "Abcdoabc",
       "link": "https://www.abcdoabc.com.br",
-      "time": "ontem, 11:21",
+      "time": "14/05 às 11:21",
       "dt_iso": "2026-05-14T14:21:00+00:00",
       "summary": "DHL Express amplia operação com nova unidade em São Bernardo &nbsp;&nbsp; Portal ABC do ABC",
       "category": "expansao",
@@ -213,6 +169,25 @@
       ]
     },
     {
+      "id": "c48b6d2e65",
+      "headline": "Centro de distribuição da Shopee em Belém pode gerar mais de 5 mil empregos - Pará Web News",
+      "source": "Parawebnews",
+      "link": "https://parawebnews.com",
+      "time": "ontem, 13:34",
+      "dt_iso": "2026-05-15T16:34:29+00:00",
+      "summary": "Centro de distribuição da Shopee em Belém pode gerar mais de 5 mil empregos &nbsp;&nbsp; Pará Web News",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "0230101acd",
       "headline": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center - Mundo Logística",
       "source": "Mundo Logística",
@@ -233,11 +208,68 @@
       ]
     },
     {
+      "id": "e193b90bf9",
+      "headline": "Investidores acusam Portugal de “quebra de confiança” após nova lei imigratória",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mundo/investidores-acusam-portugal-de-quebra-de-confianca-apos-nova-lei-imigratoria/",
+      "time": "hoje, 08:00",
+      "dt_iso": "2026-05-17T11:00:00+00:00",
+      "summary": "Mudança nas regras da cidadania amplia prazo para naturalização e leva estrangeiros a preparar ações contra o Estado português \n The post  Investidores acusam Portugal de “quebra de confiança” após nova lei imigratória  appeared first on  InfoMoney .",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "214810d0a8",
+      "headline": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários - TNH1",
+      "source": "Tnh1",
+      "link": "https://www.tnh1.com.br",
+      "time": "há 54 min",
+      "dt_iso": "2026-05-17T11:12:00+00:00",
+      "summary": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários &nbsp;&nbsp; TNH1",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "d7f811acc5",
+      "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
+      "source": "ND Mais",
+      "link": "https://ndmais.com.br",
+      "time": "10/05 às 20:39",
+      "dt_iso": "2026-05-10T23:39:37+00:00",
+      "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "e99b5b0446",
       "headline": "HGLG11 acelera expansão com galpão BTS de R$ 468 mi na Bahia - suno.com.br",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "ontem, 16:25",
+      "time": "14/05 às 16:25",
       "dt_iso": "2026-05-14T19:25:07+00:00",
       "summary": "HGLG11 acelera expansão com galpão BTS de R$ 468 mi na Bahia &nbsp;&nbsp; suno.com.br",
       "category": "expansao",
@@ -275,7 +307,7 @@
       "headline": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego - GuarulhosWeb",
       "source": "Guarulhosweb",
       "link": "https://guarulhosweb.com.br",
-      "time": "ontem, 08:21",
+      "time": "15/05 às 08:21",
       "dt_iso": "2026-05-15T11:21:32+00:00",
       "summary": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego &nbsp;&nbsp; GuarulhosWeb",
       "category": "logistica",
@@ -347,30 +379,11 @@
       ]
     },
     {
-      "id": "a842997708",
-      "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "11/05 às 10:56",
-      "dt_iso": "2026-05-11T13:56:05+00:00",
-      "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "63a5920d4d",
       "headline": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos - Balada IN",
       "source": "Portalin",
       "link": "https://www.portalin.com.br",
-      "time": "ontem, 14:54",
+      "time": "14/05 às 14:54",
       "dt_iso": "2026-05-14T17:54:00+00:00",
       "summary": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
       "category": "logistica",
@@ -404,11 +417,30 @@
       ]
     },
     {
+      "id": "a842997708",
+      "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "11/05 às 10:56",
+      "dt_iso": "2026-05-11T13:56:05+00:00",
+      "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "4a9e7b3f84",
       "headline": "DHL Express aposta no serviço premium para crescer no país - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "ontem, 05:00",
+      "time": "15/05 às 05:00",
       "dt_iso": "2026-05-15T08:00:55+00:00",
       "summary": "DHL Express aposta no serviço premium para crescer no país &nbsp;&nbsp; Valor Econômico",
       "category": "logistica",
@@ -427,7 +459,7 @@
       "headline": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos - arevista.com.br",
       "source": "Arevista",
       "link": "https://arevista.com.br",
-      "time": "ontem, 14:38",
+      "time": "14/05 às 14:38",
       "dt_iso": "2026-05-14T17:38:27+00:00",
       "summary": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos &nbsp;&nbsp; arevista.com.br",
       "category": "expansao",
@@ -465,8 +497,8 @@
       "headline": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz - Frota&Cia",
       "source": "Frotacia",
       "link": "https://frotacia.com.br",
-      "time": "hoje, 10:18",
-      "dt_iso": "2026-05-15T13:18:00+00:00",
+      "time": "ontem, 16:12",
+      "dt_iso": "2026-05-15T19:12:00+00:00",
       "summary": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz &nbsp;&nbsp; Frota&amp;Cia",
       "category": "logistica",
       "keywords": [
@@ -503,7 +535,7 @@
       "headline": "Special Dog Company aposta em inovação no CBNA PET 2026 e expande linha Bionatural Sensitive - Portal Cães e Gatos",
       "source": "Caesegatos",
       "link": "https://caesegatos.com.br",
-      "time": "hoje, 11:30",
+      "time": "ontem, 11:30",
       "dt_iso": "2026-05-15T14:30:55+00:00",
       "summary": "Special Dog Company aposta em inovação no CBNA PET 2026 e expande linha Bionatural Sensitive &nbsp;&nbsp; Portal Cães e Gatos",
       "category": "logistica",
