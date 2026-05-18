@@ -1,6 +1,6 @@
 {
-  "gerado_em": "17/05/2026 às 09:07",
-  "total": 28,
+  "gerado_em": "18/05/2026 às 10:34",
+  "total": 24,
   "noticias": [
     {
       "id": "f129986a9e",
@@ -29,7 +29,7 @@
       "headline": "Hidrolândia inaugura maior Centro de Distribuição do Mercado Livre em Goiás e amplia força logística no Centro-Oeste - Diario de Aparecida",
       "source": "Diariodeaparecida",
       "link": "https://www.diariodeaparecida.com.br",
-      "time": "hoje, 10:08",
+      "time": "16/05 às 10:08",
       "dt_iso": "2026-05-16T13:08:28+00:00",
       "summary": "Hidrolândia inaugura maior Centro de Distribuição do Mercado Livre em Goiás e amplia força logística no Centro-Oeste &nbsp;&nbsp; Diario de Aparecida",
       "category": "logistica",
@@ -114,7 +114,7 @@
       "headline": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre - Portal Notícias Goiás",
       "source": "Portalnoticiasgoias",
       "link": "https://portalnoticiasgoias.com.br",
-      "time": "ontem, 14:03",
+      "time": "15/05 às 14:03",
       "dt_iso": "2026-05-15T17:03:14+00:00",
       "summary": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre &nbsp;&nbsp; Portal Notícias Goiás",
       "category": "expansao",
@@ -173,7 +173,7 @@
       "headline": "Centro de distribuição da Shopee em Belém pode gerar mais de 5 mil empregos - Pará Web News",
       "source": "Parawebnews",
       "link": "https://parawebnews.com",
-      "time": "ontem, 13:34",
+      "time": "15/05 às 13:34",
       "dt_iso": "2026-05-15T16:34:29+00:00",
       "summary": "Centro de distribuição da Shopee em Belém pode gerar mais de 5 mil empregos &nbsp;&nbsp; Pará Web News",
       "category": "ecommerce",
@@ -208,51 +208,13 @@
       ]
     },
     {
-      "id": "e193b90bf9",
-      "headline": "Investidores acusam Portugal de “quebra de confiança” após nova lei imigratória",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mundo/investidores-acusam-portugal-de-quebra-de-confianca-apos-nova-lei-imigratoria/",
-      "time": "hoje, 08:00",
-      "dt_iso": "2026-05-17T11:00:00+00:00",
-      "summary": "Mudança nas regras da cidadania amplia prazo para naturalização e leva estrangeiros a preparar ações contra o Estado português \n The post  Investidores acusam Portugal de “quebra de confiança” após nova lei imigratória  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "214810d0a8",
       "headline": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários - TNH1",
       "source": "Tnh1",
       "link": "https://www.tnh1.com.br",
-      "time": "há 54 min",
+      "time": "ontem, 08:12",
       "dt_iso": "2026-05-17T11:12:00+00:00",
       "summary": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários &nbsp;&nbsp; TNH1",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "d7f811acc5",
-      "headline": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina - ND Mais",
-      "source": "ND Mais",
-      "link": "https://ndmais.com.br",
-      "time": "10/05 às 20:39",
-      "dt_iso": "2026-05-10T23:39:37+00:00",
-      "summary": "Hang anuncia expansão de R$ 100 milhões no maior centro de distribuição da América Latina &nbsp;&nbsp; ND Mais",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -288,8 +250,8 @@
       "headline": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "12/05 às 04:00",
-      "dt_iso": "2026-05-12T07:00:00+00:00",
+      "time": "12/05 às 08:47",
+      "dt_iso": "2026-05-12T11:47:36+00:00",
       "summary": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes &nbsp;&nbsp; Money Times",
       "category": "logistica",
       "keywords": [
@@ -298,25 +260,6 @@
       ],
       "score": 6,
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "3b9a67aad2",
-      "headline": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego - GuarulhosWeb",
-      "source": "Guarulhosweb",
-      "link": "https://guarulhosweb.com.br",
-      "time": "15/05 às 08:21",
-      "dt_iso": "2026-05-15T11:21:32+00:00",
-      "summary": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego &nbsp;&nbsp; GuarulhosWeb",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -341,20 +284,20 @@
       ]
     },
     {
-      "id": "53f20c52fe",
-      "headline": "Mercedes-Benz Caminhões e Ônibus inaugura novo centro industrial em Zárate, na Argentina - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "11/05 às 09:45",
-      "dt_iso": "2026-05-11T12:45:23+00:00",
-      "summary": "Mercedes-Benz Caminhões e Ônibus inaugura novo centro industrial em Zárate, na Argentina &nbsp;&nbsp; Tecnologística",
+      "id": "3b9a67aad2",
+      "headline": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego - GuarulhosWeb",
+      "source": "Guarulhosweb",
+      "link": "https://guarulhosweb.com.br",
+      "time": "15/05 às 08:21",
+      "dt_iso": "2026-05-15T11:21:32+00:00",
+      "summary": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego &nbsp;&nbsp; GuarulhosWeb",
       "category": "logistica",
       "keywords": [
-        "mercedes-benz",
+        "centro de distribuição",
         "inaugura"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -395,25 +338,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "b42a006c48",
-      "headline": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho - FashionNetwork Brasil",
-      "source": "Google News",
-      "link": "https://br.fashionnetwork.com",
-      "time": "12/05 às 15:06",
-      "dt_iso": "2026-05-12T18:06:08+00:00",
-      "summary": "Mercado Livre acelera crescimento na América Latina com Brasil liderando desempenho &nbsp;&nbsp; FashionNetwork Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -497,7 +421,7 @@
       "headline": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz - Frota&Cia",
       "source": "Frotacia",
       "link": "https://frotacia.com.br",
-      "time": "ontem, 16:12",
+      "time": "15/05 às 16:12",
       "dt_iso": "2026-05-15T19:12:00+00:00",
       "summary": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz &nbsp;&nbsp; Frota&amp;Cia",
       "category": "logistica",
@@ -535,7 +459,7 @@
       "headline": "Special Dog Company aposta em inovação no CBNA PET 2026 e expande linha Bionatural Sensitive - Portal Cães e Gatos",
       "source": "Caesegatos",
       "link": "https://caesegatos.com.br",
-      "time": "ontem, 11:30",
+      "time": "15/05 às 11:30",
       "dt_iso": "2026-05-15T14:30:55+00:00",
       "summary": "Special Dog Company aposta em inovação no CBNA PET 2026 e expande linha Bionatural Sensitive &nbsp;&nbsp; Portal Cães e Gatos",
       "category": "logistica",
