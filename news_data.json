@@ -1,6 +1,6 @@
 {
-  "gerado_em": "18/05/2026 às 10:34",
-  "total": 24,
+  "gerado_em": "18/05/2026 às 14:38",
+  "total": 23,
   "noticias": [
     {
       "id": "f129986a9e",
@@ -57,6 +57,27 @@
       "category": "logistica",
       "keywords": [
         "friozem",
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "a3777da3bf",
+      "headline": "Suzano inaugura centro de distribuição em Campina Grande do Sul (PR) - SuperVarejo",
+      "source": "Supervarejo",
+      "link": "https://supervarejo.com.br",
+      "time": "14/05 às 12:08",
+      "dt_iso": "2026-05-14T15:08:55+00:00",
+      "summary": "Suzano inaugura centro de distribuição em Campina Grande do Sul (PR) &nbsp;&nbsp; SuperVarejo",
+      "category": "logistica",
+      "keywords": [
+        "suzano",
         "centro de distribuição",
         "inaugura"
       ],
@@ -265,25 +286,6 @@
       ]
     },
     {
-      "id": "3a324d04c1",
-      "headline": "RL Higiene inaugura novo centro de distribuição em Santos - Terra",
-      "source": "Terra",
-      "link": "https://www.terra.com.br",
-      "time": "11/05 às 10:51",
-      "dt_iso": "2026-05-11T13:51:00+00:00",
-      "summary": "RL Higiene inaugura novo centro de distribuição em Santos &nbsp;&nbsp; Terra",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "3b9a67aad2",
       "headline": "Empresa de alimentos inaugura centro de distribuição em Guarulhos e promete novas vagas de emprego - GuarulhosWeb",
       "source": "Guarulhosweb",
@@ -338,25 +340,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "a842997708",
-      "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "11/05 às 10:56",
-      "dt_iso": "2026-05-11T13:56:05+00:00",
-      "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
