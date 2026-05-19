@@ -1,6 +1,6 @@
 {
-  "gerado_em": "18/05/2026 às 14:38",
-  "total": 23,
+  "gerado_em": "19/05/2026 às 09:59",
+  "total": 27,
   "noticias": [
     {
       "id": "f129986a9e",
@@ -47,6 +47,28 @@
       ]
     },
     {
+      "id": "c879fccb59",
+      "headline": "Itupeva segue atraindo investimentos e recebe novo Centro de Distribuição do Mercado Livre - jornal da região",
+      "source": "Google News",
+      "link": "https://jr.jor.br",
+      "time": "13/05 às 11:17",
+      "dt_iso": "2026-05-13T14:17:04+00:00",
+      "summary": "Itupeva segue atraindo investimentos e recebe novo Centro de Distribuição do Mercado Livre &nbsp;&nbsp; jornal da região",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "ffeb6accab",
       "headline": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) - Tecnologística",
       "source": "Tecnologística",
@@ -68,24 +90,24 @@
       ]
     },
     {
-      "id": "a3777da3bf",
-      "headline": "Suzano inaugura centro de distribuição em Campina Grande do Sul (PR) - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://supervarejo.com.br",
-      "time": "14/05 às 12:08",
-      "dt_iso": "2026-05-14T15:08:55+00:00",
-      "summary": "Suzano inaugura centro de distribuição em Campina Grande do Sul (PR) &nbsp;&nbsp; SuperVarejo",
-      "category": "logistica",
+      "id": "93a05724eb",
+      "headline": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos - Portal BE News",
+      "source": "Portalbenews",
+      "link": "https://portalbenews.com.br",
+      "time": "hoje, 12:52",
+      "dt_iso": "2026-05-18T15:52:00+00:00",
+      "summary": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos &nbsp;&nbsp; Portal BE News",
+      "category": "ecommerce",
       "keywords": [
-        "suzano",
+        "mercado livre",
         "centro de distribuição",
-        "inaugura"
+        "instala"
       ],
       "score": 8,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Destaque",
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -136,7 +158,7 @@
       "source": "Portalnoticiasgoias",
       "link": "https://portalnoticiasgoias.com.br",
       "time": "15/05 às 14:03",
-      "dt_iso": "2026-05-15T17:03:14+00:00",
+      "dt_iso": "2026-05-15T17:03:18+00:00",
       "summary": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre &nbsp;&nbsp; Portal Notícias Goiás",
       "category": "expansao",
       "keywords": [
@@ -209,23 +231,23 @@
       ]
     },
     {
-      "id": "0230101acd",
-      "headline": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "11/05 às 17:39",
-      "dt_iso": "2026-05-11T20:39:56+00:00",
-      "summary": "Braspress investe R$ 4 milhões e amplia capacidade operacional de Data Center &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
+      "id": "1f16d95df4",
+      "headline": "Natura abre loja própria dentro do Mercado Livre - Central do Varejo",
+      "source": "Centraldovarejo",
+      "link": "https://centraldovarejo.com.br",
+      "time": "15/05 às 04:00",
+      "dt_iso": "2026-05-15T07:00:00+00:00",
+      "summary": "Natura abre loja própria dentro do Mercado Livre &nbsp;&nbsp; Central do Varejo",
+      "category": "ecommerce",
       "keywords": [
-        "braspress",
-        "amplia",
-        "investe"
+        "mercado livre",
+        "natura",
+        "abre"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -233,7 +255,7 @@
       "headline": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários - TNH1",
       "source": "Tnh1",
       "link": "https://www.tnh1.com.br",
-      "time": "ontem, 08:12",
+      "time": "17/05 às 08:12",
       "dt_iso": "2026-05-17T11:12:00+00:00",
       "summary": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários &nbsp;&nbsp; TNH1",
       "category": "expansao",
@@ -267,20 +289,20 @@
       ]
     },
     {
-      "id": "9ac7e9069e",
-      "headline": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "12/05 às 08:47",
-      "dt_iso": "2026-05-12T11:47:36+00:00",
-      "summary": "Logística em alta: Fundo imobiliário investe R$ 165 milhões em galpões; veja os detalhes &nbsp;&nbsp; Money Times",
+      "id": "a29a46633d",
+      "headline": "Solfácil inaugura novo centro de distribuição em Santa Catarina - Canal Solar",
+      "source": "Canalsolar",
+      "link": "https://canalsolar.com.br",
+      "time": "hoje, 08:45",
+      "dt_iso": "2026-05-19T11:45:00+00:00",
+      "summary": "Solfácil inaugura novo centro de distribuição em Santa Catarina &nbsp;&nbsp; Canal Solar",
       "category": "logistica",
       "keywords": [
-        "galpões",
-        "investe"
+        "centro de distribuição",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -305,6 +327,25 @@
       ]
     },
     {
+      "id": "13bf825f67",
+      "headline": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "hoje, 18:51",
+      "dt_iso": "2026-05-18T21:51:00+00:00",
+      "summary": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA &nbsp;&nbsp; NSC Total",
+      "category": "logistica",
+      "keywords": [
+        "centros de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "c777a694da",
       "headline": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas - ND Mais",
       "source": "ND Mais",
@@ -324,6 +365,25 @@
       ]
     },
     {
+      "id": "b096989527",
+      "headline": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística - Jornal do Brás",
+      "source": "Jornaldobras",
+      "link": "https://jornaldobras.com.br",
+      "time": "hoje, 12:20",
+      "dt_iso": "2026-05-18T15:20:29+00:00",
+      "summary": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística &nbsp;&nbsp; Jornal do Brás",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "63a5920d4d",
       "headline": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos - Balada IN",
       "source": "Portalin",
@@ -340,6 +400,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "948cb893fe",
+      "headline": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil - Diário do Comércio",
+      "source": "Diariodocomercio",
+      "link": "https://diariodocomercio.com.br",
+      "time": "há 54 min",
+      "dt_iso": "2026-05-19T12:05:00+00:00",
+      "summary": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil &nbsp;&nbsp; Diário do Comércio",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
