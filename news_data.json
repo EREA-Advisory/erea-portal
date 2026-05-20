@@ -1,6 +1,6 @@
 {
-  "gerado_em": "20/05/2026 às 09:00",
-  "total": 31,
+  "gerado_em": "20/05/2026 às 14:45",
+  "total": 30,
   "noticias": [
     {
       "id": "f129986a9e",
@@ -47,28 +47,6 @@
       ]
     },
     {
-      "id": "c879fccb59",
-      "headline": "Itupeva segue atraindo investimentos e recebe novo Centro de Distribuição do Mercado Livre - jornal da região",
-      "source": "Google News",
-      "link": "https://jr.jor.br",
-      "time": "13/05 às 11:17",
-      "dt_iso": "2026-05-13T14:17:04+00:00",
-      "summary": "Itupeva segue atraindo investimentos e recebe novo Centro de Distribuição do Mercado Livre &nbsp;&nbsp; jornal da região",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
       "id": "e583ed936a",
       "headline": "Mercado Livre inaugura Centro de Distribuição na capital goiana da logística - Portal GO 020",
       "source": "Portalgo020",
@@ -90,32 +68,11 @@
       ]
     },
     {
-      "id": "93a05724eb",
-      "headline": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos - Portal BE News",
-      "source": "Portalbenews",
-      "link": "https://portalbenews.com.br",
-      "time": "ontem, 12:52",
-      "dt_iso": "2026-05-18T15:52:00+00:00",
-      "summary": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos &nbsp;&nbsp; Portal BE News",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "instala"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
       "id": "1cd6e330bc",
       "headline": "Mercado Livre e Shopee aceleram disputa por galpões logísticos brasileiros - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "hoje, 14:16",
+      "time": "ontem, 14:16",
       "dt_iso": "2026-05-19T17:16:38+00:00",
       "summary": "Mercado Livre e Shopee aceleram disputa por galpões logísticos brasileiros &nbsp;&nbsp; Transporte Moderno",
       "category": "ecommerce",
@@ -176,7 +133,7 @@
       "id": "c2cd00eba7",
       "headline": "DHL Express amplia operação com nova unidade em São Bernardo - Portal ABC do ABC",
       "source": "Abcdoabc",
-      "link": "https://www.abcdoabc.com.br",
+      "link": "https://abcdoabc.com.br",
       "time": "14/05 às 11:21",
       "dt_iso": "2026-05-14T14:21:00+00:00",
       "summary": "DHL Express amplia operação com nova unidade em São Bernardo &nbsp;&nbsp; Portal ABC do ABC",
@@ -197,7 +154,7 @@
       "headline": "Shopee anuncia novo centro de distribuição em Londrina com previsão de 2 mil empregos - Gazeta Mercantil",
       "source": "Gazetamercantil",
       "link": "https://gazetamercantil.com",
-      "time": "hoje, 10:39",
+      "time": "ontem, 10:39",
       "dt_iso": "2026-05-19T13:39:20+00:00",
       "summary": "Shopee anuncia novo centro de distribuição em Londrina com previsão de 2 mil empregos &nbsp;&nbsp; Gazeta Mercantil",
       "category": "ecommerce",
@@ -267,6 +224,25 @@
       "relevance": "Oportunidade de desenvolvimento BTS. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "f61696c1aa",
+      "headline": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "13/05 às 16:20",
+      "dt_iso": "2026-05-13T19:20:00+00:00",
+      "summary": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota &nbsp;&nbsp; melhorinvestimento.net",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -350,7 +326,7 @@
       "headline": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística - Sala da Notícia",
       "source": "Portal",
       "link": "https://portal.saladanoticia.com.br",
-      "time": "ontem, 12:20",
+      "time": "18/05 às 12:20",
       "dt_iso": "2026-05-18T15:20:29+00:00",
       "summary": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística &nbsp;&nbsp; Sala da Notícia",
       "category": "logistica",
@@ -365,32 +341,13 @@
       ]
     },
     {
-      "id": "c777a694da",
-      "headline": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas - ND Mais",
-      "source": "ND Mais",
-      "link": "https://ndmais.com.br",
-      "time": "13/05 às 10:51",
-      "dt_iso": "2026-05-13T13:51:04+00:00",
-      "summary": "R$ 57 bi no Brasil: entenda a expansão do Mercado Livre que irá abrir 14 centros e 10 mil vagas &nbsp;&nbsp; ND Mais",
-      "category": "expansao",
-      "keywords": [
-        "mercado livre",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "41cc44642f",
-      "headline": "Casas Bahia acelera monetização logística e expande serviços para sellers e parceiros - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "hoje, 03:02",
-      "dt_iso": "2026-05-20T06:02:15+00:00",
-      "summary": "Casas Bahia acelera monetização logística e expande serviços para sellers e parceiros &nbsp;&nbsp; Mercado&amp;Consumo",
+      "id": "0036c3f4bf",
+      "headline": "Casas Bahia expande monetização da logística e aposta em nova frente com sellers e parceiros - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 11:07",
+      "dt_iso": "2026-05-20T14:07:24+00:00",
+      "summary": "Casas Bahia expande monetização da logística e aposta em nova frente com sellers e parceiros &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "casas bahia",
@@ -403,30 +360,11 @@
       ]
     },
     {
-      "id": "948cb893fe",
-      "headline": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil - Diário do Comércio",
-      "source": "Diariodocomercio",
-      "link": "https://diariodocomercio.com.br",
-      "time": "hoje, 09:05",
-      "dt_iso": "2026-05-19T12:05:00+00:00",
-      "summary": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil &nbsp;&nbsp; Diário do Comércio",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "205990395a",
       "headline": "Após crise e pandemia, Centauro inicia novo ciclo de expansão - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 10:00",
+      "time": "ontem, 10:00",
       "dt_iso": "2026-05-19T13:00:00+00:00",
       "summary": "Após crise e pandemia, Centauro inicia novo ciclo de expansão &nbsp;&nbsp; InfoMoney",
       "category": "expansao",
@@ -457,6 +395,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "3a00ca6fdb",
+      "headline": "Prologis investe R$ 1,5 bilhão em condomínio logístico em São Bernardo do Campo - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 12:04",
+      "dt_iso": "2026-05-20T15:04:10+00:00",
+      "summary": "Prologis investe R$ 1,5 bilhão em condomínio logístico em São Bernardo do Campo &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -498,25 +455,6 @@
       ]
     },
     {
-      "id": "f61696c1aa",
-      "headline": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "13/05 às 16:20",
-      "dt_iso": "2026-05-13T19:20:00+00:00",
-      "summary": "BTLG11 avança em venda de galpões e estima lucro de R$ 1,56 por cota &nbsp;&nbsp; melhorinvestimento.net",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d75913e2d2",
       "headline": "Shopee irá instalar CD em Londrina (PR), diz governo do estado - MundoLogística",
       "source": "Mundo Logística",
@@ -540,8 +478,8 @@
       "headline": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche - rnews.com.br",
       "source": "Rnews",
       "link": "https://rnews.com.br",
-      "time": "hoje, 07:33",
-      "dt_iso": "2026-05-20T10:33:19+00:00",
+      "time": "hoje, 08:00",
+      "dt_iso": "2026-05-20T11:00:09+00:00",
       "summary": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche &nbsp;&nbsp; rnews.com.br",
       "category": "ecommerce",
       "keywords": [
@@ -555,11 +493,49 @@
       ]
     },
     {
+      "id": "9697cf78c6",
+      "headline": "Assaí Atacadista amplia sua linha de marcas própria - SuperHiper",
+      "source": "Superhiper",
+      "link": "https://www.superhiper.com.br",
+      "time": "hoje, 15:00",
+      "dt_iso": "2026-05-19T18:00:41+00:00",
+      "summary": "Assaí Atacadista amplia sua linha de marcas própria &nbsp;&nbsp; SuperHiper",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "f41547b246",
+      "headline": "Com estreia em panificação, Assaí expande marcas próprias - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "hoje, 09:56",
+      "dt_iso": "2026-05-20T12:56:15+00:00",
+      "summary": "Com estreia em panificação, Assaí expande marcas próprias &nbsp;&nbsp; Giro News",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e79d94d9ce",
       "headline": "C-390 Millennium da República Tcheca realiza primeiro voo e amplia presença da Embraer na OTAN - O Mundo Diplomático",
       "source": "Omundodiplomatico",
       "link": "https://omundodiplomatico.com.br",
-      "time": "há 23 min",
+      "time": "hoje, 08:36",
       "dt_iso": "2026-05-20T11:36:39+00:00",
       "summary": "C-390 Millennium da República Tcheca realiza primeiro voo e amplia presença da Embraer na OTAN &nbsp;&nbsp; O Mundo Diplomático",
       "category": "logistica",
