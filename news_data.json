@@ -1,15 +1,15 @@
 {
-  "gerado_em": "19/05/2026 às 09:59",
-  "total": 27,
+  "gerado_em": "20/05/2026 às 09:00",
+  "total": 31,
   "noticias": [
     {
       "id": "f129986a9e",
-      "headline": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL - Mundo Logística",
+      "headline": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "14/05 às 15:35",
       "dt_iso": "2026-05-14T18:35:07+00:00",
-      "summary": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL &nbsp;&nbsp; Mundo Logística",
+      "summary": "Suzano inaugura centro de distribuição no Paraná em parceria com a DHL &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -69,16 +69,16 @@
       ]
     },
     {
-      "id": "ffeb6accab",
-      "headline": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "13/05 às 08:52",
-      "dt_iso": "2026-05-13T11:52:57+00:00",
-      "summary": "Friozem inaugura novo centro de distribuição em Duque de Caxias (RJ) &nbsp;&nbsp; Tecnologística",
+      "id": "e583ed936a",
+      "headline": "Mercado Livre inaugura Centro de Distribuição na capital goiana da logística - Portal GO 020",
+      "source": "Portalgo020",
+      "link": "https://portalgo020.com.br",
+      "time": "16/05 às 15:32",
+      "dt_iso": "2026-05-16T18:32:44+00:00",
+      "summary": "Mercado Livre inaugura Centro de Distribuição na capital goiana da logística &nbsp;&nbsp; Portal GO 020",
       "category": "logistica",
       "keywords": [
-        "friozem",
+        "mercado livre",
         "centro de distribuição",
         "inaugura"
       ],
@@ -94,7 +94,7 @@
       "headline": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos - Portal BE News",
       "source": "Portalbenews",
       "link": "https://portalbenews.com.br",
-      "time": "hoje, 12:52",
+      "time": "ontem, 12:52",
       "dt_iso": "2026-05-18T15:52:00+00:00",
       "summary": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos &nbsp;&nbsp; Portal BE News",
       "category": "ecommerce",
@@ -111,34 +111,34 @@
       ]
     },
     {
-      "id": "46b79c0bf7",
-      "headline": "Total Express amplia operação de fulfillment no Brasil - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "12/05 às 10:31",
-      "dt_iso": "2026-05-12T13:31:24+00:00",
-      "summary": "Total Express amplia operação de fulfillment no Brasil &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
+      "id": "1cd6e330bc",
+      "headline": "Mercado Livre e Shopee aceleram disputa por galpões logísticos brasileiros - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "hoje, 14:16",
+      "dt_iso": "2026-05-19T17:16:38+00:00",
+      "summary": "Mercado Livre e Shopee aceleram disputa por galpões logísticos brasileiros &nbsp;&nbsp; Transporte Moderno",
+      "category": "ecommerce",
       "keywords": [
-        "total express",
-        "fulfillment",
-        "amplia"
+        "mercado livre",
+        "shopee",
+        "galpões"
       ],
       "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
-        "Logística"
+        "E-commerce"
       ]
     },
     {
       "id": "ed68cba41e",
-      "headline": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura - Mundo Logística",
+      "headline": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "13/05 às 18:00",
       "dt_iso": "2026-05-13T21:00:36+00:00",
-      "summary": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura &nbsp;&nbsp; Mundo Logística",
+      "summary": "Mercado Livre instalará centro de distribuição em Itupeva (SP), diz prefeitura &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -158,7 +158,7 @@
       "source": "Portalnoticiasgoias",
       "link": "https://portalnoticiasgoias.com.br",
       "time": "15/05 às 14:03",
-      "dt_iso": "2026-05-15T17:03:18+00:00",
+      "dt_iso": "2026-05-15T17:03:14+00:00",
       "summary": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre &nbsp;&nbsp; Portal Notícias Goiás",
       "category": "expansao",
       "keywords": [
@@ -193,32 +193,13 @@
       ]
     },
     {
-      "id": "2dbce9aaa6",
-      "headline": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "12/05 às 17:16",
-      "dt_iso": "2026-05-12T20:16:48+00:00",
-      "summary": "FII GGRC11 compra galpões logísticos locados com Shopee e MRV por R$ 165 mi &nbsp;&nbsp; InfoMoney",
-      "category": "investimento",
-      "keywords": [
-        "shopee",
-        "galpões"
-      ],
-      "score": 7,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "c48b6d2e65",
-      "headline": "Centro de distribuição da Shopee em Belém pode gerar mais de 5 mil empregos - Pará Web News",
-      "source": "Parawebnews",
-      "link": "https://parawebnews.com",
-      "time": "15/05 às 13:34",
-      "dt_iso": "2026-05-15T16:34:29+00:00",
-      "summary": "Centro de distribuição da Shopee em Belém pode gerar mais de 5 mil empregos &nbsp;&nbsp; Pará Web News",
+      "id": "4f802531c3",
+      "headline": "Shopee anuncia novo centro de distribuição em Londrina com previsão de 2 mil empregos - Gazeta Mercantil",
+      "source": "Gazetamercantil",
+      "link": "https://gazetamercantil.com",
+      "time": "hoje, 10:39",
+      "dt_iso": "2026-05-19T13:39:20+00:00",
+      "summary": "Shopee anuncia novo centro de distribuição em Londrina com previsão de 2 mil empregos &nbsp;&nbsp; Gazeta Mercantil",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -293,7 +274,7 @@
       "headline": "Solfácil inaugura novo centro de distribuição em Santa Catarina - Canal Solar",
       "source": "Canalsolar",
       "link": "https://canalsolar.com.br",
-      "time": "hoje, 08:45",
+      "time": "ontem, 08:45",
       "dt_iso": "2026-05-19T11:45:00+00:00",
       "summary": "Solfácil inaugura novo centro de distribuição em Santa Catarina &nbsp;&nbsp; Canal Solar",
       "category": "logistica",
@@ -331,13 +312,51 @@
       "headline": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA - NSC Total",
       "source": "NSC Total",
       "link": "https://www.nsctotal.com.br",
-      "time": "hoje, 18:51",
+      "time": "ontem, 18:51",
       "dt_iso": "2026-05-18T21:51:00+00:00",
       "summary": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA &nbsp;&nbsp; NSC Total",
       "category": "logistica",
       "keywords": [
         "centros de distribuição",
         "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6e09997f73",
+      "headline": "Solfácil inaugura novo centro de distribuição no Sul que visa reduzir em até 60% o prazo de entrega de… - Jornal Portuário",
+      "source": "Jornalportuario",
+      "link": "https://jornalportuario.com.br",
+      "time": "hoje, 16:36",
+      "dt_iso": "2026-05-19T19:36:38+00:00",
+      "summary": "Solfácil inaugura novo centro de distribuição no Sul que visa reduzir em até 60% o prazo de entrega de… &nbsp;&nbsp; Jornal Portuário",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "b096989527",
+      "headline": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística - Sala da Notícia",
+      "source": "Portal",
+      "link": "https://portal.saladanoticia.com.br",
+      "time": "ontem, 12:20",
+      "dt_iso": "2026-05-18T15:20:29+00:00",
+      "summary": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística &nbsp;&nbsp; Sala da Notícia",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "investimento"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -365,36 +384,17 @@
       ]
     },
     {
-      "id": "b096989527",
-      "headline": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística - Jornal do Brás",
-      "source": "Jornaldobras",
-      "link": "https://jornaldobras.com.br",
-      "time": "hoje, 12:20",
-      "dt_iso": "2026-05-18T15:20:29+00:00",
-      "summary": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística &nbsp;&nbsp; Jornal do Brás",
+      "id": "41cc44642f",
+      "headline": "Casas Bahia acelera monetização logística e expande serviços para sellers e parceiros - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 03:02",
+      "dt_iso": "2026-05-20T06:02:15+00:00",
+      "summary": "Casas Bahia acelera monetização logística e expande serviços para sellers e parceiros &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "63a5920d4d",
-      "headline": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos - Balada IN",
-      "source": "Portalin",
-      "link": "https://www.portalin.com.br",
-      "time": "14/05 às 14:54",
-      "dt_iso": "2026-05-14T17:54:00+00:00",
-      "summary": "Correios ampliam atuação para novos negócios e apostam em logística, serviços e mercado digital para reforçar receitas - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
-      "category": "logistica",
-      "keywords": [
-        "correios",
-        "amplia"
+        "casas bahia",
+        "expande"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -407,7 +407,7 @@
       "headline": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil - Diário do Comércio",
       "source": "Diariodocomercio",
       "link": "https://diariodocomercio.com.br",
-      "time": "há 54 min",
+      "time": "hoje, 09:05",
       "dt_iso": "2026-05-19T12:05:00+00:00",
       "summary": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil &nbsp;&nbsp; Diário do Comércio",
       "category": "ecommerce",
@@ -419,6 +419,44 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "205990395a",
+      "headline": "Após crise e pandemia, Centauro inicia novo ciclo de expansão - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "hoje, 10:00",
+      "dt_iso": "2026-05-19T13:00:00+00:00",
+      "summary": "Após crise e pandemia, Centauro inicia novo ciclo de expansão &nbsp;&nbsp; InfoMoney",
+      "category": "expansao",
+      "keywords": [
+        "centauro",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "52b18f1f49",
+      "headline": "Fábricas da Suzano no Espírito Santo integram estratégia de expansão da companhia no Sul do Brasil - SiteBarra",
+      "source": "Sitebarra",
+      "link": "https://sitebarra.com.br",
+      "time": "hoje, 23:42",
+      "dt_iso": "2026-05-20T02:42:44+00:00",
+      "summary": "Fábricas da Suzano no Espírito Santo integram estratégia de expansão da companhia no Sul do Brasil &nbsp;&nbsp; SiteBarra",
+      "category": "expansao",
+      "keywords": [
+        "suzano",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -479,6 +517,63 @@
       ]
     },
     {
+      "id": "d75913e2d2",
+      "headline": "Shopee irá instalar CD em Londrina (PR), diz governo do estado - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 19:08",
+      "dt_iso": "2026-05-19T22:08:41+00:00",
+      "summary": "Shopee irá instalar CD em Londrina (PR), diz governo do estado &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "instala"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d66b8ed3f1",
+      "headline": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche - rnews.com.br",
+      "source": "Rnews",
+      "link": "https://rnews.com.br",
+      "time": "hoje, 07:33",
+      "dt_iso": "2026-05-20T10:33:19+00:00",
+      "summary": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche &nbsp;&nbsp; rnews.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "e79d94d9ce",
+      "headline": "C-390 Millennium da República Tcheca realiza primeiro voo e amplia presença da Embraer na OTAN - O Mundo Diplomático",
+      "source": "Omundodiplomatico",
+      "link": "https://omundodiplomatico.com.br",
+      "time": "há 23 min",
+      "dt_iso": "2026-05-20T11:36:39+00:00",
+      "summary": "C-390 Millennium da República Tcheca realiza primeiro voo e amplia presença da Embraer na OTAN &nbsp;&nbsp; O Mundo Diplomático",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "09a8c7ce03",
       "headline": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz - Frota&Cia",
       "source": "Frotacia",
@@ -495,25 +590,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "27d5fb0291",
-      "headline": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce - Autos Segredos",
-      "source": "Autossegredos",
-      "link": "https://www.autossegredos.com.br",
-      "time": "13/05 às 08:30",
-      "dt_iso": "2026-05-13T11:30:00+00:00",
-      "summary": "Mercedes-Benz emplaca 108 caminhões na Monfredini e amplia presença no transporte de e-commerce &nbsp;&nbsp; Autos Segredos",
-      "category": "ecommerce",
-      "keywords": [
-        "mercedes-benz",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
