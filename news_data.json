@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/05/2026 às 13:00",
-  "total": 28,
+  "gerado_em": "23/05/2026 às 08:01",
+  "total": 29,
   "noticias": [
     {
       "id": "0545662df7",
@@ -113,7 +113,7 @@
       "headline": "Shopee vai instalar novo megacentro de distribuição em posição estratégica no Brasil - Crusoé",
       "source": "Crusoe",
       "link": "https://crusoe.com.br",
-      "time": "ontem, 16:14",
+      "time": "20/05 às 16:14",
       "dt_iso": "2026-05-20T19:14:03+00:00",
       "summary": "Shopee vai instalar novo megacentro de distribuição em posição estratégica no Brasil &nbsp;&nbsp; Crusoé",
       "category": "ecommerce",
@@ -151,43 +151,84 @@
       ]
     },
     {
-      "id": "065c46da33",
-      "headline": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre - Portal Notícias Goiás",
-      "source": "Portalnoticiasgoias",
-      "link": "https://portalnoticiasgoias.com.br",
-      "time": "15/05 às 14:03",
-      "dt_iso": "2026-05-15T17:03:14+00:00",
-      "summary": "Hidrolândia amplia polo logístico com novo CD do Mercado Livre &nbsp;&nbsp; Portal Notícias Goiás",
-      "category": "expansao",
+      "id": "3dc8b475c4",
+      "headline": "DHL, FedEx e UPS alertam UE sobre riscos nas cadeias de abastecimento - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "hoje, 14:10",
+      "dt_iso": "2026-05-22T17:10:00+00:00",
+      "summary": "DHL, FedEx e UPS alertam UE sobre riscos nas cadeias de abastecimento &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "amplia",
-        "novo cd"
+        "dhl",
+        "fedex",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c38b8caf75",
+      "headline": "Amazon abriu 300 centros de distribuição e prioriza investimentos no Brasil - Rádio Itatiaia",
+      "source": "Itatiaia",
+      "link": "https://www.itatiaia.com.br",
+      "time": "20/05 às 16:12",
+      "dt_iso": "2026-05-20T19:12:07+00:00",
+      "summary": "Amazon abriu 300 centros de distribuição e prioriza investimentos no Brasil &nbsp;&nbsp; Rádio Itatiaia",
+      "category": "ecommerce",
+      "keywords": [
+        "centros de distribuição",
+        "abriu",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "f9d4ca915f",
+      "headline": "Leilão dos Correios tem galpão de R$ 62 milhões na Vila Maria e terreno de 864 m² em Guarulhos - Guarulhos Todo Dia",
+      "source": "Guarulhostododia",
+      "link": "https://guarulhostododia.com.br",
+      "time": "20/05 às 07:31",
+      "dt_iso": "2026-05-20T10:31:53+00:00",
+      "summary": "Leilão dos Correios tem galpão de R$ 62 milhões na Vila Maria e terreno de 864 m² em Guarulhos &nbsp;&nbsp; Guarulhos Todo Dia",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "galpão"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
-      "id": "3098c69891",
-      "headline": "WEG inaugura nova unidade fabril de tintas e dois centros de distribuição nos Estados Unidos - Diário da Jaraguá",
-      "source": "Diariodajaragua",
-      "link": "http://www.diariodajaragua.com.br",
-      "time": "19/05 às 11:11",
-      "dt_iso": "2026-05-19T14:11:22+00:00",
-      "summary": "WEG inaugura nova unidade fabril de tintas e dois centros de distribuição nos Estados Unidos &nbsp;&nbsp; Diário da Jaraguá",
-      "category": "expansao",
+      "id": "921e847ca3",
+      "headline": "Delly’s cresce no food service, supera R$ 5,8 bilhões e amplia operação logística no Brasil - Economia SC",
+      "source": "Economiasc",
+      "link": "https://economiasc.com",
+      "time": "hoje, 15:04",
+      "dt_iso": "2026-05-22T18:04:08+00:00",
+      "summary": "Delly’s cresce no food service, supera R$ 5,8 bilhões e amplia operação logística no Brasil &nbsp;&nbsp; Economia SC",
+      "category": "logistica",
       "keywords": [
-        "centros de distribuição",
-        "inaugura",
-        "nova unidade"
+        "operação logística",
+        "amplia",
+        "cresce"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -248,6 +289,25 @@
       ]
     },
     {
+      "id": "13bf825f67",
+      "headline": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "18/05 às 18:51",
+      "dt_iso": "2026-05-18T21:51:00+00:00",
+      "summary": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA &nbsp;&nbsp; NSC Total",
+      "category": "logistica",
+      "keywords": [
+        "centros de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d3e6bebfcb",
       "headline": "Logística solar: Solfácil investe R$ 1,2 milhão em novo centro de distribuição para acelerar entregas no Sul - Cenário Energia",
       "source": "Cenarioenergia",
@@ -287,35 +347,16 @@
     },
     {
       "id": "0036c3f4bf",
-      "headline": "Casas Bahia expande monetização da logística e aposta em nova frente com sellers e parceiros - Mundo Logística",
+      "headline": "Casas Bahia expande monetização da logística e aposta em nova frente com sellers e parceiros - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "20/05 às 11:07",
       "dt_iso": "2026-05-20T14:07:24+00:00",
-      "summary": "Casas Bahia expande monetização da logística e aposta em nova frente com sellers e parceiros &nbsp;&nbsp; Mundo Logística",
+      "summary": "Casas Bahia expande monetização da logística e aposta em nova frente com sellers e parceiros &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "casas bahia",
         "expande"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "b46c9672a2",
-      "headline": "Mercedes-Benz amplia oferta com Sprinter automática no Brasil - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "ontem, 10:00",
-      "dt_iso": "2026-05-21T13:00:00+00:00",
-      "summary": "Mercedes-Benz amplia oferta com Sprinter automática no Brasil &nbsp;&nbsp; Transporte Moderno",
-      "category": "logistica",
-      "keywords": [
-        "mercedes-benz",
-        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -382,12 +423,12 @@
     },
     {
       "id": "3a00ca6fdb",
-      "headline": "Prologis investe R$ 1,5 bilhão em condomínio logístico em São Bernardo do Campo - Mundo Logística",
+      "headline": "Prologis investe R$ 1,5 bilhão em condomínio logístico em São Bernardo do Campo - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "20/05 às 12:04",
       "dt_iso": "2026-05-20T15:04:10+00:00",
-      "summary": "Prologis investe R$ 1,5 bilhão em condomínio logístico em São Bernardo do Campo &nbsp;&nbsp; Mundo Logística",
+      "summary": "Prologis investe R$ 1,5 bilhão em condomínio logístico em São Bernardo do Campo &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
@@ -419,13 +460,51 @@
       ]
     },
     {
+      "id": "c940afefe0",
+      "headline": "Com a Selic atrapalhando os FIIs, Log vai além dos galpões: cria gestora e amplia serviços - InvestNews - InvestNews",
+      "source": "InvestNews",
+      "link": "https://investnews.com.br",
+      "time": "hoje, 17:22",
+      "dt_iso": "2026-05-22T20:22:13+00:00",
+      "summary": "Com a Selic atrapalhando os FIIs, Log vai além dos galpões: cria gestora e amplia serviços - InvestNews &nbsp;&nbsp; InvestNews",
+      "category": "investimento",
+      "keywords": [
+        "galpões",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "64bc7865c2",
+      "headline": "Rodonaves inaugura unidade logística em Farroupilha (RS) - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 14:51",
+      "dt_iso": "2026-05-22T17:51:02+00:00",
+      "summary": "Rodonaves inaugura unidade logística em Farroupilha (RS) &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "unidade logística",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d75913e2d2",
-      "headline": "Shopee irá instalar CD em Londrina (PR), diz governo do estado - Mundo Logística",
+      "headline": "Shopee irá instalar CD em Londrina (PR), diz governo do estado - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "19/05 às 19:08",
       "dt_iso": "2026-05-19T22:08:41+00:00",
-      "summary": "Shopee irá instalar CD em Londrina (PR), diz governo do estado &nbsp;&nbsp; Mundo Logística",
+      "summary": "Shopee irá instalar CD em Londrina (PR), diz governo do estado &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "shopee",
@@ -457,44 +536,6 @@
       ]
     },
     {
-      "id": "d66b8ed3f1",
-      "headline": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche - rnews.com.br",
-      "source": "Rnews",
-      "link": "https://rnews.com.br",
-      "time": "20/05 às 08:00",
-      "dt_iso": "2026-05-20T11:00:09+00:00",
-      "summary": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche &nbsp;&nbsp; rnews.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "9697cf78c6",
-      "headline": "Assaí Atacadista amplia sua linha de marcas própria - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "19/05 às 15:00",
-      "dt_iso": "2026-05-19T18:00:41+00:00",
-      "summary": "Assaí Atacadista amplia sua linha de marcas própria &nbsp;&nbsp; SuperHiper",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "f41547b246",
       "headline": "Com estreia em panificação, Assaí expande marcas próprias - Giro News",
       "source": "Gironews",
@@ -514,30 +555,11 @@
       ]
     },
     {
-      "id": "09a8c7ce03",
-      "headline": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz - Frota&Cia",
-      "source": "Frotacia",
-      "link": "https://frotacia.com.br",
-      "time": "15/05 às 16:12",
-      "dt_iso": "2026-05-15T19:12:00+00:00",
-      "summary": "SANY vai inaugurar fábrica no Brasil, em espaço que antes era da Mercedes-Benz &nbsp;&nbsp; Frota&amp;Cia",
-      "category": "logistica",
-      "keywords": [
-        "mercedes-benz",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "081f14a958",
       "headline": "Special Dog Company leva expansão da linha Bionatural Sensitive ao CBA Goiânia 2026 - Portal Cães e Gatos",
       "source": "Caesegatos",
       "link": "https://caesegatos.com.br",
-      "time": "ontem, 18:22",
+      "time": "20/05 às 18:22",
       "dt_iso": "2026-05-20T21:22:56+00:00",
       "summary": "Special Dog Company leva expansão da linha Bionatural Sensitive ao CBA Goiânia 2026 &nbsp;&nbsp; Portal Cães e Gatos",
       "category": "expansao",
