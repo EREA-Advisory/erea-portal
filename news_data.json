@@ -1,6 +1,6 @@
 {
-  "gerado_em": "24/05/2026 às 08:02",
-  "total": 29,
+  "gerado_em": "25/05/2026 às 09:21",
+  "total": 37,
   "noticias": [
     {
       "id": "14d4dde84a",
@@ -18,6 +18,27 @@
       ],
       "score": 8,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "d32de8ceec",
+      "headline": "Shein cresce no Reino Unido com um novo armazém logístico em plena ofensiva da Inditex com Lefties - Economía Digital",
+      "source": "Economiadigital",
+      "link": "https://www.economiadigital.es",
+      "time": "21/05 às 08:35",
+      "dt_iso": "2026-05-21T11:35:18+00:00",
+      "summary": "Shein cresce no Reino Unido com um novo armazém logístico em plena ofensiva da Inditex com Lefties &nbsp;&nbsp; Economía Digital",
+      "category": "logistica",
+      "keywords": [
+        "shein",
+        "armazém",
+        "cresce"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
         "Logística"
@@ -91,7 +112,7 @@
       "headline": "DHL, FedEx e UPS alertam UE sobre riscos nas cadeias de abastecimento - Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "source": "Google News",
       "link": "https://br.investing.com",
-      "time": "ontem, 14:10",
+      "time": "22/05 às 14:10",
       "dt_iso": "2026-05-22T17:10:00+00:00",
       "summary": "DHL, FedEx e UPS alertam UE sobre riscos nas cadeias de abastecimento &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "category": "logistica",
@@ -131,7 +152,7 @@
       "headline": "Delly’s cresce no food service, supera R$ 5,8 bilhões e amplia operação logística no Brasil - Economia SC",
       "source": "Economiasc",
       "link": "https://economiasc.com",
-      "time": "ontem, 15:04",
+      "time": "22/05 às 15:04",
       "dt_iso": "2026-05-22T18:04:08+00:00",
       "summary": "Delly’s cresce no food service, supera R$ 5,8 bilhões e amplia operação logística no Brasil &nbsp;&nbsp; Economia SC",
       "category": "logistica",
@@ -170,7 +191,7 @@
       "headline": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 09:35",
+      "time": "ontem, 09:35",
       "dt_iso": "2026-05-23T12:35:00+00:00",
       "summary": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -186,11 +207,49 @@
       ]
     },
     {
+      "id": "7b35607bce",
+      "headline": "Shein, Anta e Luckin: gigantes chinesas estão engolindo marcas nos EUA e Europa",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/shein-anta-e-luckin-gigantes-chinesas-estao-engolindo-marcas-nos-eua-e-europa/",
+      "time": "hoje, 02:01",
+      "dt_iso": "2026-05-25T05:01:40+00:00",
+      "summary": "Em vez de criar marcas do zero, empresas da China aceleram aquisições nos EUA e na Europa para garantir crescimento global e fugir da desaceleração econômica",
+      "category": "investimento",
+      "keywords": [
+        "shein",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "d828b7df60",
+      "headline": "Gigante dos supermercados compra 12 lojas, Centro de Distribuição e duas redes e acelera expansão - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 07:08",
+      "dt_iso": "2026-05-25T10:08:00+00:00",
+      "summary": "Gigante dos supermercados compra 12 lojas, Centro de Distribuição e duas redes e acelera expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "821519db83",
       "headline": "Amazon inaugura centro de distribuição em Salvador com operação 24h - portalsalvadorfm.com.br",
       "source": "Portalsalvadorfm",
       "link": "https://www.portalsalvadorfm.com.br",
-      "time": "hoje, 12:05",
+      "time": "ontem, 12:05",
       "dt_iso": "2026-05-23T15:05:00+00:00",
       "summary": "Amazon inaugura centro de distribuição em Salvador com operação 24h &nbsp;&nbsp; portalsalvadorfm.com.br",
       "category": "ecommerce",
@@ -202,6 +261,25 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "18c014629e",
+      "headline": "Gigante americana planeja expansão no Brasil e define local estratégico para novo centro de distribuição - TNH1",
+      "source": "Tnh1",
+      "link": "https://www.tnh1.com.br",
+      "time": "hoje, 14:44",
+      "dt_iso": "2026-05-24T17:44:00+00:00",
+      "summary": "Gigante americana planeja expansão no Brasil e define local estratégico para novo centro de distribuição &nbsp;&nbsp; TNH1",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -243,6 +321,25 @@
       ]
     },
     {
+      "id": "b2aa3da181",
+      "headline": "Multinacional define ponto estratégico para construção de maior centro de distribuição no Sul do Brasil - Diário do Comércio",
+      "source": "Diariodocomercio",
+      "link": "https://diariodocomercio.com.br",
+      "time": "hoje, 20:36",
+      "dt_iso": "2026-05-24T23:36:00+00:00",
+      "summary": "Multinacional define ponto estratégico para construção de maior centro de distribuição no Sul do Brasil &nbsp;&nbsp; Diário do Comércio",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "construção"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "13bf825f67",
       "headline": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA - NSC Total",
       "source": "NSC Total",
@@ -266,7 +363,7 @@
       "headline": "Logística solar: Solfácil investe R$ 1,2 milhão em novo centro de distribuição para acelerar entregas no Sul - Cenário Energia",
       "source": "Cenarioenergia",
       "link": "https://cenarioenergia.com.br",
-      "time": "ontem, 10:36",
+      "time": "22/05 às 10:36",
       "dt_iso": "2026-05-22T13:36:33+00:00",
       "summary": "Logística solar: Solfácil investe R$ 1,2 milhão em novo centro de distribuição para acelerar entregas no Sul &nbsp;&nbsp; Cenário Energia",
       "category": "logistica",
@@ -285,7 +382,7 @@
       "headline": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas - n1n.com.br",
       "source": "N1N",
       "link": "https://n1n.com.br",
-      "time": "hoje, 14:44",
+      "time": "ontem, 14:44",
       "dt_iso": "2026-05-23T17:44:04+00:00",
       "summary": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas &nbsp;&nbsp; n1n.com.br",
       "category": "ecommerce",
@@ -301,12 +398,12 @@
     },
     {
       "id": "b096989527",
-      "headline": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística - Sala da Notícia",
-      "source": "Portal",
-      "link": "https://portal.saladanoticia.com.br",
-      "time": "18/05 às 12:20",
-      "dt_iso": "2026-05-18T15:20:29+00:00",
-      "summary": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística &nbsp;&nbsp; Sala da Notícia",
+      "headline": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística - revistakdea360.com.br",
+      "source": "Revistakdea360",
+      "link": "https://revistakdea360.com.br",
+      "time": "18/05 às 21:10",
+      "dt_iso": "2026-05-19T00:10:27+00:00",
+      "summary": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística &nbsp;&nbsp; revistakdea360.com.br",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -338,6 +435,25 @@
       ]
     },
     {
+      "id": "948cb893fe",
+      "headline": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil - Diário do Comércio",
+      "source": "Diariodocomercio",
+      "link": "https://diariodocomercio.com.br",
+      "time": "19/05 às 09:05",
+      "dt_iso": "2026-05-19T12:05:00+00:00",
+      "summary": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil &nbsp;&nbsp; Diário do Comércio",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "0706e57b4c",
       "headline": "Fábricas da Suzano no ES integram estratégia de expansão da companhia no Sul do Brasil - TC Online",
       "source": "Tconline",
@@ -352,25 +468,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "214810d0a8",
-      "headline": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários - TNH1",
-      "source": "Tnh1",
-      "link": "https://www.tnh1.com.br",
-      "time": "17/05 às 08:12",
-      "dt_iso": "2026-05-17T11:12:00+00:00",
-      "summary": "Expansão do Centro de Distribuição da Havan empregará mais de 3 mil funcionários &nbsp;&nbsp; TNH1",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -399,7 +496,7 @@
       "headline": "Condomínio logístico tem investimento de R$ 250 milhões. Veja onde - Portal UAI",
       "source": "Mercadohoje",
       "link": "https://mercadohoje.uai.com.br",
-      "time": "ontem, 08:24",
+      "time": "22/05 às 08:24",
       "dt_iso": "2026-05-22T11:24:51+00:00",
       "summary": "Condomínio logístico tem investimento de R$ 250 milhões. Veja onde &nbsp;&nbsp; Portal UAI",
       "category": "logistica",
@@ -414,13 +511,13 @@
       ]
     },
     {
-      "id": "c940afefe0",
-      "headline": "Com a Selic atrapalhando os FIIs, Log vai além dos galpões: cria gestora e amplia serviços - InvestNews - InvestNews",
+      "id": "7bec9df2e7",
+      "headline": "Selic pesa sobre FIIs, e Log, de Rubens Menin, vai além dos galpões: cria gestora e amplia serviços - InvestNews - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "ontem, 17:22",
+      "time": "22/05 às 17:22",
       "dt_iso": "2026-05-22T20:22:13+00:00",
-      "summary": "Com a Selic atrapalhando os FIIs, Log vai além dos galpões: cria gestora e amplia serviços - InvestNews &nbsp;&nbsp; InvestNews",
+      "summary": "Selic pesa sobre FIIs, e Log, de Rubens Menin, vai além dos galpões: cria gestora e amplia serviços - InvestNews &nbsp;&nbsp; InvestNews",
       "category": "investimento",
       "keywords": [
         "galpões",
@@ -430,6 +527,25 @@
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
         "Investimento"
+      ]
+    },
+    {
+      "id": "7fe79566c2",
+      "headline": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos - arevista.com.br",
+      "source": "Arevista",
+      "link": "https://arevista.com.br",
+      "time": "hoje, 22:13",
+      "dt_iso": "2026-05-25T01:13:11+00:00",
+      "summary": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos &nbsp;&nbsp; arevista.com.br",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -456,7 +572,7 @@
       "headline": "Rodonaves inaugura unidade logística em Farroupilha (RS) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 14:51",
+      "time": "22/05 às 14:51",
       "dt_iso": "2026-05-22T17:51:02+00:00",
       "summary": "Rodonaves inaugura unidade logística em Farroupilha (RS) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -490,13 +606,13 @@
       ]
     },
     {
-      "id": "710d8c07c4",
-      "headline": "Tok&Stok acelera fechamento de lojas e amplia liquidações - Móveis de Valor",
-      "source": "Moveisdevalor",
-      "link": "https://www.moveisdevalor.com.br",
-      "time": "ontem, 08:00",
-      "dt_iso": "2026-05-23T11:00:00+00:00",
-      "summary": "Tok&amp;Stok acelera fechamento de lojas e amplia liquidações &nbsp;&nbsp; Móveis de Valor",
+      "id": "de49807a87",
+      "headline": "Tok&Stok fecha lojas e amplia liquidações com descontos de 70% - iG Economia",
+      "source": "Economia",
+      "link": "https://economia.ig.com.br",
+      "time": "22/05 às 09:32",
+      "dt_iso": "2026-05-22T12:32:00+00:00",
+      "summary": "Tok&amp;Stok fecha lojas e amplia liquidações com descontos de 70% &nbsp;&nbsp; iG Economia",
       "category": "logistica",
       "keywords": [
         "tok&stok",
@@ -513,13 +629,51 @@
       "headline": "Netshoes registra crescimento de 350% nas vendas de camisas do Brasil após convocação da seleção - Central do Varejo",
       "source": "Centraldovarejo",
       "link": "https://centraldovarejo.com.br",
-      "time": "ontem, 11:03",
+      "time": "22/05 às 11:03",
       "dt_iso": "2026-05-22T14:03:24+00:00",
       "summary": "Netshoes registra crescimento de 350% nas vendas de camisas do Brasil após convocação da seleção &nbsp;&nbsp; Central do Varejo",
       "category": "logistica",
       "keywords": [
         "netshoes",
         "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d66b8ed3f1",
+      "headline": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche - rnews.com.br",
+      "source": "Rnews",
+      "link": "https://rnews.com.br",
+      "time": "20/05 às 08:00",
+      "dt_iso": "2026-05-20T11:00:09+00:00",
+      "summary": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche &nbsp;&nbsp; rnews.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "d6f26ec98d",
+      "headline": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar serviço de armazenamento em nuvem - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "há 20 min",
+      "dt_iso": "2026-05-25T12:00:41+00:00",
+      "summary": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar serviço de armazenamento em nuvem &nbsp;&nbsp; Valor Econômico",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
