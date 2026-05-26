@@ -1,91 +1,7 @@
 {
-  "gerado_em": "25/05/2026 às 09:21",
-  "total": 37,
+  "gerado_em": "26/05/2026 às 09:50",
+  "total": 33,
   "noticias": [
-    {
-      "id": "14d4dde84a",
-      "headline": "Suzano expande logística no Sul com novo centro de distribuição no PR - Portal BE News",
-      "source": "Portalbenews",
-      "link": "https://portalbenews.com.br",
-      "time": "18/05 às 13:01",
-      "dt_iso": "2026-05-18T16:01:00+00:00",
-      "summary": "Suzano expande logística no Sul com novo centro de distribuição no PR &nbsp;&nbsp; Portal BE News",
-      "category": "logistica",
-      "keywords": [
-        "suzano",
-        "centro de distribuição",
-        "expande"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "d32de8ceec",
-      "headline": "Shein cresce no Reino Unido com um novo armazém logístico em plena ofensiva da Inditex com Lefties - Economía Digital",
-      "source": "Economiadigital",
-      "link": "https://www.economiadigital.es",
-      "time": "21/05 às 08:35",
-      "dt_iso": "2026-05-21T11:35:18+00:00",
-      "summary": "Shein cresce no Reino Unido com um novo armazém logístico em plena ofensiva da Inditex com Lefties &nbsp;&nbsp; Economía Digital",
-      "category": "logistica",
-      "keywords": [
-        "shein",
-        "armazém",
-        "cresce"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "93a05724eb",
-      "headline": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos - Portal BE News",
-      "source": "Portalbenews",
-      "link": "https://portalbenews.com.br",
-      "time": "18/05 às 12:52",
-      "dt_iso": "2026-05-18T15:52:00+00:00",
-      "summary": "Mercado Livre instala centro de distribuição em Itupeva e prevê 2,4 mil empregos &nbsp;&nbsp; Portal BE News",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "instala"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "b523bc4ee0",
-      "headline": "Shopee vai instalar novo megacentro de distribuição em posição estratégica no Brasil - Crusoé",
-      "source": "Crusoe",
-      "link": "https://crusoe.com.br",
-      "time": "20/05 às 16:14",
-      "dt_iso": "2026-05-20T19:14:03+00:00",
-      "summary": "Shopee vai instalar novo megacentro de distribuição em posição estratégica no Brasil &nbsp;&nbsp; Crusoé",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centro de distribuição",
-        "instala"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
     {
       "id": "1cd6e330bc",
       "headline": "Mercado Livre e Shopee aceleram disputa por galpões logísticos brasileiros - Transporte Moderno",
@@ -148,6 +64,26 @@
       ]
     },
     {
+      "id": "3098c69891",
+      "headline": "WEG inaugura nova unidade fabril de tintas e dois centros de distribuição nos Estados Unidos - Revista Nossa",
+      "source": "Revistanossa",
+      "link": "https://revistanossa.com.br",
+      "time": "20/05 às 10:11",
+      "dt_iso": "2026-05-20T13:11:38+00:00",
+      "summary": "WEG inaugura nova unidade fabril de tintas e dois centros de distribuição nos Estados Unidos &nbsp;&nbsp; Revista Nossa",
+      "category": "expansao",
+      "keywords": [
+        "centros de distribuição",
+        "inaugura",
+        "nova unidade"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "921e847ca3",
       "headline": "Delly’s cresce no food service, supera R$ 5,8 bilhões e amplia operação logística no Brasil - Economia SC",
       "source": "Economiasc",
@@ -187,11 +123,30 @@
       ]
     },
     {
+      "id": "6f395ea652",
+      "headline": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga - Distribuição Hoje",
+      "source": "Distribuicaohoje",
+      "link": "https://www.distribuicaohoje.com",
+      "time": "hoje, 07:03",
+      "dt_iso": "2026-05-26T10:03:21+00:00",
+      "summary": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga &nbsp;&nbsp; Distribuição Hoje",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "armazéns"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "ffcbd4a85e",
       "headline": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 09:35",
+      "time": "23/05 às 09:35",
       "dt_iso": "2026-05-23T12:35:00+00:00",
       "summary": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -207,30 +162,11 @@
       ]
     },
     {
-      "id": "7b35607bce",
-      "headline": "Shein, Anta e Luckin: gigantes chinesas estão engolindo marcas nos EUA e Europa",
-      "source": "Exame",
-      "link": "https://exame.com/invest/mercados/shein-anta-e-luckin-gigantes-chinesas-estao-engolindo-marcas-nos-eua-e-europa/",
-      "time": "hoje, 02:01",
-      "dt_iso": "2026-05-25T05:01:40+00:00",
-      "summary": "Em vez de criar marcas do zero, empresas da China aceleram aquisições nos EUA e na Europa para garantir crescimento global e fugir da desaceleração econômica",
-      "category": "investimento",
-      "keywords": [
-        "shein",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "d828b7df60",
       "headline": "Gigante dos supermercados compra 12 lojas, Centro de Distribuição e duas redes e acelera expansão - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 07:08",
+      "time": "ontem, 07:08",
       "dt_iso": "2026-05-25T10:08:00+00:00",
       "summary": "Gigante dos supermercados compra 12 lojas, Centro de Distribuição e duas redes e acelera expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "expansao",
@@ -245,30 +181,11 @@
       ]
     },
     {
-      "id": "821519db83",
-      "headline": "Amazon inaugura centro de distribuição em Salvador com operação 24h - portalsalvadorfm.com.br",
-      "source": "Portalsalvadorfm",
-      "link": "https://www.portalsalvadorfm.com.br",
-      "time": "ontem, 12:05",
-      "dt_iso": "2026-05-23T15:05:00+00:00",
-      "summary": "Amazon inaugura centro de distribuição em Salvador com operação 24h &nbsp;&nbsp; portalsalvadorfm.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "18c014629e",
       "headline": "Gigante americana planeja expansão no Brasil e define local estratégico para novo centro de distribuição - TNH1",
       "source": "Tnh1",
       "link": "https://www.tnh1.com.br",
-      "time": "hoje, 14:44",
+      "time": "ontem, 14:44",
       "dt_iso": "2026-05-24T17:44:00+00:00",
       "summary": "Gigante americana planeja expansão no Brasil e define local estratégico para novo centro de distribuição &nbsp;&nbsp; TNH1",
       "category": "expansao",
@@ -283,14 +200,14 @@
       ]
     },
     {
-      "id": "1d2af684ac",
-      "headline": "Solfácil inaugura centro de distribuição em Santa Catarina - Canal Solar",
-      "source": "Canalsolar",
-      "link": "https://canalsolar.com.br",
-      "time": "19/05 às 08:45",
-      "dt_iso": "2026-05-19T11:45:00+00:00",
-      "summary": "Solfácil inaugura centro de distribuição em Santa Catarina &nbsp;&nbsp; Canal Solar",
-      "category": "logistica",
+      "id": "a8e5b364c5",
+      "headline": "Amazon inaugura 2° maior centro de distribuição e promete entrega em poucas horas em Salvador - Jornal Correio",
+      "source": "Correio 24h",
+      "link": "https://www.correio24horas.com.br",
+      "time": "hoje, 18:00",
+      "dt_iso": "2026-05-25T21:00:00+00:00",
+      "summary": "Amazon inaugura 2° maior centro de distribuição e promete entrega em poucas horas em Salvador &nbsp;&nbsp; Jornal Correio",
+      "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
         "inaugura"
@@ -298,7 +215,26 @@
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
-        "Logística"
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "aa911aabde",
+      "headline": "Gigante do e-commerce inaugura mega centro de distribuição com 500 vagas de emprego no Brasil - ND Mais",
+      "source": "ND Mais",
+      "link": "https://ndmais.com.br",
+      "time": "hoje, 15:44",
+      "dt_iso": "2026-05-25T18:44:06+00:00",
+      "summary": "Gigante do e-commerce inaugura mega centro de distribuição com 500 vagas de emprego no Brasil &nbsp;&nbsp; ND Mais",
+      "category": "ecommerce",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -321,11 +257,30 @@
       ]
     },
     {
+      "id": "0af4b55aa5",
+      "headline": "Rodonaves amplia operação no Sul e cria hub logístico - Frota&Cia",
+      "source": "Frotacia",
+      "link": "https://frotacia.com.br",
+      "time": "hoje, 14:30",
+      "dt_iso": "2026-05-25T17:30:53+00:00",
+      "summary": "Rodonaves amplia operação no Sul e cria hub logístico &nbsp;&nbsp; Frota&amp;Cia",
+      "category": "investimento",
+      "keywords": [
+        "hub logístico",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "b2aa3da181",
       "headline": "Multinacional define ponto estratégico para construção de maior centro de distribuição no Sul do Brasil - Diário do Comércio",
       "source": "Diariodocomercio",
       "link": "https://diariodocomercio.com.br",
-      "time": "hoje, 20:36",
+      "time": "ontem, 20:36",
       "dt_iso": "2026-05-24T23:36:00+00:00",
       "summary": "Multinacional define ponto estratégico para construção de maior centro de distribuição no Sul do Brasil &nbsp;&nbsp; Diário do Comércio",
       "category": "logistica",
@@ -340,36 +295,17 @@
       ]
     },
     {
-      "id": "13bf825f67",
-      "headline": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA - NSC Total",
-      "source": "NSC Total",
-      "link": "https://www.nsctotal.com.br",
-      "time": "18/05 às 18:51",
-      "dt_iso": "2026-05-18T21:51:00+00:00",
-      "summary": "WEG inaugura nova fábrica e dois centros de distribuição nos EUA &nbsp;&nbsp; NSC Total",
-      "category": "logistica",
-      "keywords": [
-        "centros de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d3e6bebfcb",
-      "headline": "Logística solar: Solfácil investe R$ 1,2 milhão em novo centro de distribuição para acelerar entregas no Sul - Cenário Energia",
-      "source": "Cenarioenergia",
-      "link": "https://cenarioenergia.com.br",
-      "time": "22/05 às 10:36",
-      "dt_iso": "2026-05-22T13:36:33+00:00",
-      "summary": "Logística solar: Solfácil investe R$ 1,2 milhão em novo centro de distribuição para acelerar entregas no Sul &nbsp;&nbsp; Cenário Energia",
+      "id": "8063b12d9a",
+      "headline": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. - Conexão TV Web",
+      "source": "Conexaotvweb",
+      "link": "https://www.conexaotvweb.com.br",
+      "time": "hoje, 17:19",
+      "dt_iso": "2026-05-25T20:19:00+00:00",
+      "summary": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. &nbsp;&nbsp; Conexão TV Web",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
-        "investe"
+        "inaugura"
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
@@ -382,7 +318,7 @@
       "headline": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas - n1n.com.br",
       "source": "N1N",
       "link": "https://n1n.com.br",
-      "time": "ontem, 14:44",
+      "time": "23/05 às 14:44",
       "dt_iso": "2026-05-23T17:44:04+00:00",
       "summary": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas &nbsp;&nbsp; n1n.com.br",
       "category": "ecommerce",
@@ -394,25 +330,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "b096989527",
-      "headline": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística - revistakdea360.com.br",
-      "source": "Revistakdea360",
-      "link": "https://revistakdea360.com.br",
-      "time": "18/05 às 21:10",
-      "dt_iso": "2026-05-19T00:10:27+00:00",
-      "summary": "Mercado Livre Anuncia Investimento de R$ 57 Bilhões no Brasil em 2026 com Foco em Infraestrutura Logística &nbsp;&nbsp; revistakdea360.com.br",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -432,25 +349,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "948cb893fe",
-      "headline": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil - Diário do Comércio",
-      "source": "Diariodocomercio",
-      "link": "https://diariodocomercio.com.br",
-      "time": "19/05 às 09:05",
-      "dt_iso": "2026-05-19T12:05:00+00:00",
-      "summary": "Shopee inaugura maior empreendimento da marca na região Sul do Brasil &nbsp;&nbsp; Diário do Comércio",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -534,7 +432,7 @@
       "headline": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos - arevista.com.br",
       "source": "Arevista",
       "link": "https://arevista.com.br",
-      "time": "hoje, 22:13",
+      "time": "ontem, 22:13",
       "dt_iso": "2026-05-25T01:13:11+00:00",
       "summary": "BTLG11 mantém preço da oferta e mira expansão bilionária em galpões logísticos &nbsp;&nbsp; arevista.com.br",
       "category": "expansao",
@@ -546,6 +444,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "0e9ddf42aa",
+      "headline": "Gasmig amplia distribuição de gás natural em Minas Gerais - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 10:09",
+      "dt_iso": "2026-05-25T13:09:00+00:00",
+      "summary": "Gasmig amplia distribuição de gás natural em Minas Gerais &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -625,6 +542,25 @@
       ]
     },
     {
+      "id": "d3e6bebfcb",
+      "headline": "Logística solar: Solfácil investe R$ 1,2 milhão em novo centro de distribuição para acelerar entregas no Sul - Cenário Energia",
+      "source": "Cenarioenergia",
+      "link": "https://cenarioenergia.com.br",
+      "time": "22/05 às 10:36",
+      "dt_iso": "2026-05-22T13:36:33+00:00",
+      "summary": "Logística solar: Solfácil investe R$ 1,2 milhão em novo centro de distribuição para acelerar entregas no Sul &nbsp;&nbsp; Cenário Energia",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "175b797160",
       "headline": "Netshoes registra crescimento de 350% nas vendas de camisas do Brasil após convocação da seleção - Central do Varejo",
       "source": "Centraldovarejo",
@@ -644,30 +580,11 @@
       ]
     },
     {
-      "id": "d66b8ed3f1",
-      "headline": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche - rnews.com.br",
-      "source": "Rnews",
-      "link": "https://rnews.com.br",
-      "time": "20/05 às 08:00",
-      "dt_iso": "2026-05-20T11:00:09+00:00",
-      "summary": "Mercado Livre abre seleção em Franco da Rocha com salário acima de R$ 2,2 mil e benefícios que incluem fretado e auxílio creche &nbsp;&nbsp; rnews.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "d6f26ec98d",
       "headline": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar serviço de armazenamento em nuvem - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "há 20 min",
+      "time": "ontem, 09:00",
       "dt_iso": "2026-05-25T12:00:41+00:00",
       "summary": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar serviço de armazenamento em nuvem &nbsp;&nbsp; Valor Econômico",
       "category": "logistica",
@@ -701,22 +618,22 @@
       ]
     },
     {
-      "id": "081f14a958",
-      "headline": "Special Dog Company leva expansão da linha Bionatural Sensitive ao CBA Goiânia 2026 - Portal Cães e Gatos",
-      "source": "Caesegatos",
-      "link": "https://caesegatos.com.br",
-      "time": "20/05 às 18:22",
-      "dt_iso": "2026-05-20T21:22:56+00:00",
-      "summary": "Special Dog Company leva expansão da linha Bionatural Sensitive ao CBA Goiânia 2026 &nbsp;&nbsp; Portal Cães e Gatos",
-      "category": "expansao",
+      "id": "d559adbfb2",
+      "headline": "Embraer divulga fotos do voo inaugural do primeiro C-390 Millennium da Força Aérea Tcheca - Poder Aéreo",
+      "source": "Aereo",
+      "link": "https://www.aereo.jor.br",
+      "time": "hoje, 20:53",
+      "dt_iso": "2026-05-25T23:53:21+00:00",
+      "summary": "Embraer divulga fotos do voo inaugural do primeiro C-390 Millennium da Força Aérea Tcheca &nbsp;&nbsp; Poder Aéreo",
+      "category": "logistica",
       "keywords": [
-        "natura",
-        "expansão"
+        "embraer",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     }
   ]
