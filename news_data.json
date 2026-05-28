@@ -1,6 +1,6 @@
 {
-  "gerado_em": "28/05/2026 às 09:22",
-  "total": 37,
+  "gerado_em": "28/05/2026 às 11:58",
+  "total": 38,
   "noticias": [
     {
       "id": "2afa594fb8",
@@ -47,11 +47,32 @@
       ]
     },
     {
+      "id": "8f828b95f9",
+      "headline": "Magazine Luiza (MGLU3) ou Casas Bahia (BHIA3): qual ação está mais pressionada?",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/magazine-luiza-mglu3-ou-casas-bahia-bhia3-qual-acao-esta-mais-pressionada/",
+      "time": "hoje, 09:58",
+      "dt_iso": "2026-05-28T12:58:08+00:00",
+      "summary": "Casas Bahia (BHIA3) testa região crítica próxima da mínima histórica, enquanto Magalu (MGLU3) amplia tendência de baixa no médio prazo \n The post  Magazine Luiza (MGLU3) ou Casas Bahia (BHIA3): qual ação está mais pressionada?  appeared first on  InfoMoney .",
+      "category": "investimento",
+      "keywords": [
+        "magazine luiza",
+        "magalu",
+        "casas bahia",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "8532055913",
       "headline": "Multinacional Amazon abre 500 vagas de emprego para mega centro de distribuição em Salvador e reforça expansão nacional com operação logística de grande porte, tecnologia para entregas rápidas e impacto direto no mercado de trabalho e na circulaçã - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 10:52",
+      "time": "ontem, 10:52",
       "dt_iso": "2026-05-27T13:52:00+00:00",
       "summary": "Multinacional Amazon abre 500 vagas de emprego para mega centro de distribuição em Salvador e reforça expansão nacional com operação logística de grande porte, tecnologia para entregas rápidas e impacto direto no mercado de trabalho e na circulaçã &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "expansao",
@@ -65,6 +86,27 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "d218ebf5c6",
+      "headline": "Fundo imobiliário aluga galpão para Mercado Livre e zera vacância - - Fiis",
+      "source": "Fiis",
+      "link": "https://fiis.com.br",
+      "time": "hoje, 10:00",
+      "dt_iso": "2026-05-28T13:00:05+00:00",
+      "summary": "Fundo imobiliário aluga galpão para Mercado Livre e zera vacância - &nbsp;&nbsp; Fiis",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "galpão",
+        "aluga"
+      ],
+      "score": 8,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "Destaque",
+        "Investimento"
       ]
     },
     {
@@ -107,27 +149,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "aa558f9035",
-      "headline": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão - Jornal Portuário",
-      "source": "Jornalportuario",
-      "link": "https://jornalportuario.com.br",
-      "time": "hoje, 16:54",
-      "dt_iso": "2026-05-27T19:54:48+00:00",
-      "summary": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão &nbsp;&nbsp; Jornal Portuário",
-      "category": "expansao",
-      "keywords": [
-        "jbs",
-        "expansão",
-        "amplia",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -194,6 +215,26 @@
       ]
     },
     {
+      "id": "3890db280f",
+      "headline": "Inauguração do segundo maior centro de distribuição de multinacional no Brasil já impacta na economia do país - - Portal OCorreio",
+      "source": "Ocorreio",
+      "link": "https://ocorreio.com.br",
+      "time": "hoje, 22:08",
+      "dt_iso": "2026-05-28T01:08:00+00:00",
+      "summary": "Inauguração do segundo maior centro de distribuição de multinacional no Brasil já impacta na economia do país &nbsp;&nbsp; - Portal OCorreio",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "inauguração"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "cb0209a4d1",
       "headline": "Amazon e DHL inauguram CD em Salvador e ampliam entregas rápidas no Nordeste - Mercado&Consumo",
       "source": "Mercadoeconsumo",
@@ -225,26 +266,6 @@
       "keywords": [
         "dhl",
         "armazéns"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ffcbd4a85e",
-      "headline": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "23/05 às 09:35",
-      "dt_iso": "2026-05-23T12:35:00+00:00",
-      "summary": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "armazém",
-        "inaugura",
-        "inaugurado"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -296,7 +317,7 @@
       "headline": "Procura-se galpão de alto padrão? Estoque não acompanha expansão do setor logístico - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 11:25",
+      "time": "ontem, 11:25",
       "dt_iso": "2026-05-27T14:25:36+00:00",
       "summary": "Procura-se galpão de alto padrão? Estoque não acompanha expansão do setor logístico &nbsp;&nbsp; InfoMoney",
       "category": "expansao",
@@ -334,7 +355,7 @@
       "headline": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "há 50 min",
+      "time": "hoje, 08:30",
       "dt_iso": "2026-05-28T11:30:41+00:00",
       "summary": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -353,7 +374,7 @@
       "headline": "Amazon inaugura centro de distribuição em Salvador com capacidade para 100 mil pacotes por dia - Central do Varejo",
       "source": "Centraldovarejo",
       "link": "https://centraldovarejo.com.br",
-      "time": "hoje, 10:04",
+      "time": "ontem, 10:04",
       "dt_iso": "2026-05-27T13:04:46+00:00",
       "summary": "Amazon inaugura centro de distribuição em Salvador com capacidade para 100 mil pacotes por dia &nbsp;&nbsp; Central do Varejo",
       "category": "ecommerce",
@@ -444,6 +465,25 @@
       ]
     },
     {
+      "id": "6ea2668580",
+      "headline": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas - n1mais.com.br",
+      "source": "N1N",
+      "link": "https://n1n.com.br",
+      "time": "23/05 às 14:44",
+      "dt_iso": "2026-05-23T17:44:04+00:00",
+      "summary": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas &nbsp;&nbsp; n1mais.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "42a317f511",
       "headline": "Crescimento de Mato Grosso impulsiona corrida por galpões logísticos e infraestrutura moderna - Olhar Direto",
       "source": "Olhardireto",
@@ -498,25 +538,6 @@
       "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "0e9ddf42aa",
-      "headline": "Gasmig amplia distribuição de gás natural em Minas Gerais - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "25/05 às 10:09",
-      "dt_iso": "2026-05-25T13:09:00+00:00",
-      "summary": "Gasmig amplia distribuição de gás natural em Minas Gerais &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -577,11 +598,30 @@
       ]
     },
     {
+      "id": "175b797160",
+      "headline": "Netshoes registra crescimento de 350% nas vendas de camisas do Brasil após convocação da seleção - Central do Varejo",
+      "source": "Centraldovarejo",
+      "link": "https://centraldovarejo.com.br",
+      "time": "22/05 às 11:03",
+      "dt_iso": "2026-05-22T14:03:24+00:00",
+      "summary": "Netshoes registra crescimento de 350% nas vendas de camisas do Brasil após convocação da seleção &nbsp;&nbsp; Central do Varejo",
+      "category": "logistica",
+      "keywords": [
+        "netshoes",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "78c235e335",
       "headline": "Pernambucanas investe em ecossistema de serviços digitais - Central do Varejo",
       "source": "Centraldovarejo",
       "link": "https://centraldovarejo.com.br",
-      "time": "hoje, 11:30",
+      "time": "ontem, 11:30",
       "dt_iso": "2026-05-27T14:30:18+00:00",
       "summary": "Pernambucanas investe em ecossistema de serviços digitais &nbsp;&nbsp; Central do Varejo",
       "category": "logistica",
@@ -615,13 +655,32 @@
       ]
     },
     {
-      "id": "943ca6463a",
-      "headline": "BNDES aprova R$ 300 milhões para expansão da Magalu Cloud - TI INSIDE Online",
-      "source": "TI Inside",
-      "link": "https://tiinside.com.br",
-      "time": "25/05 às 18:45",
-      "dt_iso": "2026-05-25T21:45:55+00:00",
-      "summary": "BNDES aprova R$ 300 milhões para expansão da Magalu Cloud &nbsp;&nbsp; TI INSIDE Online",
+      "id": "2086272cfc",
+      "headline": "BNDES aprova R$ 300 mi para Magalu Cloud ampliar serviço de armazenamento em nuvem - Agência BNDES de Notícias",
+      "source": "Agenciadenoticias",
+      "link": "https://agenciadenoticias.bndes.gov.br",
+      "time": "25/05 às 09:37",
+      "dt_iso": "2026-05-25T12:37:00+00:00",
+      "summary": "BNDES aprova R$ 300 mi para Magalu Cloud ampliar serviço de armazenamento em nuvem &nbsp;&nbsp; Agência BNDES de Notícias",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c8603216c1",
+      "headline": "BNDES aprova R$ 300 milhões para expansão da Magalu Cloud e reforço da soberania digital brasileira - Brasil 247",
+      "source": "Brasil247",
+      "link": "https://www.brasil247.com",
+      "time": "25/05 às 10:59",
+      "dt_iso": "2026-05-25T13:59:33+00:00",
+      "summary": "BNDES aprova R$ 300 milhões para expansão da Magalu Cloud e reforço da soberania digital brasileira &nbsp;&nbsp; Brasil 247",
       "category": "expansao",
       "keywords": [
         "magalu",
@@ -631,44 +690,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "f723fb59ee",
-      "headline": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "hoje, 14:30",
-      "dt_iso": "2026-05-27T17:30:46+00:00",
-      "summary": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação &nbsp;&nbsp; SuperVarejo",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "2c63793372",
-      "headline": "Assaí amplia mix de produtos e entra na categoria de suplementação - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "ontem, 12:53",
-      "dt_iso": "2026-05-26T15:53:35+00:00",
-      "summary": "Assaí amplia mix de produtos e entra na categoria de suplementação &nbsp;&nbsp; Giro News",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -714,7 +735,7 @@
       "headline": "Ascenty investe US$ 1,2 bilhão para avançar em data centers para IA no Brasil - Bloomberg Línea Brasil",
       "source": "Bloomberglinea",
       "link": "https://www.bloomberglinea.com.br",
-      "time": "hoje, 11:21",
+      "time": "ontem, 11:21",
       "dt_iso": "2026-05-27T14:21:00+00:00",
       "summary": "Ascenty investe US$ 1,2 bilhão para avançar em data centers para IA no Brasil &nbsp;&nbsp; Bloomberg Línea Brasil",
       "category": "logistica",
