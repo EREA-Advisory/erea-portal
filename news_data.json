@@ -1,6 +1,6 @@
 {
-  "gerado_em": "29/05/2026 às 11:18",
-  "total": 45,
+  "gerado_em": "30/05/2026 às 06:34",
+  "total": 44,
   "noticias": [
     {
       "id": "b1a4be9adc",
@@ -48,12 +48,12 @@
     },
     {
       "id": "eb18fa28b0",
-      "headline": "Total Express amplia operação de Fulfillment e acelera expansão - Jornal do Brás",
-      "source": "Jornaldobras",
-      "link": "https://jornaldobras.com.br",
-      "time": "hoje, 02:30",
-      "dt_iso": "2026-05-29T05:30:53+00:00",
-      "summary": "Total Express amplia operação de Fulfillment e acelera expansão &nbsp;&nbsp; Jornal do Brás",
+      "headline": "Total Express amplia operação de Fulfillment e acelera expansão - Gazeta da Semana",
+      "source": "Gazetadasemana",
+      "link": "https://gazetadasemana.com.br",
+      "time": "ontem, 04:20",
+      "dt_iso": "2026-05-29T07:20:11+00:00",
+      "summary": "Total Express amplia operação de Fulfillment e acelera expansão &nbsp;&nbsp; Gazeta da Semana",
       "category": "expansao",
       "keywords": [
         "total express",
@@ -132,19 +132,19 @@
       ]
     },
     {
-      "id": "82bdd454aa",
-      "headline": "Petrobras acelera investimentos no Amazonas com foco em gás natural de Urucu e expansão logística da Transpetro - Cenário Energia",
-      "source": "Cenarioenergia",
-      "link": "https://cenarioenergia.com.br",
-      "time": "ontem, 14:25",
-      "dt_iso": "2026-05-27T17:25:57+00:00",
-      "summary": "Petrobras acelera investimentos no Amazonas com foco em gás natural de Urucu e expansão logística da Transpetro &nbsp;&nbsp; Cenário Energia",
+      "id": "55442b835f",
+      "headline": "Atacadão amplia presença no litoral paulista com inauguração de segunda loja em Santos (SP) - SuperVarejo",
+      "source": "Supervarejo",
+      "link": "https://www.supervarejo.com.br",
+      "time": "hoje, 13:47",
+      "dt_iso": "2026-05-29T16:47:54+00:00",
+      "summary": "Atacadão amplia presença no litoral paulista com inauguração de segunda loja em Santos (SP) &nbsp;&nbsp; SuperVarejo",
       "category": "expansao",
       "keywords": [
-        "natura",
-        "expansão",
-        "investimento",
-        "investimentos"
+        "atacadão",
+        "inaugura",
+        "inauguração",
+        "amplia"
       ],
       "score": 8,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -153,19 +153,19 @@
       ]
     },
     {
-      "id": "aa558f9035",
-      "headline": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão - Jornal Portuário",
-      "source": "Jornalportuario",
-      "link": "https://jornalportuario.com.br",
-      "time": "ontem, 16:54",
-      "dt_iso": "2026-05-27T19:54:48+00:00",
-      "summary": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão &nbsp;&nbsp; Jornal Portuário",
+      "id": "82bdd454aa",
+      "headline": "Petrobras acelera investimentos no Amazonas com foco em gás natural de Urucu e expansão logística da Transpetro - Cenário Energia",
+      "source": "Cenarioenergia",
+      "link": "https://cenarioenergia.com.br",
+      "time": "27/05 às 14:25",
+      "dt_iso": "2026-05-27T17:25:57+00:00",
+      "summary": "Petrobras acelera investimentos no Amazonas com foco em gás natural de Urucu e expansão logística da Transpetro &nbsp;&nbsp; Cenário Energia",
       "category": "expansao",
       "keywords": [
-        "jbs",
+        "natura",
         "expansão",
-        "amplia",
-        "investe"
+        "investimento",
+        "investimentos"
       ],
       "score": 8,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -195,17 +195,17 @@
       ]
     },
     {
-      "id": "3dc8b475c4",
-      "headline": "DHL, FedEx e UPS alertam UE sobre riscos nas cadeias de abastecimento - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Google News",
-      "link": "https://br.investing.com",
-      "time": "22/05 às 14:10",
-      "dt_iso": "2026-05-22T17:10:00+00:00",
-      "summary": "DHL, FedEx e UPS alertam UE sobre riscos nas cadeias de abastecimento &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "id": "ca6fc27f0a",
+      "headline": "Correios e AliExpress assinam acordo e ampliam investimentos em logística no Brasil - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 17:47",
+      "dt_iso": "2026-05-29T20:47:29+00:00",
+      "summary": "Correios e AliExpress assinam acordo e ampliam investimentos em logística no Brasil &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
-        "dhl",
-        "fedex",
+        "correios",
+        "amplia",
         "investimento",
         "investimentos"
       ],
@@ -216,31 +216,11 @@
       ]
     },
     {
-      "id": "604bdb0cbf",
-      "headline": "Fusão cria empresa de conservação e transporte de obras de arte; meta é crescer 80%",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/fusao-cria-empresa-de-conservacao-e-transporte-de-obras-de-arte-meta-e-crescer-80/",
-      "time": "hoje, 08:02",
-      "dt_iso": "2026-05-29T11:02:52+00:00",
-      "summary": "Com investimento de R$ 17 milhões, operação vai unir armazenagem, logística e conservação para museus, galerias e colecionadores privados",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "investimento",
-        "cresce"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "df2a7e3c28",
       "headline": "Mercado Livre abocanha galpões logísticos, RBVA11 aposta em redes de academias e TEPP11 vai às compras: veja os destaques dos FIIs hoje - Seu Dinheiro",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
-      "time": "hoje, 14:01",
+      "time": "ontem, 14:01",
       "dt_iso": "2026-05-28T17:01:59+00:00",
       "summary": "Mercado Livre abocanha galpões logísticos, RBVA11 aposta em redes de academias e TEPP11 vai às compras: veja os destaques dos FIIs hoje &nbsp;&nbsp; Seu Dinheiro",
       "category": "investimento",
@@ -259,7 +239,7 @@
       "headline": "Inauguração do segundo maior centro de distribuição de multinacional no Brasil já impacta na economia do país - - Portal OCorreio",
       "source": "Ocorreio",
       "link": "https://ocorreio.com.br",
-      "time": "ontem, 22:08",
+      "time": "27/05 às 22:08",
       "dt_iso": "2026-05-28T01:08:00+00:00",
       "summary": "Inauguração do segundo maior centro de distribuição de multinacional no Brasil já impacta na economia do país &nbsp;&nbsp; - Portal OCorreio",
       "category": "expansao",
@@ -295,11 +275,51 @@
       ]
     },
     {
+      "id": "88008bf055",
+      "headline": "Expansão do e-commerce amplia uso estratégico de aeroportos para operações logísticas no Brasil - www.gov.br",
+      "source": "Gov",
+      "link": "https://www.gov.br",
+      "time": "ontem, 13:43",
+      "dt_iso": "2026-05-28T16:43:00+00:00",
+      "summary": "Expansão do e-commerce amplia uso estratégico de aeroportos para operações logísticas no Brasil &nbsp;&nbsp; www.gov.br",
+      "category": "expansao",
+      "keywords": [
+        "operações logísticas",
+        "expansão",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "fefac3d7c3",
+      "headline": "Agora é oficial: Correios e AliExpress unem forças para acelerar entregas em todo o Brasil, ampliar o monitoramento das encomendas e fortalecer a infraestrutura logística digital que sustenta o crescimento acelerado do comércio eletrônico em 2026 - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 13:40",
+      "dt_iso": "2026-05-29T16:40:00+00:00",
+      "summary": "Agora é oficial: Correios e AliExpress unem forças para acelerar entregas em todo o Brasil, ampliar o monitoramento das encomendas e fortalecer a infraestrutura logística digital que sustenta o crescimento acelerado do comércio eletrônico em 2026 &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "amplia",
+        "crescimento"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "1f247e959d",
       "headline": "JBS Terminais investe R$ 9 milhões e amplia serviços no Porto de Itajaí - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 17:07",
+      "time": "ontem, 17:07",
       "dt_iso": "2026-05-28T20:07:12+00:00",
       "summary": "JBS Terminais investe R$ 9 milhões e amplia serviços no Porto de Itajaí &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -312,6 +332,26 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "fc222a269d",
+      "headline": "O Boticário reinaugura unidade em Coari e reforça expansão no Amazonas - D24AM",
+      "source": "D24Am",
+      "link": "https://d24am.com",
+      "time": "ontem, 14:44",
+      "dt_iso": "2026-05-28T17:44:19+00:00",
+      "summary": "O Boticário reinaugura unidade em Coari e reforça expansão no Amazonas &nbsp;&nbsp; D24AM",
+      "category": "expansao",
+      "keywords": [
+        "boticário",
+        "inaugura",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -335,12 +375,12 @@
     },
     {
       "id": "8e247622d5",
-      "headline": "Total Express amplia ecossistema com mais de 40 integrações e posiciona logística como motor de crescimento… - Portal Revista Kdea 360",
-      "source": "Revistakdea360",
-      "link": "https://revistakdea360.com.br",
-      "time": "hoje, 14:47",
+      "headline": "Total Express amplia ecossistema com mais de 40 integrações e posiciona logística como motor de crescimento… - Gazeta da Semana",
+      "source": "Gazetadasemana",
+      "link": "https://gazetadasemana.com.br",
+      "time": "ontem, 14:47",
       "dt_iso": "2026-05-28T17:47:57+00:00",
-      "summary": "Total Express amplia ecossistema com mais de 40 integrações e posiciona logística como motor de crescimento… &nbsp;&nbsp; Portal Revista Kdea 360",
+      "summary": "Total Express amplia ecossistema com mais de 40 integrações e posiciona logística como motor de crescimento… &nbsp;&nbsp; Gazeta da Semana",
       "category": "logistica",
       "keywords": [
         "total express",
@@ -374,26 +414,6 @@
       ]
     },
     {
-      "id": "674720faad",
-      "headline": "Magalu Cloud recebe aporte de R$ 300 mi e expande operação em Fortaleza - TrendsCE",
-      "source": "Trendsce",
-      "link": "https://www.trendsce.com.br",
-      "time": "26/05 às 16:31",
-      "dt_iso": "2026-05-26T19:31:02+00:00",
-      "summary": "Magalu Cloud recebe aporte de R$ 300 mi e expande operação em Fortaleza &nbsp;&nbsp; TrendsCE",
-      "category": "investimento",
-      "keywords": [
-        "magalu",
-        "expande",
-        "aporte"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "9fe4657f68",
       "headline": "Grupo Carrefour investe na expansão do Atacadão no litoral paulista - SA+ Ecossistema de Varejo",
       "source": "Samais",
@@ -414,30 +434,11 @@
       ]
     },
     {
-      "id": "879c2a3c00",
-      "headline": "FII de R$ 5,5 bilhões reajusta preço de galpão logístico e investimento fica mais caro - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "27/05 às 07:17",
-      "dt_iso": "2026-05-27T10:17:00+00:00",
-      "summary": "FII de R$ 5,5 bilhões reajusta preço de galpão logístico e investimento fica mais caro &nbsp;&nbsp; Estadão",
-      "category": "investimento",
-      "keywords": [
-        "galpão",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "adf279f8d4",
       "headline": "Procura-se galpão de alto padrão? Estoque não acompanha expansão do setor logístico - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "ontem, 11:25",
+      "time": "27/05 às 11:25",
       "dt_iso": "2026-05-27T14:25:36+00:00",
       "summary": "Procura-se galpão de alto padrão? Estoque não acompanha expansão do setor logístico &nbsp;&nbsp; InfoMoney",
       "category": "expansao",
@@ -456,7 +457,7 @@
       "headline": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 20:30",
+      "time": "ontem, 20:30",
       "dt_iso": "2026-05-28T23:30:41+00:00",
       "summary": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -551,7 +552,7 @@
       "headline": "Grupo Avenida inaugura centro de distribuição em Cuiabá e pretende abrir 10 novas lojas em 2019 - Olhar Direto",
       "source": "Olhardireto",
       "link": "https://www.olhardireto.com.br",
-      "time": "ontem, 18:17",
+      "time": "27/05 às 18:17",
       "dt_iso": "2026-05-27T21:17:00+00:00",
       "summary": "Grupo Avenida inaugura centro de distribuição em Cuiabá e pretende abrir 10 novas lojas em 2019 &nbsp;&nbsp; Olhar Direto",
       "category": "logistica",
@@ -567,12 +568,12 @@
     },
     {
       "id": "8063b12d9a",
-      "headline": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. - Conexão TV Web",
+      "headline": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. - conexaotvweb.com.br",
       "source": "Conexaotvweb",
       "link": "https://www.conexaotvweb.com.br",
       "time": "25/05 às 17:19",
       "dt_iso": "2026-05-25T20:19:00+00:00",
-      "summary": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. &nbsp;&nbsp; Conexão TV Web",
+      "summary": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. &nbsp;&nbsp; conexaotvweb.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -585,30 +586,11 @@
       ]
     },
     {
-      "id": "6ea2668580",
-      "headline": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas - n1mais.com.br",
-      "source": "N1N",
-      "link": "https://n1n.com.br",
-      "time": "23/05 às 14:44",
-      "dt_iso": "2026-05-23T17:44:04+00:00",
-      "summary": "A gigante Amazon vai inaugurar grande Centro de Distribuição em Salvador; veja as vagas de empregos abertas &nbsp;&nbsp; n1mais.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "62703df2aa",
       "headline": "Amazon inaugura CD em Salvador com operação da DHL - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "hoje, 17:59",
+      "time": "ontem, 17:59",
       "dt_iso": "2026-05-28T20:59:54+00:00",
       "summary": "Amazon inaugura CD em Salvador com operação da DHL &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
@@ -642,6 +624,25 @@
       ]
     },
     {
+      "id": "23127a7f3e",
+      "headline": "Correios e AliExpress fecham acordo para ampliar logística e rastreamento no Brasil - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 16:37",
+      "dt_iso": "2026-05-29T19:37:53+00:00",
+      "summary": "Correios e AliExpress fecham acordo para ampliar logística e rastreamento no Brasil &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "18c014629e",
       "headline": "Gigante americana planeja expansão no Brasil e define local estratégico para novo centro de distribuição - TNH1",
       "source": "Tnh1",
@@ -658,25 +659,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "ee798ac125",
-      "headline": "Com Selic alta, Log, de Rubens Menin, vai além dos galpões: cria gestora e amplia serviços - InvestNews - InvestNews",
-      "source": "InvestNews",
-      "link": "https://investnews.com.br",
-      "time": "22/05 às 17:22",
-      "dt_iso": "2026-05-22T20:22:13+00:00",
-      "summary": "Com Selic alta, Log, de Rubens Menin, vai além dos galpões: cria gestora e amplia serviços - InvestNews &nbsp;&nbsp; InvestNews",
-      "category": "investimento",
-      "keywords": [
-        "galpões",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -718,17 +700,17 @@
       ]
     },
     {
-      "id": "64bc7865c2",
-      "headline": "Rodonaves inaugura unidade logística em Farroupilha (RS) - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "22/05 às 14:51",
-      "dt_iso": "2026-05-22T17:51:02+00:00",
-      "summary": "Rodonaves inaugura unidade logística em Farroupilha (RS) &nbsp;&nbsp; MundoLogística",
+      "id": "710d8c07c4",
+      "headline": "Tok&Stok acelera fechamento de lojas e amplia liquidações - Móveis de Valor",
+      "source": "Moveisdevalor",
+      "link": "https://www.moveisdevalor.com.br",
+      "time": "23/05 às 08:00",
+      "dt_iso": "2026-05-23T11:00:00+00:00",
+      "summary": "Tok&amp;Stok acelera fechamento de lojas e amplia liquidações &nbsp;&nbsp; Móveis de Valor",
       "category": "logistica",
       "keywords": [
-        "unidade logística",
-        "inaugura"
+        "tok&stok",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -741,7 +723,7 @@
       "headline": "Pernambucanas investe em ecossistema de serviços digitais - Central do Varejo",
       "source": "Centraldovarejo",
       "link": "https://centraldovarejo.com.br",
-      "time": "ontem, 11:30",
+      "time": "27/05 às 11:30",
       "dt_iso": "2026-05-27T14:30:18+00:00",
       "summary": "Pernambucanas investe em ecossistema de serviços digitais &nbsp;&nbsp; Central do Varejo",
       "category": "logistica",
@@ -760,7 +742,7 @@
       "headline": "Shopee inicia construção de centro logístico de R$ 132 milhões em Londrina - Tem Londrina",
       "source": "Temlondrina",
       "link": "https://temlondrina.com.br",
-      "time": "hoje, 18:10",
+      "time": "ontem, 18:10",
       "dt_iso": "2026-05-28T21:10:50+00:00",
       "summary": "Shopee inicia construção de centro logístico de R$ 132 milhões em Londrina &nbsp;&nbsp; Tem Londrina",
       "category": "ecommerce",
@@ -794,6 +776,25 @@
       ]
     },
     {
+      "id": "f723fb59ee",
+      "headline": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação - SuperVarejo",
+      "source": "Supervarejo",
+      "link": "https://www.supervarejo.com.br",
+      "time": "27/05 às 14:30",
+      "dt_iso": "2026-05-27T17:30:46+00:00",
+      "summary": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação &nbsp;&nbsp; SuperVarejo",
+      "category": "expansao",
+      "keywords": [
+        "assaí",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "99b6ad4c6f",
       "headline": "Assaí amplia estratégia de marcas próprias e prevê 200 itens no portfólio até o final do ano - Giro News",
       "source": "Gironews",
@@ -810,25 +811,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "f723fb59ee",
-      "headline": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "ontem, 14:30",
-      "dt_iso": "2026-05-27T17:30:46+00:00",
-      "summary": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação &nbsp;&nbsp; SuperVarejo",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -874,8 +856,8 @@
       "headline": "Ascenty investe US$ 1,2 bilhão para avançar em data centers para IA no Brasil - Bloomberg Línea Brasil",
       "source": "Bloomberglinea",
       "link": "https://www.bloomberglinea.com.br",
-      "time": "ontem, 11:21",
-      "dt_iso": "2026-05-27T14:21:00+00:00",
+      "time": "27/05 às 15:21",
+      "dt_iso": "2026-05-27T18:21:22+00:00",
       "summary": "Ascenty investe US$ 1,2 bilhão para avançar em data centers para IA no Brasil &nbsp;&nbsp; Bloomberg Línea Brasil",
       "category": "logistica",
       "keywords": [
