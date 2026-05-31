@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/05/2026 às 06:34",
-  "total": 44,
+  "gerado_em": "31/05/2026 às 07:33",
+  "total": 38,
   "noticias": [
     {
       "id": "b1a4be9adc",
@@ -25,33 +25,11 @@
       ]
     },
     {
-      "id": "2afa594fb8",
-      "headline": "Centro de Distribuição do Mercado Livre inaugurado em Goiás consolida estado como potência logística e impulsiona empregos - Portal 6",
-      "source": "Portal6",
-      "link": "https://portal6.com.br",
-      "time": "26/05 às 22:45",
-      "dt_iso": "2026-05-27T01:45:20+00:00",
-      "summary": "Centro de Distribuição do Mercado Livre inaugurado em Goiás consolida estado como potência logística e impulsiona empregos &nbsp;&nbsp; Portal 6",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura",
-        "inaugurado"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
       "id": "eb18fa28b0",
       "headline": "Total Express amplia operação de Fulfillment e acelera expansão - Gazeta da Semana",
       "source": "Gazetadasemana",
       "link": "https://gazetadasemana.com.br",
-      "time": "ontem, 04:20",
+      "time": "29/05 às 04:20",
       "dt_iso": "2026-05-29T07:20:11+00:00",
       "summary": "Total Express amplia operação de Fulfillment e acelera expansão &nbsp;&nbsp; Gazeta da Semana",
       "category": "expansao",
@@ -69,32 +47,11 @@
       ]
     },
     {
-      "id": "8532055913",
-      "headline": "Multinacional Amazon abre 500 vagas de emprego para mega centro de distribuição em Salvador e reforça expansão nacional com operação logística de grande porte, tecnologia para entregas rápidas e impacto direto no mercado de trabalho e na circulaçã - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "27/05 às 10:52",
-      "dt_iso": "2026-05-27T13:52:00+00:00",
-      "summary": "Multinacional Amazon abre 500 vagas de emprego para mega centro de distribuição em Salvador e reforça expansão nacional com operação logística de grande porte, tecnologia para entregas rápidas e impacto direto no mercado de trabalho e na circulaçã &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "operação logística",
-        "expansão",
-        "abre"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "d218ebf5c6",
       "headline": "Fundo imobiliário aluga galpão para Mercado Livre e zera vacância - - Fiis",
       "source": "Fiis",
       "link": "https://fiis.com.br",
-      "time": "ontem, 10:00",
+      "time": "28/05 às 10:00",
       "dt_iso": "2026-05-28T13:00:05+00:00",
       "summary": "Fundo imobiliário aluga galpão para Mercado Livre e zera vacância - &nbsp;&nbsp; Fiis",
       "category": "investimento",
@@ -111,13 +68,13 @@
       ]
     },
     {
-      "id": "3f875bf253",
-      "headline": "Mercado Livre inaugura Centro de Distribuição em Hidrolândia - Jornal Opção",
-      "source": "Jornalopcao",
-      "link": "https://www.jornalopcao.com.br",
-      "time": "26/05 às 12:41",
-      "dt_iso": "2026-05-26T15:41:00+00:00",
-      "summary": "Mercado Livre inaugura Centro de Distribuição em Hidrolândia &nbsp;&nbsp; Jornal Opção",
+      "id": "93f8d3645c",
+      "headline": "Mercado Livre aposta em Goiás e inaugura centro de distribuição em Hidrolândia - Curta Mais - Goiânia",
+      "source": "Curtamais",
+      "link": "https://curtamais.com.br",
+      "time": "26/05 às 16:35",
+      "dt_iso": "2026-05-26T19:35:57+00:00",
+      "summary": "Mercado Livre aposta em Goiás e inaugura centro de distribuição em Hidrolândia &nbsp;&nbsp; Curta Mais - Goiânia",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -136,7 +93,7 @@
       "headline": "Atacadão amplia presença no litoral paulista com inauguração de segunda loja em Santos (SP) - SuperVarejo",
       "source": "Supervarejo",
       "link": "https://www.supervarejo.com.br",
-      "time": "hoje, 13:47",
+      "time": "ontem, 13:47",
       "dt_iso": "2026-05-29T16:47:54+00:00",
       "summary": "Atacadão amplia presença no litoral paulista com inauguração de segunda loja em Santos (SP) &nbsp;&nbsp; SuperVarejo",
       "category": "expansao",
@@ -174,6 +131,27 @@
       ]
     },
     {
+      "id": "7e16f771c5",
+      "headline": "Shopee inicia construção de centro de distribuição em Londrina - Folha de Londrina - Folha de Londrina",
+      "source": "Folhadelondrina",
+      "link": "https://www.folhadelondrina.com.br",
+      "time": "27/05 às 16:45",
+      "dt_iso": "2026-05-27T19:45:23+00:00",
+      "summary": "Shopee inicia construção de centro de distribuição em Londrina - Folha de Londrina &nbsp;&nbsp; Folha de Londrina",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição",
+        "construção"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "f69205cd4b",
       "headline": "Ampliação no aeroporto de Passo Fundo deve acelerar operações de gigantes como Shopee, Shein e Amazon - GZH",
       "source": "Gauchazh",
@@ -199,7 +177,7 @@
       "headline": "Correios e AliExpress assinam acordo e ampliam investimentos em logística no Brasil - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 17:47",
+      "time": "ontem, 17:47",
       "dt_iso": "2026-05-29T20:47:29+00:00",
       "summary": "Correios e AliExpress assinam acordo e ampliam investimentos em logística no Brasil &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -220,7 +198,7 @@
       "headline": "Mercado Livre abocanha galpões logísticos, RBVA11 aposta em redes de academias e TEPP11 vai às compras: veja os destaques dos FIIs hoje - Seu Dinheiro",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
-      "time": "ontem, 14:01",
+      "time": "28/05 às 14:01",
       "dt_iso": "2026-05-28T17:01:59+00:00",
       "summary": "Mercado Livre abocanha galpões logísticos, RBVA11 aposta em redes de academias e TEPP11 vai às compras: veja os destaques dos FIIs hoje &nbsp;&nbsp; Seu Dinheiro",
       "category": "investimento",
@@ -279,7 +257,7 @@
       "headline": "Expansão do e-commerce amplia uso estratégico de aeroportos para operações logísticas no Brasil - www.gov.br",
       "source": "Gov",
       "link": "https://www.gov.br",
-      "time": "ontem, 13:43",
+      "time": "28/05 às 13:43",
       "dt_iso": "2026-05-28T16:43:00+00:00",
       "summary": "Expansão do e-commerce amplia uso estratégico de aeroportos para operações logísticas no Brasil &nbsp;&nbsp; www.gov.br",
       "category": "expansao",
@@ -299,7 +277,7 @@
       "headline": "Agora é oficial: Correios e AliExpress unem forças para acelerar entregas em todo o Brasil, ampliar o monitoramento das encomendas e fortalecer a infraestrutura logística digital que sustenta o crescimento acelerado do comércio eletrônico em 2026 - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 13:40",
+      "time": "ontem, 13:40",
       "dt_iso": "2026-05-29T16:40:00+00:00",
       "summary": "Agora é oficial: Correios e AliExpress unem forças para acelerar entregas em todo o Brasil, ampliar o monitoramento das encomendas e fortalecer a infraestrutura logística digital que sustenta o crescimento acelerado do comércio eletrônico em 2026 &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "logistica",
@@ -319,7 +297,7 @@
       "headline": "JBS Terminais investe R$ 9 milhões e amplia serviços no Porto de Itajaí - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 17:07",
+      "time": "28/05 às 17:07",
       "dt_iso": "2026-05-28T20:07:12+00:00",
       "summary": "JBS Terminais investe R$ 9 milhões e amplia serviços no Porto de Itajaí &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -327,85 +305,6 @@
         "jbs",
         "amplia",
         "investe"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "fc222a269d",
-      "headline": "O Boticário reinaugura unidade em Coari e reforça expansão no Amazonas - D24AM",
-      "source": "D24Am",
-      "link": "https://d24am.com",
-      "time": "ontem, 14:44",
-      "dt_iso": "2026-05-28T17:44:19+00:00",
-      "summary": "O Boticário reinaugura unidade em Coari e reforça expansão no Amazonas &nbsp;&nbsp; D24AM",
-      "category": "expansao",
-      "keywords": [
-        "boticário",
-        "inaugura",
-        "expansão"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "6f395ea652",
-      "headline": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga - Distribuição Hoje",
-      "source": "Distribuicaohoje",
-      "link": "https://www.distribuicaohoje.com",
-      "time": "26/05 às 07:03",
-      "dt_iso": "2026-05-26T10:03:21+00:00",
-      "summary": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga &nbsp;&nbsp; Distribuição Hoje",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "armazéns"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "8e247622d5",
-      "headline": "Total Express amplia ecossistema com mais de 40 integrações e posiciona logística como motor de crescimento… - Gazeta da Semana",
-      "source": "Gazetadasemana",
-      "link": "https://gazetadasemana.com.br",
-      "time": "ontem, 14:47",
-      "dt_iso": "2026-05-28T17:47:57+00:00",
-      "summary": "Total Express amplia ecossistema com mais de 40 integrações e posiciona logística como motor de crescimento… &nbsp;&nbsp; Gazeta da Semana",
-      "category": "logistica",
-      "keywords": [
-        "total express",
-        "amplia",
-        "crescimento"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ffcbd4a85e",
-      "headline": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "23/05 às 09:35",
-      "dt_iso": "2026-05-23T12:35:00+00:00",
-      "summary": "Hub de Inovação - Armazém 7 é inaugurado no Porto de Santos &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "armazém",
-        "inaugura",
-        "inaugurado"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -434,6 +333,25 @@
       ]
     },
     {
+      "id": "6f395ea652",
+      "headline": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga - Distribuição Hoje",
+      "source": "Distribuicaohoje",
+      "link": "https://www.distribuicaohoje.com",
+      "time": "26/05 às 07:03",
+      "dt_iso": "2026-05-26T10:03:21+00:00",
+      "summary": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga &nbsp;&nbsp; Distribuição Hoje",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "armazéns"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "adf279f8d4",
       "headline": "Procura-se galpão de alto padrão? Estoque não acompanha expansão do setor logístico - InfoMoney",
       "source": "InfoMoney",
@@ -457,7 +375,7 @@
       "headline": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 20:30",
+      "time": "28/05 às 20:30",
       "dt_iso": "2026-05-28T23:30:41+00:00",
       "summary": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -568,12 +486,12 @@
     },
     {
       "id": "8063b12d9a",
-      "headline": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. - conexaotvweb.com.br",
+      "headline": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. - Conexão TV Web",
       "source": "Conexaotvweb",
       "link": "https://www.conexaotvweb.com.br",
       "time": "25/05 às 17:19",
       "dt_iso": "2026-05-25T20:19:00+00:00",
-      "summary": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. &nbsp;&nbsp; conexaotvweb.com.br",
+      "summary": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. &nbsp;&nbsp; Conexão TV Web",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -590,7 +508,7 @@
       "headline": "Amazon inaugura CD em Salvador com operação da DHL - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "ontem, 17:59",
+      "time": "28/05 às 17:59",
       "dt_iso": "2026-05-28T20:59:54+00:00",
       "summary": "Amazon inaugura CD em Salvador com operação da DHL &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
@@ -628,7 +546,7 @@
       "headline": "Correios e AliExpress fecham acordo para ampliar logística e rastreamento no Brasil - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "hoje, 16:37",
+      "time": "ontem, 16:37",
       "dt_iso": "2026-05-29T19:37:53+00:00",
       "summary": "Correios e AliExpress fecham acordo para ampliar logística e rastreamento no Brasil &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
@@ -666,7 +584,7 @@
       "headline": "JBS Terminais amplia serviços de navegação no Porto de Itajaí - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 10:35",
+      "time": "28/05 às 10:35",
       "dt_iso": "2026-05-28T13:35:00+00:00",
       "summary": "JBS Terminais amplia serviços de navegação no Porto de Itajaí &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -700,63 +618,6 @@
       ]
     },
     {
-      "id": "710d8c07c4",
-      "headline": "Tok&Stok acelera fechamento de lojas e amplia liquidações - Móveis de Valor",
-      "source": "Moveisdevalor",
-      "link": "https://www.moveisdevalor.com.br",
-      "time": "23/05 às 08:00",
-      "dt_iso": "2026-05-23T11:00:00+00:00",
-      "summary": "Tok&amp;Stok acelera fechamento de lojas e amplia liquidações &nbsp;&nbsp; Móveis de Valor",
-      "category": "logistica",
-      "keywords": [
-        "tok&stok",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "78c235e335",
-      "headline": "Pernambucanas investe em ecossistema de serviços digitais - Central do Varejo",
-      "source": "Centraldovarejo",
-      "link": "https://centraldovarejo.com.br",
-      "time": "27/05 às 11:30",
-      "dt_iso": "2026-05-27T14:30:18+00:00",
-      "summary": "Pernambucanas investe em ecossistema de serviços digitais &nbsp;&nbsp; Central do Varejo",
-      "category": "logistica",
-      "keywords": [
-        "pernambucanas",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "6b6b4266fc",
-      "headline": "Shopee inicia construção de centro logístico de R$ 132 milhões em Londrina - Tem Londrina",
-      "source": "Temlondrina",
-      "link": "https://temlondrina.com.br",
-      "time": "ontem, 18:10",
-      "dt_iso": "2026-05-28T21:10:50+00:00",
-      "summary": "Shopee inicia construção de centro logístico de R$ 132 milhões em Londrina &nbsp;&nbsp; Tem Londrina",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "construção"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "943ca6463a",
       "headline": "BNDES aprova R$ 300 milhões para expansão da Magalu Cloud - TI INSIDE Online",
       "source": "TI Inside",
@@ -773,6 +634,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "ed1ab7bbb1",
+      "headline": "Magalu Cloud recebe aporte de R$ 300 mi do BNDES para expandir data centers no Brasil - DPL News",
+      "source": "Dplnews",
+      "link": "https://dplnews.com",
+      "time": "26/05 às 23:02",
+      "dt_iso": "2026-05-27T02:02:26+00:00",
+      "summary": "Magalu Cloud recebe aporte de R$ 300 mi do BNDES para expandir data centers no Brasil &nbsp;&nbsp; DPL News",
+      "category": "investimento",
+      "keywords": [
+        "magalu",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -799,7 +679,7 @@
       "headline": "Assaí amplia estratégia de marcas próprias e prevê 200 itens no portfólio até o final do ano - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "ontem, 11:03",
+      "time": "28/05 às 11:03",
       "dt_iso": "2026-05-28T14:03:02+00:00",
       "summary": "Assaí amplia estratégia de marcas próprias e prevê 200 itens no portfólio até o final do ano &nbsp;&nbsp; Giro News",
       "category": "logistica",
