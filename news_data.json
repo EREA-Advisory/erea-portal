@@ -1,6 +1,6 @@
 {
-  "gerado_em": "01/06/2026 às 17:05",
-  "total": 37,
+  "gerado_em": "02/06/2026 às 15:13",
+  "total": 39,
   "noticias": [
     {
       "id": "b1a4be9adc",
@@ -25,28 +25,6 @@
       ]
     },
     {
-      "id": "96fcf6b6c2",
-      "headline": "Total Express amplia operação de fulfillment e projeta crescimento de 55% - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 08:20",
-      "dt_iso": "2026-06-01T11:20:50+00:00",
-      "summary": "Total Express amplia operação de fulfillment e projeta crescimento de 55% &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "total express",
-        "fulfillment",
-        "amplia",
-        "crescimento"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
       "id": "2afa594fb8",
       "headline": "Centro de Distribuição do Mercado Livre inaugurado em Goiás consolida estado como potência logística e impulsiona empregos - Portal 6",
       "source": "Portal6",
@@ -60,6 +38,28 @@
         "centro de distribuição",
         "inaugura",
         "inaugurado"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "96fcf6b6c2",
+      "headline": "Total Express amplia operação de fulfillment e projeta crescimento de 55% - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "ontem, 08:20",
+      "dt_iso": "2026-06-01T11:20:50+00:00",
+      "summary": "Total Express amplia operação de fulfillment e projeta crescimento de 55% &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "total express",
+        "fulfillment",
+        "amplia",
+        "crescimento"
       ],
       "score": 9,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
@@ -157,7 +157,7 @@
       "headline": "Shopee abre 14° centro de distribuição no Brasil e deve criar 4 mil vagas - MSN",
       "source": "Msn",
       "link": "https://www.msn.com",
-      "time": "ontem, 01:41",
+      "time": "31/05 às 01:41",
       "dt_iso": "2026-05-31T04:41:14+00:00",
       "summary": "Shopee abre 14° centro de distribuição no Brasil e deve criar 4 mil vagas &nbsp;&nbsp; MSN",
       "category": "investimento",
@@ -174,22 +174,22 @@
       ]
     },
     {
-      "id": "aa558f9035",
-      "headline": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão - Jornal Portuário",
-      "source": "Jornalportuario",
-      "link": "https://jornalportuario.com.br",
-      "time": "27/05 às 16:54",
-      "dt_iso": "2026-05-27T19:54:48+00:00",
-      "summary": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão &nbsp;&nbsp; Jornal Portuário",
+      "id": "220c771264",
+      "headline": "Soprano investe R$ 150 milhões e amplia operação logística com novo CD em SC - Economia SC",
+      "source": "Economiasc",
+      "link": "https://economiasc.com",
+      "time": "hoje, 17:56",
+      "dt_iso": "2026-06-01T20:56:38+00:00",
+      "summary": "Soprano investe R$ 150 milhões e amplia operação logística com novo CD em SC &nbsp;&nbsp; Economia SC",
       "category": "expansao",
       "keywords": [
-        "jbs",
-        "expansão",
+        "operação logística",
         "amplia",
+        "novo cd",
         "investe"
       ],
       "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Expansão"
       ]
@@ -208,6 +208,27 @@
         "expansão",
         "investimento",
         "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "aa558f9035",
+      "headline": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão - Jornal Portuário",
+      "source": "Jornalportuario",
+      "link": "https://jornalportuario.com.br",
+      "time": "27/05 às 16:54",
+      "dt_iso": "2026-05-27T19:54:48+00:00",
+      "summary": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão &nbsp;&nbsp; Jornal Portuário",
+      "category": "expansao",
+      "keywords": [
+        "jbs",
+        "expansão",
+        "amplia",
+        "investe"
       ],
       "score": 8,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -237,27 +258,6 @@
       ]
     },
     {
-      "id": "f69205cd4b",
-      "headline": "Ampliação no aeroporto de Passo Fundo deve acelerar operações de gigantes como Shopee, Shein e Amazon - GZH",
-      "source": "Gauchazh",
-      "link": "https://gauchazh.clicrbs.com.br",
-      "time": "26/05 às 14:38",
-      "dt_iso": "2026-05-26T17:38:12+00:00",
-      "summary": "Ampliação no aeroporto de Passo Fundo deve acelerar operações de gigantes como Shopee, Shein e Amazon &nbsp;&nbsp; GZH",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "shein",
-        "amplia",
-        "ampliação"
-      ],
-      "score": 8,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "ca6fc27f0a",
       "headline": "Correios e AliExpress assinam acordo e ampliam investimentos em logística no Brasil - MundoLogística",
       "source": "Mundo Logística",
@@ -283,7 +283,7 @@
       "headline": "Novo supermercado será inaugurado e promete bater de frente com Assaí e Atacadão - Portal 6",
       "source": "Portal6",
       "link": "https://portal6.com.br",
-      "time": "há 3 min",
+      "time": "hoje, 17:01",
       "dt_iso": "2026-06-01T20:01:44+00:00",
       "summary": "Novo supermercado será inaugurado e promete bater de frente com Assaí e Atacadão &nbsp;&nbsp; Portal 6",
       "category": "logistica",
@@ -294,26 +294,6 @@
         "inaugurado"
       ],
       "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "903d11dd87",
-      "headline": "Fabricante gaúcha de fechaduras investe R$ 150 milhões em logística para alcançar o primeiro bilhão",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/fabricante-gaucha-de-fechaduras-investe-r-150-milhoes-em-logistica-para-alcancar-o-primeiro-bilhao/",
-      "time": "hoje, 11:34",
-      "dt_iso": "2026-06-01T14:34:41+00:00",
-      "summary": "Soprano quer dobrar sua capacidade de armazenagem e acelerar o crescimento acima da média do mercado",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "investe",
-        "crescimento"
-      ],
-      "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
@@ -359,6 +339,26 @@
       ]
     },
     {
+      "id": "75e3fbf0cf",
+      "headline": "Lojas Colombo inaugura nova unidade no bairro Conventos, em Lajeado - Agora No Vale",
+      "source": "Agoranovale",
+      "link": "https://agoranovale.com.br",
+      "time": "hoje, 10:33",
+      "dt_iso": "2026-06-02T13:33:43+00:00",
+      "summary": "Lojas Colombo inaugura nova unidade no bairro Conventos, em Lajeado &nbsp;&nbsp; Agora No Vale",
+      "category": "expansao",
+      "keywords": [
+        "lojas colombo",
+        "inaugura",
+        "nova unidade"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "fefac3d7c3",
       "headline": "Agora é oficial: Correios e AliExpress unem forças para acelerar entregas em todo o Brasil, ampliar o monitoramento das encomendas e fortalecer a infraestrutura logística digital que sustenta o crescimento acelerado do comércio eletrônico em 2026 - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
@@ -371,6 +371,26 @@
         "correios",
         "amplia",
         "crescimento"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "67929642e0",
+      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 12:15",
+      "dt_iso": "2026-06-02T15:15:07+00:00",
+      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "multilog",
+        "investimento",
+        "investimentos"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -399,26 +419,6 @@
       ]
     },
     {
-      "id": "bca0d23724",
-      "headline": "Petrobras anuncia investimento de R$ 2,8 bilhões no Amazonas para ampliar produção de gás natural em Urucu e modernizar frota fluvial, impulsionando energia, logística e economia regional com novas embarcações adaptadas à operação na Amazônia - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "28/05 às 09:18",
-      "dt_iso": "2026-05-28T12:18:00+00:00",
-      "summary": "Petrobras anuncia investimento de R$ 2,8 bilhões no Amazonas para ampliar produção de gás natural em Urucu e modernizar frota fluvial, impulsionando energia, logística e economia regional com novas embarcações adaptadas à operação na Amazônia &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "amplia",
-        "investimento"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "fc222a269d",
       "headline": "O Boticário reinaugura unidade em Coari e reforça expansão no Amazonas - D24AM",
       "source": "D24Am",
@@ -439,17 +439,57 @@
       ]
     },
     {
-      "id": "6f395ea652",
-      "headline": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga - Distribuição Hoje",
-      "source": "Distribuicaohoje",
-      "link": "https://www.distribuicaohoje.com",
-      "time": "26/05 às 07:03",
-      "dt_iso": "2026-05-26T10:03:21+00:00",
-      "summary": "DHL ativa planos de contingência após novo incêndio em armazéns de Vialonga &nbsp;&nbsp; Distribuição Hoje",
+      "id": "03d44a9622",
+      "headline": "Com mercado trilionário em expansão, INTRA-LOG Expo 2026 abre credenciamento gratuito para profissionais de logística, automação e supply chain - Nitro News Brasil",
+      "source": "Nitronewsbrasil",
+      "link": "https://www.nitronewsbrasil.com.br",
+      "time": "hoje, 11:17",
+      "dt_iso": "2026-06-02T14:17:26+00:00",
+      "summary": "Com mercado trilionário em expansão, INTRA-LOG Expo 2026 abre credenciamento gratuito para profissionais de logística, automação e supply chain &nbsp;&nbsp; Nitro News Brasil",
       "category": "logistica",
       "keywords": [
-        "dhl",
-        "armazéns"
+        "supply chain",
+        "expansão",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "58e07e351e",
+      "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
+      "source": "Acil",
+      "link": "https://acil.com.br",
+      "time": "ontem, 04:00",
+      "dt_iso": "2026-06-01T07:00:00+00:00",
+      "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; Acil",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "condomínio logístico"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "cb179ecd51",
+      "headline": "Operadores logísticos projetam investimentos individuais de R$ 500 milhões no Sudeste até 2030 - Portos e Navios",
+      "source": "Portos e Navios",
+      "link": "https://www.portosenavios.com.br",
+      "time": "hoje, 18:16",
+      "dt_iso": "2026-06-01T21:16:07+00:00",
+      "summary": "Operadores logísticos projetam investimentos individuais de R$ 500 milhões no Sudeste até 2030 &nbsp;&nbsp; Portos e Navios",
+      "category": "logistica",
+      "keywords": [
+        "operadores logísticos",
+        "investimento",
+        "investimentos"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -475,6 +515,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Investimento"
+      ]
+    },
+    {
+      "id": "f24c5507df",
+      "headline": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde - O Globo",
+      "source": "O Globo",
+      "link": "https://oglobo.globo.com",
+      "time": "hoje, 17:03",
+      "dt_iso": "2026-06-01T20:03:13+00:00",
+      "summary": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde &nbsp;&nbsp; O Globo",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -516,44 +575,6 @@
       ]
     },
     {
-      "id": "8bec94a5f3",
-      "headline": "Amazon inaugura centro de distribuição em Salvador com capacidade para 100 mil pacotes por dia - Central do Varejo",
-      "source": "Centraldovarejo",
-      "link": "https://centraldovarejo.com.br",
-      "time": "27/05 às 10:04",
-      "dt_iso": "2026-05-27T13:04:46+00:00",
-      "summary": "Amazon inaugura centro de distribuição em Salvador com capacidade para 100 mil pacotes por dia &nbsp;&nbsp; Central do Varejo",
-      "category": "ecommerce",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "00e9bd4ee9",
-      "headline": "Amazon inaugura centro de distribuição e anuncia 500 novas vagas - Tribuna da Bahia",
-      "source": "Trbn",
-      "link": "https://www.trbn.com.br",
-      "time": "26/05 às 04:06",
-      "dt_iso": "2026-05-26T07:06:00+00:00",
-      "summary": "Amazon inaugura centro de distribuição e anuncia 500 novas vagas &nbsp;&nbsp; Tribuna da Bahia",
-      "category": "ecommerce",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "e5ef02c86d",
       "headline": "Grupo Avenida inaugura centro de distribuição em Cuiabá e pretende abrir 10 novas lojas em 2019 - Olhar Direto",
       "source": "Olhardireto",
@@ -573,13 +594,13 @@
       ]
     },
     {
-      "id": "8063b12d9a",
-      "headline": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. - conexaotvweb.com.br",
-      "source": "Conexaotvweb",
-      "link": "https://www.conexaotvweb.com.br",
-      "time": "25/05 às 17:19",
-      "dt_iso": "2026-05-25T20:19:00+00:00",
-      "summary": "Vídeo: Grupo Celinho inaugura Centro de Distribuição com mais de 70 mil produtos rumo aos 41 anos de história. &nbsp;&nbsp; conexaotvweb.com.br",
+      "id": "7fab36b5e3",
+      "headline": "Tintasul inaugura centro de distribuição em Tijucas - VipSocial",
+      "source": "Vipsocial",
+      "link": "https://www.vipsocial.com.br",
+      "time": "hoje, 13:45",
+      "dt_iso": "2026-06-02T16:45:22+00:00",
+      "summary": "Tintasul inaugura centro de distribuição em Tijucas &nbsp;&nbsp; VipSocial",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -615,13 +636,51 @@
       "headline": "Mercado Livre anuncia 10 mil empregos com investimento recorde de R$ 57 milhões no Brasil - ND Mais",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "hoje, 11:51",
+      "time": "ontem, 11:51",
       "dt_iso": "2026-06-01T14:51:07+00:00",
       "summary": "Mercado Livre anuncia 10 mil empregos com investimento recorde de R$ 57 milhões no Brasil &nbsp;&nbsp; ND Mais",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
         "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "7a741b94dd",
+      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - brasilnoticia.com.br",
+      "source": "Brasilnoticia",
+      "link": "https://brasilnoticia.com.br",
+      "time": "hoje, 13:05",
+      "dt_iso": "2026-06-02T16:05:00+00:00",
+      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; brasilnoticia.com.br",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3c148aba71",
+      "headline": "Shopee e Sebrae ampliam plataforma gratuita de capacitação para MPEs - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "28/05 às 12:49",
+      "dt_iso": "2026-05-28T15:49:25+00:00",
+      "summary": "Shopee e Sebrae ampliam plataforma gratuita de capacitação para MPEs &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -668,41 +727,22 @@
       ]
     },
     {
-      "id": "943ca6463a",
-      "headline": "BNDES aprova R$ 300 milhões para expansão da Magalu Cloud - tiinside.com.br",
-      "source": "TI Inside",
-      "link": "https://tiinside.com.br",
-      "time": "25/05 às 18:45",
-      "dt_iso": "2026-05-25T21:45:55+00:00",
-      "summary": "BNDES aprova R$ 300 milhões para expansão da Magalu Cloud &nbsp;&nbsp; tiinside.com.br",
-      "category": "expansao",
+      "id": "465b640073",
+      "headline": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar infraestrutura em nuvem - BM&C News",
+      "source": "Bmcnews",
+      "link": "https://bmcnews.com.br",
+      "time": "26/05 às 16:20",
+      "dt_iso": "2026-05-26T19:20:44+00:00",
+      "summary": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar infraestrutura em nuvem &nbsp;&nbsp; BM&amp;C News",
+      "category": "logistica",
       "keywords": [
         "magalu",
-        "expansão"
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "f723fb59ee",
-      "headline": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "27/05 às 14:30",
-      "dt_iso": "2026-05-27T17:30:46+00:00",
-      "summary": "Assaí acelera expansão de marcas próprias e entra no segmento de panificação &nbsp;&nbsp; SuperVarejo",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
