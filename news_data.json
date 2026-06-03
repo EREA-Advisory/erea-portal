@@ -1,57 +1,13 @@
 {
-  "gerado_em": "02/06/2026 às 15:13",
-  "total": 39,
+  "gerado_em": "03/06/2026 às 09:35",
+  "total": 33,
   "noticias": [
-    {
-      "id": "b1a4be9adc",
-      "headline": "Amazon e DHL Supply Chain inauguram centro de distribuição em Salvador - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "26/05 às 17:54",
-      "dt_iso": "2026-05-26T20:54:02+00:00",
-      "summary": "Amazon e DHL Supply Chain inauguram centro de distribuição em Salvador &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "centro de distribuição",
-        "supply chain",
-        "inaugura"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "2afa594fb8",
-      "headline": "Centro de Distribuição do Mercado Livre inaugurado em Goiás consolida estado como potência logística e impulsiona empregos - Portal 6",
-      "source": "Portal6",
-      "link": "https://portal6.com.br",
-      "time": "26/05 às 22:45",
-      "dt_iso": "2026-05-27T01:45:20+00:00",
-      "summary": "Centro de Distribuição do Mercado Livre inaugurado em Goiás consolida estado como potência logística e impulsiona empregos &nbsp;&nbsp; Portal 6",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura",
-        "inaugurado"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "96fcf6b6c2",
       "headline": "Total Express amplia operação de fulfillment e projeta crescimento de 55% - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:20",
+      "time": "01/06 às 08:20",
       "dt_iso": "2026-06-01T11:20:50+00:00",
       "summary": "Total Express amplia operação de fulfillment e projeta crescimento de 55% &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -111,27 +67,6 @@
       ]
     },
     {
-      "id": "93f8d3645c",
-      "headline": "Mercado Livre aposta em Goiás e inaugura centro de distribuição em Hidrolândia - Curta Mais - Goiânia",
-      "source": "Curtamais",
-      "link": "https://curtamais.com.br",
-      "time": "26/05 às 16:35",
-      "dt_iso": "2026-05-26T19:35:57+00:00",
-      "summary": "Mercado Livre aposta em Goiás e inaugura centro de distribuição em Hidrolândia &nbsp;&nbsp; Curta Mais - Goiânia",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
       "id": "55442b835f",
       "headline": "Atacadão amplia presença no litoral paulista com inauguração de segunda loja em Santos (SP) - SuperVarejo",
       "source": "Supervarejo",
@@ -153,32 +88,11 @@
       ]
     },
     {
-      "id": "39aa6ff0b6",
-      "headline": "Shopee abre 14° centro de distribuição no Brasil e deve criar 4 mil vagas - MSN",
-      "source": "Msn",
-      "link": "https://www.msn.com",
-      "time": "31/05 às 01:41",
-      "dt_iso": "2026-05-31T04:41:14+00:00",
-      "summary": "Shopee abre 14° centro de distribuição no Brasil e deve criar 4 mil vagas &nbsp;&nbsp; MSN",
-      "category": "investimento",
-      "keywords": [
-        "shopee",
-        "centro de distribuição",
-        "abre"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Investimento"
-      ]
-    },
-    {
       "id": "220c771264",
       "headline": "Soprano investe R$ 150 milhões e amplia operação logística com novo CD em SC - Economia SC",
       "source": "Economiasc",
       "link": "https://economiasc.com",
-      "time": "hoje, 17:56",
+      "time": "ontem, 17:56",
       "dt_iso": "2026-06-01T20:56:38+00:00",
       "summary": "Soprano investe R$ 150 milhões e amplia operação logística com novo CD em SC &nbsp;&nbsp; Economia SC",
       "category": "expansao",
@@ -279,27 +193,6 @@
       ]
     },
     {
-      "id": "9bc36a3e36",
-      "headline": "Novo supermercado será inaugurado e promete bater de frente com Assaí e Atacadão - Portal 6",
-      "source": "Portal6",
-      "link": "https://portal6.com.br",
-      "time": "hoje, 17:01",
-      "dt_iso": "2026-06-01T20:01:44+00:00",
-      "summary": "Novo supermercado será inaugurado e promete bater de frente com Assaí e Atacadão &nbsp;&nbsp; Portal 6",
-      "category": "logistica",
-      "keywords": [
-        "atacadão",
-        "assaí",
-        "inaugura",
-        "inaugurado"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "df2a7e3c28",
       "headline": "Mercado Livre abocanha galpões logísticos, RBVA11 aposta em redes de academias e TEPP11 vai às compras: veja os destaques dos FIIs hoje - Seu Dinheiro",
       "source": "Seudinheiro",
@@ -339,16 +232,16 @@
       ]
     },
     {
-      "id": "75e3fbf0cf",
-      "headline": "Lojas Colombo inaugura nova unidade no bairro Conventos, em Lajeado - Agora No Vale",
-      "source": "Agoranovale",
-      "link": "https://agoranovale.com.br",
-      "time": "hoje, 10:33",
-      "dt_iso": "2026-06-02T13:33:43+00:00",
-      "summary": "Lojas Colombo inaugura nova unidade no bairro Conventos, em Lajeado &nbsp;&nbsp; Agora No Vale",
+      "id": "2e18edf605",
+      "headline": "Econômico Atacadão inaugura nova unidade em Caçador - PortalRBV",
+      "source": "Portalrbv",
+      "link": "https://portalrbv.com.br",
+      "time": "hoje, 16:55",
+      "dt_iso": "2026-06-02T19:55:57+00:00",
+      "summary": "Econômico Atacadão inaugura nova unidade em Caçador &nbsp;&nbsp; PortalRBV",
       "category": "expansao",
       "keywords": [
-        "lojas colombo",
+        "atacadão",
         "inaugura",
         "nova unidade"
       ],
@@ -459,30 +352,11 @@
       ]
     },
     {
-      "id": "58e07e351e",
-      "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
-      "source": "Acil",
-      "link": "https://acil.com.br",
-      "time": "ontem, 04:00",
-      "dt_iso": "2026-06-01T07:00:00+00:00",
-      "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; Acil",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "condomínio logístico"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "cb179ecd51",
       "headline": "Operadores logísticos projetam investimentos individuais de R$ 500 milhões no Sudeste até 2030 - Portos e Navios",
       "source": "Portos e Navios",
       "link": "https://www.portosenavios.com.br",
-      "time": "hoje, 18:16",
+      "time": "ontem, 18:16",
       "dt_iso": "2026-06-01T21:16:07+00:00",
       "summary": "Operadores logísticos projetam investimentos individuais de R$ 500 milhões no Sudeste até 2030 &nbsp;&nbsp; Portos e Navios",
       "category": "logistica",
@@ -498,23 +372,22 @@
       ]
     },
     {
-      "id": "674720faad",
-      "headline": "Magalu Cloud recebe aporte de R$ 300 mi e expande operação em Fortaleza - TrendsCE",
-      "source": "Trendsce",
-      "link": "https://www.trendsce.com.br",
-      "time": "26/05 às 16:31",
-      "dt_iso": "2026-05-26T19:31:02+00:00",
-      "summary": "Magalu Cloud recebe aporte de R$ 300 mi e expande operação em Fortaleza &nbsp;&nbsp; TrendsCE",
-      "category": "investimento",
+      "id": "ba42a8a4c7",
+      "headline": "Casas Bahia e FPF renovam naming rights do Paulistão por mais dois anos",
+      "source": "Exame",
+      "link": "https://exame.com/marketing/casas-bahia-e-fpf-renovam-naming-rights-do-paulistao-por-mais-dois-anos/",
+      "time": "hoje, 06:15",
+      "dt_iso": "2026-06-03T09:15:57+00:00",
+      "summary": "Parceria que gerou 190% de crescimento nas vendas de produtos sorteados na competição segue até 2028",
+      "category": "logistica",
       "keywords": [
-        "magalu",
-        "expande",
-        "aporte"
+        "casas bahia",
+        "crescimento"
       ],
-      "score": 7,
+      "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Investimento"
+        "Logística"
       ]
     },
     {
@@ -522,7 +395,7 @@
       "headline": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde - O Globo",
       "source": "O Globo",
       "link": "https://oglobo.globo.com",
-      "time": "hoje, 17:03",
+      "time": "ontem, 17:03",
       "dt_iso": "2026-06-01T20:03:13+00:00",
       "summary": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde &nbsp;&nbsp; O Globo",
       "category": "logistica",
@@ -575,6 +448,25 @@
       ]
     },
     {
+      "id": "7fab36b5e3",
+      "headline": "Tintasul inaugura centro de distribuição em Tijucas - VipSocial",
+      "source": "Vipsocial",
+      "link": "https://www.vipsocial.com.br",
+      "time": "hoje, 16:19",
+      "dt_iso": "2026-06-02T19:19:58+00:00",
+      "summary": "Tintasul inaugura centro de distribuição em Tijucas &nbsp;&nbsp; VipSocial",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e5ef02c86d",
       "headline": "Grupo Avenida inaugura centro de distribuição em Cuiabá e pretende abrir 10 novas lojas em 2019 - Olhar Direto",
       "source": "Olhardireto",
@@ -594,22 +486,22 @@
       ]
     },
     {
-      "id": "7fab36b5e3",
-      "headline": "Tintasul inaugura centro de distribuição em Tijucas - VipSocial",
-      "source": "Vipsocial",
-      "link": "https://www.vipsocial.com.br",
-      "time": "hoje, 13:45",
-      "dt_iso": "2026-06-02T16:45:22+00:00",
-      "summary": "Tintasul inaugura centro de distribuição em Tijucas &nbsp;&nbsp; VipSocial",
-      "category": "logistica",
+      "id": "9f483917f0",
+      "headline": "'Corte nem pensar': Amazon Brasil descarta demissões e projeta expansão de longo prazo - TecMundo",
+      "source": "Tecmundo",
+      "link": "https://www.tecmundo.com.br",
+      "time": "hoje, 07:09",
+      "dt_iso": "2026-06-03T10:09:00+00:00",
+      "summary": "'Corte nem pensar': Amazon Brasil descarta demissões e projeta expansão de longo prazo &nbsp;&nbsp; TecMundo",
+      "category": "expansao",
       "keywords": [
-        "centro de distribuição",
-        "inaugura"
+        "amazon brasil",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -648,6 +540,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "3c172b3bc5",
+      "headline": "AliExpress amplia parceria com os Correios em meio a crise financeira da estatal - DPL News",
+      "source": "Dplnews",
+      "link": "https://dplnews.com",
+      "time": "hoje, 18:10",
+      "dt_iso": "2026-06-02T21:10:11+00:00",
+      "summary": "AliExpress amplia parceria com os Correios em meio a crise financeira da estatal &nbsp;&nbsp; DPL News",
+      "category": "investimento",
+      "keywords": [
+        "correios",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -699,44 +610,6 @@
       "category": "logistica",
       "keywords": [
         "jbs",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "23127a7f3e",
-      "headline": "Correios e AliExpress fecham acordo para ampliar logística e rastreamento no Brasil - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "29/05 às 16:37",
-      "dt_iso": "2026-05-29T19:37:53+00:00",
-      "summary": "Correios e AliExpress fecham acordo para ampliar logística e rastreamento no Brasil &nbsp;&nbsp; Mercado&amp;Consumo",
-      "category": "logistica",
-      "keywords": [
-        "correios",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "465b640073",
-      "headline": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar infraestrutura em nuvem - BM&C News",
-      "source": "Bmcnews",
-      "link": "https://bmcnews.com.br",
-      "time": "26/05 às 16:20",
-      "dt_iso": "2026-05-26T19:20:44+00:00",
-      "summary": "BNDES aprova R$ 300 milhões para Magalu Cloud ampliar infraestrutura em nuvem &nbsp;&nbsp; BM&amp;C News",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
         "amplia"
       ],
       "score": 6,
