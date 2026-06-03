@@ -1,6 +1,6 @@
 {
-  "gerado_em": "03/06/2026 às 09:35",
-  "total": 33,
+  "gerado_em": "03/06/2026 às 15:36",
+  "total": 28,
   "noticias": [
     {
       "id": "96fcf6b6c2",
@@ -22,27 +22,6 @@
       "badges": [
         "Destaque",
         "Logística"
-      ]
-    },
-    {
-      "id": "8532055913",
-      "headline": "Multinacional Amazon abre 500 vagas de emprego para mega centro de distribuição em Salvador e reforça expansão nacional com operação logística de grande porte, tecnologia para entregas rápidas e impacto direto no mercado de trabalho e na circulaçã - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "27/05 às 10:52",
-      "dt_iso": "2026-05-27T13:52:00+00:00",
-      "summary": "Multinacional Amazon abre 500 vagas de emprego para mega centro de distribuição em Salvador e reforça expansão nacional com operação logística de grande porte, tecnologia para entregas rápidas e impacto direto no mercado de trabalho e na circulaçã &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "operação logística",
-        "expansão",
-        "abre"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -109,48 +88,6 @@
       ]
     },
     {
-      "id": "82bdd454aa",
-      "headline": "Petrobras acelera investimentos no Amazonas com foco em gás natural de Urucu e expansão logística da Transpetro - Cenário Energia",
-      "source": "Cenarioenergia",
-      "link": "https://cenarioenergia.com.br",
-      "time": "27/05 às 14:25",
-      "dt_iso": "2026-05-27T17:25:57+00:00",
-      "summary": "Petrobras acelera investimentos no Amazonas com foco em gás natural de Urucu e expansão logística da Transpetro &nbsp;&nbsp; Cenário Energia",
-      "category": "expansao",
-      "keywords": [
-        "natura",
-        "expansão",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "aa558f9035",
-      "headline": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão - Jornal Portuário",
-      "source": "Jornalportuario",
-      "link": "https://jornalportuario.com.br",
-      "time": "27/05 às 16:54",
-      "dt_iso": "2026-05-27T19:54:48+00:00",
-      "summary": "JBS Terminais amplia operações internacionais em Itajaí e investe R$ 9 milhões para acompanhar expansão &nbsp;&nbsp; Jornal Portuário",
-      "category": "expansao",
-      "keywords": [
-        "jbs",
-        "expansão",
-        "amplia",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "7e16f771c5",
       "headline": "Shopee inicia construção de centro de distribuição em Londrina - Folha de Londrina - Folha de Londrina",
       "source": "Folhadelondrina",
@@ -197,8 +134,8 @@
       "headline": "Mercado Livre abocanha galpões logísticos, RBVA11 aposta em redes de academias e TEPP11 vai às compras: veja os destaques dos FIIs hoje - Seu Dinheiro",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
-      "time": "28/05 às 14:01",
-      "dt_iso": "2026-05-28T17:01:59+00:00",
+      "time": "28/05 às 14:02",
+      "dt_iso": "2026-05-28T17:02:13+00:00",
       "summary": "Mercado Livre abocanha galpões logísticos, RBVA11 aposta em redes de academias e TEPP11 vai às compras: veja os destaques dos FIIs hoje &nbsp;&nbsp; Seu Dinheiro",
       "category": "investimento",
       "keywords": [
@@ -276,7 +213,7 @@
       "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 12:15",
+      "time": "ontem, 12:15",
       "dt_iso": "2026-06-02T15:15:07+00:00",
       "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -336,7 +273,7 @@
       "headline": "Com mercado trilionário em expansão, INTRA-LOG Expo 2026 abre credenciamento gratuito para profissionais de logística, automação e supply chain - Nitro News Brasil",
       "source": "Nitronewsbrasil",
       "link": "https://www.nitronewsbrasil.com.br",
-      "time": "hoje, 11:17",
+      "time": "ontem, 11:17",
       "dt_iso": "2026-06-02T14:17:26+00:00",
       "summary": "Com mercado trilionário em expansão, INTRA-LOG Expo 2026 abre credenciamento gratuito para profissionais de logística, automação e supply chain &nbsp;&nbsp; Nitro News Brasil",
       "category": "logistica",
@@ -372,25 +309,6 @@
       ]
     },
     {
-      "id": "ba42a8a4c7",
-      "headline": "Casas Bahia e FPF renovam naming rights do Paulistão por mais dois anos",
-      "source": "Exame",
-      "link": "https://exame.com/marketing/casas-bahia-e-fpf-renovam-naming-rights-do-paulistao-por-mais-dois-anos/",
-      "time": "hoje, 06:15",
-      "dt_iso": "2026-06-03T09:15:57+00:00",
-      "summary": "Parceria que gerou 190% de crescimento nas vendas de produtos sorteados na competição segue até 2028",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "f24c5507df",
       "headline": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde - O Globo",
       "source": "O Globo",
@@ -410,36 +328,36 @@
       ]
     },
     {
-      "id": "adf279f8d4",
-      "headline": "Procura-se galpão de alto padrão? Estoque não acompanha expansão do setor logístico - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "27/05 às 11:25",
-      "dt_iso": "2026-05-27T14:25:36+00:00",
-      "summary": "Procura-se galpão de alto padrão? Estoque não acompanha expansão do setor logístico &nbsp;&nbsp; InfoMoney",
-      "category": "expansao",
+      "id": "8dcc3f5809",
+      "headline": "RD Saúde investe R$ 90 milhões em hub logístico em SP - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "há 14 min",
+      "dt_iso": "2026-06-03T18:21:44+00:00",
+      "summary": "RD Saúde investe R$ 90 milhões em hub logístico em SP &nbsp;&nbsp; Transporte Moderno",
+      "category": "logistica",
       "keywords": [
-        "galpão",
-        "expansão"
+        "hub logístico",
+        "investe"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
-      "id": "2eb3338c9b",
-      "headline": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "28/05 às 20:30",
-      "dt_iso": "2026-05-28T23:30:41+00:00",
-      "summary": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste &nbsp;&nbsp; Tecnologística",
+      "id": "71820f68bd",
+      "headline": "Novo centro de distribuição da Canção Nova amplia evangelização - Notícias - Canção Nova",
+      "source": "Noticias",
+      "link": "https://noticias.cancaonova.com",
+      "time": "hoje, 13:36",
+      "dt_iso": "2026-06-03T16:36:16+00:00",
+      "summary": "Novo centro de distribuição da Canção Nova amplia evangelização &nbsp;&nbsp; Notícias - Canção Nova",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
-        "inaugura"
+        "amplia"
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
@@ -505,6 +423,25 @@
       ]
     },
     {
+      "id": "2eb3338c9b",
+      "headline": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "28/05 às 20:30",
+      "dt_iso": "2026-05-28T23:30:41+00:00",
+      "summary": "Amazon inaugura centro de distribuição em Salvador para acelerar entregas no Nordeste &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "62703df2aa",
       "headline": "Amazon inaugura CD em Salvador com operação da DHL - E-Commerce Brasil",
       "source": "E-commerce Brasil",
@@ -528,7 +465,7 @@
       "headline": "Mercado Livre anuncia 10 mil empregos com investimento recorde de R$ 57 milhões no Brasil - ND Mais",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "ontem, 11:51",
+      "time": "01/06 às 11:51",
       "dt_iso": "2026-06-01T14:51:07+00:00",
       "summary": "Mercado Livre anuncia 10 mil empregos com investimento recorde de R$ 57 milhões no Brasil &nbsp;&nbsp; ND Mais",
       "category": "ecommerce",
@@ -559,25 +496,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "7a741b94dd",
-      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - brasilnoticia.com.br",
-      "source": "Brasilnoticia",
-      "link": "https://brasilnoticia.com.br",
-      "time": "hoje, 13:05",
-      "dt_iso": "2026-06-02T16:05:00+00:00",
-      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; brasilnoticia.com.br",
-      "category": "logistica",
-      "keywords": [
-        "jbs",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -630,25 +548,6 @@
       "keywords": [
         "assaí",
         "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "9c4c967a66",
-      "headline": "Ascenty investe US$ 1,2 bilhão para avançar em data centers para IA no Brasil - Bloomberg Línea Brasil",
-      "source": "Bloomberglinea",
-      "link": "https://www.bloomberglinea.com.br",
-      "time": "27/05 às 15:21",
-      "dt_iso": "2026-05-27T18:21:22+00:00",
-      "summary": "Ascenty investe US$ 1,2 bilhão para avançar em data centers para IA no Brasil &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "category": "logistica",
-      "keywords": [
-        "ascenty",
-        "investe"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
