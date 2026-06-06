@@ -1,29 +1,7 @@
 {
-  "gerado_em": "05/06/2026 às 10:56",
+  "gerado_em": "06/06/2026 às 07:31",
   "total": 25,
   "noticias": [
-    {
-      "id": "348d9e0f62",
-      "headline": "Icó recebe mais de R$ 14 milhões em investimentos com inaugurações e assinatura de ordem de serviço - Badalo",
-      "source": "Badalo",
-      "link": "https://www.badalo.com.br",
-      "time": "hoje, 05:01",
-      "dt_iso": "2026-06-05T08:01:10+00:00",
-      "summary": "Icó recebe mais de R$ 14 milhões em investimentos com inaugurações e assinatura de ordem de serviço &nbsp;&nbsp; Badalo",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "inaugura",
-        "inaugurações",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 9,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
     {
       "id": "96fcf6b6c2",
       "headline": "Total Express amplia operação de fulfillment e projeta crescimento de 55% - Tecnologística",
@@ -43,48 +21,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "55442b835f",
-      "headline": "Atacadão amplia presença no litoral paulista com inauguração de segunda loja em Santos (SP) - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "29/05 às 13:47",
-      "dt_iso": "2026-05-29T16:47:54+00:00",
-      "summary": "Atacadão amplia presença no litoral paulista com inauguração de segunda loja em Santos (SP) &nbsp;&nbsp; SuperVarejo",
-      "category": "expansao",
-      "keywords": [
-        "atacadão",
-        "inaugura",
-        "inauguração",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "ca6fc27f0a",
-      "headline": "Correios e AliExpress assinam acordo e ampliam investimentos em logística no Brasil - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "29/05 às 17:47",
-      "dt_iso": "2026-05-29T20:47:29+00:00",
-      "summary": "Correios e AliExpress assinam acordo e ampliam investimentos em logística no Brasil &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "correios",
-        "amplia",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
         "Logística"
       ]
     },
@@ -114,7 +50,7 @@
       "headline": "TRXF11 compra 8 galpões por R$ 135 milhões e amplia estratégia - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 12:39",
+      "time": "ontem, 12:39",
       "dt_iso": "2026-06-04T15:39:24+00:00",
       "summary": "TRXF11 compra 8 galpões por R$ 135 milhões e amplia estratégia &nbsp;&nbsp; melhorinvestimento.net",
       "category": "logistica",
@@ -130,51 +66,11 @@
       ]
     },
     {
-      "id": "2e18edf605",
-      "headline": "Econômico Atacadão inaugura nova unidade em Caçador - PortalRBV",
-      "source": "Portalrbv",
-      "link": "https://portalrbv.com.br",
-      "time": "02/06 às 16:55",
-      "dt_iso": "2026-06-02T19:55:57+00:00",
-      "summary": "Econômico Atacadão inaugura nova unidade em Caçador &nbsp;&nbsp; PortalRBV",
-      "category": "expansao",
-      "keywords": [
-        "atacadão",
-        "inaugura",
-        "nova unidade"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "fefac3d7c3",
-      "headline": "Agora é oficial: Correios e AliExpress unem forças para acelerar entregas em todo o Brasil, ampliar o monitoramento das encomendas e fortalecer a infraestrutura logística digital que sustenta o crescimento acelerado do comércio eletrônico em 2026 - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "29/05 às 13:40",
-      "dt_iso": "2026-05-29T16:40:00+00:00",
-      "summary": "Agora é oficial: Correios e AliExpress unem forças para acelerar entregas em todo o Brasil, ampliar o monitoramento das encomendas e fortalecer a infraestrutura logística digital que sustenta o crescimento acelerado do comércio eletrônico em 2026 &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "logistica",
-      "keywords": [
-        "correios",
-        "amplia",
-        "crescimento"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "510db7469f",
       "headline": "O que é cross-docking? Entenda o modelo usado pela Shopee para acelerar entregas - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
-      "time": "hoje, 06:11",
+      "time": "ontem, 06:11",
       "dt_iso": "2026-06-05T09:11:44+00:00",
       "summary": "O que é cross-docking? Entenda o modelo usado pela Shopee para acelerar entregas &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "logistica",
@@ -189,11 +85,31 @@
       ]
     },
     {
+      "id": "c68a014d94",
+      "headline": "Destaque: Econômico Atacadão inaugura nova unidade em Caçador com atrações gratuitas - Caçador Online",
+      "source": "Cacador",
+      "link": "https://www.cacador.net",
+      "time": "02/06 às 10:07",
+      "dt_iso": "2026-06-02T13:07:00+00:00",
+      "summary": "Destaque: Econômico Atacadão inaugura nova unidade em Caçador com atrações gratuitas &nbsp;&nbsp; Caçador Online",
+      "category": "expansao",
+      "keywords": [
+        "atacadão",
+        "inaugura",
+        "nova unidade"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "dd709f96a2",
       "headline": "Fabricante gaúcha de fechaduras investe R$ 150 milhões para superar R$ 1 bilhão em faturamento, criar 200 empregos e dobrar armazenagem, enquanto escolhe Santa Catarina para instalar novo centro logístico e acelerar entregas no Sul do Brasil - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 19:44",
+      "time": "03/06 às 19:44",
       "dt_iso": "2026-06-03T22:44:00+00:00",
       "summary": "Fabricante gaúcha de fechaduras investe R$ 150 milhões para superar R$ 1 bilhão em faturamento, criar 200 empregos e dobrar armazenagem, enquanto escolhe Santa Catarina para instalar novo centro logístico e acelerar entregas no Sul do Brasil &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "investimento",
@@ -272,7 +188,7 @@
       "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 19:01",
+      "time": "03/06 às 19:01",
       "dt_iso": "2026-06-03T22:01:22+00:00",
       "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; MundoLogística",
       "category": "expansao",
@@ -308,44 +224,6 @@
       ]
     },
     {
-      "id": "140e2db4f6",
-      "headline": "O plano da maior fabricante de Coca-Cola no mundo para crescer 20% com a Copa no Brasil",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/o-plano-da-maior-fabricante-de-coca-cola-no-mundo-para-crescer-20-com-a-copa-no-brasil/",
-      "time": "hoje, 05:23",
-      "dt_iso": "2026-06-05T08:23:49+00:00",
-      "summary": "Com 11 fábricas e 53 centros de distribuição em \"modo Copa\", a companhia adapta no país uma campanha decidida em Atlanta e desce a operação até o barzinho de bairro",
-      "category": "logistica",
-      "keywords": [
-        "centros de distribuição",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "f5dc9486e6",
-      "headline": "Ibovespa recua na abertura com dados de emprego dos EUA sob holofote; Embraer sobe",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-recua-na-abertura-com-dados-de-emprego-dos-eua-sob-holofote-embraer-sobe/",
-      "time": "há 10 min",
-      "dt_iso": "2026-06-05T13:45:45+00:00",
-      "summary": "Embraer era destaque ​positivo após nova encomenda da Azorra \n The post  Ibovespa recua na abertura com dados de emprego dos EUA sob holofote; Embraer sobe  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "embraer",
-        "abertura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "f24c5507df",
       "headline": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde - O Globo",
       "source": "O Globo",
@@ -369,7 +247,7 @@
       "headline": "RD Saúde investe R$ 90 milhões em hub logístico em SP - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "ontem, 15:21",
+      "time": "03/06 às 15:21",
       "dt_iso": "2026-06-03T18:21:44+00:00",
       "summary": "RD Saúde investe R$ 90 milhões em hub logístico em SP &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
@@ -388,7 +266,7 @@
       "headline": "Novo centro de distribuição da Canção Nova amplia evangelização - Notícias - Canção Nova",
       "source": "Noticias",
       "link": "https://noticias.cancaonova.com",
-      "time": "ontem, 13:36",
+      "time": "03/06 às 13:36",
       "dt_iso": "2026-06-03T16:36:16+00:00",
       "summary": "Novo centro de distribuição da Canção Nova amplia evangelização &nbsp;&nbsp; Notícias - Canção Nova",
       "category": "logistica",
@@ -417,6 +295,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "4cb5597002",
+      "headline": "Lojas Colombo inaugura segunda unidade em Lajeado - Independente",
+      "source": "Independente",
+      "link": "https://www.independente.com.br",
+      "time": "02/06 às 14:18",
+      "dt_iso": "2026-06-02T17:18:25+00:00",
+      "summary": "Lojas Colombo inaugura segunda unidade em Lajeado &nbsp;&nbsp; Independente",
+      "category": "logistica",
+      "keywords": [
+        "lojas colombo",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -460,13 +357,32 @@
       ]
     },
     {
+      "id": "3c172b3bc5",
+      "headline": "AliExpress amplia parceria com os Correios em meio a crise financeira da estatal - DPL News",
+      "source": "Dplnews",
+      "link": "https://dplnews.com",
+      "time": "02/06 às 18:10",
+      "dt_iso": "2026-06-02T21:10:11+00:00",
+      "summary": "AliExpress amplia parceria com os Correios em meio a crise financeira da estatal &nbsp;&nbsp; DPL News",
+      "category": "investimento",
+      "keywords": [
+        "correios",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "7a741b94dd",
-      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - Portal do Agronegócio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "02/06 às 13:04",
-      "dt_iso": "2026-06-02T16:04:20+00:00",
-      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; Portal do Agronegócio",
+      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - brasilnoticia.com.br",
+      "source": "Brasilnoticia",
+      "link": "https://brasilnoticia.com.br",
+      "time": "02/06 às 13:05",
+      "dt_iso": "2026-06-02T16:05:00+00:00",
+      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; brasilnoticia.com.br",
       "category": "logistica",
       "keywords": [
         "jbs",
@@ -476,6 +392,82 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "4b69c3b1ae",
+      "headline": "Câmara está preparada para abertura em massa do mercado livre de energia - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "ontem, 20:15",
+      "dt_iso": "2026-06-04T23:15:08+00:00",
+      "summary": "Câmara está preparada para abertura em massa do mercado livre de energia &nbsp;&nbsp; CNN Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abertura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "82f447bb5c",
+      "headline": "Parceria entre Correios e AliExpress vai acelerar entregas e ampliar rastreamento de entregas no Brasil - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "ontem, 07:05",
+      "dt_iso": "2026-06-05T10:05:46+00:00",
+      "summary": "Parceria entre Correios e AliExpress vai acelerar entregas e ampliar rastreamento de entregas no Brasil &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6dc1373f9d",
+      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "04/06 às 04:00",
+      "dt_iso": "2026-06-04T07:00:00+00:00",
+      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d2d756b853",
+      "headline": "Shopping Costa Dourada anuncia expansão e chegada da Renner e Habib’s - Fique Sabendo PE",
+      "source": "Fiquesabendope",
+      "link": "https://fiquesabendope.com",
+      "time": "hoje, 12:00",
+      "dt_iso": "2026-06-05T15:00:00+00:00",
+      "summary": "Shopping Costa Dourada anuncia expansão e chegada da Renner e Habib’s &nbsp;&nbsp; Fique Sabendo PE",
+      "category": "expansao",
+      "keywords": [
+        "renner",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
