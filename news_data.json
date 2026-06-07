@@ -1,7 +1,29 @@
 {
-  "gerado_em": "06/06/2026 às 07:31",
-  "total": 25,
+  "gerado_em": "07/06/2026 às 07:58",
+  "total": 20,
   "noticias": [
+    {
+      "id": "348d9e0f62",
+      "headline": "Icó recebe mais de R$ 14 milhões em investimentos com inaugurações e assinatura de ordem de serviço - detran.ce.gov.br",
+      "source": "Detran",
+      "link": "https://www.detran.ce.gov.br",
+      "time": "03/06 às 02:06",
+      "dt_iso": "2026-06-03T05:06:00+00:00",
+      "summary": "Icó recebe mais de R$ 14 milhões em investimentos com inaugurações e assinatura de ordem de serviço &nbsp;&nbsp; detran.ce.gov.br",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "inaugura",
+        "inaugurações",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 9,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
     {
       "id": "96fcf6b6c2",
       "headline": "Total Express amplia operação de fulfillment e projeta crescimento de 55% - Tecnologística",
@@ -50,7 +72,7 @@
       "headline": "TRXF11 compra 8 galpões por R$ 135 milhões e amplia estratégia - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "ontem, 12:39",
+      "time": "04/06 às 12:39",
       "dt_iso": "2026-06-04T15:39:24+00:00",
       "summary": "TRXF11 compra 8 galpões por R$ 135 milhões e amplia estratégia &nbsp;&nbsp; melhorinvestimento.net",
       "category": "logistica",
@@ -70,7 +92,7 @@
       "headline": "O que é cross-docking? Entenda o modelo usado pela Shopee para acelerar entregas - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
-      "time": "ontem, 06:11",
+      "time": "05/06 às 06:11",
       "dt_iso": "2026-06-05T09:11:44+00:00",
       "summary": "O que é cross-docking? Entenda o modelo usado pela Shopee para acelerar entregas &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "logistica",
@@ -82,26 +104,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "c68a014d94",
-      "headline": "Destaque: Econômico Atacadão inaugura nova unidade em Caçador com atrações gratuitas - Caçador Online",
-      "source": "Cacador",
-      "link": "https://www.cacador.net",
-      "time": "02/06 às 10:07",
-      "dt_iso": "2026-06-02T13:07:00+00:00",
-      "summary": "Destaque: Econômico Atacadão inaugura nova unidade em Caçador com atrações gratuitas &nbsp;&nbsp; Caçador Online",
-      "category": "expansao",
-      "keywords": [
-        "atacadão",
-        "inaugura",
-        "nova unidade"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -122,26 +124,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "03d44a9622",
-      "headline": "Com mercado trilionário em expansão, INTRA-LOG Expo 2026 abre credenciamento gratuito para profissionais de logística, automação e supply chain - Nitro News Brasil",
-      "source": "Nitronewsbrasil",
-      "link": "https://www.nitronewsbrasil.com.br",
-      "time": "02/06 às 11:17",
-      "dt_iso": "2026-06-02T14:17:26+00:00",
-      "summary": "Com mercado trilionário em expansão, INTRA-LOG Expo 2026 abre credenciamento gratuito para profissionais de logística, automação e supply chain &nbsp;&nbsp; Nitro News Brasil",
-      "category": "logistica",
-      "keywords": [
-        "supply chain",
-        "expansão",
-        "abre"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -204,26 +186,6 @@
       ]
     },
     {
-      "id": "7e21656293",
-      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
-      "source": "Nordinvestimentos",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "03/06 às 04:00",
-      "dt_iso": "2026-06-03T07:00:00+00:00",
-      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "f24c5507df",
       "headline": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde - O Globo",
       "source": "O Globo",
@@ -235,25 +197,6 @@
       "keywords": [
         "galpões",
         "novos galpões"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "8dcc3f5809",
-      "headline": "RD Saúde investe R$ 90 milhões em hub logístico em SP - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "03/06 às 15:21",
-      "dt_iso": "2026-06-03T18:21:44+00:00",
-      "summary": "RD Saúde investe R$ 90 milhões em hub logístico em SP &nbsp;&nbsp; Transporte Moderno",
-      "category": "logistica",
-      "keywords": [
-        "hub logístico",
-        "investe"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -300,13 +243,13 @@
       ]
     },
     {
-      "id": "4cb5597002",
-      "headline": "Lojas Colombo inaugura segunda unidade em Lajeado - Independente",
-      "source": "Independente",
-      "link": "https://www.independente.com.br",
-      "time": "02/06 às 14:18",
-      "dt_iso": "2026-06-02T17:18:25+00:00",
-      "summary": "Lojas Colombo inaugura segunda unidade em Lajeado &nbsp;&nbsp; Independente",
+      "id": "d9d3677c20",
+      "headline": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial - Jornal O Diário",
+      "source": "Odiario",
+      "link": "https://odiario.net",
+      "time": "hoje, 12:46",
+      "dt_iso": "2026-06-06T15:46:50+00:00",
+      "summary": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial &nbsp;&nbsp; Jornal O Diário",
       "category": "logistica",
       "keywords": [
         "lojas colombo",
@@ -357,32 +300,13 @@
       ]
     },
     {
-      "id": "3c172b3bc5",
-      "headline": "AliExpress amplia parceria com os Correios em meio a crise financeira da estatal - DPL News",
-      "source": "Dplnews",
-      "link": "https://dplnews.com",
-      "time": "02/06 às 18:10",
-      "dt_iso": "2026-06-02T21:10:11+00:00",
-      "summary": "AliExpress amplia parceria com os Correios em meio a crise financeira da estatal &nbsp;&nbsp; DPL News",
-      "category": "investimento",
-      "keywords": [
-        "correios",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "7a741b94dd",
-      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - brasilnoticia.com.br",
-      "source": "Brasilnoticia",
-      "link": "https://brasilnoticia.com.br",
-      "time": "02/06 às 13:05",
-      "dt_iso": "2026-06-02T16:05:00+00:00",
-      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; brasilnoticia.com.br",
+      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - Portal do Agronegócio",
+      "source": "Portaldoagronegocio",
+      "link": "https://www.portaldoagronegocio.com.br",
+      "time": "02/06 às 13:04",
+      "dt_iso": "2026-06-02T16:04:20+00:00",
+      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; Portal do Agronegócio",
       "category": "logistica",
       "keywords": [
         "jbs",
@@ -399,7 +323,7 @@
       "headline": "Câmara está preparada para abertura em massa do mercado livre de energia - CNN Brasil",
       "source": "CNN Brasil",
       "link": "https://www.cnnbrasil.com.br",
-      "time": "ontem, 20:15",
+      "time": "04/06 às 20:15",
       "dt_iso": "2026-06-04T23:15:08+00:00",
       "summary": "Câmara está preparada para abertura em massa do mercado livre de energia &nbsp;&nbsp; CNN Brasil",
       "category": "ecommerce",
@@ -418,7 +342,7 @@
       "headline": "Parceria entre Correios e AliExpress vai acelerar entregas e ampliar rastreamento de entregas no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 07:05",
+      "time": "05/06 às 07:05",
       "dt_iso": "2026-06-05T10:05:46+00:00",
       "summary": "Parceria entre Correios e AliExpress vai acelerar entregas e ampliar rastreamento de entregas no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -456,7 +380,7 @@
       "headline": "Shopping Costa Dourada anuncia expansão e chegada da Renner e Habib’s - Fique Sabendo PE",
       "source": "Fiquesabendope",
       "link": "https://fiquesabendope.com",
-      "time": "hoje, 12:00",
+      "time": "ontem, 12:00",
       "dt_iso": "2026-06-05T15:00:00+00:00",
       "summary": "Shopping Costa Dourada anuncia expansão e chegada da Renner e Habib’s &nbsp;&nbsp; Fique Sabendo PE",
       "category": "expansao",
@@ -468,25 +392,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "2e7598fc2d",
-      "headline": "Mercedes-Benz eActros Lowliner amplia linha elétrica para transporte de alto volume na Europa - Autos Segredos",
-      "source": "Autossegredos",
-      "link": "https://www.autossegredos.com.br",
-      "time": "ontem, 08:30",
-      "dt_iso": "2026-06-04T11:30:00+00:00",
-      "summary": "Mercedes-Benz eActros Lowliner amplia linha elétrica para transporte de alto volume na Europa &nbsp;&nbsp; Autos Segredos",
-      "category": "logistica",
-      "keywords": [
-        "mercedes-benz",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     }
   ]
