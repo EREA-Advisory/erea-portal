@@ -1,29 +1,7 @@
 {
-  "gerado_em": "08/06/2026 às 09:58",
-  "total": 20,
+  "gerado_em": "08/06/2026 às 13:55",
+  "total": 21,
   "noticias": [
-    {
-      "id": "96fcf6b6c2",
-      "headline": "Total Express amplia operação de fulfillment e projeta crescimento de 55% - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "01/06 às 11:14",
-      "dt_iso": "2026-06-01T14:14:21+00:00",
-      "summary": "Total Express amplia operação de fulfillment e projeta crescimento de 55% &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "total express",
-        "fulfillment",
-        "amplia",
-        "crescimento"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "9bc36a3e36",
       "headline": "Novo supermercado será inaugurado e promete bater de frente com Assaí e Atacadão - Portal 6",
@@ -63,6 +41,26 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "2ec1a5e92a",
+      "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "03/06 às 19:01",
+      "dt_iso": "2026-06-03T22:01:22+00:00",
+      "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; MundoLogística",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "novo cd"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -129,8 +127,8 @@
       "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
       "source": "Acil",
       "link": "https://acil.com.br",
-      "time": "03/06 às 04:00",
-      "dt_iso": "2026-06-03T07:00:00+00:00",
+      "time": "05/06 às 04:00",
+      "dt_iso": "2026-06-05T07:00:00+00:00",
       "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; Acil",
       "category": "ecommerce",
       "keywords": [
@@ -145,12 +143,12 @@
     },
     {
       "id": "67929642e0",
-      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - Mundo Logística",
+      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "02/06 às 12:15",
       "dt_iso": "2026-06-02T15:15:07+00:00",
-      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; Mundo Logística",
+      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "multilog",
@@ -161,26 +159,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "2ec1a5e92a",
-      "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "03/06 às 19:01",
-      "dt_iso": "2026-06-03T22:01:22+00:00",
-      "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; Mundo Logística",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "novo cd"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -195,6 +173,25 @@
       "keywords": [
         "galpões",
         "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "8dcc3f5809",
+      "headline": "RD Saúde investe R$ 90 milhões em hub logístico em SP - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "03/06 às 15:21",
+      "dt_iso": "2026-06-03T18:21:44+00:00",
+      "summary": "RD Saúde investe R$ 90 milhões em hub logístico em SP &nbsp;&nbsp; Transporte Moderno",
+      "category": "logistica",
+      "keywords": [
+        "hub logístico",
+        "investe"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -245,7 +242,7 @@
       "headline": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial - Jornal O Diário",
       "source": "Odiario",
       "link": "https://odiario.net",
-      "time": "ontem, 12:46",
+      "time": "06/06 às 12:46",
       "dt_iso": "2026-06-06T15:46:50+00:00",
       "summary": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial &nbsp;&nbsp; Jornal O Diário",
       "category": "logistica",
@@ -279,25 +276,6 @@
       ]
     },
     {
-      "id": "814b1fe538",
-      "headline": "Mercado Livre anuncia 10 mil empregos com investimento recorde de R$ 57 milhões no Brasil - ND Mais",
-      "source": "ND Mais",
-      "link": "https://ndmais.com.br",
-      "time": "01/06 às 11:51",
-      "dt_iso": "2026-06-01T14:51:07+00:00",
-      "summary": "Mercado Livre anuncia 10 mil empregos com investimento recorde de R$ 57 milhões no Brasil &nbsp;&nbsp; ND Mais",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "7a741b94dd",
       "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - Portal do Agronegócio",
       "source": "Portaldoagronegocio",
@@ -309,6 +287,25 @@
       "keywords": [
         "jbs",
         "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "ce9609f155",
+      "headline": "Mercado Livre abre 100 vagas de auxiliar de logística em Sumaré - Portal Hortolândia",
+      "source": "Portalhortolandia",
+      "link": "https://portalhortolandia.com.br",
+      "time": "hoje, 12:46",
+      "dt_iso": "2026-06-08T15:46:22+00:00",
+      "summary": "Mercado Livre abre 100 vagas de auxiliar de logística em Sumaré &nbsp;&nbsp; Portal Hortolândia",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -337,12 +334,12 @@
     },
     {
       "id": "6dc1373f9d",
-      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - Mundo Logística",
+      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "04/06 às 04:00",
       "dt_iso": "2026-06-04T07:00:00+00:00",
-      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; Mundo Logística",
+      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
@@ -371,6 +368,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "a477885a1f",
+      "headline": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global - ADVFN",
+      "source": "Google News",
+      "link": "https://br.advfn.com",
+      "time": "hoje, 08:25",
+      "dt_iso": "2026-06-08T11:25:46+00:00",
+      "summary": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global &nbsp;&nbsp; ADVFN",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
