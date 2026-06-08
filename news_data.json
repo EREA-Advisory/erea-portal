@@ -1,36 +1,14 @@
 {
-  "gerado_em": "07/06/2026 às 07:58",
+  "gerado_em": "08/06/2026 às 09:58",
   "total": 20,
   "noticias": [
-    {
-      "id": "348d9e0f62",
-      "headline": "Icó recebe mais de R$ 14 milhões em investimentos com inaugurações e assinatura de ordem de serviço - detran.ce.gov.br",
-      "source": "Detran",
-      "link": "https://www.detran.ce.gov.br",
-      "time": "03/06 às 02:06",
-      "dt_iso": "2026-06-03T05:06:00+00:00",
-      "summary": "Icó recebe mais de R$ 14 milhões em investimentos com inaugurações e assinatura de ordem de serviço &nbsp;&nbsp; detran.ce.gov.br",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "inaugura",
-        "inaugurações",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 9,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
     {
       "id": "96fcf6b6c2",
       "headline": "Total Express amplia operação de fulfillment e projeta crescimento de 55% - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "01/06 às 08:20",
-      "dt_iso": "2026-06-01T11:20:50+00:00",
+      "time": "01/06 às 11:14",
+      "dt_iso": "2026-06-01T14:14:21+00:00",
       "summary": "Total Express amplia operação de fulfillment e projeta crescimento de 55% &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
@@ -127,6 +105,26 @@
       ]
     },
     {
+      "id": "982d81afd2",
+      "headline": "Mercedes-Benz inaugura novos postos de serviço em Santa Catarina e expande presença na região - Mercedes-Benz",
+      "source": "Imprensa",
+      "link": "https://imprensa.mercedes-benz.com.br",
+      "time": "03/06 às 16:43",
+      "dt_iso": "2026-06-03T19:43:34+00:00",
+      "summary": "Mercedes-Benz inaugura novos postos de serviço em Santa Catarina e expande presença na região &nbsp;&nbsp; Mercedes-Benz",
+      "category": "logistica",
+      "keywords": [
+        "mercedes-benz",
+        "inaugura",
+        "expande"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "58e07e351e",
       "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
       "source": "Acil",
@@ -147,12 +145,12 @@
     },
     {
       "id": "67929642e0",
-      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - MundoLogística",
+      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "02/06 às 12:15",
       "dt_iso": "2026-06-02T15:15:07+00:00",
-      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; MundoLogística",
+      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "multilog",
@@ -167,12 +165,12 @@
     },
     {
       "id": "2ec1a5e92a",
-      "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - MundoLogística",
+      "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "03/06 às 19:01",
       "dt_iso": "2026-06-03T22:01:22+00:00",
-      "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; MundoLogística",
+      "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; Mundo Logística",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -247,7 +245,7 @@
       "headline": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial - Jornal O Diário",
       "source": "Odiario",
       "link": "https://odiario.net",
-      "time": "hoje, 12:46",
+      "time": "ontem, 12:46",
       "dt_iso": "2026-06-06T15:46:50+00:00",
       "summary": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial &nbsp;&nbsp; Jornal O Diário",
       "category": "logistica",
@@ -319,25 +317,6 @@
       ]
     },
     {
-      "id": "4b69c3b1ae",
-      "headline": "Câmara está preparada para abertura em massa do mercado livre de energia - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "04/06 às 20:15",
-      "dt_iso": "2026-06-04T23:15:08+00:00",
-      "summary": "Câmara está preparada para abertura em massa do mercado livre de energia &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abertura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "82f447bb5c",
       "headline": "Parceria entre Correios e AliExpress vai acelerar entregas e ampliar rastreamento de entregas no Brasil - Tecnologística",
       "source": "Tecnologística",
@@ -358,12 +337,12 @@
     },
     {
       "id": "6dc1373f9d",
-      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - MundoLogística",
+      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "04/06 às 04:00",
       "dt_iso": "2026-06-04T07:00:00+00:00",
-      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; MundoLogística",
+      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
@@ -380,7 +359,7 @@
       "headline": "Shopping Costa Dourada anuncia expansão e chegada da Renner e Habib’s - Fique Sabendo PE",
       "source": "Fiquesabendope",
       "link": "https://fiquesabendope.com",
-      "time": "ontem, 12:00",
+      "time": "05/06 às 12:00",
       "dt_iso": "2026-06-05T15:00:00+00:00",
       "summary": "Shopping Costa Dourada anuncia expansão e chegada da Renner e Habib’s &nbsp;&nbsp; Fique Sabendo PE",
       "category": "expansao",
@@ -392,6 +371,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "0611463b83",
+      "headline": "Embraer espera para os próximos meses licitação de jatos militares na Índia; empresa vê abertura na China para jatos E2 - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "hoje, 06:26",
+      "dt_iso": "2026-06-08T09:26:14+00:00",
+      "summary": "Embraer espera para os próximos meses licitação de jatos militares na Índia; empresa vê abertura na China para jatos E2 &nbsp;&nbsp; Money Times",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "abertura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     }
   ]
