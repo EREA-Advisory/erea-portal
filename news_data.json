@@ -1,28 +1,7 @@
 {
-  "gerado_em": "08/06/2026 às 13:55",
+  "gerado_em": "09/06/2026 às 10:35",
   "total": 21,
   "noticias": [
-    {
-      "id": "9bc36a3e36",
-      "headline": "Novo supermercado será inaugurado e promete bater de frente com Assaí e Atacadão - Portal 6",
-      "source": "Portal6",
-      "link": "https://portal6.com.br",
-      "time": "01/06 às 17:01",
-      "dt_iso": "2026-06-01T20:01:44+00:00",
-      "summary": "Novo supermercado será inaugurado e promete bater de frente com Assaí e Atacadão &nbsp;&nbsp; Portal 6",
-      "category": "logistica",
-      "keywords": [
-        "atacadão",
-        "assaí",
-        "inaugura",
-        "inaugurado"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
     {
       "id": "c59f9f9a11",
       "headline": "TRXF11 compra 8 galpões por R$ 135 milhões e amplia estratégia - melhorinvestimento.net",
@@ -45,12 +24,12 @@
     },
     {
       "id": "2ec1a5e92a",
-      "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - MundoLogística",
+      "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "03/06 às 19:01",
       "dt_iso": "2026-06-03T22:01:22+00:00",
-      "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; MundoLogística",
+      "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; Mundo Logística",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -83,6 +62,26 @@
       ]
     },
     {
+      "id": "93406446f6",
+      "headline": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança - Seu Dinheiro",
+      "source": "Seudinheiro",
+      "link": "https://www.seudinheiro.com",
+      "time": "hoje, 20:28",
+      "dt_iso": "2026-06-08T23:28:19+00:00",
+      "summary": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança &nbsp;&nbsp; Seu Dinheiro",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "dd709f96a2",
       "headline": "Fabricante gaúcha de fechaduras investe R$ 150 milhões para superar R$ 1 bilhão em faturamento, criar 200 empregos e dobrar armazenagem, enquanto escolhe Santa Catarina para instalar novo centro logístico e acelerar entregas no Sul do Brasil - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
@@ -103,23 +102,23 @@
       ]
     },
     {
-      "id": "982d81afd2",
-      "headline": "Mercedes-Benz inaugura novos postos de serviço em Santa Catarina e expande presença na região - Mercedes-Benz",
-      "source": "Imprensa",
-      "link": "https://imprensa.mercedes-benz.com.br",
-      "time": "03/06 às 16:43",
-      "dt_iso": "2026-06-03T19:43:34+00:00",
-      "summary": "Mercedes-Benz inaugura novos postos de serviço em Santa Catarina e expande presença na região &nbsp;&nbsp; Mercedes-Benz",
-      "category": "logistica",
+      "id": "566a49cf01",
+      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país - CompreRural",
+      "source": "Comprerural",
+      "link": "https://comprerural.com",
+      "time": "hoje, 18:15",
+      "dt_iso": "2026-06-08T21:15:44+00:00",
+      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país &nbsp;&nbsp; CompreRural",
+      "category": "expansao",
       "keywords": [
-        "mercedes-benz",
-        "inaugura",
-        "expande"
+        "armazéns",
+        "armazenagem",
+        "expansão"
       ],
       "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -143,12 +142,12 @@
     },
     {
       "id": "67929642e0",
-      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - MundoLogística",
+      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "02/06 às 12:15",
       "dt_iso": "2026-06-02T15:15:07+00:00",
-      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; MundoLogística",
+      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "multilog",
@@ -162,17 +161,17 @@
       ]
     },
     {
-      "id": "f24c5507df",
-      "headline": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde - O Globo",
-      "source": "O Globo",
-      "link": "https://oglobo.globo.com",
-      "time": "01/06 às 17:03",
-      "dt_iso": "2026-06-01T20:03:13+00:00",
-      "summary": "Brasil deve ganhar área de 500 campos de futebol em novos galpões no ano: recorde &nbsp;&nbsp; O Globo",
+      "id": "dcfbef04e3",
+      "headline": "Boca a boca não basta: fundador da Petz dá choque de gestão numa empresa de cortinas de SP",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/boca-a-boca-nao-basta-fundador-da-petz-da-choque-de-gestao-numa-empresa-de-cortinas-de-sp/",
+      "time": "hoje, 06:00",
+      "dt_iso": "2026-06-09T09:00:36+00:00",
+      "summary": "No novo episódio do 'Choque de Gestão', Sérgio Zimerman analisa empresa familiar com 19 anos de mercado e aponta por que viver de indicação só garante estabilidade, não crescimento",
       "category": "logistica",
       "keywords": [
-        "galpões",
-        "novos galpões"
+        "petz",
+        "crescimento"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -197,6 +196,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "014f84fc3b",
+      "headline": "Amazon abre 3 centros de distribuição por semana no Brasil e acelera entregas - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 15:38",
+      "dt_iso": "2026-06-08T18:38:23+00:00",
+      "summary": "Amazon abre 3 centros de distribuição por semana no Brasil e acelera entregas &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "ecommerce",
+      "keywords": [
+        "centros de distribuição",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -277,35 +295,16 @@
     },
     {
       "id": "7a741b94dd",
-      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - Portal do Agronegócio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "02/06 às 13:04",
-      "dt_iso": "2026-06-02T16:04:20+00:00",
-      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; Portal do Agronegócio",
+      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - brasilnoticia.com.br",
+      "source": "Brasilnoticia",
+      "link": "https://brasilnoticia.com.br",
+      "time": "02/06 às 13:05",
+      "dt_iso": "2026-06-02T16:05:00+00:00",
+      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; brasilnoticia.com.br",
       "category": "logistica",
       "keywords": [
         "jbs",
         "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ce9609f155",
-      "headline": "Mercado Livre abre 100 vagas de auxiliar de logística em Sumaré - Portal Hortolândia",
-      "source": "Portalhortolandia",
-      "link": "https://portalhortolandia.com.br",
-      "time": "hoje, 12:46",
-      "dt_iso": "2026-06-08T15:46:22+00:00",
-      "summary": "Mercado Livre abre 100 vagas de auxiliar de logística em Sumaré &nbsp;&nbsp; Portal Hortolândia",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -334,16 +333,35 @@
     },
     {
       "id": "6dc1373f9d",
-      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - MundoLogística",
+      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "04/06 às 04:00",
       "dt_iso": "2026-06-04T07:00:00+00:00",
-      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; MundoLogística",
+      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
         "investe"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "0aa2ad8137",
+      "headline": "Assaí expande suplementação alimentar para lojas do Nordeste e Minas Gerais - SuperHiper",
+      "source": "Superhiper",
+      "link": "https://www.superhiper.com.br",
+      "time": "hoje, 15:00",
+      "dt_iso": "2026-06-08T18:00:14+00:00",
+      "summary": "Assaí expande suplementação alimentar para lojas do Nordeste e Minas Gerais &nbsp;&nbsp; SuperHiper",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "expande"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -375,32 +393,13 @@
       "headline": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global - ADVFN",
       "source": "Google News",
       "link": "https://br.advfn.com",
-      "time": "hoje, 08:25",
+      "time": "ontem, 08:25",
       "dt_iso": "2026-06-08T11:25:46+00:00",
       "summary": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global &nbsp;&nbsp; ADVFN",
       "category": "logistica",
       "keywords": [
         "embraer",
         "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "0611463b83",
-      "headline": "Embraer espera para os próximos meses licitação de jatos militares na Índia; empresa vê abertura na China para jatos E2 - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "hoje, 06:26",
-      "dt_iso": "2026-06-08T09:26:14+00:00",
-      "summary": "Embraer espera para os próximos meses licitação de jatos militares na Índia; empresa vê abertura na China para jatos E2 &nbsp;&nbsp; Money Times",
-      "category": "logistica",
-      "keywords": [
-        "embraer",
-        "abertura"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
