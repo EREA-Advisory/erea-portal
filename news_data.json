@@ -1,6 +1,6 @@
 {
-  "gerado_em": "09/06/2026 às 10:35",
-  "total": 21,
+  "gerado_em": "10/06/2026 às 10:18",
+  "total": 19,
   "noticias": [
     {
       "id": "c59f9f9a11",
@@ -43,6 +43,46 @@
       ]
     },
     {
+      "id": "566a49cf01",
+      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país - GOV.BR",
+      "source": "Gov",
+      "link": "https://www.gov.br",
+      "time": "ontem, 15:51",
+      "dt_iso": "2026-06-08T18:51:05+00:00",
+      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país &nbsp;&nbsp; GOV.BR",
+      "category": "expansao",
+      "keywords": [
+        "armazéns",
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "93406446f6",
+      "headline": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança - Seu Dinheiro",
+      "source": "Seudinheiro",
+      "link": "https://www.seudinheiro.com",
+      "time": "ontem, 20:28",
+      "dt_iso": "2026-06-08T23:28:19+00:00",
+      "summary": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança &nbsp;&nbsp; Seu Dinheiro",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "510db7469f",
       "headline": "O que é cross-docking? Entenda o modelo usado pela Shopee para acelerar entregas - Times Brasil | CNBC",
       "source": "Timesbrasil",
@@ -59,26 +99,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "93406446f6",
-      "headline": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança - Seu Dinheiro",
-      "source": "Seudinheiro",
-      "link": "https://www.seudinheiro.com",
-      "time": "hoje, 20:28",
-      "dt_iso": "2026-06-08T23:28:19+00:00",
-      "summary": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança &nbsp;&nbsp; Seu Dinheiro",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -102,26 +122,6 @@
       ]
     },
     {
-      "id": "566a49cf01",
-      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país - CompreRural",
-      "source": "Comprerural",
-      "link": "https://comprerural.com",
-      "time": "hoje, 18:15",
-      "dt_iso": "2026-06-08T21:15:44+00:00",
-      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país &nbsp;&nbsp; CompreRural",
-      "category": "expansao",
-      "keywords": [
-        "armazéns",
-        "armazenagem",
-        "expansão"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "58e07e351e",
       "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
       "source": "Acil",
@@ -141,61 +141,22 @@
       ]
     },
     {
-      "id": "67929642e0",
-      "headline": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "02/06 às 12:15",
-      "dt_iso": "2026-06-02T15:15:07+00:00",
-      "summary": "Com R$ 900 milhões em investimentos, Multilog mira faturamento de R$ 3 bilhões até 2028 &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
+      "id": "3bd9f90683",
+      "headline": "Fundo imobiliário conclui compra de galpão por R$ 56 milhões e amplia aposta no Nordeste; IFIX recua - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "hoje, 08:07",
+      "dt_iso": "2026-06-10T11:07:00+00:00",
+      "summary": "Fundo imobiliário conclui compra de galpão por R$ 56 milhões e amplia aposta no Nordeste; IFIX recua &nbsp;&nbsp; Money Times",
+      "category": "investimento",
       "keywords": [
-        "multilog",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "dcfbef04e3",
-      "headline": "Boca a boca não basta: fundador da Petz dá choque de gestão numa empresa de cortinas de SP",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/boca-a-boca-nao-basta-fundador-da-petz-da-choque-de-gestao-numa-empresa-de-cortinas-de-sp/",
-      "time": "hoje, 06:00",
-      "dt_iso": "2026-06-09T09:00:36+00:00",
-      "summary": "No novo episódio do 'Choque de Gestão', Sérgio Zimerman analisa empresa familiar com 19 anos de mercado e aponta por que viver de indicação só garante estabilidade, não crescimento",
-      "category": "logistica",
-      "keywords": [
-        "petz",
-        "crescimento"
+        "galpão",
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "8dcc3f5809",
-      "headline": "RD Saúde investe R$ 90 milhões em hub logístico em SP - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "03/06 às 15:21",
-      "dt_iso": "2026-06-03T18:21:44+00:00",
-      "summary": "RD Saúde investe R$ 90 milhões em hub logístico em SP &nbsp;&nbsp; Transporte Moderno",
-      "category": "logistica",
-      "keywords": [
-        "hub logístico",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
+        "Investimento"
       ]
     },
     {
@@ -203,7 +164,7 @@
       "headline": "Amazon abre 3 centros de distribuição por semana no Brasil e acelera entregas - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "hoje, 15:38",
+      "time": "ontem, 15:38",
       "dt_iso": "2026-06-08T18:38:23+00:00",
       "summary": "Amazon abre 3 centros de distribuição por semana no Brasil e acelera entregas &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "ecommerce",
@@ -237,79 +198,41 @@
       ]
     },
     {
-      "id": "7fab36b5e3",
-      "headline": "Tintasul inaugura centro de distribuição em Tijucas - VipSocial",
-      "source": "Vipsocial",
-      "link": "https://www.vipsocial.com.br",
-      "time": "02/06 às 16:19",
-      "dt_iso": "2026-06-02T19:19:58+00:00",
-      "summary": "Tintasul inaugura centro de distribuição em Tijucas &nbsp;&nbsp; VipSocial",
-      "category": "logistica",
+      "id": "83d3b6bd7c",
+      "headline": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital - Portal Nosso Meio",
+      "source": "Nossomeio",
+      "link": "https://nossomeio.com.br",
+      "time": "hoje, 15:49",
+      "dt_iso": "2026-06-09T18:49:00+00:00",
+      "summary": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital &nbsp;&nbsp; Portal Nosso Meio",
+      "category": "ecommerce",
       "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d9d3677c20",
-      "headline": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial - Jornal O Diário",
-      "source": "Odiario",
-      "link": "https://odiario.net",
-      "time": "06/06 às 12:46",
-      "dt_iso": "2026-06-06T15:46:50+00:00",
-      "summary": "Lojas Colombo inaugura unidade em Nova Petrópolis com programação especial &nbsp;&nbsp; Jornal O Diário",
-      "category": "logistica",
-      "keywords": [
-        "lojas colombo",
-        "inaugura"
+        "magalu",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
-      "id": "9f483917f0",
-      "headline": "'Corte nem pensar': Amazon Brasil descarta demissões e projeta expansão de longo prazo - TecMundo",
-      "source": "Tecmundo",
-      "link": "https://www.tecmundo.com.br",
-      "time": "03/06 às 07:09",
-      "dt_iso": "2026-06-03T10:09:00+00:00",
-      "summary": "'Corte nem pensar': Amazon Brasil descarta demissões e projeta expansão de longo prazo &nbsp;&nbsp; TecMundo",
-      "category": "expansao",
+      "id": "2663885afd",
+      "headline": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "hoje, 13:28",
+      "dt_iso": "2026-06-09T16:28:58+00:00",
+      "summary": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia &nbsp;&nbsp; InfoMoney",
+      "category": "ecommerce",
       "keywords": [
-        "amazon brasil",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "7a741b94dd",
-      "headline": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais - brasilnoticia.com.br",
-      "source": "Brasilnoticia",
-      "link": "https://brasilnoticia.com.br",
-      "time": "02/06 às 13:05",
-      "dt_iso": "2026-06-02T16:05:00+00:00",
-      "summary": "Porto de Itajaí bate recorde com novas rotas internacionais e investimento de R$ 9 milhões da JBS Terminais &nbsp;&nbsp; brasilnoticia.com.br",
-      "category": "logistica",
-      "keywords": [
-        "jbs",
-        "investimento"
+        "magazine luiza",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -324,6 +247,25 @@
       "keywords": [
         "correios",
         "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "86f24ea44b",
+      "headline": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "ontem, 08:45",
+      "dt_iso": "2026-06-09T11:45:43+00:00",
+      "summary": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "construção"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -351,11 +293,30 @@
       ]
     },
     {
+      "id": "b70194e620",
+      "headline": "Peso da dívida? Assaí (ASAI3) reduz projeção de abertura de lojas - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "hoje, 14:03",
+      "dt_iso": "2026-06-09T17:03:51+00:00",
+      "summary": "Peso da dívida? Assaí (ASAI3) reduz projeção de abertura de lojas &nbsp;&nbsp; Estadão",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "abertura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "0aa2ad8137",
       "headline": "Assaí expande suplementação alimentar para lojas do Nordeste e Minas Gerais - SuperHiper",
       "source": "Superhiper",
       "link": "https://www.superhiper.com.br",
-      "time": "hoje, 15:00",
+      "time": "ontem, 15:00",
       "dt_iso": "2026-06-08T18:00:14+00:00",
       "summary": "Assaí expande suplementação alimentar para lojas do Nordeste e Minas Gerais &nbsp;&nbsp; SuperHiper",
       "category": "logistica",
@@ -393,7 +354,7 @@
       "headline": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global - ADVFN",
       "source": "Google News",
       "link": "https://br.advfn.com",
-      "time": "ontem, 08:25",
+      "time": "08/06 às 08:25",
       "dt_iso": "2026-06-08T11:25:46+00:00",
       "summary": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global &nbsp;&nbsp; ADVFN",
       "category": "logistica",
