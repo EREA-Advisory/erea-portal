@@ -1,65 +1,25 @@
 {
-  "gerado_em": "10/06/2026 às 11:39",
-  "total": 19,
+  "gerado_em": "11/06/2026 às 14:06",
+  "total": 17,
   "noticias": [
     {
-      "id": "c59f9f9a11",
-      "headline": "TRXF11 compra 8 galpões por R$ 135 milhões e amplia estratégia - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "04/06 às 12:39",
-      "dt_iso": "2026-06-04T15:39:24+00:00",
-      "summary": "TRXF11 compra 8 galpões por R$ 135 milhões e amplia estratégia &nbsp;&nbsp; melhorinvestimento.net",
+      "id": "dbee83b8a2",
+      "headline": "Dono da Havan tira do bolso cerca de R$ 250 milhões, mas não é nova loja chegando: investimento vai ampliar Centro de Distribuição em Barra Velha com mais 50 mil m² e mil novos funcionários - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 15:09",
+      "dt_iso": "2026-06-10T18:09:00+00:00",
+      "summary": "Dono da Havan tira do bolso cerca de R$ 250 milhões, mas não é nova loja chegando: investimento vai ampliar Centro de Distribuição em Barra Velha com mais 50 mil m² e mil novos funcionários &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "logistica",
       "keywords": [
-        "galpões",
+        "centro de distribuição",
         "amplia",
         "investimento"
       ],
       "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "2ec1a5e92a",
-      "headline": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "03/06 às 19:01",
-      "dt_iso": "2026-06-03T22:01:22+00:00",
-      "summary": "RD Saúde inaugura centro de distribuição em Itupeva e prevê um novo CD por ano &nbsp;&nbsp; Mundo Logística",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "novo cd"
-      ],
-      "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "566a49cf01",
-      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país - GOV.BR",
-      "source": "Gov",
-      "link": "https://www.gov.br",
-      "time": "ontem, 15:51",
-      "dt_iso": "2026-06-08T18:51:05+00:00",
-      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país &nbsp;&nbsp; GOV.BR",
-      "category": "expansao",
-      "keywords": [
-        "armazéns",
-        "armazenagem",
-        "expansão"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -67,7 +27,7 @@
       "headline": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança - Seu Dinheiro",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
-      "time": "ontem, 20:28",
+      "time": "08/06 às 20:28",
       "dt_iso": "2026-06-08T23:28:19+00:00",
       "summary": "Mercado Livre (MELI34): Citi calcula quase US$ 19 bilhões em investimentos na América Latina, com Brasil na liderança &nbsp;&nbsp; Seu Dinheiro",
       "category": "ecommerce",
@@ -80,6 +40,26 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "566a49cf01",
+      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país - GOV.BR",
+      "source": "Gov",
+      "link": "https://www.gov.br",
+      "time": "08/06 às 15:51",
+      "dt_iso": "2026-06-08T18:51:05+00:00",
+      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país &nbsp;&nbsp; GOV.BR",
+      "category": "expansao",
+      "keywords": [
+        "armazéns",
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -99,26 +79,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "dd709f96a2",
-      "headline": "Fabricante gaúcha de fechaduras investe R$ 150 milhões para superar R$ 1 bilhão em faturamento, criar 200 empregos e dobrar armazenagem, enquanto escolhe Santa Catarina para instalar novo centro logístico e acelerar entregas no Sul do Brasil - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "03/06 às 19:44",
-      "dt_iso": "2026-06-03T22:44:00+00:00",
-      "summary": "Fabricante gaúcha de fechaduras investe R$ 150 milhões para superar R$ 1 bilhão em faturamento, criar 200 empregos e dobrar armazenagem, enquanto escolhe Santa Catarina para instalar novo centro logístico e acelerar entregas no Sul do Brasil &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "investimento",
-      "keywords": [
-        "armazenagem",
-        "investe",
-        "instala"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -145,7 +105,7 @@
       "headline": "Fundo imobiliário conclui compra de galpão por R$ 56 milhões e amplia aposta no Nordeste; IFIX recua - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "hoje, 08:08",
+      "time": "ontem, 08:08",
       "dt_iso": "2026-06-10T11:08:23+00:00",
       "summary": "Fundo imobiliário conclui compra de galpão por R$ 56 milhões e amplia aposta no Nordeste; IFIX recua &nbsp;&nbsp; Money Times",
       "category": "investimento",
@@ -160,11 +120,49 @@
       ]
     },
     {
+      "id": "e00d906b12",
+      "headline": "VILG11 conclui aquisição de galpão logístico em Pernambuco por R$ 56,2 milhões - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "hoje, 17:36",
+      "dt_iso": "2026-06-10T20:36:56+00:00",
+      "summary": "VILG11 conclui aquisição de galpão logístico em Pernambuco por R$ 56,2 milhões &nbsp;&nbsp; melhorinvestimento.net",
+      "category": "industrial",
+      "keywords": [
+        "galpão",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Industrial"
+      ]
+    },
+    {
+      "id": "24bd02f6be",
+      "headline": "Campinas inaugura centro de distribuição de medicamentos e insumos - Hora Campinas",
+      "source": "Horacampinas",
+      "link": "https://horacampinas.com.br",
+      "time": "ontem, 12:54",
+      "dt_iso": "2026-06-10T15:54:01+00:00",
+      "summary": "Campinas inaugura centro de distribuição de medicamentos e insumos &nbsp;&nbsp; Hora Campinas",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "014f84fc3b",
       "headline": "Amazon abre 3 centros de distribuição por semana no Brasil e acelera entregas - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "ontem, 15:38",
+      "time": "08/06 às 15:38",
       "dt_iso": "2026-06-08T18:38:23+00:00",
       "summary": "Amazon abre 3 centros de distribuição por semana no Brasil e acelera entregas &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "ecommerce",
@@ -179,17 +177,17 @@
       ]
     },
     {
-      "id": "71820f68bd",
-      "headline": "Novo centro de distribuição da Canção Nova amplia evangelização - Notícias - Canção Nova",
-      "source": "Noticias",
-      "link": "https://noticias.cancaonova.com",
-      "time": "03/06 às 13:36",
-      "dt_iso": "2026-06-03T16:36:16+00:00",
-      "summary": "Novo centro de distribuição da Canção Nova amplia evangelização &nbsp;&nbsp; Notícias - Canção Nova",
+      "id": "0e4844d60e",
+      "headline": "RD Saúde investe R$ 90 milhões em novo centro de distribuição em Itupeva - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "08/06 às 10:50",
+      "dt_iso": "2026-06-08T13:50:36+00:00",
+      "summary": "RD Saúde investe R$ 90 milhões em novo centro de distribuição em Itupeva &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
-        "amplia"
+        "investe"
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
@@ -198,11 +196,30 @@
       ]
     },
     {
+      "id": "d73242898d",
+      "headline": "Embraer mira expansão na China e aposta nos jatos E2 para conquistar um dos maiores mercados de aviação do mundo - Cavok",
+      "source": "Cavok",
+      "link": "https://www.cavok.com.br",
+      "time": "08/06 às 15:00",
+      "dt_iso": "2026-06-08T18:00:00+00:00",
+      "summary": "Embraer mira expansão na China e aposta nos jatos E2 para conquistar um dos maiores mercados de aviação do mundo &nbsp;&nbsp; Cavok",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "83d3b6bd7c",
       "headline": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital - Portal Nosso Meio",
       "source": "Nossomeio",
       "link": "https://nossomeio.com.br",
-      "time": "hoje, 15:49",
+      "time": "ontem, 15:49",
       "dt_iso": "2026-06-09T18:49:00+00:00",
       "summary": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital &nbsp;&nbsp; Portal Nosso Meio",
       "category": "ecommerce",
@@ -221,7 +238,7 @@
       "headline": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 13:28",
+      "time": "09/06 às 13:28",
       "dt_iso": "2026-06-09T16:28:58+00:00",
       "summary": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
@@ -259,7 +276,7 @@
       "headline": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 08:45",
+      "time": "09/06 às 08:45",
       "dt_iso": "2026-06-09T11:45:43+00:00",
       "summary": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -274,49 +291,11 @@
       ]
     },
     {
-      "id": "6dc1373f9d",
-      "headline": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "04/06 às 04:00",
-      "dt_iso": "2026-06-04T07:00:00+00:00",
-      "summary": "Fulwood investe R$ 100 milhões em condomínio logístico incorporado no Paraná &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "condomínio logístico",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "b70194e620",
-      "headline": "Peso da dívida? Assaí (ASAI3) reduz projeção de abertura de lojas - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "hoje, 14:03",
-      "dt_iso": "2026-06-09T17:03:51+00:00",
-      "summary": "Peso da dívida? Assaí (ASAI3) reduz projeção de abertura de lojas &nbsp;&nbsp; Estadão",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "abertura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "0aa2ad8137",
       "headline": "Assaí expande suplementação alimentar para lojas do Nordeste e Minas Gerais - SuperHiper",
       "source": "Superhiper",
       "link": "https://www.superhiper.com.br",
-      "time": "ontem, 15:00",
+      "time": "08/06 às 15:00",
       "dt_iso": "2026-06-08T18:00:14+00:00",
       "summary": "Assaí expande suplementação alimentar para lojas do Nordeste e Minas Gerais &nbsp;&nbsp; SuperHiper",
       "category": "logistica",
@@ -347,25 +326,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "a477885a1f",
-      "headline": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global - ADVFN",
-      "source": "Google News",
-      "link": "https://br.advfn.com",
-      "time": "08/06 às 08:25",
-      "dt_iso": "2026-06-08T11:25:46+00:00",
-      "summary": "Embraer vê avanço de licitação militar na Índia para até 80 aeronaves C-390, e reforça potencial de crescimento global &nbsp;&nbsp; ADVFN",
-      "category": "logistica",
-      "keywords": [
-        "embraer",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     }
   ]
