@@ -1,5 +1,5 @@
 {
-  "gerado_em": "11/06/2026 às 14:06",
+  "gerado_em": "12/06/2026 às 04:16",
   "total": 17,
   "noticias": [
     {
@@ -7,7 +7,7 @@
       "headline": "Dono da Havan tira do bolso cerca de R$ 250 milhões, mas não é nova loja chegando: investimento vai ampliar Centro de Distribuição em Barra Velha com mais 50 mil m² e mil novos funcionários - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 15:09",
+      "time": "ontem, 15:09",
       "dt_iso": "2026-06-10T18:09:00+00:00",
       "summary": "Dono da Havan tira do bolso cerca de R$ 250 milhões, mas não é nova loja chegando: investimento vai ampliar Centro de Distribuição em Barra Velha com mais 50 mil m² e mil novos funcionários &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "logistica",
@@ -20,6 +20,25 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "db746eabcb",
+      "headline": "Amazon adiciona 240 hubs logísticos ao Brasil em 18 meses e desafia Mercado Livre - BPMoney",
+      "source": "Bpmoney",
+      "link": "https://bpmoney.com.br",
+      "time": "hoje, 15:54",
+      "dt_iso": "2026-06-11T18:54:30+00:00",
+      "summary": "Amazon adiciona 240 hubs logísticos ao Brasil em 18 meses e desafia Mercado Livre &nbsp;&nbsp; BPMoney",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "hubs logísticos"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -82,25 +101,6 @@
       ]
     },
     {
-      "id": "58e07e351e",
-      "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
-      "source": "Acil",
-      "link": "https://acil.com.br",
-      "time": "05/06 às 04:00",
-      "dt_iso": "2026-06-05T07:00:00+00:00",
-      "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; Acil",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "condomínio logístico"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "3bd9f90683",
       "headline": "Fundo imobiliário conclui compra de galpão por R$ 56 milhões e amplia aposta no Nordeste; IFIX recua - Money Times",
       "source": "Money Times",
@@ -124,7 +124,7 @@
       "headline": "VILG11 conclui aquisição de galpão logístico em Pernambuco por R$ 56,2 milhões - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 17:36",
+      "time": "ontem, 17:36",
       "dt_iso": "2026-06-10T20:36:56+00:00",
       "summary": "VILG11 conclui aquisição de galpão logístico em Pernambuco por R$ 56,2 milhões &nbsp;&nbsp; melhorinvestimento.net",
       "category": "industrial",
@@ -219,31 +219,12 @@
       "headline": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital - Portal Nosso Meio",
       "source": "Nossomeio",
       "link": "https://nossomeio.com.br",
-      "time": "ontem, 15:49",
+      "time": "09/06 às 15:49",
       "dt_iso": "2026-06-09T18:49:00+00:00",
       "summary": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital &nbsp;&nbsp; Portal Nosso Meio",
       "category": "ecommerce",
       "keywords": [
         "magalu",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "2663885afd",
-      "headline": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "09/06 às 13:28",
-      "dt_iso": "2026-06-09T16:28:58+00:00",
-      "summary": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia &nbsp;&nbsp; InfoMoney",
-      "category": "ecommerce",
-      "keywords": [
-        "magazine luiza",
         "amplia"
       ],
       "score": 6,
@@ -288,6 +269,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "2663885afd",
+      "headline": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "09/06 às 13:28",
+      "dt_iso": "2026-06-09T16:28:58+00:00",
+      "summary": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia &nbsp;&nbsp; InfoMoney",
+      "category": "ecommerce",
+      "keywords": [
+        "magazine luiza",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
