@@ -1,13 +1,13 @@
 {
-  "gerado_em": "13/06/2026 às 03:52",
-  "total": 15,
+  "gerado_em": "14/06/2026 às 04:18",
+  "total": 14,
   "noticias": [
     {
       "id": "56d3c0ef1b",
       "headline": "APS firma contrato para implantação de condomínio logístico no Porto de Santos - Santa Portal",
       "source": "Santaportal",
       "link": "https://santaportal.com.br",
-      "time": "hoje, 20:01",
+      "time": "ontem, 20:01",
       "dt_iso": "2026-06-12T23:01:53+00:00",
       "summary": "APS firma contrato para implantação de condomínio logístico no Porto de Santos &nbsp;&nbsp; Santa Portal",
       "category": "logistica",
@@ -27,7 +27,7 @@
       "headline": "Amazon adiciona 240 hubs logísticos ao Brasil em 18 meses e desafia Mercado Livre - BPMoney",
       "source": "Bpmoney",
       "link": "https://bpmoney.com.br",
-      "time": "ontem, 15:54",
+      "time": "11/06 às 15:54",
       "dt_iso": "2026-06-11T18:54:30+00:00",
       "summary": "Amazon adiciona 240 hubs logísticos ao Brasil em 18 meses e desafia Mercado Livre &nbsp;&nbsp; BPMoney",
       "category": "ecommerce",
@@ -62,42 +62,23 @@
       ]
     },
     {
-      "id": "d6ebd3a073",
-      "headline": "Mercado Livre investe US$ 4,6 bilhões e mira expansão no México - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "10/06 às 16:53",
-      "dt_iso": "2026-06-10T19:53:28+00:00",
-      "summary": "Mercado Livre investe US$ 4,6 bilhões e mira expansão no México &nbsp;&nbsp; Exame",
+      "id": "566a49cf01",
+      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país - LegisWeb",
+      "source": "Legisweb",
+      "link": "https://www.legisweb.com.br",
+      "time": "09/06 às 11:10",
+      "dt_iso": "2026-06-09T14:10:05+00:00",
+      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país &nbsp;&nbsp; LegisWeb",
       "category": "expansao",
       "keywords": [
-        "mercado livre",
-        "expansão",
-        "investe"
+        "armazéns",
+        "armazenagem",
+        "expansão"
       ],
       "score": 7,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "d6960c88c8",
-      "headline": "Abertura da Copa nos EUA tem Anitta, Katy Perry e Ted Lasso; confira",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/esportes/abertura-copa-do-mundo-2026/",
-      "time": "hoje, 21:17",
-      "dt_iso": "2026-06-13T00:17:26+00:00",
-      "summary": "Após uma apresentação e saudação de representantes de tribos Indígenas do Canadá, a primeira apresentação musical coube a Alessia Cara, natural de Toronto \n The post  Abertura da Copa nos EUA tem Anitta, Katy Perry e Ted Lasso; confira  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "abertura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -196,16 +177,16 @@
       ]
     },
     {
-      "id": "8e66db4051",
-      "headline": "Nova lei flexibiliza certificação de armazéns e estimula expansão do setor - Dourados News",
-      "source": "Douradosnews",
-      "link": "https://www.douradosnews.com.br",
-      "time": "08/06 às 17:20",
-      "dt_iso": "2026-06-08T20:20:00+00:00",
-      "summary": "Nova lei flexibiliza certificação de armazéns e estimula expansão do setor &nbsp;&nbsp; Dourados News",
+      "id": "d73242898d",
+      "headline": "Embraer mira expansão na China e aposta nos jatos E2 para conquistar um dos maiores mercados de aviação do mundo - Cavok",
+      "source": "Cavok",
+      "link": "https://www.cavok.com.br",
+      "time": "08/06 às 15:00",
+      "dt_iso": "2026-06-08T18:00:00+00:00",
+      "summary": "Embraer mira expansão na China e aposta nos jatos E2 para conquistar um dos maiores mercados de aviação do mundo &nbsp;&nbsp; Cavok",
       "category": "expansao",
       "keywords": [
-        "armazéns",
+        "embraer",
         "expansão"
       ],
       "score": 6,
@@ -235,12 +216,12 @@
     },
     {
       "id": "86f24ea44b",
-      "headline": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk - Mundo Logística",
+      "headline": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "09/06 às 08:45",
       "dt_iso": "2026-06-09T11:45:43+00:00",
-      "summary": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk &nbsp;&nbsp; Mundo Logística",
+      "summary": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "maersk",
@@ -257,8 +238,8 @@
       "headline": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "10/06 às 10:22",
-      "dt_iso": "2026-06-10T13:22:09+00:00",
+      "time": "09/06 às 13:28",
+      "dt_iso": "2026-06-09T16:28:58+00:00",
       "summary": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
       "keywords": [
