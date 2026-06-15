@@ -1,15 +1,36 @@
 {
-  "gerado_em": "14/06/2026 às 04:18",
-  "total": 14,
+  "gerado_em": "15/06/2026 às 05:52",
+  "total": 16,
   "noticias": [
     {
+      "id": "ca00327bea",
+      "headline": "Guarulhos vira a “Faria Lima dos galpões” com metro quadrado logístico a R$ 37,11, mais caro que a capital paulista, enquanto Shopee, Mercado Livre, Amazon e fundos bilionários disputam espaço perto do maior aeroporto da América do Sul - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 22:54",
+      "dt_iso": "2026-06-15T01:54:00+00:00",
+      "summary": "Guarulhos vira a “Faria Lima dos galpões” com metro quadrado logístico a R$ 37,11, mais caro que a capital paulista, enquanto Shopee, Mercado Livre, Amazon e fundos bilionários disputam espaço perto do maior aeroporto da América do Sul &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "56d3c0ef1b",
-      "headline": "APS firma contrato para implantação de condomínio logístico no Porto de Santos - Santa Portal",
-      "source": "Santaportal",
-      "link": "https://santaportal.com.br",
-      "time": "ontem, 20:01",
-      "dt_iso": "2026-06-12T23:01:53+00:00",
-      "summary": "APS firma contrato para implantação de condomínio logístico no Porto de Santos &nbsp;&nbsp; Santa Portal",
+      "headline": "APS firma contrato para implantação de condomínio logístico no Porto de Santos - Porto de Santos",
+      "source": "Portodesantos",
+      "link": "https://www.portodesantos.com.br",
+      "time": "12/06 às 16:21",
+      "dt_iso": "2026-06-12T19:21:00+00:00",
+      "summary": "APS firma contrato para implantação de condomínio logístico no Porto de Santos &nbsp;&nbsp; Porto de Santos",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
@@ -62,18 +83,18 @@
       ]
     },
     {
-      "id": "566a49cf01",
-      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país - LegisWeb",
-      "source": "Legisweb",
-      "link": "https://www.legisweb.com.br",
-      "time": "09/06 às 11:10",
-      "dt_iso": "2026-06-09T14:10:05+00:00",
-      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem no país &nbsp;&nbsp; LegisWeb",
+      "id": "d6ebd3a073",
+      "headline": "Mercado Livre investe US$ 4,6 bilhões e mira expansão no México - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "10/06 às 16:53",
+      "dt_iso": "2026-06-10T19:53:28+00:00",
+      "summary": "Mercado Livre investe US$ 4,6 bilhões e mira expansão no México &nbsp;&nbsp; Exame",
       "category": "expansao",
       "keywords": [
-        "armazéns",
-        "armazenagem",
-        "expansão"
+        "mercado livre",
+        "expansão",
+        "investe"
       ],
       "score": 7,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -120,17 +141,36 @@
       ]
     },
     {
-      "id": "24bd02f6be",
-      "headline": "Campinas inaugura centro de distribuição de medicamentos e insumos - Hora Campinas",
-      "source": "Horacampinas",
-      "link": "https://horacampinas.com.br",
-      "time": "10/06 às 12:54",
-      "dt_iso": "2026-06-10T15:54:01+00:00",
-      "summary": "Campinas inaugura centro de distribuição de medicamentos e insumos &nbsp;&nbsp; Hora Campinas",
+      "id": "9efcffa3a3",
+      "headline": "Saúde de Campinas inaugura centro de distribuição para agilizar reposição de medicamentos e insumos nas unidades - Prefeitura de Campinas",
+      "source": "Campinas",
+      "link": "https://campinas.sp.gov.br",
+      "time": "10/06 às 12:16",
+      "dt_iso": "2026-06-10T15:16:37+00:00",
+      "summary": "Saúde de Campinas inaugura centro de distribuição para agilizar reposição de medicamentos e insumos nas unidades &nbsp;&nbsp; Prefeitura de Campinas",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
         "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "0e4844d60e",
+      "headline": "RD Saúde investe R$ 90 milhões em novo centro de distribuição em Itupeva - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "08/06 às 10:50",
+      "dt_iso": "2026-06-08T13:50:36+00:00",
+      "summary": "RD Saúde investe R$ 90 milhões em novo centro de distribuição em Itupeva &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investe"
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
@@ -158,35 +198,16 @@
       ]
     },
     {
-      "id": "0e4844d60e",
-      "headline": "RD Saúde investe R$ 90 milhões em novo centro de distribuição em Itupeva - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "08/06 às 10:50",
-      "dt_iso": "2026-06-08T13:50:36+00:00",
-      "summary": "RD Saúde investe R$ 90 milhões em novo centro de distribuição em Itupeva &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d73242898d",
-      "headline": "Embraer mira expansão na China e aposta nos jatos E2 para conquistar um dos maiores mercados de aviação do mundo - Cavok",
-      "source": "Cavok",
-      "link": "https://www.cavok.com.br",
-      "time": "08/06 às 15:00",
-      "dt_iso": "2026-06-08T18:00:00+00:00",
-      "summary": "Embraer mira expansão na China e aposta nos jatos E2 para conquistar um dos maiores mercados de aviação do mundo &nbsp;&nbsp; Cavok",
+      "id": "7adf4b9ced",
+      "headline": "Certificação de armazéns passa a ser voluntária e impulsiona expansão da infraestrutura de estocagem - Acrissul",
+      "source": "Acrissul",
+      "link": "https://www.acrissul.com.br",
+      "time": "08/06 às 16:13",
+      "dt_iso": "2026-06-08T19:13:00+00:00",
+      "summary": "Certificação de armazéns passa a ser voluntária e impulsiona expansão da infraestrutura de estocagem &nbsp;&nbsp; Acrissul",
       "category": "expansao",
       "keywords": [
-        "embraer",
+        "armazéns",
         "expansão"
       ],
       "score": 6,
@@ -238,8 +259,8 @@
       "headline": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "09/06 às 13:28",
-      "dt_iso": "2026-06-09T16:28:58+00:00",
+      "time": "10/06 às 10:22",
+      "dt_iso": "2026-06-10T13:22:09+00:00",
       "summary": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
       "keywords": [
@@ -264,6 +285,25 @@
       "keywords": [
         "assaí",
         "expande"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "223e8fc5da",
+      "headline": "Fundador da Petz compartilha lições sobre crescimento e gestão em encontros do LIDE Pernambuco - Folha PE",
+      "source": "Folhape",
+      "link": "https://www.folhape.com.br",
+      "time": "12/06 às 17:50",
+      "dt_iso": "2026-06-12T20:50:11+00:00",
+      "summary": "Fundador da Petz compartilha lições sobre crescimento e gestão em encontros do LIDE Pernambuco &nbsp;&nbsp; Folha PE",
+      "category": "logistica",
+      "keywords": [
+        "petz",
+        "crescimento"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
