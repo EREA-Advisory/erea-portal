@@ -1,13 +1,13 @@
 {
-  "gerado_em": "16/06/2026 às 05:41",
-  "total": 18,
+  "gerado_em": "17/06/2026 às 05:24",
+  "total": 20,
   "noticias": [
     {
       "id": "ca00327bea",
       "headline": "Guarulhos vira a “Faria Lima dos galpões” com metro quadrado logístico a R$ 37,11, mais caro que a capital paulista, enquanto Shopee, Mercado Livre, Amazon e fundos bilionários disputam espaço perto do maior aeroporto da América do Sul - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 22:54",
+      "time": "14/06 às 22:54",
       "dt_iso": "2026-06-15T01:54:00+00:00",
       "summary": "Guarulhos vira a “Faria Lima dos galpões” com metro quadrado logístico a R$ 37,11, mais caro que a capital paulista, enquanto Shopee, Mercado Livre, Amazon e fundos bilionários disputam espaço perto do maior aeroporto da América do Sul &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
@@ -28,7 +28,7 @@
       "headline": "Mercado Livre amplia entregas aos domingos e acelera expansão logística no Brasil - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 16:41",
+      "time": "ontem, 16:41",
       "dt_iso": "2026-06-15T19:41:27+00:00",
       "summary": "Mercado Livre amplia entregas aos domingos e acelera expansão logística no Brasil &nbsp;&nbsp; melhorinvestimento.net",
       "category": "expansao",
@@ -39,6 +39,46 @@
         "investimento"
       ],
       "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "09ed72253f",
+      "headline": "Delly’s inaugura novo Centro de Distribuição no RS e reforça expansão nacional da marca Fritz&Frida - expansao.co",
+      "source": "Expansao",
+      "link": "https://expansao.co",
+      "time": "hoje, 14:42",
+      "dt_iso": "2026-06-16T17:42:30+00:00",
+      "summary": "Delly’s inaugura novo Centro de Distribuição no RS e reforça expansão nacional da marca Fritz&amp;Frida &nbsp;&nbsp; expansao.co",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "c3f974cbb2",
+      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem - Conexão Safra",
+      "source": "Conexaosafra",
+      "link": "https://conexaosafra.com",
+      "time": "13/06 às 11:34",
+      "dt_iso": "2026-06-13T14:34:42+00:00",
+      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem &nbsp;&nbsp; Conexão Safra",
+      "category": "expansao",
+      "keywords": [
+        "armazéns",
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 7,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
@@ -64,33 +104,13 @@
       ]
     },
     {
-      "id": "d6ebd3a073",
-      "headline": "Mercado Livre investe US$ 4,6 bilhões e mira expansão no México - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "10/06 às 16:53",
-      "dt_iso": "2026-06-10T19:53:28+00:00",
-      "summary": "Mercado Livre investe US$ 4,6 bilhões e mira expansão no México &nbsp;&nbsp; Exame",
-      "category": "expansao",
-      "keywords": [
-        "mercado livre",
-        "expansão",
-        "investe"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "53a8208604",
-      "headline": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 - MundoLogística",
+      "headline": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 13:02",
+      "time": "ontem, 13:02",
       "dt_iso": "2026-06-15T16:02:12+00:00",
-      "summary": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 &nbsp;&nbsp; MundoLogística",
+      "summary": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -107,7 +127,7 @@
       "headline": "Justiça abre recuperação da dona da Tok&Stok e da Mobly por dívida de R$ 1,1 bi - PIRANOT",
       "source": "Piranot",
       "link": "https://www.piranot.com.br",
-      "time": "hoje, 11:40",
+      "time": "ontem, 11:40",
       "dt_iso": "2026-06-15T14:40:09+00:00",
       "summary": "Justiça abre recuperação da dona da Tok&amp;Stok e da Mobly por dívida de R$ 1,1 bi &nbsp;&nbsp; PIRANOT",
       "category": "logistica",
@@ -123,17 +143,55 @@
       ]
     },
     {
+      "id": "34b7c043bc",
+      "headline": "Senadora pede abertura de CPI para investigar Master e BMG",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/politica/senadora-pede-abertura-de-cpi-para-investigar-master-e-bmg/",
+      "time": "hoje, 22:05",
+      "dt_iso": "2026-06-17T01:05:23+00:00",
+      "summary": "A proposta conta com assinaturas de 29 parlamentares de nove partidos diferentes \n The post  Senadora pede abertura de CPI para investigar Master e BMG  appeared first on  InfoMoney .",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "abertura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "c53dc47677",
       "headline": "APS vai implantar condomínio logístico no Porto de Santos - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 08:50",
+      "time": "ontem, 08:50",
       "dt_iso": "2026-06-15T11:50:00+00:00",
       "summary": "APS vai implantar condomínio logístico no Porto de Santos &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
         "implanta"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "5ac7d40046",
+      "headline": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 13:55",
+      "dt_iso": "2026-06-16T16:55:24+00:00",
+      "summary": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -180,51 +238,13 @@
       ]
     },
     {
-      "id": "9efcffa3a3",
-      "headline": "Saúde de Campinas inaugura centro de distribuição para agilizar reposição de medicamentos e insumos nas unidades - Prefeitura de Campinas",
-      "source": "Campinas",
-      "link": "https://campinas.sp.gov.br",
-      "time": "10/06 às 12:16",
-      "dt_iso": "2026-06-10T15:16:37+00:00",
-      "summary": "Saúde de Campinas inaugura centro de distribuição para agilizar reposição de medicamentos e insumos nas unidades &nbsp;&nbsp; Prefeitura de Campinas",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "80e308df59",
-      "headline": "Cotripal inaugura novo Centro de Distribuição de Varejo em Panambi - Grupo Pilau",
-      "source": "Grupopilau",
-      "link": "https://www.grupopilau.com.br",
-      "time": "hoje, 13:04",
-      "dt_iso": "2026-06-15T16:04:47+00:00",
-      "summary": "Cotripal inaugura novo Centro de Distribuição de Varejo em Panambi &nbsp;&nbsp; Grupo Pilau",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "628ea1cb1e",
-      "headline": "Mercado Livre expande same day delivery para os domingos - MundoLogística",
+      "headline": "Mercado Livre expande same day delivery para os domingos - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 17:57",
+      "time": "ontem, 17:57",
       "dt_iso": "2026-06-15T20:57:19+00:00",
-      "summary": "Mercado Livre expande same day delivery para os domingos &nbsp;&nbsp; MundoLogística",
+      "summary": "Mercado Livre expande same day delivery para os domingos &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -241,7 +261,7 @@
       "headline": "Mercado Livre expande entregas no mesmo dia para domingos - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "hoje, 11:37",
+      "time": "ontem, 11:37",
       "dt_iso": "2026-06-15T14:37:49+00:00",
       "summary": "Mercado Livre expande entregas no mesmo dia para domingos &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
@@ -256,22 +276,22 @@
       ]
     },
     {
-      "id": "83d3b6bd7c",
-      "headline": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital - Portal Nosso Meio",
-      "source": "Nossomeio",
-      "link": "https://nossomeio.com.br",
-      "time": "09/06 às 15:49",
-      "dt_iso": "2026-06-09T18:49:00+00:00",
-      "summary": "Magalu passa a vender produtos na Amazon e amplia estratégia de distribuição digital &nbsp;&nbsp; Portal Nosso Meio",
-      "category": "ecommerce",
+      "id": "d8e5ed8b0f",
+      "headline": "Embraer (EMBJ3) e Latam revelam primeiro E2 e reforçam aposta em expansão de rotas no Brasil - Guia do Investidor",
+      "source": "Guiadoinvestidor",
+      "link": "https://guiadoinvestidor.com.br",
+      "time": "10/06 às 08:02",
+      "dt_iso": "2026-06-10T11:02:00+00:00",
+      "summary": "Embraer (EMBJ3) e Latam revelam primeiro E2 e reforçam aposta em expansão de rotas no Brasil &nbsp;&nbsp; Guia do Investidor",
+      "category": "expansao",
       "keywords": [
-        "magalu",
-        "amplia"
+        "embraer",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "E-commerce"
+        "Expansão"
       ]
     },
     {
@@ -298,7 +318,7 @@
       "headline": "Total Express reforça área comercial para acelerar crescimento - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "hoje, 11:57",
+      "time": "ontem, 11:57",
       "dt_iso": "2026-06-15T14:57:03+00:00",
       "summary": "Total Express reforça área comercial para acelerar crescimento &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
@@ -313,17 +333,36 @@
       ]
     },
     {
-      "id": "86f24ea44b",
-      "headline": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk - MundoLogística",
+      "id": "4a3fe58696",
+      "headline": "Frimesa inaugura centro de distribuição no Distrito Federal - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "09/06 às 08:45",
-      "dt_iso": "2026-06-09T11:45:43+00:00",
-      "summary": "99.4 Logística integrada na construção de cadeias resilientes — com Ricardo Rocha, da Maersk &nbsp;&nbsp; MundoLogística",
+      "time": "hoje, 10:57",
+      "dt_iso": "2026-06-16T13:57:08+00:00",
+      "summary": "Frimesa inaugura centro de distribuição no Distrito Federal &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
-        "maersk",
-        "construção"
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "59f206cc98",
+      "headline": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "hoje, 11:25",
+      "dt_iso": "2026-06-16T14:25:02+00:00",
+      "summary": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 &nbsp;&nbsp; Giro News",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "cresce"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
