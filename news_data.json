@@ -1,7 +1,49 @@
 {
-  "gerado_em": "17/06/2026 às 05:24",
-  "total": 20,
+  "gerado_em": "18/06/2026 às 04:29",
+  "total": 19,
   "noticias": [
+    {
+      "id": "2db23f87be",
+      "headline": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição - Globo Rural",
+      "source": "Globorural",
+      "link": "https://globorural.globo.com",
+      "time": "hoje, 17:19",
+      "dt_iso": "2026-06-17T20:19:03+00:00",
+      "summary": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição &nbsp;&nbsp; Globo Rural",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "amplia",
+        "ampliação",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "56d0a81123",
+      "headline": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil - InvestNews",
+      "source": "InvestNews",
+      "link": "https://investnews.com.br",
+      "time": "hoje, 06:00",
+      "dt_iso": "2026-06-17T09:00:00+00:00",
+      "summary": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil &nbsp;&nbsp; InvestNews",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
     {
       "id": "ca00327bea",
       "headline": "Guarulhos vira a “Faria Lima dos galpões” com metro quadrado logístico a R$ 37,11, mais caro que a capital paulista, enquanto Shopee, Mercado Livre, Amazon e fundos bilionários disputam espaço perto do maior aeroporto da América do Sul - CPG Click Petróleo e Gás",
@@ -28,7 +70,7 @@
       "headline": "Mercado Livre amplia entregas aos domingos e acelera expansão logística no Brasil - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "ontem, 16:41",
+      "time": "15/06 às 16:41",
       "dt_iso": "2026-06-15T19:41:27+00:00",
       "summary": "Mercado Livre amplia entregas aos domingos e acelera expansão logística no Brasil &nbsp;&nbsp; melhorinvestimento.net",
       "category": "expansao",
@@ -48,8 +90,8 @@
       "id": "09ed72253f",
       "headline": "Delly’s inaugura novo Centro de Distribuição no RS e reforça expansão nacional da marca Fritz&Frida - expansao.co",
       "source": "Expansao",
-      "link": "https://expansao.co",
-      "time": "hoje, 14:42",
+      "link": "https://www.expansao.co",
+      "time": "ontem, 14:42",
       "dt_iso": "2026-06-16T17:42:30+00:00",
       "summary": "Delly’s inaugura novo Centro de Distribuição no RS e reforça expansão nacional da marca Fritz&amp;Frida &nbsp;&nbsp; expansao.co",
       "category": "expansao",
@@ -60,26 +102,6 @@
       ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "c3f974cbb2",
-      "headline": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem - Conexão Safra",
-      "source": "Conexaosafra",
-      "link": "https://conexaosafra.com",
-      "time": "13/06 às 11:34",
-      "dt_iso": "2026-06-13T14:34:42+00:00",
-      "summary": "Nova lei torna voluntária a certificação de armazéns e impulsiona expansão da infraestrutura de armazenagem &nbsp;&nbsp; Conexão Safra",
-      "category": "expansao",
-      "keywords": [
-        "armazéns",
-        "armazenagem",
-        "expansão"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -108,7 +130,7 @@
       "headline": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 13:02",
+      "time": "15/06 às 13:02",
       "dt_iso": "2026-06-15T16:02:12+00:00",
       "summary": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -127,7 +149,7 @@
       "headline": "Justiça abre recuperação da dona da Tok&Stok e da Mobly por dívida de R$ 1,1 bi - PIRANOT",
       "source": "Piranot",
       "link": "https://www.piranot.com.br",
-      "time": "ontem, 11:40",
+      "time": "15/06 às 11:40",
       "dt_iso": "2026-06-15T14:40:09+00:00",
       "summary": "Justiça abre recuperação da dona da Tok&amp;Stok e da Mobly por dívida de R$ 1,1 bi &nbsp;&nbsp; PIRANOT",
       "category": "logistica",
@@ -143,19 +165,20 @@
       ]
     },
     {
-      "id": "34b7c043bc",
-      "headline": "Senadora pede abertura de CPI para investigar Master e BMG",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/politica/senadora-pede-abertura-de-cpi-para-investigar-master-e-bmg/",
-      "time": "hoje, 22:05",
-      "dt_iso": "2026-06-17T01:05:23+00:00",
-      "summary": "A proposta conta com assinaturas de 29 parlamentares de nove partidos diferentes \n The post  Senadora pede abertura de CPI para investigar Master e BMG  appeared first on  InfoMoney .",
+      "id": "7e21656293",
+      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "ontem, 00:45",
+      "dt_iso": "2026-06-17T03:45:24+00:00",
+      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
       "category": "logistica",
       "keywords": [
-        "natura",
-        "abertura"
+        "magalu",
+        "investimento",
+        "investimentos"
       ],
-      "score": 6,
+      "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
@@ -166,7 +189,7 @@
       "headline": "APS vai implantar condomínio logístico no Porto de Santos - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 08:50",
+      "time": "15/06 às 08:50",
       "dt_iso": "2026-06-15T11:50:00+00:00",
       "summary": "APS vai implantar condomínio logístico no Porto de Santos &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -185,7 +208,7 @@
       "headline": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 13:55",
+      "time": "ontem, 13:55",
       "dt_iso": "2026-06-16T16:55:24+00:00",
       "summary": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -200,144 +223,11 @@
       ]
     },
     {
-      "id": "3bd9f90683",
-      "headline": "Fundo imobiliário conclui compra de galpão por R$ 56 milhões e amplia aposta no Nordeste; IFIX recua - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "10/06 às 08:08",
-      "dt_iso": "2026-06-10T11:08:23+00:00",
-      "summary": "Fundo imobiliário conclui compra de galpão por R$ 56 milhões e amplia aposta no Nordeste; IFIX recua &nbsp;&nbsp; Money Times",
-      "category": "investimento",
-      "keywords": [
-        "galpão",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "e00d906b12",
-      "headline": "VILG11 conclui aquisição de galpão logístico em Pernambuco por R$ 56,2 milhões - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "10/06 às 17:36",
-      "dt_iso": "2026-06-10T20:36:56+00:00",
-      "summary": "VILG11 conclui aquisição de galpão logístico em Pernambuco por R$ 56,2 milhões &nbsp;&nbsp; melhorinvestimento.net",
-      "category": "industrial",
-      "keywords": [
-        "galpão",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Industrial"
-      ]
-    },
-    {
-      "id": "628ea1cb1e",
-      "headline": "Mercado Livre expande same day delivery para os domingos - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "ontem, 17:57",
-      "dt_iso": "2026-06-15T20:57:19+00:00",
-      "summary": "Mercado Livre expande same day delivery para os domingos &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "56118574aa",
-      "headline": "Mercado Livre expande entregas no mesmo dia para domingos - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "ontem, 11:37",
-      "dt_iso": "2026-06-15T14:37:49+00:00",
-      "summary": "Mercado Livre expande entregas no mesmo dia para domingos &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "d8e5ed8b0f",
-      "headline": "Embraer (EMBJ3) e Latam revelam primeiro E2 e reforçam aposta em expansão de rotas no Brasil - Guia do Investidor",
-      "source": "Guiadoinvestidor",
-      "link": "https://guiadoinvestidor.com.br",
-      "time": "10/06 às 08:02",
-      "dt_iso": "2026-06-10T11:02:00+00:00",
-      "summary": "Embraer (EMBJ3) e Latam revelam primeiro E2 e reforçam aposta em expansão de rotas no Brasil &nbsp;&nbsp; Guia do Investidor",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "2663885afd",
-      "headline": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "10/06 às 10:22",
-      "dt_iso": "2026-06-10T13:22:09+00:00",
-      "summary": "JPMorgan: parceria do Magazine Luiza com a Amazon amplia alcance digital da companhia &nbsp;&nbsp; InfoMoney",
-      "category": "ecommerce",
-      "keywords": [
-        "magazine luiza",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "0776d50ac1",
-      "headline": "Total Express reforça área comercial para acelerar crescimento - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "ontem, 11:57",
-      "dt_iso": "2026-06-15T14:57:03+00:00",
-      "summary": "Total Express reforça área comercial para acelerar crescimento &nbsp;&nbsp; Transporte Moderno",
-      "category": "logistica",
-      "keywords": [
-        "total express",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "4a3fe58696",
       "headline": "Frimesa inaugura centro de distribuição no Distrito Federal - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 10:57",
+      "time": "ontem, 10:57",
       "dt_iso": "2026-06-16T13:57:08+00:00",
       "summary": "Frimesa inaugura centro de distribuição no Distrito Federal &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -352,17 +242,74 @@
       ]
     },
     {
-      "id": "59f206cc98",
-      "headline": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "hoje, 11:25",
-      "dt_iso": "2026-06-16T14:25:02+00:00",
-      "summary": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 &nbsp;&nbsp; Giro News",
+      "id": "80e308df59",
+      "headline": "Cotripal inaugura novo Centro de Distribuição de Varejo em Panambi - Grupo Pilau",
+      "source": "Grupopilau",
+      "link": "https://www.grupopilau.com.br",
+      "time": "15/06 às 13:04",
+      "dt_iso": "2026-06-15T16:04:47+00:00",
+      "summary": "Cotripal inaugura novo Centro de Distribuição de Varejo em Panambi &nbsp;&nbsp; Grupo Pilau",
       "category": "logistica",
       "keywords": [
-        "assaí",
-        "cresce"
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "8d233556d3",
+      "headline": "Grupo Zaffari reforça expansão, inovação e experiências na Exposhopping 2026 - expansao.co",
+      "source": "Expansao",
+      "link": "https://www.expansao.co",
+      "time": "ontem, 14:39",
+      "dt_iso": "2026-06-16T17:39:20+00:00",
+      "summary": "Grupo Zaffari reforça expansão, inovação e experiências na Exposhopping 2026 &nbsp;&nbsp; expansao.co",
+      "category": "expansao",
+      "keywords": [
+        "grupo zaffari",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "56118574aa",
+      "headline": "Mercado Livre expande entregas no mesmo dia para domingos - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "15/06 às 11:37",
+      "dt_iso": "2026-06-15T14:37:49+00:00",
+      "summary": "Mercado Livre expande entregas no mesmo dia para domingos &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "628ea1cb1e",
+      "headline": "Mercado Livre expande same day delivery para os domingos - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "15/06 às 17:57",
+      "dt_iso": "2026-06-15T20:57:19+00:00",
+      "summary": "Mercado Livre expande same day delivery para os domingos &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "expande"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -371,17 +318,55 @@
       ]
     },
     {
-      "id": "223e8fc5da",
-      "headline": "Fundador da Petz compartilha lições sobre crescimento e gestão em encontros do LIDE Pernambuco - Folha PE",
-      "source": "Folhape",
-      "link": "https://www.folhape.com.br",
-      "time": "12/06 às 17:50",
-      "dt_iso": "2026-06-12T20:50:11+00:00",
-      "summary": "Fundador da Petz compartilha lições sobre crescimento e gestão em encontros do LIDE Pernambuco &nbsp;&nbsp; Folha PE",
+      "id": "9948ee8ae9",
+      "headline": "Expansão de condomínios logísticos impulsiona economia regional - Minas Informa",
+      "source": "Minasinforma",
+      "link": "https://minasinforma.com",
+      "time": "hoje, 16:12",
+      "dt_iso": "2026-06-17T19:12:31+00:00",
+      "summary": "Expansão de condomínios logísticos impulsiona economia regional &nbsp;&nbsp; Minas Informa",
+      "category": "expansao",
+      "keywords": [
+        "condomínios logísticos",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "0776d50ac1",
+      "headline": "Total Express reforça área comercial para acelerar crescimento - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "15/06 às 11:57",
+      "dt_iso": "2026-06-15T14:57:03+00:00",
+      "summary": "Total Express reforça área comercial para acelerar crescimento &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
       "keywords": [
-        "petz",
+        "total express",
         "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "59f206cc98",
+      "headline": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 - Sincovaga Notícias",
+      "source": "Sincovaganoticias",
+      "link": "https://www.sincovaganoticias.com.br",
+      "time": "hoje, 12:26",
+      "dt_iso": "2026-06-17T15:26:00+00:00",
+      "summary": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 &nbsp;&nbsp; Sincovaga Notícias",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "cresce"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
