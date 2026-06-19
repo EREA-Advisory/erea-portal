@@ -1,13 +1,13 @@
 {
-  "gerado_em": "18/06/2026 às 04:29",
-  "total": 19,
+  "gerado_em": "19/06/2026 às 05:27",
+  "total": 16,
   "noticias": [
     {
       "id": "2db23f87be",
       "headline": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição - Globo Rural",
       "source": "Globorural",
       "link": "https://globorural.globo.com",
-      "time": "hoje, 17:19",
+      "time": "ontem, 17:19",
       "dt_iso": "2026-06-17T20:19:03+00:00",
       "summary": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição &nbsp;&nbsp; Globo Rural",
       "category": "expansao",
@@ -28,7 +28,7 @@
       "headline": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "hoje, 06:00",
+      "time": "ontem, 06:00",
       "dt_iso": "2026-06-17T09:00:00+00:00",
       "summary": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil &nbsp;&nbsp; InvestNews",
       "category": "ecommerce",
@@ -91,7 +91,7 @@
       "headline": "Delly’s inaugura novo Centro de Distribuição no RS e reforça expansão nacional da marca Fritz&Frida - expansao.co",
       "source": "Expansao",
       "link": "https://www.expansao.co",
-      "time": "ontem, 14:42",
+      "time": "16/06 às 14:42",
       "dt_iso": "2026-06-16T17:42:30+00:00",
       "summary": "Delly’s inaugura novo Centro de Distribuição no RS e reforça expansão nacional da marca Fritz&amp;Frida &nbsp;&nbsp; expansao.co",
       "category": "expansao",
@@ -104,25 +104,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "db746eabcb",
-      "headline": "Amazon adiciona 240 hubs logísticos ao Brasil em 18 meses e desafia Mercado Livre - BPMoney",
-      "source": "Bpmoney",
-      "link": "https://bpmoney.com.br",
-      "time": "11/06 às 15:54",
-      "dt_iso": "2026-06-11T18:54:30+00:00",
-      "summary": "Amazon adiciona 240 hubs logísticos ao Brasil em 18 meses e desafia Mercado Livre &nbsp;&nbsp; BPMoney",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "hubs logísticos"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -165,26 +146,6 @@
       ]
     },
     {
-      "id": "7e21656293",
-      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
-      "source": "Nordinvestimentos",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 00:45",
-      "dt_iso": "2026-06-17T03:45:24+00:00",
-      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "c53dc47677",
       "headline": "APS vai implantar condomínio logístico no Porto de Santos - Modais em Foco",
       "source": "Modais em Foco",
@@ -204,30 +165,11 @@
       ]
     },
     {
-      "id": "5ac7d40046",
-      "headline": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "ontem, 13:55",
-      "dt_iso": "2026-06-16T16:55:24+00:00",
-      "summary": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "4a3fe58696",
       "headline": "Frimesa inaugura centro de distribuição no Distrito Federal - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 10:57",
+      "time": "16/06 às 10:57",
       "dt_iso": "2026-06-16T13:57:08+00:00",
       "summary": "Frimesa inaugura centro de distribuição no Distrito Federal &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -258,25 +200,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "8d233556d3",
-      "headline": "Grupo Zaffari reforça expansão, inovação e experiências na Exposhopping 2026 - expansao.co",
-      "source": "Expansao",
-      "link": "https://www.expansao.co",
-      "time": "ontem, 14:39",
-      "dt_iso": "2026-06-16T17:39:20+00:00",
-      "summary": "Grupo Zaffari reforça expansão, inovação e experiências na Exposhopping 2026 &nbsp;&nbsp; expansao.co",
-      "category": "expansao",
-      "keywords": [
-        "grupo zaffari",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -322,7 +245,7 @@
       "headline": "Expansão de condomínios logísticos impulsiona economia regional - Minas Informa",
       "source": "Minasinforma",
       "link": "https://minasinforma.com",
-      "time": "hoje, 16:12",
+      "time": "ontem, 16:12",
       "dt_iso": "2026-06-17T19:12:31+00:00",
       "summary": "Expansão de condomínios logísticos impulsiona economia regional &nbsp;&nbsp; Minas Informa",
       "category": "expansao",
@@ -356,11 +279,30 @@
       ]
     },
     {
+      "id": "5ac7d40046",
+      "headline": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "16/06 às 13:55",
+      "dt_iso": "2026-06-16T16:55:24+00:00",
+      "summary": "FedEx amplia operação rodoviária internacional e passa a atender rota entre Brasil e Paraguai &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "59f206cc98",
       "headline": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 - Sincovaga Notícias",
       "source": "Sincovaganoticias",
       "link": "https://www.sincovaganoticias.com.br",
-      "time": "hoje, 12:26",
+      "time": "ontem, 12:26",
       "dt_iso": "2026-06-17T15:26:00+00:00",
       "summary": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 &nbsp;&nbsp; Sincovaga Notícias",
       "category": "logistica",
