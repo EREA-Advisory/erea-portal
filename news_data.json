@@ -1,13 +1,13 @@
 {
-  "gerado_em": "19/06/2026 às 05:27",
-  "total": 16,
+  "gerado_em": "20/06/2026 às 03:56",
+  "total": 22,
   "noticias": [
     {
       "id": "2db23f87be",
       "headline": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição - Globo Rural",
       "source": "Globorural",
       "link": "https://globorural.globo.com",
-      "time": "ontem, 17:19",
+      "time": "17/06 às 17:19",
       "dt_iso": "2026-06-17T20:19:03+00:00",
       "summary": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição &nbsp;&nbsp; Globo Rural",
       "category": "expansao",
@@ -28,7 +28,7 @@
       "headline": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "ontem, 06:00",
+      "time": "17/06 às 06:00",
       "dt_iso": "2026-06-17T09:00:00+00:00",
       "summary": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil &nbsp;&nbsp; InvestNews",
       "category": "ecommerce",
@@ -107,6 +107,26 @@
       ]
     },
     {
+      "id": "56d3c0ef1b",
+      "headline": "APS firma contrato para implantação de condomínio logístico no Porto de Santos - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "16/06 às 10:33",
+      "dt_iso": "2026-06-16T13:33:11+00:00",
+      "summary": "APS firma contrato para implantação de condomínio logístico no Porto de Santos &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "implanta",
+        "implantação"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "53a8208604",
       "headline": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 - Mundo Logística",
       "source": "Mundo Logística",
@@ -146,20 +166,40 @@
       ]
     },
     {
-      "id": "c53dc47677",
-      "headline": "APS vai implantar condomínio logístico no Porto de Santos - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "15/06 às 08:50",
-      "dt_iso": "2026-06-15T11:50:00+00:00",
-      "summary": "APS vai implantar condomínio logístico no Porto de Santos &nbsp;&nbsp; Modais em Foco",
+      "id": "7e21656293",
+      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "ontem, 04:00",
+      "dt_iso": "2026-06-18T07:00:00+00:00",
+      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
       "category": "logistica",
       "keywords": [
-        "condomínio logístico",
-        "implanta"
+        "magalu",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "9f7bf5bdea",
+      "headline": "Obras do Centro de Distribuição Logístico da Embasa avançam em Feira de Santana com investimento de R$ 21,7 milhões - Jornal Grande Bahia",
+      "source": "Jornalgrandebahia",
+      "link": "https://jornalgrandebahia.com.br",
+      "time": "ontem, 05:00",
+      "dt_iso": "2026-06-18T08:00:14+00:00",
+      "summary": "Obras do Centro de Distribuição Logístico da Embasa avançam em Feira de Santana com investimento de R$ 21,7 milhões &nbsp;&nbsp; Jornal Grande Bahia",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investimento"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -222,6 +262,25 @@
       ]
     },
     {
+      "id": "e6251d3ab7",
+      "headline": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "hoje, 12:01",
+      "dt_iso": "2026-06-19T15:01:04+00:00",
+      "summary": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "expansao",
+      "keywords": [
+        "hubs logísticos",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "628ea1cb1e",
       "headline": "Mercado Livre expande same day delivery para os domingos - Mundo Logística",
       "source": "Mundo Logística",
@@ -241,11 +300,30 @@
       ]
     },
     {
+      "id": "d428faaa10",
+      "headline": "Braspress Air Cargo anuncia expansão com voos noturnos para agilizar transporte de cargas - AEROIN",
+      "source": "Aeroin",
+      "link": "https://aeroin.net",
+      "time": "17/06 às 07:09",
+      "dt_iso": "2026-06-17T10:09:00+00:00",
+      "summary": "Braspress Air Cargo anuncia expansão com voos noturnos para agilizar transporte de cargas &nbsp;&nbsp; AEROIN",
+      "category": "expansao",
+      "keywords": [
+        "braspress",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "9948ee8ae9",
       "headline": "Expansão de condomínios logísticos impulsiona economia regional - Minas Informa",
       "source": "Minasinforma",
       "link": "https://minasinforma.com",
-      "time": "ontem, 16:12",
+      "time": "17/06 às 16:12",
       "dt_iso": "2026-06-17T19:12:31+00:00",
       "summary": "Expansão de condomínios logísticos impulsiona economia regional &nbsp;&nbsp; Minas Informa",
       "category": "expansao",
@@ -298,17 +376,55 @@
       ]
     },
     {
+      "id": "9172de6601",
+      "headline": "IG4 Capital: conheça a gestora que 'gosta de problemas' e investiu na Braskem e na Raízen - O Globo",
+      "source": "O Globo",
+      "link": "https://oglobo.globo.com",
+      "time": "ontem, 12:49",
+      "dt_iso": "2026-06-18T15:49:38+00:00",
+      "summary": "IG4 Capital: conheça a gestora que 'gosta de problemas' e investiu na Braskem e na Raízen &nbsp;&nbsp; O Globo",
+      "category": "logistica",
+      "keywords": [
+        "braskem",
+        "investiu"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "59f206cc98",
       "headline": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 - Sincovaga Notícias",
       "source": "Sincovaganoticias",
       "link": "https://www.sincovaganoticias.com.br",
-      "time": "ontem, 12:26",
+      "time": "17/06 às 12:26",
       "dt_iso": "2026-06-17T15:26:00+00:00",
       "summary": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 &nbsp;&nbsp; Sincovaga Notícias",
       "category": "logistica",
       "keywords": [
         "assaí",
         "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "eb75e558e2",
+      "headline": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "hoje, 13:17",
+      "dt_iso": "2026-06-19T16:17:16+00:00",
+      "summary": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil &nbsp;&nbsp; Exame",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "expande"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
