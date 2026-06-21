@@ -1,6 +1,6 @@
 {
-  "gerado_em": "20/06/2026 às 03:56",
-  "total": 22,
+  "gerado_em": "21/06/2026 às 04:27",
+  "total": 21,
   "noticias": [
     {
       "id": "2db23f87be",
@@ -170,7 +170,7 @@
       "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 04:00",
+      "time": "18/06 às 04:00",
       "dt_iso": "2026-06-18T07:00:00+00:00",
       "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
       "category": "logistica",
@@ -190,7 +190,7 @@
       "headline": "Obras do Centro de Distribuição Logístico da Embasa avançam em Feira de Santana com investimento de R$ 21,7 milhões - Jornal Grande Bahia",
       "source": "Jornalgrandebahia",
       "link": "https://jornalgrandebahia.com.br",
-      "time": "ontem, 05:00",
+      "time": "18/06 às 05:00",
       "dt_iso": "2026-06-18T08:00:14+00:00",
       "summary": "Obras do Centro de Distribuição Logístico da Embasa avançam em Feira de Santana com investimento de R$ 21,7 milhões &nbsp;&nbsp; Jornal Grande Bahia",
       "category": "logistica",
@@ -243,6 +243,25 @@
       ]
     },
     {
+      "id": "940e70a7a5",
+      "headline": "Maior rede de supermercados do país, Mercadona inaugura armazém semiautomatizado de R$ 320 milhões com 70 robôs e 32 mil m², onde produtos vão até os funcionários para acelerar até 5 mil pedidos por dia na nova colmeia de Vallecas - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 20:00",
+      "dt_iso": "2026-06-20T23:00:00+00:00",
+      "summary": "Maior rede de supermercados do país, Mercadona inaugura armazém semiautomatizado de R$ 320 milhões com 70 robôs e 32 mil m², onde produtos vão até os funcionários para acelerar até 5 mil pedidos por dia na nova colmeia de Vallecas &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
+      "keywords": [
+        "armazém",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "56118574aa",
       "headline": "Mercado Livre expande entregas no mesmo dia para domingos - E-Commerce Brasil",
       "source": "E-commerce Brasil",
@@ -266,7 +285,7 @@
       "headline": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "hoje, 12:01",
+      "time": "ontem, 12:01",
       "dt_iso": "2026-06-19T15:01:04+00:00",
       "summary": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce &nbsp;&nbsp; E-Commerce Brasil",
       "category": "expansao",
@@ -319,25 +338,6 @@
       ]
     },
     {
-      "id": "9948ee8ae9",
-      "headline": "Expansão de condomínios logísticos impulsiona economia regional - Minas Informa",
-      "source": "Minasinforma",
-      "link": "https://minasinforma.com",
-      "time": "17/06 às 16:12",
-      "dt_iso": "2026-06-17T19:12:31+00:00",
-      "summary": "Expansão de condomínios logísticos impulsiona economia regional &nbsp;&nbsp; Minas Informa",
-      "category": "expansao",
-      "keywords": [
-        "condomínios logísticos",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "0776d50ac1",
       "headline": "Total Express reforça área comercial para acelerar crescimento - Transporte Moderno",
       "source": "Transportemoderno",
@@ -380,7 +380,7 @@
       "headline": "IG4 Capital: conheça a gestora que 'gosta de problemas' e investiu na Braskem e na Raízen - O Globo",
       "source": "O Globo",
       "link": "https://oglobo.globo.com",
-      "time": "ontem, 12:49",
+      "time": "18/06 às 12:49",
       "dt_iso": "2026-06-18T15:49:38+00:00",
       "summary": "IG4 Capital: conheça a gestora que 'gosta de problemas' e investiu na Braskem e na Raízen &nbsp;&nbsp; O Globo",
       "category": "logistica",
@@ -395,30 +395,11 @@
       ]
     },
     {
-      "id": "59f206cc98",
-      "headline": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 - Sincovaga Notícias",
-      "source": "Sincovaganoticias",
-      "link": "https://www.sincovaganoticias.com.br",
-      "time": "17/06 às 12:26",
-      "dt_iso": "2026-06-17T15:26:00+00:00",
-      "summary": "Assaí cresce 43,2% em valor de marca e lidera o varejo alimentar no Brand Finance 2026 &nbsp;&nbsp; Sincovaga Notícias",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "eb75e558e2",
       "headline": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "hoje, 13:17",
+      "time": "ontem, 13:17",
       "dt_iso": "2026-06-19T16:17:16+00:00",
       "summary": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil &nbsp;&nbsp; Exame",
       "category": "logistica",
