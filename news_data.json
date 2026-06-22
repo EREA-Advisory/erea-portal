@@ -1,15 +1,37 @@
 {
-  "gerado_em": "21/06/2026 às 04:27",
-  "total": 21,
+  "gerado_em": "22/06/2026 às 05:52",
+  "total": 22,
   "noticias": [
     {
-      "id": "2db23f87be",
-      "headline": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição - Globo Rural",
-      "source": "Globorural",
-      "link": "https://globorural.globo.com",
-      "time": "17/06 às 17:19",
-      "dt_iso": "2026-06-17T20:19:03+00:00",
-      "summary": "Unifrango investe R$ 20 milhões em ampliação de centro de distribuição &nbsp;&nbsp; Globo Rural",
+      "id": "31e249cb8d",
+      "headline": "Total Express amplia fulfillment e projeta crescimento de 55% em 2026 - Mobilidade Sampa",
+      "source": "Mobilidadesampa",
+      "link": "https://mobilidadesampa.com.br",
+      "time": "hoje, 11:56",
+      "dt_iso": "2026-06-21T14:56:47+00:00",
+      "summary": "Total Express amplia fulfillment e projeta crescimento de 55% em 2026 &nbsp;&nbsp; Mobilidade Sampa",
+      "category": "logistica",
+      "keywords": [
+        "total express",
+        "fulfillment",
+        "amplia",
+        "crescimento"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "0300ee9af9",
+      "headline": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição - avinews.com",
+      "source": "Avinews",
+      "link": "https://avinews.com",
+      "time": "19/06 às 10:35",
+      "dt_iso": "2026-06-19T13:35:47+00:00",
+      "summary": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição &nbsp;&nbsp; avinews.com",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -45,24 +67,24 @@
       ]
     },
     {
-      "id": "ca00327bea",
-      "headline": "Guarulhos vira a “Faria Lima dos galpões” com metro quadrado logístico a R$ 37,11, mais caro que a capital paulista, enquanto Shopee, Mercado Livre, Amazon e fundos bilionários disputam espaço perto do maior aeroporto da América do Sul - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "14/06 às 22:54",
-      "dt_iso": "2026-06-15T01:54:00+00:00",
-      "summary": "Guarulhos vira a “Faria Lima dos galpões” com metro quadrado logístico a R$ 37,11, mais caro que a capital paulista, enquanto Shopee, Mercado Livre, Amazon e fundos bilionários disputam espaço perto do maior aeroporto da América do Sul &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
+      "id": "c2c2f4f28d",
+      "headline": "CLAS Condomínio Logístico de Armazenagem | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "ontem, 04:50",
+      "dt_iso": "2026-06-21T07:50:58+00:00",
+      "summary": "CLAS Condomínio Logístico de Armazenagem | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "shopee",
-        "galpões"
+        "galpão",
+        "armazenagem",
+        "condomínio logístico",
+        "locação"
       ],
       "score": 8,
-      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Destaque",
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -84,6 +106,27 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "4ef2ba4945",
+      "headline": "Dona da Tok&Stok e da Mobly diz que Justiça aprovou processamento do pedido de recuperação judicial Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "15/06 às 10:00",
+      "dt_iso": "2026-06-15T13:00:00+00:00",
+      "summary": "Dona da Tok&amp;Stok e da Mobly diz que Justiça aprovou processamento do pedido de recuperação judicial Por Reuters &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "alerta",
+      "keywords": [
+        "tok&stok",
+        "mobly",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Alerta"
       ]
     },
     {
@@ -146,26 +189,6 @@
       ]
     },
     {
-      "id": "e8f6106b84",
-      "headline": "Justiça abre recuperação da dona da Tok&Stok e da Mobly por dívida de R$ 1,1 bi - PIRANOT",
-      "source": "Piranot",
-      "link": "https://www.piranot.com.br",
-      "time": "15/06 às 11:40",
-      "dt_iso": "2026-06-15T14:40:09+00:00",
-      "summary": "Justiça abre recuperação da dona da Tok&amp;Stok e da Mobly por dívida de R$ 1,1 bi &nbsp;&nbsp; PIRANOT",
-      "category": "logistica",
-      "keywords": [
-        "tok&stok",
-        "mobly",
-        "abre"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "7e21656293",
       "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
       "source": "Nordinvestimentos",
@@ -180,6 +203,25 @@
         "investimentos"
       ],
       "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "999f7364fc",
+      "headline": "Cajamar Centro Logístico - CCL | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "hoje, 18:52",
+      "dt_iso": "2026-06-21T21:52:10+00:00",
+      "summary": "Cajamar Centro Logístico - CCL | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
@@ -243,49 +285,11 @@
       ]
     },
     {
-      "id": "940e70a7a5",
-      "headline": "Maior rede de supermercados do país, Mercadona inaugura armazém semiautomatizado de R$ 320 milhões com 70 robôs e 32 mil m², onde produtos vão até os funcionários para acelerar até 5 mil pedidos por dia na nova colmeia de Vallecas - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 20:00",
-      "dt_iso": "2026-06-20T23:00:00+00:00",
-      "summary": "Maior rede de supermercados do país, Mercadona inaugura armazém semiautomatizado de R$ 320 milhões com 70 robôs e 32 mil m², onde produtos vão até os funcionários para acelerar até 5 mil pedidos por dia na nova colmeia de Vallecas &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "logistica",
-      "keywords": [
-        "armazém",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "56118574aa",
-      "headline": "Mercado Livre expande entregas no mesmo dia para domingos - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "15/06 às 11:37",
-      "dt_iso": "2026-06-15T14:37:49+00:00",
-      "summary": "Mercado Livre expande entregas no mesmo dia para domingos &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "e6251d3ab7",
       "headline": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "ontem, 12:01",
+      "time": "19/06 às 12:01",
       "dt_iso": "2026-06-19T15:01:04+00:00",
       "summary": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce &nbsp;&nbsp; E-Commerce Brasil",
       "category": "expansao",
@@ -316,6 +320,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "56118574aa",
+      "headline": "Mercado Livre expande entregas no mesmo dia para domingos - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "15/06 às 11:37",
+      "dt_iso": "2026-06-15T14:37:49+00:00",
+      "summary": "Mercado Livre expande entregas no mesmo dia para domingos &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -399,7 +422,7 @@
       "headline": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "ontem, 13:17",
+      "time": "19/06 às 13:17",
       "dt_iso": "2026-06-19T16:17:16+00:00",
       "summary": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil &nbsp;&nbsp; Exame",
       "category": "logistica",
