@@ -1,13 +1,13 @@
 {
-  "gerado_em": "22/06/2026 às 05:52",
-  "total": 22,
+  "gerado_em": "23/06/2026 às 03:42",
+  "total": 25,
   "noticias": [
     {
       "id": "31e249cb8d",
       "headline": "Total Express amplia fulfillment e projeta crescimento de 55% em 2026 - Mobilidade Sampa",
       "source": "Mobilidadesampa",
       "link": "https://mobilidadesampa.com.br",
-      "time": "hoje, 11:56",
+      "time": "ontem, 11:56",
       "dt_iso": "2026-06-21T14:56:47+00:00",
       "summary": "Total Express amplia fulfillment e projeta crescimento de 55% em 2026 &nbsp;&nbsp; Mobilidade Sampa",
       "category": "logistica",
@@ -22,27 +22,6 @@
       "badges": [
         "Destaque",
         "Logística"
-      ]
-    },
-    {
-      "id": "0300ee9af9",
-      "headline": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição - avinews.com",
-      "source": "Avinews",
-      "link": "https://avinews.com",
-      "time": "19/06 às 10:35",
-      "dt_iso": "2026-06-19T13:35:47+00:00",
-      "summary": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição &nbsp;&nbsp; avinews.com",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "amplia",
-        "ampliação",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -88,45 +67,24 @@
       ]
     },
     {
-      "id": "b5ce692784",
-      "headline": "Mercado Livre amplia entregas aos domingos e acelera expansão logística no Brasil - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "15/06 às 16:41",
-      "dt_iso": "2026-06-15T19:41:27+00:00",
-      "summary": "Mercado Livre amplia entregas aos domingos e acelera expansão logística no Brasil &nbsp;&nbsp; melhorinvestimento.net",
+      "id": "0300ee9af9",
+      "headline": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição - Angelo Rigon",
+      "source": "Angelorigon",
+      "link": "https://angelorigon.com.br",
+      "time": "18/06 às 11:39",
+      "dt_iso": "2026-06-18T14:39:19+00:00",
+      "summary": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição &nbsp;&nbsp; Angelo Rigon",
       "category": "expansao",
       "keywords": [
-        "mercado livre",
-        "expansão",
+        "centro de distribuição",
         "amplia",
-        "investimento"
+        "ampliação",
+        "investe"
       ],
       "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "4ef2ba4945",
-      "headline": "Dona da Tok&Stok e da Mobly diz que Justiça aprovou processamento do pedido de recuperação judicial Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Google News",
-      "link": "https://br.investing.com",
-      "time": "15/06 às 10:00",
-      "dt_iso": "2026-06-15T13:00:00+00:00",
-      "summary": "Dona da Tok&amp;Stok e da Mobly diz que Justiça aprovou processamento do pedido de recuperação judicial Por Reuters &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "category": "alerta",
-      "keywords": [
-        "tok&stok",
-        "mobly",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Alerta"
       ]
     },
     {
@@ -150,6 +108,26 @@
       ]
     },
     {
+      "id": "eb692b962f",
+      "headline": "Mercado Livre, Shopee e TikTok Shop ampliam disputa e pressionam sellers no Brasil - Revista Empreende",
+      "source": "Revistaempreende",
+      "link": "https://revistaempreende.com.br",
+      "time": "hoje, 17:21",
+      "dt_iso": "2026-06-22T20:21:00+00:00",
+      "summary": "Mercado Livre, Shopee e TikTok Shop ampliam disputa e pressionam sellers no Brasil &nbsp;&nbsp; Revista Empreende",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "56d3c0ef1b",
       "headline": "APS firma contrato para implantação de condomínio logístico no Porto de Santos - Tecnologística",
       "source": "Tecnologística",
@@ -170,17 +148,18 @@
       ]
     },
     {
-      "id": "53a8208604",
-      "headline": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "15/06 às 13:02",
-      "dt_iso": "2026-06-15T16:02:12+00:00",
-      "summary": "DHL Supply Chain reduz 23,7 mil toneladas de CO2e na América Latina em 2025 &nbsp;&nbsp; Mundo Logística",
+      "id": "8cdb1f1a71",
+      "headline": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 14:00",
+      "dt_iso": "2026-06-22T17:00:00+00:00",
+      "summary": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "logistica",
       "keywords": [
-        "dhl",
-        "supply chain"
+        "grupo boticário",
+        "boticário",
+        "cresce"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -189,20 +168,38 @@
       ]
     },
     {
-      "id": "7e21656293",
-      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
-      "source": "Nordinvestimentos",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "18/06 às 04:00",
-      "dt_iso": "2026-06-18T07:00:00+00:00",
-      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
+      "id": "48dafbf5ef",
+      "headline": "China sanciona 10 empresas dos EUA em retaliação a medidas americanas",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mundo/china-sanciona-10-empresas-dos-eua-em-retaliacao-a-medidas-americanas/",
+      "time": "hoje, 22:46",
+      "dt_iso": "2026-06-23T01:46:42+00:00",
+      "summary": "A decisão foi uma resposta à prática condenável do governo dos EUA de ampliar a chamada \"lista de empresas militares chinesas\", segundo o governo do país asiático \n The post  China sanciona 10 empresas dos EUA em retaliação a medidas americanas  appeared first on  InfoMoney .",
       "category": "logistica",
       "keywords": [
-        "magalu",
-        "investimento",
-        "investimentos"
+        "americanas",
+        "amplia"
       ],
-      "score": 7,
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "636ef12c57",
+      "headline": "HGLG Itupeva (Ex: Goodman Itupeva) - Bloco I | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "ontem, 00:21",
+      "dt_iso": "2026-06-22T03:21:30+00:00",
+      "summary": "HGLG Itupeva (Ex: Goodman Itupeva) - Bloco I | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
@@ -213,9 +210,66 @@
       "headline": "Cajamar Centro Logístico - CCL | Locação | Galpão - SiiLA SPOT",
       "source": "Spot",
       "link": "https://spot.siila.com.br",
-      "time": "hoje, 18:52",
+      "time": "ontem, 18:52",
       "dt_iso": "2026-06-21T21:52:10+00:00",
       "summary": "Cajamar Centro Logístico - CCL | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7158b124d8",
+      "headline": "Portal do Porto | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "ontem, 22:10",
+      "dt_iso": "2026-06-22T01:10:27+00:00",
+      "summary": "Portal do Porto | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "296c966b35",
+      "headline": "Log Salvador | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "ontem, 00:21",
+      "dt_iso": "2026-06-22T03:21:54+00:00",
+      "summary": "Log Salvador | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "81dcb7ada5",
+      "headline": "Log São Bernardo do Campo | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "ontem, 20:25",
+      "dt_iso": "2026-06-21T23:25:55+00:00",
+      "summary": "Log São Bernardo do Campo | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
       "category": "logistica",
       "keywords": [
         "galpão",
@@ -266,13 +320,13 @@
       ]
     },
     {
-      "id": "80e308df59",
-      "headline": "Cotripal inaugura novo Centro de Distribuição de Varejo em Panambi - Grupo Pilau",
-      "source": "Grupopilau",
-      "link": "https://www.grupopilau.com.br",
-      "time": "15/06 às 13:04",
-      "dt_iso": "2026-06-15T16:04:47+00:00",
-      "summary": "Cotripal inaugura novo Centro de Distribuição de Varejo em Panambi &nbsp;&nbsp; Grupo Pilau",
+      "id": "a9b554b23f",
+      "headline": "Stara inaugura centro de distribuição de peças em Goiás - Revista Cultivar",
+      "source": "Revistacultivar",
+      "link": "https://revistacultivar.com.br",
+      "time": "hoje, 09:07",
+      "dt_iso": "2026-06-22T12:07:00+00:00",
+      "summary": "Stara inaugura centro de distribuição de peças em Goiás &nbsp;&nbsp; Revista Cultivar",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -280,6 +334,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "940e70a7a5",
+      "headline": "Maior rede de supermercados do país, Mercadona inaugura armazém semiautomatizado de R$ 320 milhões com 70 robôs e 32 mil m², onde produtos vão até os funcionários para acelerar até 5 mil pedidos por dia na nova colmeia de Vallecas - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "20/06 às 20:00",
+      "dt_iso": "2026-06-20T23:00:00+00:00",
+      "summary": "Maior rede de supermercados do país, Mercadona inaugura armazém semiautomatizado de R$ 320 milhões com 70 robôs e 32 mil m², onde produtos vão até os funcionários para acelerar até 5 mil pedidos por dia na nova colmeia de Vallecas &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
+      "keywords": [
+        "armazém",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -304,41 +377,41 @@
       ]
     },
     {
-      "id": "628ea1cb1e",
-      "headline": "Mercado Livre expande same day delivery para os domingos - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "15/06 às 17:57",
-      "dt_iso": "2026-06-15T20:57:19+00:00",
-      "summary": "Mercado Livre expande same day delivery para os domingos &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "56118574aa",
-      "headline": "Mercado Livre expande entregas no mesmo dia para domingos - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "15/06 às 11:37",
-      "dt_iso": "2026-06-15T14:37:49+00:00",
-      "summary": "Mercado Livre expande entregas no mesmo dia para domingos &nbsp;&nbsp; E-Commerce Brasil",
+      "id": "9c366adbe5",
+      "headline": "Mercado Livre amplia entregas no mesmo dia para os domingos - Portal BE News",
+      "source": "Portalbenews",
+      "link": "https://portalbenews.com.br",
+      "time": "18/06 às 09:40",
+      "dt_iso": "2026-06-18T12:40:00+00:00",
+      "summary": "Mercado Livre amplia entregas no mesmo dia para os domingos &nbsp;&nbsp; Portal BE News",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "expande"
+        "amplia"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "6c47d26c1e",
+      "headline": "Expansão de centros de distribuição reforça posição de Londrina como p - jornaluniao.com.br",
+      "source": "Jornaluniao",
+      "link": "https://jornaluniao.com.br",
+      "time": "hoje, 08:59",
+      "dt_iso": "2026-06-22T11:59:06+00:00",
+      "summary": "Expansão de centros de distribuição reforça posição de Londrina como p &nbsp;&nbsp; jornaluniao.com.br",
+      "category": "expansao",
+      "keywords": [
+        "centros de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -361,20 +434,20 @@
       ]
     },
     {
-      "id": "0776d50ac1",
-      "headline": "Total Express reforça área comercial para acelerar crescimento - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "15/06 às 11:57",
-      "dt_iso": "2026-06-15T14:57:03+00:00",
-      "summary": "Total Express reforça área comercial para acelerar crescimento &nbsp;&nbsp; Transporte Moderno",
+      "id": "9881c19d81",
+      "headline": "FedEx amplia frota elétrica no Brasil com 17 vans de emissão zero - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 12:02",
+      "dt_iso": "2026-06-22T15:02:51+00:00",
+      "summary": "FedEx amplia frota elétrica no Brasil com 17 vans de emissão zero &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
-        "total express",
-        "crescimento"
+        "fedex",
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
       "badges": [
         "Logística"
       ]
@@ -391,25 +464,6 @@
       "keywords": [
         "fedex",
         "amplia"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "9172de6601",
-      "headline": "IG4 Capital: conheça a gestora que 'gosta de problemas' e investiu na Braskem e na Raízen - O Globo",
-      "source": "O Globo",
-      "link": "https://oglobo.globo.com",
-      "time": "18/06 às 12:49",
-      "dt_iso": "2026-06-18T15:49:38+00:00",
-      "summary": "IG4 Capital: conheça a gestora que 'gosta de problemas' e investiu na Braskem e na Raízen &nbsp;&nbsp; O Globo",
-      "category": "logistica",
-      "keywords": [
-        "braskem",
-        "investiu"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
