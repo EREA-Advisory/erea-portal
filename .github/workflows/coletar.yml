@@ -2,7 +2,8 @@ name: EREA — Coletor de Notícias
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 9 * * *'   # 06:00 BRT (UTC-3 = 09:00 UTC)
+    - cron: '0 16 * * *'  # 13:00 BRT (UTC-3 = 16:00 UTC)
   workflow_dispatch:
 
 jobs:
@@ -28,10 +29,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python coletor.py
 
-      - name: Salvar news_data.json no repositório
+      - name: Salvar arquivos no repositório
         run: |
           git config user.name  "EREA Bot"
           git config user.email "bot@erea-portal"
-          git add news_data.json
+          git add news_data.json historico/
           git diff --staged --quiet || git commit -m "chore: atualiza notícias $(date +'%d/%m/%Y %H:%M')"
           git push
