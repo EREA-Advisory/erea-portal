@@ -1,6 +1,6 @@
 {
-  "gerado_em": "24/06/2026 às 03:38",
-  "total": 15,
+  "gerado_em": "25/06/2026 às 03:42",
+  "total": 25,
   "noticias": [
     {
       "id": "0300ee9af9",
@@ -24,13 +24,34 @@
       ]
     },
     {
-      "id": "56d0a81123",
-      "headline": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil - InvestNews",
-      "source": "InvestNews",
-      "link": "https://investnews.com.br",
-      "time": "17/06 às 06:00",
-      "dt_iso": "2026-06-17T09:00:00+00:00",
-      "summary": "Mercado Livre, Shopee e Amazon disputam galpões no Brasil &nbsp;&nbsp; InvestNews",
+      "id": "c2c2f4f28d",
+      "headline": "CLAS Condomínio Logístico de Armazenagem | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "21/06 às 04:50",
+      "dt_iso": "2026-06-21T07:50:58+00:00",
+      "summary": "CLAS Condomínio Logístico de Armazenagem | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "armazenagem",
+        "condomínio logístico",
+        "locação"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c463bf0fe0",
+      "headline": "Mercado Livre, Shopee e Amazon intensificam disputa por galpões logísticos no Brasil - Business Moment",
+      "source": "Businessmoment",
+      "link": "https://businessmoment.com.br",
+      "time": "18/06 às 19:32",
+      "dt_iso": "2026-06-18T22:32:00+00:00",
+      "summary": "Mercado Livre, Shopee e Amazon intensificam disputa por galpões logísticos no Brasil &nbsp;&nbsp; Business Moment",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -45,72 +66,11 @@
       ]
     },
     {
-      "id": "01bf11fae7",
-      "headline": "Frimesa inaugura centro de distribuição no Distrito Federal e amplia operação logística no Centro-Oeste - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "17/06 às 13:19",
-      "dt_iso": "2026-06-17T16:19:07+00:00",
-      "summary": "Frimesa inaugura centro de distribuição no Distrito Federal e amplia operação logística no Centro-Oeste &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "operação logística",
-        "inaugura",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "e021531bbc",
-      "headline": "Condomínio Logístico Piracicaba | Locação | Galpão - SiiLA SPOT",
-      "source": "Spot",
-      "link": "https://spot.siila.com.br",
-      "time": "21/06 às 22:22",
-      "dt_iso": "2026-06-22T01:22:14+00:00",
-      "summary": "Condomínio Logístico Piracicaba | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "condomínio logístico",
-        "locação"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "4ddb6bace8",
-      "headline": "Mercedes-Benz expande presença de Sprinter elétrica na frota da FedEx no Brasil - Mercedes-Benz",
-      "source": "Imprensa",
-      "link": "https://imprensa.mercedes-benz.com.br",
-      "time": "hoje, 10:41",
-      "dt_iso": "2026-06-23T13:41:57+00:00",
-      "summary": "Mercedes-Benz expande presença de Sprinter elétrica na frota da FedEx no Brasil &nbsp;&nbsp; Mercedes-Benz",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "mercedes-benz",
-        "expande"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "eb692b962f",
       "headline": "Mercado Livre, Shopee e TikTok Shop ampliam disputa e pressionam sellers no Brasil - Revista Empreende",
       "source": "Revistaempreende",
       "link": "https://revistaempreende.com.br",
-      "time": "ontem, 17:21",
+      "time": "22/06 às 17:21",
       "dt_iso": "2026-06-22T20:21:00+00:00",
       "summary": "Mercado Livre, Shopee e TikTok Shop ampliam disputa e pressionam sellers no Brasil &nbsp;&nbsp; Revista Empreende",
       "category": "ecommerce",
@@ -130,7 +90,7 @@
       "headline": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
-      "time": "ontem, 14:00",
+      "time": "22/06 às 14:00",
       "dt_iso": "2026-06-22T17:00:00+00:00",
       "summary": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "logistica",
@@ -146,13 +106,13 @@
       ]
     },
     {
-      "id": "999f7364fc",
-      "headline": "Cajamar Centro Logístico - CCL | Locação | Galpão - SiiLA SPOT",
+      "id": "636ef12c57",
+      "headline": "HGLG Itupeva (Ex: Goodman Itupeva) - Bloco I | Locação | Galpão - SiiLA SPOT",
       "source": "Spot",
       "link": "https://spot.siila.com.br",
-      "time": "21/06 às 18:52",
-      "dt_iso": "2026-06-21T21:52:10+00:00",
-      "summary": "Cajamar Centro Logístico - CCL | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "time": "22/06 às 00:21",
+      "dt_iso": "2026-06-22T03:21:30+00:00",
+      "summary": "HGLG Itupeva (Ex: Goodman Itupeva) - Bloco I | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
       "category": "logistica",
       "keywords": [
         "galpão",
@@ -165,11 +125,182 @@
       ]
     },
     {
+      "id": "46b1d5846d",
+      "headline": "Parque Logístico Extrema | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "ontem, 00:36",
+      "dt_iso": "2026-06-24T03:36:01+00:00",
+      "summary": "Parque Logístico Extrema | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "921e2b1e3a",
+      "headline": "Distribution Park Manaus I | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "22/06 às 04:11",
+      "dt_iso": "2026-06-22T07:11:55+00:00",
+      "summary": "Distribution Park Manaus I | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "4f09e0e6c6",
+      "headline": "PIB Sumaré | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "20/06 às 23:59",
+      "dt_iso": "2026-06-21T02:59:47+00:00",
+      "summary": "PIB Sumaré | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "461c693d6a",
+      "headline": "HGLG Betim | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "ontem, 21:29",
+      "dt_iso": "2026-06-24T00:29:44+00:00",
+      "summary": "HGLG Betim | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c5cb6514d7",
+      "headline": "CLD - Centro Logístico Dutra | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "22/06 às 11:06",
+      "dt_iso": "2026-06-22T14:06:01+00:00",
+      "summary": "CLD - Centro Logístico Dutra | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "74190560cf",
+      "headline": "Patria Itatiaia | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "hoje, 08:12",
+      "dt_iso": "2026-06-24T11:12:14+00:00",
+      "summary": "Patria Itatiaia | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7158b124d8",
+      "headline": "Portal do Porto | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "21/06 às 22:10",
+      "dt_iso": "2026-06-22T01:10:27+00:00",
+      "summary": "Portal do Porto | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "296c966b35",
+      "headline": "Log Salvador | Locação | Galpão - SiiLA SPOT",
+      "source": "Spot",
+      "link": "https://spot.siila.com.br",
+      "time": "22/06 às 00:21",
+      "dt_iso": "2026-06-22T03:21:54+00:00",
+      "summary": "Log Salvador | Locação | Galpão &nbsp;&nbsp; SiiLA SPOT",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7fdae5ab8e",
+      "headline": "GGRC11 adquire galpão por R$ 96 milhões e amplia portfólio logístico - Fiis",
+      "source": "Fiis",
+      "link": "https://fiis.com.br",
+      "time": "hoje, 09:50",
+      "dt_iso": "2026-06-24T12:50:03+00:00",
+      "summary": "GGRC11 adquire galpão por R$ 96 milhões e amplia portfólio logístico &nbsp;&nbsp; Fiis",
+      "category": "investimento",
+      "keywords": [
+        "galpão",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — possível apetite por aquisição de ativos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "e39267077d",
       "headline": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento - MundoCoop",
       "source": "Mundocoop",
       "link": "https://mundocoop.com.br",
-      "time": "ontem, 18:09",
+      "time": "22/06 às 18:09",
       "dt_iso": "2026-06-22T21:09:33+00:00",
       "summary": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento &nbsp;&nbsp; MundoCoop",
       "category": "logistica",
@@ -203,35 +334,54 @@
       ]
     },
     {
-      "id": "9c366adbe5",
-      "headline": "Mercado Livre amplia entregas no mesmo dia para os domingos - Portal BE News",
-      "source": "Portalbenews",
-      "link": "https://portalbenews.com.br",
-      "time": "18/06 às 09:40",
-      "dt_iso": "2026-06-18T12:40:00+00:00",
-      "summary": "Mercado Livre amplia entregas no mesmo dia para os domingos &nbsp;&nbsp; Portal BE News",
-      "category": "ecommerce",
+      "id": "eb75e558e2",
+      "headline": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "19/06 às 13:17",
+      "dt_iso": "2026-06-19T16:17:16+00:00",
+      "summary": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil &nbsp;&nbsp; Exame",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "amplia"
+        "fedex",
+        "expande"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
-      "id": "d428faaa10",
-      "headline": "Braspress Air Cargo anuncia expansão com voos noturnos para agilizar transporte de cargas - AEROIN",
-      "source": "Aeroin",
-      "link": "https://aeroin.net",
-      "time": "17/06 às 07:09",
-      "dt_iso": "2026-06-17T10:09:00+00:00",
-      "summary": "Braspress Air Cargo anuncia expansão com voos noturnos para agilizar transporte de cargas &nbsp;&nbsp; AEROIN",
+      "id": "65ca8fded6",
+      "headline": "CEO transforma Petlove em ecossistema de R$ 2,4 bilhões e reforça estratégia de expansão - Business Moment",
+      "source": "Businessmoment",
+      "link": "https://businessmoment.com.br",
+      "time": "hoje, 11:29",
+      "dt_iso": "2026-06-24T14:29:00+00:00",
+      "summary": "CEO transforma Petlove em ecossistema de R$ 2,4 bilhões e reforça estratégia de expansão &nbsp;&nbsp; Business Moment",
       "category": "expansao",
       "keywords": [
-        "braspress",
+        "petlove",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "b7de1b5034",
+      "headline": "Alta por galpões logísticos acelera expansão da GoodStorage - Portal UAI",
+      "source": "Uai",
+      "link": "https://www.uai.com.br",
+      "time": "hoje, 16:38",
+      "dt_iso": "2026-06-24T19:38:00+00:00",
+      "summary": "Alta por galpões logísticos acelera expansão da GoodStorage &nbsp;&nbsp; Portal UAI",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
         "expansão"
       ],
       "score": 6,
@@ -245,7 +395,7 @@
       "headline": "FedEx amplia frota elétrica no Brasil com 17 vans de emissão zero - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 12:02",
+      "time": "22/06 às 12:02",
       "dt_iso": "2026-06-22T15:02:51+00:00",
       "summary": "FedEx amplia frota elétrica no Brasil com 17 vans de emissão zero &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -260,12 +410,31 @@
       ]
     },
     {
+      "id": "837ccfba21",
+      "headline": "Safra recorde amplia desafios de armazenagem e logística no agro - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 09:42",
+      "dt_iso": "2026-06-24T12:42:08+00:00",
+      "summary": "Safra recorde amplia desafios de armazenagem e logística no agro &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e6337f56c1",
       "headline": "Shopee cresce como fintech no Brasil e chama atenção do mercado - EuQueroInvestir",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
-      "time": "hoje, 17:37",
-      "dt_iso": "2026-06-23T20:37:24+00:00",
+      "time": "ontem, 17:08",
+      "dt_iso": "2026-06-23T20:08:01+00:00",
       "summary": "Shopee cresce como fintech no Brasil e chama atenção do mercado &nbsp;&nbsp; EuQueroInvestir",
       "category": "ecommerce",
       "keywords": [
@@ -279,11 +448,30 @@
       ]
     },
     {
+      "id": "356debc093",
+      "headline": "Enquanto Magazine Luiza constrói um império virtual, dono da Havan tem segredo para manter lojas físicas - abcmais.com",
+      "source": "Abcmais",
+      "link": "https://www.abcmais.com",
+      "time": "hoje, 10:13",
+      "dt_iso": "2026-06-24T13:13:31+00:00",
+      "summary": "Enquanto Magazine Luiza constrói um império virtual, dono da Havan tem segredo para manter lojas físicas &nbsp;&nbsp; abcmais.com",
+      "category": "logistica",
+      "keywords": [
+        "magazine luiza",
+        "constrói"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a8fdeedc3e",
       "headline": "Beautybox amplia vantagens para clientes Nível Ouro e anuncia primeiro brinde exclusivo para resgate nas lojas O Boticário - Clube AG",
       "source": "Clubeag",
       "link": "https://clubeag.com",
-      "time": "hoje, 12:44",
+      "time": "ontem, 12:44",
       "dt_iso": "2026-06-23T15:44:56+00:00",
       "summary": "Beautybox amplia vantagens para clientes Nível Ouro e anuncia primeiro brinde exclusivo para resgate nas lojas O Boticário &nbsp;&nbsp; Clube AG",
       "category": "logistica",
