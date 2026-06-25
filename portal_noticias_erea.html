@@ -161,6 +161,15 @@ header{background:var(--navy);border-bottom:1px solid var(--border);position:sti
 .filter-alerta{color:#e07070 !important;}
 .filter-alerta.active{color:#fff !important;background:rgba(180,50,50,.7);border-radius:2px;border-bottom-color:transparent !important;}
 
+/* DATE SELECTOR */
+.date-selector{display:flex;align-items:center;gap:8px;}
+.date-label{font-size:11px;color:var(--gray);letter-spacing:.06em;}
+.date-input{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);color:var(--white);font-family:'DM Sans',sans-serif;font-size:11px;padding:5px 10px;border-radius:2px;outline:none;cursor:pointer;transition:border .2s;color-scheme:dark;}
+.date-input:focus{border-color:var(--gold);}
+.date-btn{background:transparent;border:1px solid var(--border);color:var(--gray);font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:5px 10px;cursor:pointer;border-radius:2px;transition:all .2s;}
+.date-btn:hover{color:var(--gold);border-color:var(--gold);}
+.date-btn.active{background:var(--gold);color:var(--navy);border-color:var(--gold);}
+
 /* FOOTER */
 footer{background:var(--navy);border-top:1px solid var(--border);text-align:center;padding:16px;font-size:10px;color:var(--gray);letter-spacing:.1em;text-transform:uppercase;}
 footer span{color:var(--gold);}
@@ -212,6 +221,11 @@ footer span{color:var(--gold);}
       </div>
     </div>
     <div class="header-right">
+      <div class="date-selector">
+        <span class="date-label">Data:</span>
+        <input type="date" class="date-input" id="date-input" onchange="carregarData(this.value)"/>
+        <button class="date-btn active" id="btn-hoje" onclick="voltarHoje()">Hoje</button>
+      </div>
       <div class="last-update">Última atualização: <strong id="last-update-time">—</strong></div>
       <button class="refresh-btn" onclick="recarregar()">↺ Atualizar</button>
     </div>
@@ -369,15 +383,7 @@ function badgesHtml(badges, dt_iso) {
 
 // ── Carrega JSON ──
 async function carregarJSON() {
-  try {
-    const r = await fetch('news_data.json?t=' + Date.now());
-    if (!r.ok) throw new Error('não encontrado');
-    const data = await r.json();
-    if (!data.noticias || data.noticias.length === 0) throw new Error('vazio');
-    renderizar(data);
-  } catch(e) {
-    mostrarAguardando();
-  }
+  await carregarURL('news_data.json?t=' + Date.now());
 }
 
 function mostrarAguardando() {
@@ -617,8 +623,45 @@ async function recarregar() {
   btn.disabled = false;
 }
 
+// ── Histórico ──
+function carregarData(dataStr) {
+  if (!dataStr) return;
+  const hoje = new Date().toISOString().split('T')[0];
+  document.getElementById('btn-hoje').classList.toggle('active', dataStr === hoje);
+  const url = dataStr === hoje
+    ? 'news_data.json?t=' + Date.now()
+    : `historico/${dataStr}.json?t=` + Date.now();
+  carregarURL(url);
+}
+
+function voltarHoje() {
+  const hoje = new Date().toISOString().split('T')[0];
+  document.getElementById('date-input').value = hoje;
+  document.getElementById('btn-hoje').classList.add('active');
+  carregarURL('news_data.json?t=' + Date.now());
+}
+
+async function carregarURL(url) {
+  try {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error('não encontrado');
+    const data = await r.json();
+    if (!data.noticias || data.noticias.length === 0) throw new Error('vazio');
+    renderizar(data);
+  } catch(e) {
+    mostrarAguardando();
+    if (url.includes('historico/')) {
+      document.getElementById('last-update-time').textContent = 'sem dados para esta data';
+    }
+  }
+}
+
 // ── Init ──
-window.addEventListener('DOMContentLoaded', carregarJSON);
+window.addEventListener('DOMContentLoaded', () => {
+  const hoje = new Date().toISOString().split('T')[0];
+  document.getElementById('date-input').value = hoje;
+  carregarJSON();
+});
 </script>
 </body>
 </html>

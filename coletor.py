@@ -93,16 +93,27 @@ FEEDS = [
     {"url": "https://news.google.com/rss/search?q=Shopee+DHL+JSL+GXO+expansão&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
     {"url": "https://news.google.com/rss/search?q=FII+logístico+emissão+cotas&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Google News"},
 
-    # Portais especializados via Google News
-    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Metro Quadrado"},
-    {"url": "https://news.google.com/rss/search?q=site:siila.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",             "fonte": "Siila"},
-    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",    "fonte": "Mundo Logística"},
-    {"url": "https://mundologistica.com.br/feed",                                                                     "fonte": "Mundo Logística"},
-    {"url": "https://mundologistica.com.br/rss",                                                                      "fonte": "Mundo Logística"},
-
-    # Portais adicionais via RSS direto
-    {"url": "https://www.modaisemfoco.com.br/feed/",  "fonte": "Modais em Foco"},
-    {"url": "https://www.modaisemfoco.com.br/rss/",   "fonte": "Modais em Foco"},
+    # Portais especializados via Google News — dupla cobertura (com e sem filtro de data)
+    {"url": "https://news.google.com/rss/search?q=site:metroquadrado.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",                  "fonte": "Metro Quadrado"},
+    {"url": "https://news.google.com/rss/search?q=site:siila.com.br+-spot&hl=pt-BR&gl=BR&ceid=BR:pt-419",                 "fonte": "Siila"},
+    {"url": "https://news.google.com/rss/search?q=site:siila.com.br+-spot+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",         "fonte": "Siila"},
+    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",              "fonte": "Mundo Logística"},
+    {"url": "https://news.google.com/rss/search?q=site:mundologistica.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",      "fonte": "Mundo Logística"},
+    {"url": "https://mundologistica.com.br/feed",                                                                           "fonte": "Mundo Logística"},
+    {"url": "https://mundologistica.com.br/rss",                                                                            "fonte": "Mundo Logística"},
+    {"url": "https://news.google.com/rss/search?q=site:tecnologistica.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",              "fonte": "Tecnologística"},
+    {"url": "https://news.google.com/rss/search?q=site:tecnologistica.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",      "fonte": "Tecnologística"},
+    {"url": "https://news.google.com/rss/search?q=site:modaisemfoco.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",                "fonte": "Modais em Foco"},
+    {"url": "https://news.google.com/rss/search?q=site:modaisemfoco.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",        "fonte": "Modais em Foco"},
+    {"url": "https://www.modaisemfoco.com.br/feed/",                                                                        "fonte": "Modais em Foco"},
+    {"url": "https://news.google.com/rss/search?q=site:portosenavios.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",               "fonte": "Portos e Navios"},
+    {"url": "https://news.google.com/rss/search?q=site:portosenavios.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Portos e Navios"},
+    {"url": "https://news.google.com/rss/search?q=site:logisticsnews.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",               "fonte": "Logistics News"},
+    {"url": "https://news.google.com/rss/search?q=site:logisticsnews.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",       "fonte": "Logistics News"},
+    {"url": "https://news.google.com/rss/search?q=site:buildings.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",                   "fonte": "Buildings"},
+    {"url": "https://news.google.com/rss/search?q=site:buildings.com.br+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",           "fonte": "Buildings"},
+    {"url": "https://news.google.com/rss/search?q=site:griclub.org&hl=pt-BR&gl=BR&ceid=BR:pt-419",                        "fonte": "GRI Club"},
+    {"url": "https://news.google.com/rss/search?q=site:griclub.org+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",                "fonte": "GRI Club"},
 
     # Google News — empresas específicas com filtro de recência (when:7d)
     {"url": "https://news.google.com/rss/search?q=galpão+logístico+when:7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",              "fonte": "Google News"},
@@ -807,21 +818,65 @@ def _badges_por_categoria(categoria: str) -> list:
 
 
 def _relevance_automatica(noticia: dict) -> str:
-    """Gera texto de relevância baseado em regras simples quando Claude não está disponível."""
-    texto = (noticia.get("headline","") + " " + noticia.get("summary","")).lower()
-    hints = []
-    if any(t in texto for t in ["build to suit", "bts"]):
-        hints.append("Oportunidade de desenvolvimento BTS.")
-    if any(t in texto for t in ["sale and leaseback"]):
-        hints.append("Potencial de sale & leaseback.")
-    if any(t in texto for t in ["3pl", "operador logístico"]):
-        hints.append("Operador 3PL — potencial demanda de galpão.")
-    if any(t in texto for t in ["centro de distribuição", "cd logístico", "fulfillment"]):
+    """Gera texto de relevância específico baseado em empresa, tipo de movimento e região."""
+    texto  = (noticia.get("headline","") + " " + noticia.get("summary","")).lower()
+    titulo = noticia.get("headline","").lower()
+    hints  = []
+
+    # ── Alertas negativos ──
+    if any(t in texto for t in ["recuperação judicial","recuperacao judicial","falência","falencia","concordata"]):
+        hints.append("⚠ Sinal negativo — empresa pode devolver imóveis logísticos. Monitorar rescisões de contrato.")
+        return " ".join(hints)
+
+    # ── Tipo de imóvel / operação ──
+    if any(t in texto for t in ["build to suit", "bts logístico"]):
+        hints.append("Oportunidade de desenvolvimento BTS — contrato longo antes da construção.")
+    if "sale and leaseback" in texto:
+        hints.append("Potencial de sale & leaseback — empresa pode vender e permanecer como locatária.")
+    if any(t in texto for t in ["galpão frigorífico","câmara fria","galpão refrigerado","frigorífico"]):
+        hints.append("Demanda de imóvel frigorífico — mercado especializado com poucos ativos disponíveis.")
+    if any(t in texto for t in ["dark store","última milha","last mile"]):
+        hints.append("Expansão de last mile — demanda por imóveis urbanos pequenos e ágeis.")
+    if any(t in texto for t in ["centro de distribuição","cd logístico","fulfillment center"]):
         hints.append("Expansão de CD — demanda direta por imóvel logístico.")
-    if any(t in texto for t in ["fii", "fundo", "emissão"]):
-        hints.append("Movimento de capital — possível apetite por aquisição de ativos.")
-    if any(t in texto for t in ["expansão", "nova unidade", "inauguração"]):
+    if any(t in texto for t in ["hub logístico","hub de distribuição","cross-docking"]):
+        hints.append("Expansão de hub/cross-docking — imóvel com alto fluxo de docas.")
+    if any(t in texto for t in ["condomínio logístico","polo logístico"]):
+        hints.append("Interesse em condomínio logístico — cliente potencial para ativos triple-A.")
+
+    # ── Tipo de empresa ──
+    if any(t in texto for t in ["3pl","operador logístico"]):
+        hints.append("Operador 3PL em expansão — demanda de galpão A+ com especificações técnicas.")
+    if any(t in texto for t in ["e-commerce","marketplace","fulfillment"]):
+        hints.append("E-commerce em expansão — típico de contratos longos e galpões Classe A.")
+    if any(t in texto for t in ["farmacêutica","saúde","healthcare","remédio"]):
+        hints.append("Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA.")
+    if any(t in texto for t in ["frigorífico","alimentos","food","proteína"]):
+        hints.append("Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado.")
+
+    # ── Sinal de movimento ──
+    if any(t in texto for t in ["fii","fundo imobiliário","emissão de cotas"]):
+        hints.append("Movimento de capital — FII com apetite por aquisição de ativos logísticos.")
+    if any(t in texto for t in ["inaugura","inaugurou","inauguração","entrou em operação"]):
+        hints.append("Inauguração confirmada — prospecção para próximas unidades.")
+    if any(t in texto for t in ["planeja","prevê","anuncia","vai abrir","irá abrir"]):
+        hints.append("Intenção declarada de expansão — janela de prospecção ativa.")
+    if any(t in texto for t in ["expansão","expande","expandiu","amplia","ampliou"]):
         hints.append("Sinal de expansão — prospecção ativa recomendada.")
+    if any(t in texto for t in ["investe","investimento","aporte"]):
+        hints.append("Investimento anunciado — capital disponível para expansão física.")
+
+    # ── Regiões estratégicas ──
+    regioes = []
+    for r in ["cajamar","jundiaí","extrema","guarulhos","campinas","louveira",
+              "duque de caxias","betim","contagem","sumaré","hortolândia",
+              "são bernardo","santo andré","caçapava","taubaté","joinville",
+              "curitiba","porto alegre","recife","fortaleza","manaus","salvador"]:
+        if r in texto:
+            regioes.append(r.title())
+    if regioes:
+        hints.append(f"Região(ões) mencionada(s): {', '.join(regioes[:3])}.")
+
     return " ".join(hints) if hints else "Notícia relevante para o mercado logístico."
 
 
@@ -851,13 +906,34 @@ def analisar_com_claude(noticia: dict) -> dict:
 # GERAÇÃO DO JSON
 # ─────────────────────────────────────────────
 
+# Domínios bloqueados — listings, redes sociais e fontes irrelevantes
+DOMINIOS_BLOQUEADOS = {
+    "spot.siila.com.br",      # listings de imóveis disponíveis (não notícias)
+    "instagram.com",
+    "facebook.com",
+    "twitter.com",
+    "x.com",
+    "tiktok.com",
+    "youtube.com",
+    "linkedin.com",
+}
+
 def gerar_json(noticias: list[dict]) -> None:
     """Salva o news_data.json consumido pelo portal HTML.
-    Aplica corte de data como última linha de defesa antes de salvar.
+    Aplica corte de data e filtro de domínios bloqueados antes de salvar.
     """
     corte_final = datetime.now(timezone.utc) - timedelta(hours=HORAS_JANELA)
     filtradas = []
     for n in noticias:
+        # Descarta domínios bloqueados
+        from urllib.parse import urlparse
+        try:
+            domain = urlparse(n.get("link","")).netloc.lower().replace("www.","")
+            if any(bloq in domain for bloq in DOMINIOS_BLOQUEADOS):
+                log.warning(f"  BLOQUEADO (domínio): [{domain}] {n['headline'][:60]}")
+                continue
+        except Exception:
+            pass
         dt_iso = n.get("dt_iso")
         if dt_iso:
             try:
@@ -882,6 +958,24 @@ def gerar_json(noticias: list[dict]) -> None:
     }
     OUTPUT_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     log.info(f"JSON salvo em: {OUTPUT_JSON} ({len(filtradas)} notícias)")
+
+    # Salva cópia histórica com a data de hoje (ex: historico/2026-05-15.json)
+    historico_dir = BASE_DIR / "historico"
+    historico_dir.mkdir(exist_ok=True)
+    data_hoje = datetime.now(BRT).strftime("%Y-%m-%d")
+    historico_file = historico_dir / f"{data_hoje}.json"
+    # Não sobrescreve se já existir (preserva a execução mais completa do dia)
+    if not historico_file.exists():
+        historico_file.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        log.info(f"Histórico salvo: {historico_file}")
+    else:
+        # Atualiza se a nova execução trouxe mais notícias
+        existing = json.loads(historico_file.read_text(encoding="utf-8"))
+        if len(filtradas) > existing.get("total", 0):
+            historico_file.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+            log.info(f"Histórico atualizado: {historico_file} ({len(filtradas)} > {existing.get('total',0)})")
+        else:
+            log.info(f"Histórico mantido: {historico_file} (execução anterior tinha mais notícias)")
 
 
 
@@ -921,6 +1015,7 @@ def main():
     # 5. Salvar JSON
     gerar_json(top)
     log.info("Coleta concluída com sucesso.")
+    log.info(f"Arquivos gerados: {OUTPUT_JSON.name} + historico/{datetime.now(BRT).strftime('%Y-%m-%d')}.json")
 
 
 if __name__ == "__main__":
