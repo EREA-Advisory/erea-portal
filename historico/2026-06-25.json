@@ -1,6 +1,6 @@
 {
-  "gerado_em": "25/06/2026 às 11:30",
-  "total": 19,
+  "gerado_em": "25/06/2026 às 15:08",
+  "total": 20,
   "noticias": [
     {
       "id": "0300ee9af9",
@@ -42,6 +42,25 @@
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "7cc9e8e747",
+      "headline": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 13:29",
+      "dt_iso": "2026-06-25T16:29:54+00:00",
+      "summary": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "operação logística"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -105,20 +124,20 @@
       ]
     },
     {
-      "id": "cd3c2611c4",
-      "headline": "Braskem pede tutela cautelar e abre mediação para renegociar dívida de US$ 9,5 bi",
+      "id": "fd1274a29f",
+      "headline": "Casas Bahia renova naming rights do Paulistão até 2028",
       "source": "Exame",
-      "link": "https://exame.com/invest/mercados/braskem-pede-tutela-cautelar-e-abre-mediacao-para-renegociar-divida-de-us-95-bi/",
-      "time": "hoje, 07:11",
-      "dt_iso": "2026-06-25T10:11:14+00:00",
-      "summary": "Empresa diz que ficaria com caixa livre negativo já em dezembro de 2026, chegando a um déficit de US$ 821 milhões",
+      "link": "https://exame.com/negocios/casas-bahia-naming-rights-paulistao/",
+      "time": "hoje, 11:18",
+      "dt_iso": "2026-06-25T14:18:22+00:00",
+      "summary": "Novo acordo amplia ativações e reforça estratégia que transforma o campeonato em plataforma de conexão, engajamento e vendas",
       "category": "logistica",
       "keywords": [
-        "braskem",
-        "abre"
+        "casas bahia",
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -185,7 +204,7 @@
       "headline": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento - Agrolink",
       "source": "Agrolink",
       "link": "https://www.agrolink.com.br",
-      "time": "hoje, 14:13",
+      "time": "ontem, 14:13",
       "dt_iso": "2026-06-24T17:13:00+00:00",
       "summary": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento &nbsp;&nbsp; Agrolink",
       "category": "logistica",
@@ -356,7 +375,7 @@
       "headline": "Beautybox amplia vantagens para clientes Nível Ouro e anuncia primeiro brinde exclusivo para resgate nas lojas O Boticário - Clube AG",
       "source": "Clubeag",
       "link": "https://clubeag.com",
-      "time": "ontem, 12:44",
+      "time": "23/06 às 12:44",
       "dt_iso": "2026-06-23T15:44:56+00:00",
       "summary": "Beautybox amplia vantagens para clientes Nível Ouro e anuncia primeiro brinde exclusivo para resgate nas lojas O Boticário &nbsp;&nbsp; Clube AG",
       "category": "logistica",
