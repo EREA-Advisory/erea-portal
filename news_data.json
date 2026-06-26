@@ -1,34 +1,13 @@
 {
-  "gerado_em": "26/06/2026 às 08:37",
-  "total": 24,
+  "gerado_em": "26/06/2026 às 14:45",
+  "total": 27,
   "noticias": [
-    {
-      "id": "0300ee9af9",
-      "headline": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição - avinews.com",
-      "source": "Avinews",
-      "link": "https://avinews.com",
-      "time": "19/06 às 10:35",
-      "dt_iso": "2026-06-19T13:35:47+00:00",
-      "summary": "Unifrango investe mais de R$ 20 milhões em nova ampliação do centro de distribuição &nbsp;&nbsp; avinews.com",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "amplia",
-        "ampliação",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Expansão"
-      ]
-    },
     {
       "id": "3a084ac977",
       "headline": "Patrus Transportes neutraliza 7 mil toneladas de CO₂ e amplia investimentos sociais, aponta relatório ESG - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "há 37 min",
+      "time": "hoje, 07:59",
       "dt_iso": "2026-06-26T10:59:00+00:00",
       "summary": "Patrus Transportes neutraliza 7 mil toneladas de CO₂ e amplia investimentos sociais, aponta relatório ESG &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -49,7 +28,7 @@
       "headline": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 13:29",
+      "time": "ontem, 13:29",
       "dt_iso": "2026-06-25T16:29:54+00:00",
       "summary": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -59,6 +38,46 @@
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "28c69727dd",
+      "headline": "O erro que muitos sellers cometem ao analisar os investimentos do Mercado Livre - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "hoje, 12:02",
+      "dt_iso": "2026-06-26T15:02:50+00:00",
+      "summary": "O erro que muitos sellers cometem ao analisar os investimentos do Mercado Livre &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "4ddb6bace8",
+      "headline": "Mercedes-Benz expande presença de Sprinter elétrica na frota da FedEx no Brasil - Mercedes-Benz",
+      "source": "Imprensa",
+      "link": "https://imprensa.mercedes-benz.com.br",
+      "time": "23/06 às 10:41",
+      "dt_iso": "2026-06-23T13:41:57+00:00",
+      "summary": "Mercedes-Benz expande presença de Sprinter elétrica na frota da FedEx no Brasil &nbsp;&nbsp; Mercedes-Benz",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "mercedes-benz",
+        "expande"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -85,12 +104,12 @@
     },
     {
       "id": "44e5ffe7df",
-      "headline": "Maltaria, Heineken e Ambev investem R$ 4,1 bilhões nos Campos Gerais - aRede - aRede",
+      "headline": "Maltaria, Heineken e Ambev investem R$ 4,1 bilhões nos Campos Gerais - aRede",
       "source": "Arede",
       "link": "https://arede.info",
-      "time": "hoje, 16:52",
-      "dt_iso": "2026-06-25T19:52:26+00:00",
-      "summary": "Maltaria, Heineken e Ambev investem R$ 4,1 bilhões nos Campos Gerais - aRede &nbsp;&nbsp; aRede",
+      "time": "hoje, 07:00",
+      "dt_iso": "2026-06-26T10:00:51+00:00",
+      "summary": "Maltaria, Heineken e Ambev investem R$ 4,1 bilhões nos Campos Gerais &nbsp;&nbsp; aRede",
       "category": "logistica",
       "keywords": [
         "ambev",
@@ -121,6 +140,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "9a2dca1d8e",
+      "headline": "Kashkari prevê aumento de juros do Fed este ano por inflação e expansão da IA",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/kashkari-preve-aumento-de-juros-do-fed-este-ano-por-inflacao-e-expansao-da-ia/",
+      "time": "há 7 min",
+      "dt_iso": "2026-06-26T17:37:09+00:00",
+      "summary": "Presidente do Fed de Minneapolis apontou preocupação com os preços no setor de serviços e afirmou que a tecnologia será inflacionária no curto prazo, estimando a manutenção das taxas americanas apenas em 2027 \n The post  Kashkari prevê aumento de juros do Fed este ano por inflação e expansão da IA  appeared first on  InfoMoney .",
+      "category": "expansao",
+      "keywords": [
+        "americanas",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -185,7 +223,7 @@
       "headline": "Safra recorde amplia desafios de armazenagem e logística no agro - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 09:42",
+      "time": "24/06 às 09:42",
       "dt_iso": "2026-06-24T12:42:08+00:00",
       "summary": "Safra recorde amplia desafios de armazenagem e logística no agro &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -223,7 +261,7 @@
       "headline": "Brado amplia uso de caminhões movidos a GNL em operação logística no Maranhão - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "há 6 min",
+      "time": "hoje, 08:30",
       "dt_iso": "2026-06-26T11:30:00+00:00",
       "summary": "Brado amplia uso de caminhões movidos a GNL em operação logística no Maranhão &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -242,7 +280,7 @@
       "headline": "Vetnil reduz em 56% o consumo de energia com novo galpão logístico sustentável - BPMoney",
       "source": "Bpmoney",
       "link": "https://bpmoney.com.br",
-      "time": "hoje, 13:39",
+      "time": "ontem, 13:39",
       "dt_iso": "2026-06-25T16:39:52+00:00",
       "summary": "Vetnil reduz em 56% o consumo de energia com novo galpão logístico sustentável &nbsp;&nbsp; BPMoney",
       "category": "expansao",
@@ -261,7 +299,7 @@
       "headline": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento - Agrolink",
       "source": "Agrolink",
       "link": "https://www.agrolink.com.br",
-      "time": "ontem, 14:13",
+      "time": "24/06 às 14:13",
       "dt_iso": "2026-06-24T17:13:00+00:00",
       "summary": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento &nbsp;&nbsp; Agrolink",
       "category": "logistica",
@@ -295,22 +333,22 @@
       ]
     },
     {
-      "id": "e6251d3ab7",
-      "headline": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "19/06 às 12:01",
-      "dt_iso": "2026-06-19T15:01:04+00:00",
-      "summary": "SELIA acelera expansão com novos hubs logísticos e fortalece estratégia de Intelligent Commerce &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "expansao",
+      "id": "1b9d49a24d",
+      "headline": "Ambev anuncia investimento de R$ 70 milhões em nova fábrica de embalagens no Paraná - Jornal da Fronteira",
+      "source": "Jornaldafronteira",
+      "link": "https://jornaldafronteira.com.br",
+      "time": "hoje, 09:42",
+      "dt_iso": "2026-06-26T12:42:17+00:00",
+      "summary": "Ambev anuncia investimento de R$ 70 milhões em nova fábrica de embalagens no Paraná &nbsp;&nbsp; Jornal da Fronteira",
+      "category": "logistica",
       "keywords": [
-        "hubs logísticos",
-        "expansão"
+        "ambev",
+        "investimento"
       ],
       "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -333,30 +371,11 @@
       ]
     },
     {
-      "id": "eb75e558e2",
-      "headline": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "19/06 às 13:17",
-      "dt_iso": "2026-06-19T16:17:16+00:00",
-      "summary": "Gigante americana do transporte expresso, FedEx expande frota elétrica no Brasil &nbsp;&nbsp; Exame",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "65ca8fded6",
       "headline": "CEO transforma Petlove em ecossistema de R$ 2,4 bilhões e reforça estratégia de expansão - Business Moment",
       "source": "Businessmoment",
       "link": "https://businessmoment.com.br",
-      "time": "ontem, 11:29",
+      "time": "24/06 às 11:29",
       "dt_iso": "2026-06-24T14:29:00+00:00",
       "summary": "CEO transforma Petlove em ecossistema de R$ 2,4 bilhões e reforça estratégia de expansão &nbsp;&nbsp; Business Moment",
       "category": "expansao",
@@ -390,6 +409,25 @@
       ]
     },
     {
+      "id": "593d273b46",
+      "headline": "Grupo Mateus (GMAT3): Safra corta preço-alvo e vê freio no crescimento - suno.com.br",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "24/06 às 13:45",
+      "dt_iso": "2026-06-24T16:45:08+00:00",
+      "summary": "Grupo Mateus (GMAT3): Safra corta preço-alvo e vê freio no crescimento &nbsp;&nbsp; suno.com.br",
+      "category": "logistica",
+      "keywords": [
+        "grupo mateus",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e6337f56c1",
       "headline": "Shopee cresce como fintech no Brasil e chama atenção do mercado - EuQueroInvestir",
       "source": "Euqueroinvestir",
@@ -413,7 +451,7 @@
       "headline": "Enquanto Magazine Luiza constrói um império virtual, dono da Havan tem segredo para manter lojas físicas - abcmais.com",
       "source": "Abcmais",
       "link": "https://www.abcmais.com",
-      "time": "ontem, 10:13",
+      "time": "24/06 às 10:13",
       "dt_iso": "2026-06-24T13:13:31+00:00",
       "summary": "Enquanto Magazine Luiza constrói um império virtual, dono da Havan tem segredo para manter lojas físicas &nbsp;&nbsp; abcmais.com",
       "category": "logistica",
@@ -463,6 +501,25 @@
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "b0493087a7",
+      "headline": "Gigante de R$ 6 bilhões entrou no mercado pet com 24 milhões de clientes no radar, criou franquia com 6 fontes de receita e plano de R$ 39,90 para transformar banho, clínica, farmácia e assinatura em motor nacional de expansão - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 10:04",
+      "dt_iso": "2026-06-26T13:04:00+00:00",
+      "summary": "Gigante de R$ 6 bilhões entrou no mercado pet com 24 milhões de clientes no radar, criou franquia com 6 fontes de receita e plano de R$ 39,90 para transformar banho, clínica, farmácia e assinatura em motor nacional de expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "natura",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     }
   ]
