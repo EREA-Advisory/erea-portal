@@ -1,5 +1,5 @@
 {
-  "gerado_em": "27/06/2026 às 07:51",
+  "gerado_em": "27/06/2026 às 14:07",
   "total": 25,
   "noticias": [
     {
@@ -7,7 +7,7 @@
       "headline": "Patrus Transportes neutraliza 7 mil toneladas de CO₂ e amplia investimentos sociais, aponta relatório ESG - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 07:59",
+      "time": "ontem, 07:59",
       "dt_iso": "2026-06-26T10:59:00+00:00",
       "summary": "Patrus Transportes neutraliza 7 mil toneladas de CO₂ e amplia investimentos sociais, aponta relatório ESG &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -28,7 +28,7 @@
       "headline": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 13:29",
+      "time": "25/06 às 13:29",
       "dt_iso": "2026-06-25T16:29:54+00:00",
       "summary": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -100,6 +100,26 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "ec0f319aac",
+      "headline": "MGLU3: Por que ações do Magazine Luiza estão caindo para mínima de 52 semanas hoje - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "ontem, 15:52",
+      "dt_iso": "2026-06-25T18:52:00+00:00",
+      "summary": "MGLU3: Por que ações do Magazine Luiza estão caindo para mínima de 52 semanas hoje &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "logistica",
+      "keywords": [
+        "magazine luiza",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -184,7 +204,7 @@
       "headline": "Brado amplia uso de caminhões movidos a GNL em operação logística no Maranhão - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 08:30",
+      "time": "ontem, 08:30",
       "dt_iso": "2026-06-26T11:30:00+00:00",
       "summary": "Brado amplia uso de caminhões movidos a GNL em operação logística no Maranhão &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -222,7 +242,7 @@
       "headline": "Vetnil reduz em 56% o consumo de energia com novo galpão logístico sustentável - BPMoney",
       "source": "Bpmoney",
       "link": "https://bpmoney.com.br",
-      "time": "ontem, 13:39",
+      "time": "25/06 às 13:39",
       "dt_iso": "2026-06-25T16:39:52+00:00",
       "summary": "Vetnil reduz em 56% o consumo de energia com novo galpão logístico sustentável &nbsp;&nbsp; BPMoney",
       "category": "expansao",
@@ -238,12 +258,12 @@
     },
     {
       "id": "e39267077d",
-      "headline": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento - Agrolink",
-      "source": "Agrolink",
-      "link": "https://www.agrolink.com.br",
-      "time": "24/06 às 14:13",
-      "dt_iso": "2026-06-24T17:13:00+00:00",
-      "summary": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento &nbsp;&nbsp; Agrolink",
+      "headline": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento - MundoCoop",
+      "source": "Mundocoop",
+      "link": "https://mundocoop.com.br",
+      "time": "22/06 às 18:09",
+      "dt_iso": "2026-06-22T21:09:33+00:00",
+      "summary": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento &nbsp;&nbsp; MundoCoop",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -279,7 +299,7 @@
       "headline": "Ambev investe R$ 70 milhões em fábrica de embalagens no Paraná - Grupo Amanhã",
       "source": "Amanha",
       "link": "https://amanha.com.br",
-      "time": "hoje, 09:08",
+      "time": "ontem, 09:08",
       "dt_iso": "2026-06-26T12:08:00+00:00",
       "summary": "Ambev investe R$ 70 milhões em fábrica de embalagens no Paraná &nbsp;&nbsp; Grupo Amanhã",
       "category": "logistica",
@@ -355,7 +375,7 @@
       "headline": "Capacidade de armazenagem de grãos no Brasil cresce, mas segue abaixo do avanço da produção agrícola - Portal do Agronegócio",
       "source": "Portaldoagronegocio",
       "link": "https://www.portaldoagronegocio.com.br",
-      "time": "ontem, 10:14",
+      "time": "25/06 às 10:14",
       "dt_iso": "2026-06-25T13:14:01+00:00",
       "summary": "Capacidade de armazenagem de grãos no Brasil cresce, mas segue abaixo do avanço da produção agrícola &nbsp;&nbsp; Portal do Agronegócio",
       "category": "logistica",
@@ -408,25 +428,6 @@
       ]
     },
     {
-      "id": "356debc093",
-      "headline": "Enquanto Magazine Luiza constrói um império virtual, dono da Havan tem segredo para manter lojas físicas - abcmais.com",
-      "source": "Abcmais",
-      "link": "https://www.abcmais.com",
-      "time": "24/06 às 10:13",
-      "dt_iso": "2026-06-24T13:13:31+00:00",
-      "summary": "Enquanto Magazine Luiza constrói um império virtual, dono da Havan tem segredo para manter lojas físicas &nbsp;&nbsp; abcmais.com",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "constrói"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "3a54d83628",
       "headline": "Assaí paga R$ 7 mi por dia em juros e desacelera expansão, diz CEO - UOL Economia",
       "source": "UOL",
@@ -469,7 +470,7 @@
       "headline": "Gigante de R$ 6 bilhões entrou no mercado pet com 24 milhões de clientes no radar, criou franquia com 6 fontes de receita e plano de R$ 39,90 para transformar banho, clínica, farmácia e assinatura em motor nacional de expansão - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 10:04",
+      "time": "ontem, 10:04",
       "dt_iso": "2026-06-26T13:04:00+00:00",
       "summary": "Gigante de R$ 6 bilhões entrou no mercado pet com 24 milhões de clientes no radar, criou franquia com 6 fontes de receita e plano de R$ 39,90 para transformar banho, clínica, farmácia e assinatura em motor nacional de expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "expansao",
