@@ -1,13 +1,13 @@
 {
-  "gerado_em": "28/06/2026 às 07:58",
-  "total": 23,
+  "gerado_em": "28/06/2026 às 14:07",
+  "total": 24,
   "noticias": [
     {
       "id": "3a084ac977",
       "headline": "Patrus Transportes neutraliza 7 mil toneladas de CO₂ e amplia investimentos sociais, aponta relatório ESG - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 07:59",
+      "time": "26/06 às 07:59",
       "dt_iso": "2026-06-26T10:59:00+00:00",
       "summary": "Patrus Transportes neutraliza 7 mil toneladas de CO₂ e amplia investimentos sociais, aponta relatório ESG &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -138,6 +138,26 @@
       ],
       "score": 7,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "8cdb1f1a71",
+      "headline": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "22/06 às 14:00",
+      "dt_iso": "2026-06-22T17:00:00+00:00",
+      "summary": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio &nbsp;&nbsp; Times Brasil | CNBC",
+      "category": "logistica",
+      "keywords": [
+        "grupo boticário",
+        "boticário",
+        "cresce"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -432,7 +452,7 @@
       "headline": "Gigante de R$ 6 bilhões entrou no mercado pet com 24 milhões de clientes no radar, criou franquia com 6 fontes de receita e plano de R$ 39,90 para transformar banho, clínica, farmácia e assinatura em motor nacional de expansão - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 10:04",
+      "time": "26/06 às 10:04",
       "dt_iso": "2026-06-26T13:04:00+00:00",
       "summary": "Gigante de R$ 6 bilhões entrou no mercado pet com 24 milhões de clientes no radar, criou franquia com 6 fontes de receita e plano de R$ 39,90 para transformar banho, clínica, farmácia e assinatura em motor nacional de expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "expansao",
