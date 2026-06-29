@@ -1,6 +1,6 @@
 {
-  "gerado_em": "29/06/2026 às 09:54",
-  "total": 25,
+  "gerado_em": "29/06/2026 às 15:08",
+  "total": 26,
   "noticias": [
     {
       "id": "3a084ac977",
@@ -24,22 +24,23 @@
       ]
     },
     {
-      "id": "7cc9e8e747",
-      "headline": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "25/06 às 13:29",
-      "dt_iso": "2026-06-25T16:29:54+00:00",
-      "summary": "#99.5 Como escalar uma operação logística — com Frederico Rezeck, do Mercado Livre &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
+      "id": "eca4879be4",
+      "headline": "DHL Express inaugura nova loja em São Paulo e acelera plano de expansão no Brasil - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 10:06",
+      "dt_iso": "2026-06-29T13:06:20+00:00",
+      "summary": "DHL Express inaugura nova loja em São Paulo e acelera plano de expansão no Brasil &nbsp;&nbsp; Tecnologística",
+      "category": "expansao",
       "keywords": [
-        "mercado livre",
-        "operação logística"
+        "dhl",
+        "inaugura",
+        "expansão"
       ],
       "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -143,26 +144,6 @@
       ]
     },
     {
-      "id": "8cdb1f1a71",
-      "headline": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio - Times Brasil | CNBC",
-      "source": "Timesbrasil",
-      "link": "https://timesbrasil.com.br",
-      "time": "22/06 às 14:00",
-      "dt_iso": "2026-06-22T17:00:00+00:00",
-      "summary": "Grupo Boticário cresce no mercado de beleza e avança em metas ESG, mas emissões da cadeia seguem como desafio &nbsp;&nbsp; Times Brasil | CNBC",
-      "category": "logistica",
-      "keywords": [
-        "grupo boticário",
-        "boticário",
-        "cresce"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "83fa65d919",
       "headline": "Total Express reforça operação no Nordeste em meio ao crescimento do comércio eletrônico - MundoLogística",
       "source": "Mundo Logística",
@@ -177,6 +158,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "caaf04b79f",
+      "headline": "BNDES libera R$ 57,7 mi para Copacol ampliar armazenagem - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 10:36",
+      "dt_iso": "2026-06-29T13:36:54+00:00",
+      "summary": "BNDES libera R$ 57,7 mi para Copacol ampliar armazenagem &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -291,6 +291,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "e912444fc9",
+      "headline": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição - Banda B",
+      "source": "Bandab",
+      "link": "https://www.bandab.com.br",
+      "time": "hoje, 13:51",
+      "dt_iso": "2026-06-29T16:51:00+00:00",
+      "summary": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição &nbsp;&nbsp; Banda B",
+      "category": "logistica",
+      "keywords": [
+        "centros de distribuição",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
