@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/06/2026 às 08:37",
-  "total": 27,
+  "gerado_em": "30/06/2026 às 14:51",
+  "total": 30,
   "noticias": [
     {
       "id": "3a084ac977",
@@ -28,7 +28,7 @@
       "headline": "DHL Express inaugura nova loja em São Paulo e acelera plano de expansão no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 09:00",
+      "time": "ontem, 09:00",
       "dt_iso": "2026-06-29T12:00:20+00:00",
       "summary": "DHL Express inaugura nova loja em São Paulo e acelera plano de expansão no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "expansao",
@@ -61,26 +61,6 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "4ddb6bace8",
-      "headline": "Mercedes-Benz expande presença de Sprinter elétrica na frota da FedEx no Brasil - Mercedes-Benz",
-      "source": "Imprensa",
-      "link": "https://imprensa.mercedes-benz.com.br",
-      "time": "23/06 às 10:41",
-      "dt_iso": "2026-06-23T13:41:57+00:00",
-      "summary": "Mercedes-Benz expande presença de Sprinter elétrica na frota da FedEx no Brasil &nbsp;&nbsp; Mercedes-Benz",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "mercedes-benz",
-        "expande"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -147,7 +127,7 @@
       "headline": "BNDES libera R$ 57,7 mi para Copacol ampliar armazenagem - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 10:36",
+      "time": "ontem, 10:36",
       "dt_iso": "2026-06-29T13:36:54+00:00",
       "summary": "BNDES libera R$ 57,7 mi para Copacol ampliar armazenagem &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -200,12 +180,31 @@
       ]
     },
     {
+      "id": "c26ebc21c4",
+      "headline": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 09:37",
+      "dt_iso": "2026-06-30T12:37:00+00:00",
+      "summary": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "efb44f302d",
       "headline": "Brado amplia uso de caminhões movidos a GNL em operação logística no Maranhão - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "26/06 às 19:13",
-      "dt_iso": "2026-06-26T22:13:19+00:00",
+      "time": "26/06 às 08:30",
+      "dt_iso": "2026-06-26T11:30:00+00:00",
       "summary": "Brado amplia uso de caminhões movidos a GNL em operação logística no Maranhão &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
@@ -235,25 +234,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "7fdae5ab8e",
-      "headline": "GGRC11 adquire galpão por R$ 96 milhões e amplia portfólio logístico - Fiis",
-      "source": "Fiis",
-      "link": "https://fiis.com.br",
-      "time": "24/06 às 09:50",
-      "dt_iso": "2026-06-24T12:50:03+00:00",
-      "summary": "GGRC11 adquire galpão por R$ 96 milhões e amplia portfólio logístico &nbsp;&nbsp; Fiis",
-      "category": "investimento",
-      "keywords": [
-        "galpão",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -299,7 +279,7 @@
       "headline": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição - Banda B",
       "source": "Bandab",
       "link": "https://www.bandab.com.br",
-      "time": "hoje, 13:51",
+      "time": "ontem, 13:51",
       "dt_iso": "2026-06-29T16:51:00+00:00",
       "summary": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição &nbsp;&nbsp; Banda B",
       "category": "logistica",
@@ -318,8 +298,8 @@
       "headline": "Exclusivo: Bauducco inaugura fábrica de US$ 200 milhões nos EUA - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "26/06 às 17:46",
-      "dt_iso": "2026-06-26T20:46:29+00:00",
+      "time": "26/06 às 13:45",
+      "dt_iso": "2026-06-26T16:45:00+00:00",
       "summary": "Exclusivo: Bauducco inaugura fábrica de US$ 200 milhões nos EUA &nbsp;&nbsp; Exame",
       "category": "logistica",
       "keywords": [
@@ -352,6 +332,25 @@
       ]
     },
     {
+      "id": "19478aade0",
+      "headline": "Logística cresce com e-commerce, mas infraestrutura ainda desafia o setor, diz CEO da Braspress - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "25/06 às 16:42",
+      "dt_iso": "2026-06-25T19:42:00+00:00",
+      "summary": "Logística cresce com e-commerce, mas infraestrutura ainda desafia o setor, diz CEO da Braspress &nbsp;&nbsp; Times Brasil | CNBC",
+      "category": "logistica",
+      "keywords": [
+        "braspress",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e4a6bb6b9d",
       "headline": "Crescimento portuário impulsiona demanda por infraestrutura de armazenagem no Brasil - Mirian Gasparin",
       "source": "Miriangasparin",
@@ -366,6 +365,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c84c493bf7",
+      "headline": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 12:04",
+      "dt_iso": "2026-06-30T15:04:50+00:00",
+      "summary": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -428,6 +446,25 @@
       ]
     },
     {
+      "id": "bdc9b5db02",
+      "headline": "Demanda por galpões logísticos aquecida pelo boom do e-commerce impulsiona plano de expansão da GoodStorage - MSN",
+      "source": "Msn",
+      "link": "https://www.msn.com",
+      "time": "hoje, 11:36",
+      "dt_iso": "2026-06-30T14:36:47+00:00",
+      "summary": "Demanda por galpões logísticos aquecida pelo boom do e-commerce impulsiona plano de expansão da GoodStorage &nbsp;&nbsp; MSN",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "29e331bfd2",
       "headline": "Correios sob Lula: rombo histórico e governo avalia ampliar recursos - Portal Tela",
       "source": "Portaltela",
@@ -477,6 +514,25 @@
       "keywords": [
         "magazine luiza",
         "constrói"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "fd3a4d0ccd",
+      "headline": "Casas Bahia lança Dia do Baianinho e abre 1ª loja da Bartira - Central do Varejo",
+      "source": "Centraldovarejo",
+      "link": "https://centraldovarejo.com.br",
+      "time": "hoje, 12:01",
+      "dt_iso": "2026-06-30T15:01:59+00:00",
+      "summary": "Casas Bahia lança Dia do Baianinho e abre 1ª loja da Bartira &nbsp;&nbsp; Central do Varejo",
+      "category": "logistica",
+      "keywords": [
+        "casas bahia",
+        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
