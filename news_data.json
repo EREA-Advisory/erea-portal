@@ -1,6 +1,6 @@
 {
-  "gerado_em": "01/07/2026 às 08:49",
-  "total": 31,
+  "gerado_em": "01/07/2026 às 14:53",
+  "total": 26,
   "noticias": [
     {
       "id": "3a084ac977",
@@ -28,7 +28,7 @@
       "headline": "DHL Express inaugura nova loja em São Paulo e acelera plano de expansão no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 09:00",
+      "time": "29/06 às 09:00",
       "dt_iso": "2026-06-29T12:00:20+00:00",
       "summary": "DHL Express inaugura nova loja em São Paulo e acelera plano de expansão no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "expansao",
@@ -41,6 +41,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "79db127bee",
+      "headline": "CMA CGM anuncia aquisição da FedEx Supply Chain por US$ 1,4 bilhão - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 10:39",
+      "dt_iso": "2026-07-01T13:39:04+00:00",
+      "summary": "CMA CGM anuncia aquisição da FedEx Supply Chain por US$ 1,4 bilhão &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "supply chain"
+      ],
+      "score": 7,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -64,46 +83,6 @@
       ]
     },
     {
-      "id": "ec0f319aac",
-      "headline": "MGLU3: Por que ações do Magazine Luiza estão caindo para mínima de 52 semanas hoje - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Google News",
-      "link": "https://br.investing.com",
-      "time": "25/06 às 15:52",
-      "dt_iso": "2026-06-25T18:52:00+00:00",
-      "summary": "MGLU3: Por que ações do Magazine Luiza estão caindo para mínima de 52 semanas hoje &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7e21656293",
-      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
-      "source": "Nordinvestimentos",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "hoje, 17:23",
-      "dt_iso": "2026-06-30T20:23:27+00:00",
-      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "44e5ffe7df",
       "headline": "Maltaria, Heineken e Ambev investem R$ 4,1 bilhões nos Campos Gerais - aRede",
       "source": "Arede",
@@ -119,25 +98,6 @@
       ],
       "score": 7,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "1d0c06c974",
-      "headline": "Americanas diz à CVM desconhecer cálculo de suposta fraude de R$ 54 bilhões",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/americanas-diz-a-cvm-desconhecer-calculo-de-suposta-fraude-de-r-54-bilhoes/",
-      "time": "há 41 min",
-      "dt_iso": "2026-07-01T11:06:26+00:00",
-      "summary": "Varejista acrescentou que não tem conhecimento de novos desdobramentos da fraude que possam alterar esse montante \n The post  Americanas diz à CVM desconhecer cálculo de suposta fraude de R$ 54 bilhões  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "americanas",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -166,7 +126,7 @@
       "headline": "BNDES libera R$ 57,7 mi para Copacol ampliar armazenagem - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 10:36",
+      "time": "29/06 às 10:36",
       "dt_iso": "2026-06-29T13:36:54+00:00",
       "summary": "BNDES libera R$ 57,7 mi para Copacol ampliar armazenagem &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -200,30 +160,11 @@
       ]
     },
     {
-      "id": "837ccfba21",
-      "headline": "Safra recorde amplia desafios de armazenagem e logística no agro - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "24/06 às 09:42",
-      "dt_iso": "2026-06-24T12:42:08+00:00",
-      "summary": "Safra recorde amplia desafios de armazenagem e logística no agro &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "c26ebc21c4",
       "headline": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 09:37",
+      "time": "ontem, 09:37",
       "dt_iso": "2026-06-30T12:37:00+00:00",
       "summary": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -276,30 +217,11 @@
       ]
     },
     {
-      "id": "e39267077d",
-      "headline": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento - Agrolink",
-      "source": "Agrolink",
-      "link": "https://www.agrolink.com.br",
-      "time": "24/06 às 14:13",
-      "dt_iso": "2026-06-24T17:13:00+00:00",
-      "summary": "Stara inaugura novo Centro de Distribuição de Peças em Goiás e reforça o compromisso com a excelência do atendimento &nbsp;&nbsp; Agrolink",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "c84c493bf7",
       "headline": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "hoje, 12:04",
+      "time": "ontem, 12:04",
       "dt_iso": "2026-06-30T15:04:50+00:00",
       "summary": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
@@ -337,7 +259,7 @@
       "headline": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição - Banda B",
       "source": "Bandab",
       "link": "https://www.bandab.com.br",
-      "time": "ontem, 13:51",
+      "time": "29/06 às 13:51",
       "dt_iso": "2026-06-29T16:51:00+00:00",
       "summary": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição &nbsp;&nbsp; Banda B",
       "category": "logistica",
@@ -372,12 +294,12 @@
     },
     {
       "id": "d69b1c7b8f",
-      "headline": "Bauducco® inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano - Sala da Notícia",
-      "source": "Portal",
-      "link": "https://portal.saladanoticia.com.br",
+      "headline": "Bauducco® inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano - Jornal do Brás",
+      "source": "Jornaldobras",
+      "link": "https://jornaldobras.com.br",
       "time": "ontem, 16:43",
       "dt_iso": "2026-06-29T19:43:58+00:00",
-      "summary": "Bauducco® inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano &nbsp;&nbsp; Sala da Notícia",
+      "summary": "Bauducco® inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano &nbsp;&nbsp; Jornal do Brás",
       "category": "logistica",
       "keywords": [
         "bauducco",
@@ -385,25 +307,6 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "1b9d49a24d",
-      "headline": "Ambev anuncia investimento de R$ 70 milhões em nova fábrica de embalagens no Paraná - Jornal da Fronteira",
-      "source": "Jornaldafronteira",
-      "link": "https://jornaldafronteira.com.br",
-      "time": "26/06 às 09:42",
-      "dt_iso": "2026-06-26T12:42:17+00:00",
-      "summary": "Ambev anuncia investimento de R$ 70 milhões em nova fábrica de embalagens no Paraná &nbsp;&nbsp; Jornal da Fronteira",
-      "category": "logistica",
-      "keywords": [
-        "ambev",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -447,25 +350,6 @@
       ]
     },
     {
-      "id": "65ca8fded6",
-      "headline": "CEO transforma Petlove em ecossistema de R$ 2,4 bilhões e reforça estratégia de expansão - Business Moment",
-      "source": "Businessmoment",
-      "link": "https://businessmoment.com.br",
-      "time": "24/06 às 11:29",
-      "dt_iso": "2026-06-24T14:29:00+00:00",
-      "summary": "CEO transforma Petlove em ecossistema de R$ 2,4 bilhões e reforça estratégia de expansão &nbsp;&nbsp; Business Moment",
-      "category": "expansao",
-      "keywords": [
-        "petlove",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "f9c8eca7cd",
       "headline": "Capacidade de armazenagem de grãos no Brasil cresce, mas segue abaixo do avanço da produção agrícola - Portal do Agronegócio",
       "source": "Portaldoagronegocio",
@@ -504,11 +388,30 @@
       ]
     },
     {
+      "id": "189b0601a3",
+      "headline": "Novo galpão da Amazon em Salvador reflete boom dos centros logísticos no Brasil - Alô Alô Bahia",
+      "source": "Aloalobahia",
+      "link": "https://aloalobahia.com",
+      "time": "há 36 min",
+      "dt_iso": "2026-07-01T17:16:10+00:00",
+      "summary": "Novo galpão da Amazon em Salvador reflete boom dos centros logísticos no Brasil &nbsp;&nbsp; Alô Alô Bahia",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "novo galpão"
+      ],
+      "score": 6,
+      "relevance": "Região(ões) mencionada(s): Salvador.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "bdc9b5db02",
       "headline": "Demanda por Galpões Logísticos Aquecida Pelo Boom do E-commerce Impulsiona Plano de Expansão da GoodStorage - Forbes Brasil",
       "source": "Forbes",
       "link": "https://forbes.com.br",
-      "time": "hoje, 11:05",
+      "time": "ontem, 11:05",
       "dt_iso": "2026-06-30T14:05:35+00:00",
       "summary": "Demanda por Galpões Logísticos Aquecida Pelo Boom do E-commerce Impulsiona Plano de Expansão da GoodStorage &nbsp;&nbsp; Forbes Brasil",
       "category": "expansao",
@@ -546,7 +449,7 @@
       "headline": "Casas Bahia lança Dia do Baianinho e abre 1ª loja da Bartira - Central do Varejo",
       "source": "Centraldovarejo",
       "link": "https://centraldovarejo.com.br",
-      "time": "hoje, 12:01",
+      "time": "ontem, 12:01",
       "dt_iso": "2026-06-30T15:01:59+00:00",
       "summary": "Casas Bahia lança Dia do Baianinho e abre 1ª loja da Bartira &nbsp;&nbsp; Central do Varejo",
       "category": "logistica",
