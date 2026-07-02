@@ -1,6 +1,6 @@
 {
-  "gerado_em": "02/07/2026 às 08:25",
-  "total": 27,
+  "gerado_em": "02/07/2026 às 14:44",
+  "total": 26,
   "noticias": [
     {
       "id": "3a084ac977",
@@ -28,7 +28,7 @@
       "headline": "Grupo Muffato celebra semana de expansão e reinaugurações no Paraná - Paranashop",
       "source": "Paranashop",
       "link": "https://www.paranashop.com.br",
-      "time": "hoje, 13:52",
+      "time": "ontem, 13:52",
       "dt_iso": "2026-07-01T16:52:50+00:00",
       "summary": "Grupo Muffato celebra semana de expansão e reinaugurações no Paraná &nbsp;&nbsp; Paranashop",
       "category": "expansao",
@@ -89,7 +89,7 @@
       "headline": "CMA CGM anuncia aquisição da FedEx Supply Chain por US$ 1,4 bilhão - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 10:39",
+      "time": "ontem, 10:39",
       "dt_iso": "2026-07-01T13:39:04+00:00",
       "summary": "CMA CGM anuncia aquisição da FedEx Supply Chain por US$ 1,4 bilhão &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -144,11 +144,30 @@
       ]
     },
     {
+      "id": "d3cd76635b",
+      "headline": "Painel S.A.: De olho na expansão no interior de SP, MadeiraMadeira terá novo centro de distribuição - Folha de S.Paulo",
+      "source": "UOL",
+      "link": "https://www1.folha.uol.com.br",
+      "time": "hoje, 11:01",
+      "dt_iso": "2026-07-02T14:01:00+00:00",
+      "summary": "Painel S.A.: De olho na expansão no interior de SP, MadeiraMadeira terá novo centro de distribuição &nbsp;&nbsp; Folha de S.Paulo",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "189b0601a3",
       "headline": "Novo galpão da Amazon em Salvador reflete boom dos centros logísticos no Brasil - Mais Região",
       "source": "Maisregiao",
       "link": "https://www.maisregiao.com.br",
-      "time": "hoje, 14:21",
+      "time": "ontem, 14:21",
       "dt_iso": "2026-07-01T17:21:00+00:00",
       "summary": "Novo galpão da Amazon em Salvador reflete boom dos centros logísticos no Brasil &nbsp;&nbsp; Mais Região",
       "category": "expansao",
@@ -224,7 +243,7 @@
       "headline": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 09:37",
+      "time": "30/06 às 09:37",
       "dt_iso": "2026-06-30T12:37:00+00:00",
       "summary": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -281,7 +300,7 @@
       "headline": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "ontem, 12:04",
+      "time": "30/06 às 12:04",
       "dt_iso": "2026-06-30T15:04:50+00:00",
       "summary": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
@@ -391,51 +410,13 @@
       ]
     },
     {
-      "id": "e4a6bb6b9d",
-      "headline": "Crescimento portuário impulsiona demanda por infraestrutura de armazenagem no Brasil - Mirian Gasparin",
-      "source": "Miriangasparin",
-      "link": "https://miriangasparin.com.br",
-      "time": "29/06 às 18:08",
-      "dt_iso": "2026-06-29T21:08:21+00:00",
-      "summary": "Crescimento portuário impulsiona demanda por infraestrutura de armazenagem no Brasil &nbsp;&nbsp; Mirian Gasparin",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "f9c8eca7cd",
-      "headline": "Capacidade de armazenagem de grãos no Brasil cresce, mas segue abaixo do avanço da produção agrícola - Portal do Agronegócio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "25/06 às 10:14",
-      "dt_iso": "2026-06-25T13:14:01+00:00",
-      "summary": "Capacidade de armazenagem de grãos no Brasil cresce, mas segue abaixo do avanço da produção agrícola &nbsp;&nbsp; Portal do Agronegócio",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "bdc9b5db02",
-      "headline": "Demanda por galpões logísticos aquecida pelo boom do e-commerce impulsiona plano de expansão da GoodStorage - MSN",
-      "source": "Msn",
-      "link": "https://www.msn.com",
-      "time": "ontem, 11:36",
-      "dt_iso": "2026-06-30T14:36:47+00:00",
-      "summary": "Demanda por galpões logísticos aquecida pelo boom do e-commerce impulsiona plano de expansão da GoodStorage &nbsp;&nbsp; MSN",
+      "headline": "Demanda por Galpões Logísticos Aquecida Pelo Boom do E-commerce Impulsiona Plano de Expansão da GoodStorage - Forbes Brasil",
+      "source": "Forbes",
+      "link": "https://forbes.com.br",
+      "time": "30/06 às 11:05",
+      "dt_iso": "2026-06-30T14:05:35+00:00",
+      "summary": "Demanda por Galpões Logísticos Aquecida Pelo Boom do E-commerce Impulsiona Plano de Expansão da GoodStorage &nbsp;&nbsp; Forbes Brasil",
       "category": "expansao",
       "keywords": [
         "galpões",
@@ -471,7 +452,7 @@
       "headline": "Casas Bahia lança Dia do Baianinho e abre 1ª loja da Bartira - Central do Varejo",
       "source": "Centraldovarejo",
       "link": "https://centraldovarejo.com.br",
-      "time": "ontem, 12:01",
+      "time": "30/06 às 12:01",
       "dt_iso": "2026-06-30T15:01:59+00:00",
       "summary": "Casas Bahia lança Dia do Baianinho e abre 1ª loja da Bartira &nbsp;&nbsp; Central do Varejo",
       "category": "logistica",
