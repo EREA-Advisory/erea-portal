@@ -1,6 +1,6 @@
 {
-  "gerado_em": "04/07/2026 às 07:46",
-  "total": 21,
+  "gerado_em": "04/07/2026 às 14:02",
+  "total": 20,
   "noticias": [
     {
       "id": "2fb8b84962",
@@ -28,7 +28,7 @@
       "headline": "ILOG11",
       "source": "Funds Explorer",
       "link": "https://www.fundsexplorer.com.br/funds/ilog11",
-      "time": "hoje, 09:10",
+      "time": "ontem, 09:10",
       "dt_iso": "2026-07-03T12:10:25+00:00",
       "summary": "ITAÚ RBR DESENVOLVIMENTO LOGÍSTICO &#8211; FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA ILOG11 é um fundo de desenvolvimento de galpões logísticos, resultado de uma co-gestão entre RBR Asset e Itaú Asset. Com foco em ganho de capital, o fundo investe no desenvolvimento de ativos logísticos estrategicamente localizados em um raio de até 30 quilômetros da cidade [&#8230;] \n The post  ILOG11  appeared first on  Notícias sobre Fundos Imobiliários | Funds Explorer .",
       "category": "investimento",
@@ -68,7 +68,7 @@
       "headline": "Crescimento portuário amplia demanda por infraestrutura de armazenagem no Brasil - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 10:17",
+      "time": "02/07 às 10:17",
       "dt_iso": "2026-07-02T13:17:15+00:00",
       "summary": "Crescimento portuário amplia demanda por infraestrutura de armazenagem no Brasil &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -128,7 +128,7 @@
       "headline": "Com investimento de R$ 80 milhões, Mercado Livre começa construção de megaestrutura em SC - 4oito",
       "source": "4Oito",
       "link": "https://www.4oito.com.br",
-      "time": "hoje, 11:01",
+      "time": "ontem, 11:01",
       "dt_iso": "2026-07-03T14:01:00+00:00",
       "summary": "Com investimento de R$ 80 milhões, Mercado Livre começa construção de megaestrutura em SC &nbsp;&nbsp; 4oito",
       "category": "ecommerce",
@@ -148,7 +148,7 @@
       "headline": "Painel S.A.: De olho na expansão no interior de SP, MadeiraMadeira terá novo centro de distribuição - Folha de S.Paulo",
       "source": "UOL",
       "link": "https://www1.folha.uol.com.br",
-      "time": "ontem, 11:01",
+      "time": "02/07 às 11:01",
       "dt_iso": "2026-07-02T14:01:00+00:00",
       "summary": "Painel S.A.: De olho na expansão no interior de SP, MadeiraMadeira terá novo centro de distribuição &nbsp;&nbsp; Folha de S.Paulo",
       "category": "expansao",
@@ -367,25 +367,6 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "c11266e1c6",
-      "headline": "Assaí amplia marcas próprias com produtos temáticos e congelados - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "ontem, 16:56",
-      "dt_iso": "2026-07-02T19:56:20+00:00",
-      "summary": "Assaí amplia marcas próprias com produtos temáticos e congelados &nbsp;&nbsp; Giro News",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
