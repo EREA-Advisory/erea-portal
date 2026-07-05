@@ -1,13 +1,13 @@
 {
-  "gerado_em": "05/07/2026 às 07:56",
-  "total": 19,
+  "gerado_em": "05/07/2026 às 14:07",
+  "total": 20,
   "noticias": [
     {
       "id": "2fb8b84962",
       "headline": "Grupo CMA CGM vai adquirir a FedEx Supply Chain por US$ 1,4 bi para ampliar logística na América do Norte - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 14:04",
+      "time": "03/07 às 14:04",
       "dt_iso": "2026-07-03T17:04:15+00:00",
       "summary": "Grupo CMA CGM vai adquirir a FedEx Supply Chain por US$ 1,4 bi para ampliar logística na América do Norte &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -24,11 +24,53 @@
       ]
     },
     {
+      "id": "308078a7c2",
+      "headline": "Grupo Muffato celebra semana de expansão e reinaugurações no Paraná - Paranashop",
+      "source": "Paranashop",
+      "link": "https://www.paranashop.com.br",
+      "time": "01/07 às 13:52",
+      "dt_iso": "2026-07-01T16:52:50+00:00",
+      "summary": "Grupo Muffato celebra semana de expansão e reinaugurações no Paraná &nbsp;&nbsp; Paranashop",
+      "category": "expansao",
+      "keywords": [
+        "grupo muffato",
+        "inaugura",
+        "inaugurações",
+        "expansão"
+      ],
+      "score": 8,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "44af10c719",
+      "headline": "Petlove investe em expansão e inaugura unidade no Morumbi - VEJA SÃO PAULO",
+      "source": "Vejasp",
+      "link": "https://vejasp.abril.com.br",
+      "time": "ontem, 18:20",
+      "dt_iso": "2026-07-03T21:20:00+00:00",
+      "summary": "Petlove investe em expansão e inaugura unidade no Morumbi &nbsp;&nbsp; VEJA SÃO PAULO",
+      "category": "expansao",
+      "keywords": [
+        "petlove",
+        "inaugura",
+        "expansão",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "1cf855c951",
       "headline": "ILOG11",
       "source": "Funds Explorer",
       "link": "https://www.fundsexplorer.com.br/funds/ilog11",
-      "time": "ontem, 09:10",
+      "time": "03/07 às 09:10",
       "dt_iso": "2026-07-03T12:10:25+00:00",
       "summary": "ITAÚ RBR DESENVOLVIMENTO LOGÍSTICO &#8211; FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA ILOG11 é um fundo de desenvolvimento de galpões logísticos, resultado de uma co-gestão entre RBR Asset e Itaú Asset. Com foco em ganho de capital, o fundo investe no desenvolvimento de ativos logísticos estrategicamente localizados em um raio de até 30 quilômetros da cidade [&#8230;] \n The post  ILOG11  appeared first on  Notícias sobre Fundos Imobiliários | Funds Explorer .",
       "category": "investimento",
@@ -101,26 +143,6 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "941775ef94",
-      "headline": "Bauducco inaugura fábrica de US$ 200 milhões na Flórida e amplia produção nos Estados Unidos - Gazeta Brazilian News",
-      "source": "Gazetanews",
-      "link": "https://www.gazetanews.com",
-      "time": "30/06 às 15:03",
-      "dt_iso": "2026-06-30T18:03:48+00:00",
-      "summary": "Bauducco inaugura fábrica de US$ 200 milhões na Flórida e amplia produção nos Estados Unidos &nbsp;&nbsp; Gazeta Brazilian News",
-      "category": "logistica",
-      "keywords": [
-        "bauducco",
-        "inaugura",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -240,12 +262,12 @@
     },
     {
       "id": "d69b1c7b8f",
-      "headline": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano - Mercado do Cacau",
-      "source": "Mercadodocacau",
-      "link": "https://mercadodocacau.com.br",
-      "time": "ontem, 00:00",
-      "dt_iso": "2026-07-04T03:00:38+00:00",
-      "summary": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano &nbsp;&nbsp; Mercado do Cacau",
+      "headline": "Bauducco® inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano - Sala da Notícia",
+      "source": "Portal",
+      "link": "https://portal.saladanoticia.com.br",
+      "time": "29/06 às 16:43",
+      "dt_iso": "2026-06-29T19:43:58+00:00",
+      "summary": "Bauducco® inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano &nbsp;&nbsp; Sala da Notícia",
       "category": "logistica",
       "keywords": [
         "bauducco",
