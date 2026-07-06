@@ -1,7 +1,28 @@
 {
-  "gerado_em": "06/07/2026 às 09:33",
-  "total": 16,
+  "gerado_em": "06/07/2026 às 15:10",
+  "total": 17,
   "noticias": [
+    {
+      "id": "9003cd8bda",
+      "headline": "Aos 50 anos, C&A abre loja de nova marca para disputar mercado de R$ 4 bilhões",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/aos-50-anos-ca-abre-loja-de-nova-marca-para-disputar-mercado-de-r-4-bilhoes/",
+      "time": "hoje, 10:15",
+      "dt_iso": "2026-07-06T13:15:06+00:00",
+      "summary": "Ao lançar a ACE, varejista entra no mercado de athleisure premium e aposta em uma nova frente de crescimento além da marca que construiu sua história no país",
+      "category": "logistica",
+      "keywords": [
+        "c&a",
+        "abre",
+        "construiu",
+        "crescimento"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
     {
       "id": "2fb8b84962",
       "headline": "Grupo CMA CGM vai adquirir a FedEx Supply Chain por US$ 1,4 bi para ampliar logística na América do Norte - MundoLogística",
@@ -82,6 +103,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Salvador.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "d0d9fc16eb",
+      "headline": "Vinci Compass encaminha compra de fatia em mega galpão do Mercado Livre em Campinas - InvestNews",
+      "source": "InvestNews",
+      "link": "https://investnews.com.br",
+      "time": "hoje, 11:15",
+      "dt_iso": "2026-07-06T14:15:26+00:00",
+      "summary": "Vinci Compass encaminha compra de fatia em mega galpão do Mercado Livre em Campinas &nbsp;&nbsp; InvestNews",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Região(ões) mencionada(s): Campinas.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -173,25 +213,6 @@
       "category": "logistica",
       "keywords": [
         "dhl",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "e912444fc9",
-      "headline": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição - Banda B",
-      "source": "Bandab",
-      "link": "https://www.bandab.com.br",
-      "time": "29/06 às 13:51",
-      "dt_iso": "2026-06-29T16:51:00+00:00",
-      "summary": "Rede de supermercados expande no Brasil e compra 45 lojas, postos de combustíveis e centros de distribuição &nbsp;&nbsp; Banda B",
-      "category": "logistica",
-      "keywords": [
-        "centros de distribuição",
         "expande"
       ],
       "score": 6,
