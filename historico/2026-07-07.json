@@ -1,6 +1,6 @@
 {
-  "gerado_em": "07/07/2026 às 08:36",
-  "total": 21,
+  "gerado_em": "07/07/2026 às 14:57",
+  "total": 24,
   "noticias": [
     {
       "id": "4848ef5cfb",
@@ -42,6 +42,27 @@
       "badges": [
         "Destaque",
         "Logística"
+      ]
+    },
+    {
+      "id": "285e0da6d8",
+      "headline": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto - Nord Investimentos",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "hoje, 10:19",
+      "dt_iso": "2026-07-07T13:19:00+00:00",
+      "summary": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto &nbsp;&nbsp; Nord Investimentos",
+      "category": "investimento",
+      "keywords": [
+        "galpões",
+        "amplia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -131,7 +152,7 @@
       "headline": "Vinci Compass encaminha compra de fatia em mega galpão do Mercado Livre em Campinas - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "hoje, 11:15",
+      "time": "ontem, 11:15",
       "dt_iso": "2026-07-06T14:15:26+00:00",
       "summary": "Vinci Compass encaminha compra de fatia em mega galpão do Mercado Livre em Campinas &nbsp;&nbsp; InvestNews",
       "category": "ecommerce",
@@ -166,6 +187,26 @@
       ]
     },
     {
+      "id": "f4dc89df56",
+      "headline": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim - Portal Agita",
+      "source": "Portalagita",
+      "link": "https://portalagita.com.br",
+      "time": "02/07 às 15:51",
+      "dt_iso": "2026-07-02T18:51:15+00:00",
+      "summary": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim &nbsp;&nbsp; Portal Agita",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "amplia",
+        "investimento"
+      ],
+      "score": 7,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Betim.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "81a3f830e5",
       "headline": "Mercado Livre quer abrir 14 centros de distribuição e 28 mil vagas em 2026 - UOL Economia",
       "source": "UOL",
@@ -185,23 +226,23 @@
       ]
     },
     {
-      "id": "f4dc89df56",
-      "headline": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim - Portal Agita",
-      "source": "Portalagita",
-      "link": "https://portalagita.com.br",
-      "time": "02/07 às 15:51",
-      "dt_iso": "2026-07-02T18:51:15+00:00",
-      "summary": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim &nbsp;&nbsp; Portal Agita",
-      "category": "logistica",
+      "id": "8155aff9e2",
+      "headline": "Com investimento de R$ 57 bilhões, Mercado Livre abre 28,2 mil vagas em 14 novos centros logísticos de cinco cidades do Brasil - ND Mais",
+      "source": "ND Mais",
+      "link": "https://ndmais.com.br",
+      "time": "hoje, 13:19",
+      "dt_iso": "2026-07-07T16:19:54+00:00",
+      "summary": "Com investimento de R$ 57 bilhões, Mercado Livre abre 28,2 mil vagas em 14 novos centros logísticos de cinco cidades do Brasil &nbsp;&nbsp; ND Mais",
+      "category": "ecommerce",
       "keywords": [
-        "condomínio logístico",
-        "amplia",
+        "mercado livre",
+        "abre",
         "investimento"
       ],
       "score": 7,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Betim.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -244,17 +285,17 @@
       ]
     },
     {
-      "id": "c26ebc21c4",
-      "headline": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "30/06 às 11:36",
-      "dt_iso": "2026-06-30T14:36:16+00:00",
-      "summary": "TW amplia complexo logístico em Montenegro (RS) e aumenta capacidade de armazenagem &nbsp;&nbsp; Tecnologística",
+      "id": "f767e84ccf",
+      "headline": "Mercado Livre expande logística com 14 novos Cds - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 08:26",
+      "dt_iso": "2026-07-07T11:26:00+00:00",
+      "summary": "Mercado Livre expande logística com 14 novos Cds &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
-        "armazenagem",
-        "amplia"
+        "mercado livre",
+        "expande"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -263,17 +304,36 @@
       ]
     },
     {
-      "id": "c84c493bf7",
-      "headline": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "30/06 às 12:04",
-      "dt_iso": "2026-06-30T15:04:50+00:00",
-      "summary": "DHL Express expande rede em São Paulo para fortalecer envios nacionais e internacionais &nbsp;&nbsp; Mercado&amp;Consumo",
+      "id": "926ac980e1",
+      "headline": "Mercado Livre abre 28 mil vagas em logística; veja onde - iG Economia",
+      "source": "Economia",
+      "link": "https://economia.ig.com.br",
+      "time": "há 8 min",
+      "dt_iso": "2026-07-07T17:49:00+00:00",
+      "summary": "Mercado Livre abre 28 mil vagas em logística; veja onde &nbsp;&nbsp; iG Economia",
       "category": "logistica",
       "keywords": [
-        "dhl",
-        "expande"
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "833e9cf5f3",
+      "headline": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional - Paraíba Business",
+      "source": "Paraibabusiness",
+      "link": "https://paraibabusiness.com.br",
+      "time": "hoje, 13:09",
+      "dt_iso": "2026-07-07T16:09:00+00:00",
+      "summary": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional &nbsp;&nbsp; Paraíba Business",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -324,7 +384,7 @@
       "headline": "Aluguel de galpões sobe 16% em seis anos e escassez de espaços pressiona logística - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "hoje, 13:57",
+      "time": "ontem, 13:57",
       "dt_iso": "2026-07-06T16:57:10+00:00",
       "summary": "Aluguel de galpões sobe 16% em seis anos e escassez de espaços pressiona logística &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
@@ -336,25 +396,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "bdc9b5db02",
-      "headline": "Demanda por Galpões Logísticos Aquecida Pelo Boom do E-commerce Impulsiona Plano de Expansão da GoodStorage - Forbes Brasil",
-      "source": "Forbes",
-      "link": "https://forbes.com.br",
-      "time": "30/06 às 11:05",
-      "dt_iso": "2026-06-30T14:05:35+00:00",
-      "summary": "Demanda por Galpões Logísticos Aquecida Pelo Boom do E-commerce Impulsiona Plano de Expansão da GoodStorage &nbsp;&nbsp; Forbes Brasil",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -372,6 +413,25 @@
       ],
       "score": 6,
       "relevance": "Região(ões) mencionada(s): Fortaleza.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "02d7b8056f",
+      "headline": "Mercado Livre abre nova vaga para liderança em logística e transportes no Brasil; veja como se candidatar - Empregos na Bahia",
+      "source": "Empregosnabahia",
+      "link": "https://empregosnabahia.com.br",
+      "time": "hoje, 12:23",
+      "dt_iso": "2026-07-07T15:23:43+00:00",
+      "summary": "Mercado Livre abre nova vaga para liderança em logística e transportes no Brasil; veja como se candidatar &nbsp;&nbsp; Empregos na Bahia",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
