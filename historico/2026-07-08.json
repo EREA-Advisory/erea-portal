@@ -1,6 +1,6 @@
 {
-  "gerado_em": "08/07/2026 às 07:53",
-  "total": 27,
+  "gerado_em": "08/07/2026 às 14:27",
+  "total": 28,
   "noticias": [
     {
       "id": "4848ef5cfb",
@@ -49,7 +49,7 @@
       "headline": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 13:24",
+      "time": "06/07 às 13:24",
       "dt_iso": "2026-07-06T16:24:00+00:00",
       "summary": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto &nbsp;&nbsp; Nord Investimentos",
       "category": "investimento",
@@ -84,27 +84,6 @@
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "308078a7c2",
-      "headline": "Grupo Muffato celebra semana de expansão e reinaugurações no Paraná - Paranashop",
-      "source": "Paranashop",
-      "link": "https://www.paranashop.com.br",
-      "time": "01/07 às 13:52",
-      "dt_iso": "2026-07-01T16:52:50+00:00",
-      "summary": "Grupo Muffato celebra semana de expansão e reinaugurações no Paraná &nbsp;&nbsp; Paranashop",
-      "category": "expansao",
-      "keywords": [
-        "grupo muffato",
-        "inaugura",
-        "inaugurações",
-        "expansão"
-      ],
-      "score": 8,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -172,7 +151,7 @@
       "headline": "Vinci Compass encaminha compra de fatia em mega galpão do Mercado Livre em Campinas - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "ontem, 11:15",
+      "time": "06/07 às 11:15",
       "dt_iso": "2026-07-06T14:15:26+00:00",
       "summary": "Vinci Compass encaminha compra de fatia em mega galpão do Mercado Livre em Campinas &nbsp;&nbsp; InvestNews",
       "category": "ecommerce",
@@ -184,6 +163,26 @@
       "relevance": "Região(ões) mencionada(s): Campinas.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "867ad70998",
+      "headline": "Renner amplia presença no estado de Sergipe e inaugura nova loja - jornaldacidade.net",
+      "source": "Jornaldacidade",
+      "link": "https://www.jornaldacidade.net",
+      "time": "hoje, 16:53",
+      "dt_iso": "2026-07-07T19:53:29+00:00",
+      "summary": "Renner amplia presença no estado de Sergipe e inaugura nova loja &nbsp;&nbsp; jornaldacidade.net",
+      "category": "logistica",
+      "keywords": [
+        "renner",
+        "inaugura",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -210,7 +209,7 @@
       "headline": "Com investimento de R$ 57 bilhões, Mercado Livre abre 28,2 mil vagas em 14 novos centros logísticos de cinco cidades do Brasil - ND Mais",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "hoje, 13:19",
+      "time": "ontem, 13:19",
       "dt_iso": "2026-07-07T16:19:54+00:00",
       "summary": "Com investimento de R$ 57 bilhões, Mercado Livre abre 28,2 mil vagas em 14 novos centros logísticos de cinco cidades do Brasil &nbsp;&nbsp; ND Mais",
       "category": "ecommerce",
@@ -270,8 +269,8 @@
       "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "hoje, 03:46",
-      "dt_iso": "2026-07-08T06:46:36+00:00",
+      "time": "hoje, 06:21",
+      "dt_iso": "2026-07-08T09:21:02+00:00",
       "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
       "category": "logistica",
       "keywords": [
@@ -283,25 +282,6 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "189b0601a3",
-      "headline": "Novo galpão da Amazon em Salvador reflete boom dos centros logísticos no Brasil - Alô Alô Bahia",
-      "source": "Aloalobahia",
-      "link": "https://aloalobahia.com",
-      "time": "01/07 às 14:16",
-      "dt_iso": "2026-07-01T17:16:10+00:00",
-      "summary": "Novo galpão da Amazon em Salvador reflete boom dos centros logísticos no Brasil &nbsp;&nbsp; Alô Alô Bahia",
-      "category": "expansao",
-      "keywords": [
-        "galpão",
-        "novo galpão"
-      ],
-      "score": 6,
-      "relevance": "Região(ões) mencionada(s): Salvador.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -328,7 +308,7 @@
       "headline": "Mercado Livre expande logística com 14 novos Cds - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 08:26",
+      "time": "ontem, 08:26",
       "dt_iso": "2026-07-07T11:26:00+00:00",
       "summary": "Mercado Livre expande logística com 14 novos Cds &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -362,6 +342,25 @@
       ]
     },
     {
+      "id": "d69b1c7b8f",
+      "headline": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano - Conexão In",
+      "source": "Conexaoin",
+      "link": "https://conexaoin.com.br",
+      "time": "hoje, 13:04",
+      "dt_iso": "2026-07-08T16:04:32+00:00",
+      "summary": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano &nbsp;&nbsp; Conexão In",
+      "category": "logistica",
+      "keywords": [
+        "bauducco",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "8e05fe252d",
       "headline": "Expansão de condomínios logísticos impulsiona demanda por empilhadeiras no Brasil - Folha PE",
       "source": "Folhape",
@@ -385,7 +384,7 @@
       "headline": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional - Paraíba Business",
       "source": "Paraibabusiness",
       "link": "https://paraibabusiness.com.br",
-      "time": "hoje, 13:09",
+      "time": "ontem, 13:09",
       "dt_iso": "2026-07-07T16:09:00+00:00",
       "summary": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional &nbsp;&nbsp; Paraíba Business",
       "category": "logistica",
@@ -442,7 +441,7 @@
       "headline": "Aluguel de galpões sobe 16% em seis anos e escassez de espaços pressiona logística - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "ontem, 13:57",
+      "time": "06/07 às 13:57",
       "dt_iso": "2026-07-06T16:57:10+00:00",
       "summary": "Aluguel de galpões sobe 16% em seis anos e escassez de espaços pressiona logística &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
@@ -480,7 +479,7 @@
       "headline": "Mercado Livre abre nova vaga para liderança em logística e transportes no Brasil; veja como se candidatar - Empregos na Bahia",
       "source": "Empregosnabahia",
       "link": "https://empregosnabahia.com.br",
-      "time": "hoje, 12:23",
+      "time": "ontem, 12:23",
       "dt_iso": "2026-07-07T15:23:43+00:00",
       "summary": "Mercado Livre abre nova vaga para liderança em logística e transportes no Brasil; veja como se candidatar &nbsp;&nbsp; Empregos na Bahia",
       "category": "logistica",
@@ -497,10 +496,10 @@
     {
       "id": "8300757cee",
       "headline": "Assaí abre caminho para farmácias em supermercados - DComercio",
-      "source": "Agenciadcnews",
-      "link": "https://agenciadcnews.com.br",
-      "time": "03/07 às 06:04",
-      "dt_iso": "2026-07-03T09:04:16+00:00",
+      "source": "Dcomercio",
+      "link": "https://dcomercio.com.br",
+      "time": "03/07 às 06:00",
+      "dt_iso": "2026-07-03T09:00:11+00:00",
       "summary": "Assaí abre caminho para farmácias em supermercados &nbsp;&nbsp; DComercio",
       "category": "logistica",
       "keywords": [
@@ -511,6 +510,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "50db20ee80",
+      "headline": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "hoje, 11:08",
+      "dt_iso": "2026-07-08T14:08:36+00:00",
+      "summary": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas &nbsp;&nbsp; Giro News",
+      "category": "expansao",
+      "keywords": [
+        "petlove",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
