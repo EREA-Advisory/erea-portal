@@ -1,6 +1,6 @@
 {
-  "gerado_em": "09/07/2026 às 08:48",
-  "total": 29,
+  "gerado_em": "09/07/2026 às 14:54",
+  "total": 30,
   "noticias": [
     {
       "id": "a54ce4e9a0",
@@ -21,6 +21,28 @@
       "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "42a1d9cc09",
+      "headline": "naPorta abre rodada de investimentos para ampliar operação logística - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 10:33",
+      "dt_iso": "2026-07-09T13:33:06+00:00",
+      "summary": "naPorta abre rodada de investimentos para ampliar operação logística &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "operação logística",
+        "amplia",
+        "abre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 9,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
         "Logística"
       ]
     },
@@ -130,27 +152,6 @@
       ]
     },
     {
-      "id": "44af10c719",
-      "headline": "Petlove investe em expansão e inaugura unidade no Morumbi - MSN",
-      "source": "Msn",
-      "link": "https://www.msn.com",
-      "time": "04/07 às 11:01",
-      "dt_iso": "2026-07-04T14:01:47+00:00",
-      "summary": "Petlove investe em expansão e inaugura unidade no Morumbi &nbsp;&nbsp; MSN",
-      "category": "expansao",
-      "keywords": [
-        "petlove",
-        "inaugura",
-        "expansão",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "1cf855c951",
       "headline": "ILOG11",
       "source": "Funds Explorer",
@@ -171,26 +172,6 @@
       ]
     },
     {
-      "id": "6fca9a5340",
-      "headline": "Com investimento de R$ 8 milhões, Comercial Maia amplia centro de distribuição no Ceará - Portal Nosso Meio",
-      "source": "Nossomeio",
-      "link": "https://nossomeio.com.br",
-      "time": "ontem, 16:28",
-      "dt_iso": "2026-07-07T19:28:00+00:00",
-      "summary": "Com investimento de R$ 8 milhões, Comercial Maia amplia centro de distribuição no Ceará &nbsp;&nbsp; Portal Nosso Meio",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "amplia",
-        "investimento"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "899d91da9f",
       "headline": "Gestora Vinci capta até R$ 250 milhões para comprar fatia de mega galpão do Mercado Livre - InvestNews",
       "source": "InvestNews",
@@ -207,6 +188,46 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "f4dc89df56",
+      "headline": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim - Portal Agita",
+      "source": "Portalagita",
+      "link": "https://portalagita.com.br",
+      "time": "02/07 às 15:51",
+      "dt_iso": "2026-07-02T18:51:15+00:00",
+      "summary": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim &nbsp;&nbsp; Portal Agita",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "amplia",
+        "investimento"
+      ],
+      "score": 7,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Betim.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "867ad70998",
+      "headline": "Renner amplia presença no estado de Sergipe e inaugura nova loja - jornaldacidade.net",
+      "source": "Jornaldacidade",
+      "link": "https://www.jornaldacidade.net",
+      "time": "ontem, 16:53",
+      "dt_iso": "2026-07-07T19:53:29+00:00",
+      "summary": "Renner amplia presença no estado de Sergipe e inaugura nova loja &nbsp;&nbsp; jornaldacidade.net",
+      "category": "logistica",
+      "keywords": [
+        "renner",
+        "inaugura",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -233,7 +254,7 @@
       "headline": "Com investimento de R$ 57 bilhões, Mercado Livre abre 28,2 mil vagas em 14 novos centros logísticos de cinco cidades do Brasil - ND Mais",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "ontem, 13:19",
+      "time": "07/07 às 13:19",
       "dt_iso": "2026-07-07T16:19:54+00:00",
       "summary": "Com investimento de R$ 57 bilhões, Mercado Livre abre 28,2 mil vagas em 14 novos centros logísticos de cinco cidades do Brasil &nbsp;&nbsp; ND Mais",
       "category": "ecommerce",
@@ -246,26 +267,6 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "f4dc89df56",
-      "headline": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim - Portal Agita",
-      "source": "Portalagita",
-      "link": "https://portalagita.com.br",
-      "time": "02/07 às 15:51",
-      "dt_iso": "2026-07-02T18:51:15+00:00",
-      "summary": "Fulwood anuncia investimento de R$ 90 milhões para ampliar condomínio logístico em Betim &nbsp;&nbsp; Portal Agita",
-      "category": "logistica",
-      "keywords": [
-        "condomínio logístico",
-        "amplia",
-        "investimento"
-      ],
-      "score": 7,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Betim.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -367,11 +368,30 @@
       ]
     },
     {
+      "id": "8fae7d78e8",
+      "headline": "Ultracargo e bp ampliam armazenagem e fortalecem hub multimodal - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "ontem, 07:33",
+      "dt_iso": "2026-07-08T10:33:00+00:00",
+      "summary": "Ultracargo e bp ampliam armazenagem e fortalecem hub multimodal &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "926ac980e1",
       "headline": "Mercado Livre abre 28 mil vagas em logística; veja onde - iG Economia",
       "source": "Economia",
       "link": "https://economia.ig.com.br",
-      "time": "ontem, 14:49",
+      "time": "07/07 às 14:49",
       "dt_iso": "2026-07-07T17:49:00+00:00",
       "summary": "Mercado Livre abre 28 mil vagas em logística; veja onde &nbsp;&nbsp; iG Economia",
       "category": "logistica",
@@ -386,16 +406,35 @@
       ]
     },
     {
-      "id": "d69b1c7b8f",
-      "headline": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano - Mirian Gasparin",
-      "source": "Miriangasparin",
-      "link": "https://miriangasparin.com.br",
-      "time": "02/07 às 23:27",
-      "dt_iso": "2026-07-03T02:27:17+00:00",
-      "summary": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano &nbsp;&nbsp; Mirian Gasparin",
+      "id": "c7a37d0c61",
+      "headline": "Bauducco® inaugura sua maior fábrica nos EUA - Grandes Nomes da Propaganda",
+      "source": "Grandesnomesdapropaganda",
+      "link": "https://grandesnomesdapropaganda.com.br",
+      "time": "04/07 às 07:16",
+      "dt_iso": "2026-07-04T10:16:53+00:00",
+      "summary": "Bauducco® inaugura sua maior fábrica nos EUA &nbsp;&nbsp; Grandes Nomes da Propaganda",
       "category": "logistica",
       "keywords": [
         "bauducco",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "88f150e92b",
+      "headline": "Rodrigo Cunha inaugura CAPS já entregue há 3 meses pela Braskem - BNews Alagoas",
+      "source": "Bnewsalagoas",
+      "link": "https://www.bnewsalagoas.com.br",
+      "time": "02/07 às 17:00",
+      "dt_iso": "2026-07-02T20:00:00+00:00",
+      "summary": "Rodrigo Cunha inaugura CAPS já entregue há 3 meses pela Braskem &nbsp;&nbsp; BNews Alagoas",
+      "category": "logistica",
+      "keywords": [
+        "braskem",
         "inaugura"
       ],
       "score": 6,
@@ -428,7 +467,7 @@
       "headline": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional - Paraíba Business",
       "source": "Paraibabusiness",
       "link": "https://paraibabusiness.com.br",
-      "time": "ontem, 13:09",
+      "time": "07/07 às 13:09",
       "dt_iso": "2026-07-07T16:09:00+00:00",
       "summary": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional &nbsp;&nbsp; Paraíba Business",
       "category": "logistica",
@@ -438,44 +477,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "f0b5b66ed8",
-      "headline": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil - Portal N10",
-      "source": "Portaln10",
-      "link": "https://portaln10.com.br",
-      "time": "06/07 às 20:06",
-      "dt_iso": "2026-07-06T23:06:18+00:00",
-      "summary": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil &nbsp;&nbsp; Portal N10",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "aporte"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "2a88fb3934",
-      "headline": "Mercado Livre abre 28 mil oportunidades na área de logística; confira como se inscrever - Itamaraju Notícias",
-      "source": "Itamarajunoticias",
-      "link": "https://itamarajunoticias.com.br",
-      "time": "06/07 às 20:36",
-      "dt_iso": "2026-07-06T23:36:05+00:00",
-      "summary": "Mercado Livre abre 28 mil oportunidades na área de logística; confira como se inscrever &nbsp;&nbsp; Itamaraju Notícias",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -500,22 +501,41 @@
       ]
     },
     {
-      "id": "c2ebd9f881",
-      "headline": "Mercado Livre amplia 28 mil vagas em logística no Brasil este ano - noticiasdoplanalto.com.br",
-      "source": "Noticiasdoplanalto",
-      "link": "https://noticiasdoplanalto.com.br",
-      "time": "06/07 às 16:52",
-      "dt_iso": "2026-07-06T19:52:15+00:00",
-      "summary": "Mercado Livre amplia 28 mil vagas em logística no Brasil este ano &nbsp;&nbsp; noticiasdoplanalto.com.br",
-      "category": "logistica",
+      "id": "03ec0ada9f",
+      "headline": "Painel S.A.: Dark Lab expande para a Argentina em parceria com Mercado Livre - Folha de S.Paulo",
+      "source": "UOL",
+      "link": "https://www1.folha.uol.com.br",
+      "time": "hoje, 12:59",
+      "dt_iso": "2026-07-09T15:59:00+00:00",
+      "summary": "Painel S.A.: Dark Lab expande para a Argentina em parceria com Mercado Livre &nbsp;&nbsp; Folha de S.Paulo",
+      "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "amplia"
+        "expande"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "f0b5b66ed8",
+      "headline": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil - Portal N10",
+      "source": "Portaln10",
+      "link": "https://portaln10.com.br",
+      "time": "06/07 às 20:06",
+      "dt_iso": "2026-07-06T23:06:18+00:00",
+      "summary": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil &nbsp;&nbsp; Portal N10",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -523,7 +543,7 @@
       "headline": "Mercado Livre abre nova vaga para liderança em logística e transportes no Brasil; veja como se candidatar - Empregos na Bahia",
       "source": "Empregosnabahia",
       "link": "https://empregosnabahia.com.br",
-      "time": "ontem, 12:23",
+      "time": "07/07 às 12:23",
       "dt_iso": "2026-07-07T15:23:43+00:00",
       "summary": "Mercado Livre abre nova vaga para liderança em logística e transportes no Brasil; veja como se candidatar &nbsp;&nbsp; Empregos na Bahia",
       "category": "logistica",
@@ -561,7 +581,7 @@
       "headline": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "hoje, 11:07",
+      "time": "ontem, 11:07",
       "dt_iso": "2026-07-08T14:07:49+00:00",
       "summary": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas &nbsp;&nbsp; Giro News",
       "category": "expansao",
