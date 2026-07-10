@@ -1,6 +1,6 @@
 {
-  "gerado_em": "10/07/2026 às 08:39",
-  "total": 31,
+  "gerado_em": "10/07/2026 às 14:46",
+  "total": 30,
   "noticias": [
     {
       "id": "a54ce4e9a0",
@@ -29,7 +29,7 @@
       "headline": "naPorta abre rodada de investimentos para ampliar operação logística - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 10:33",
+      "time": "ontem, 10:33",
       "dt_iso": "2026-07-09T13:33:06+00:00",
       "summary": "naPorta abre rodada de investimentos para ampliar operação logística &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -65,27 +65,6 @@
       "badges": [
         "Destaque",
         "Expansão"
-      ]
-    },
-    {
-      "id": "2fb8b84962",
-      "headline": "Grupo CMA CGM vai adquirir a FedEx Supply Chain por US$ 1,4 bi para ampliar logística na América do Norte - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "03/07 às 14:04",
-      "dt_iso": "2026-07-03T17:04:15+00:00",
-      "summary": "Grupo CMA CGM vai adquirir a FedEx Supply Chain por US$ 1,4 bi para ampliar logística na América do Norte &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "supply chain",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
       ]
     },
     {
@@ -170,26 +149,6 @@
       "badges": [
         "Destaque",
         "E-commerce"
-      ]
-    },
-    {
-      "id": "1cf855c951",
-      "headline": "ILOG11",
-      "source": "Funds Explorer",
-      "link": "https://www.fundsexplorer.com.br/funds/ilog11",
-      "time": "03/07 às 09:10",
-      "dt_iso": "2026-07-03T12:10:25+00:00",
-      "summary": "ITAÚ RBR DESENVOLVIMENTO LOGÍSTICO &#8211; FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA ILOG11 é um fundo de desenvolvimento de galpões logísticos, resultado de uma co-gestão entre RBR Asset e Itaú Asset. Com foco em ganho de capital, o fundo investe no desenvolvimento de ativos logísticos estrategicamente localizados em um raio de até 30 quilômetros da cidade [&#8230;] \n The post  ILOG11  appeared first on  Notícias sobre Fundos Imobiliários | Funds Explorer .",
-      "category": "investimento",
-      "keywords": [
-        "galpões",
-        "investe",
-        "investimento"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -311,22 +270,42 @@
       ]
     },
     {
-      "id": "2442a94aa4",
-      "headline": "Instituto Heineken abre inscrições para formar jovens no setor de bares e restaurantes",
-      "source": "Exame",
-      "link": "https://exame.com/esg/instituto-heineken-abre-inscricoes-para-formar-jovens-no-setor-de-bares-e-restaurantes/",
-      "time": "hoje, 05:00",
-      "dt_iso": "2026-07-10T08:00:10+00:00",
-      "summary": "Programa terá três turmas ao longo do ano, formação certificada pelo Senac, vagas afirmativas e apoio para inserção profissional após a conclusão do curso",
-      "category": "investimento",
+      "id": "eb05609f24",
+      "headline": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje? - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "hoje, 15:24",
+      "dt_iso": "2026-07-09T18:24:00+00:00",
+      "summary": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje? &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "logistica",
       "keywords": [
-        "heineken",
-        "abre"
+        "magazine luiza",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1896e2330f",
+      "headline": "Centro de Distribuição da Araújo tem investimento de R$ 150 mi - Portal UAI",
+      "source": "Mercadohoje",
+      "link": "https://mercadohoje.uai.com.br",
+      "time": "hoje, 12:02",
+      "dt_iso": "2026-07-10T15:02:33+00:00",
+      "summary": "Centro de Distribuição da Araújo tem investimento de R$ 150 mi &nbsp;&nbsp; Portal UAI",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investimento"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Investimento"
+        "Logística"
       ]
     },
     {
@@ -353,7 +332,7 @@
       "headline": "TransPacheco amplia atuação com operação de armazenagem em Campinas - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "há 20 min",
+      "time": "hoje, 08:18",
       "dt_iso": "2026-07-10T11:18:39+00:00",
       "summary": "TransPacheco amplia atuação com operação de armazenagem em Campinas &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -486,7 +465,7 @@
       "headline": "Expansão Global Simplificada: O guia definitivo para PMEs - DHL",
       "source": "Dhl",
       "link": "https://www.dhl.com",
-      "time": "ontem, 13:43",
+      "time": "08/07 às 13:43",
       "dt_iso": "2026-07-08T16:43:43+00:00",
       "summary": "Expansão Global Simplificada: O guia definitivo para PMEs &nbsp;&nbsp; DHL",
       "category": "expansao",
@@ -543,7 +522,7 @@
       "headline": "Painel S.A.: Dark Lab expande para a Argentina em parceria com Mercado Livre - Folha de S.Paulo",
       "source": "UOL",
       "link": "https://www1.folha.uol.com.br",
-      "time": "hoje, 12:59",
+      "time": "ontem, 12:59",
       "dt_iso": "2026-07-09T15:59:00+00:00",
       "summary": "Painel S.A.: Dark Lab expande para a Argentina em parceria com Mercado Livre &nbsp;&nbsp; Folha de S.Paulo",
       "category": "ecommerce",
@@ -600,7 +579,7 @@
       "headline": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "ontem, 11:07",
+      "time": "08/07 às 11:07",
       "dt_iso": "2026-07-08T14:07:49+00:00",
       "summary": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas &nbsp;&nbsp; Giro News",
       "category": "expansao",
