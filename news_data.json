@@ -1,6 +1,6 @@
 {
-  "gerado_em": "12/07/2026 às 07:17",
-  "total": 30,
+  "gerado_em": "12/07/2026 às 13:56",
+  "total": 29,
   "noticias": [
     {
       "id": "a54ce4e9a0",
@@ -50,7 +50,7 @@
       "headline": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 12:07",
+      "time": "10/07 às 12:07",
       "dt_iso": "2026-07-10T15:07:24+00:00",
       "summary": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto &nbsp;&nbsp; Nord Investimentos",
       "category": "investimento",
@@ -154,7 +154,7 @@
       "headline": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil - Jornal O Diário",
       "source": "Odiario",
       "link": "https://odiario.net",
-      "time": "hoje, 09:50",
+      "time": "ontem, 09:50",
       "dt_iso": "2026-07-11T12:50:26+00:00",
       "summary": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil &nbsp;&nbsp; Jornal O Diário",
       "category": "logistica",
@@ -293,7 +293,7 @@
       "headline": "Centro de Distribuição da Araújo tem investimento de R$ 150 mi - Portal UAI",
       "source": "Mercadohoje",
       "link": "https://mercadohoje.uai.com.br",
-      "time": "ontem, 12:02",
+      "time": "10/07 às 12:02",
       "dt_iso": "2026-07-10T15:02:33+00:00",
       "summary": "Centro de Distribuição da Araújo tem investimento de R$ 150 mi &nbsp;&nbsp; Portal UAI",
       "category": "logistica",
@@ -312,7 +312,7 @@
       "headline": "TransPacheco amplia atuação com operação de armazenagem em Campinas - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:18",
+      "time": "10/07 às 08:18",
       "dt_iso": "2026-07-10T11:18:39+00:00",
       "summary": "TransPacheco amplia atuação com operação de armazenagem em Campinas &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -347,12 +347,12 @@
     },
     {
       "id": "c492da2902",
-      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 1 - ArchDaily",
+      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 4 - ArchDaily",
       "source": "Archdaily",
       "link": "https://www.archdaily.com",
-      "time": "hoje, 11:54",
-      "dt_iso": "2026-07-11T14:54:08+00:00",
-      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 1 &nbsp;&nbsp; ArchDaily",
+      "time": "ontem, 07:43",
+      "dt_iso": "2026-07-11T10:43:25+00:00",
+      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 4 &nbsp;&nbsp; ArchDaily",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -422,25 +422,6 @@
       ]
     },
     {
-      "id": "833e9cf5f3",
-      "headline": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional - Paraíba Business",
-      "source": "Paraibabusiness",
-      "link": "https://paraibabusiness.com.br",
-      "time": "07/07 às 13:09",
-      "dt_iso": "2026-07-07T16:09:00+00:00",
-      "summary": "Mercado Livre amplia logística e aumenta pressão sobre o varejo tradicional &nbsp;&nbsp; Paraíba Business",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "c7821b4de8",
       "headline": "Expansão Global Simplificada: O guia definitivo para PMEs - DHL",
       "source": "Dhl",
@@ -457,25 +438,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "f0b5b66ed8",
-      "headline": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil - Portal N10",
-      "source": "Portaln10",
-      "link": "https://portaln10.com.br",
-      "time": "06/07 às 20:06",
-      "dt_iso": "2026-07-06T23:06:18+00:00",
-      "summary": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil &nbsp;&nbsp; Portal N10",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "aporte"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -533,6 +495,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "f0b5b66ed8",
+      "headline": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil - Portal N10",
+      "source": "Portaln10",
+      "link": "https://portaln10.com.br",
+      "time": "06/07 às 20:06",
+      "dt_iso": "2026-07-06T23:06:18+00:00",
+      "summary": "Com aporte recorde de R$ 57 bilhões, Mercado Livre vai criar 28,2 mil novos empregos no Brasil &nbsp;&nbsp; Portal N10",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
