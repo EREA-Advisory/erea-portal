@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/07/2026 às 08:47",
-  "total": 25,
+  "gerado_em": "13/07/2026 às 14:53",
+  "total": 26,
   "noticias": [
     {
       "id": "a54ce4e9a0",
@@ -25,6 +25,27 @@
       ]
     },
     {
+      "id": "909ce976aa",
+      "headline": "KDLG11",
+      "source": "Funds Explorer",
+      "link": "https://www.fundsexplorer.com.br/funds/kdlg11",
+      "time": "hoje, 13:33",
+      "dt_iso": "2026-07-13T16:33:31+00:00",
+      "summary": "KINEA DESENVOLVIMENTO LOGÍSTICO II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA O Kinea Desenvolvimento Logístico II FII Cota B (KDLG11) tem como objetivo o desenvolvimento imobiliário de um Galpão Logístico AAA para o maior player de e-commerce da América Latina, o Mercado Livre localizado na cidade de Cajamar/Franco da Rocha. O projeto conta com uma área [&#8230;] \n The post  KDLG11  appeared first on  Notícias sobre Fundos Imobiliários | Funds Explorer .",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "galpão",
+        "investimento"
+      ],
+      "score": 8,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Cajamar.",
+      "badges": [
+        "Destaque",
+        "Investimento"
+      ]
+    },
+    {
       "id": "4848ef5cfb",
       "headline": "Mercado Livre acelera expansão logística com 14 novos centros de distribuição - Transporte Moderno",
       "source": "Transportemoderno",
@@ -43,27 +64,6 @@
       "badges": [
         "Destaque",
         "Expansão"
-      ]
-    },
-    {
-      "id": "285e0da6d8",
-      "headline": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto - Nord Investimentos",
-      "source": "Nordinvestimentos",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "10/07 às 12:07",
-      "dt_iso": "2026-07-10T15:07:24+00:00",
-      "summary": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto &nbsp;&nbsp; Nord Investimentos",
-      "category": "investimento",
-      "keywords": [
-        "galpões",
-        "amplia",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -106,6 +106,27 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "285e0da6d8",
+      "headline": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto - Nord Investimentos",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "10/07 às 12:07",
+      "dt_iso": "2026-07-10T15:07:24+00:00",
+      "summary": "Boletim de FIIs: GGRC11 amplia portfólio de galpões logísticos; veja o impacto &nbsp;&nbsp; Nord Investimentos",
+      "category": "investimento",
+      "keywords": [
+        "galpões",
+        "amplia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -154,7 +175,7 @@
       "headline": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil - Jornal O Diário",
       "source": "Odiario",
       "link": "https://odiario.net",
-      "time": "ontem, 09:50",
+      "time": "11/07 às 09:50",
       "dt_iso": "2026-07-11T12:50:26+00:00",
       "summary": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil &nbsp;&nbsp; Jornal O Diário",
       "category": "logistica",
@@ -229,25 +250,6 @@
       ]
     },
     {
-      "id": "d429f110aa",
-      "headline": "Exclusivo: Electrolux investe R$ 23 milhões em IA para prever falhas em eletrodomésticos",
-      "source": "Exame",
-      "link": "https://exame.com/inteligencia-artificial/exclusivo-electrolux-investe-r-23-milhoes-para-prever-falhas-em-eletrodomesticos/",
-      "time": "hoje, 03:10",
-      "dt_iso": "2026-07-13T06:10:59+00:00",
-      "summary": "Em entrevista à EXAME, vice-presidente de Experiências de Serviços ao Consumidor explica como a companhia pretende unificar canais para antecipar demandas e reduzir tempo de reparo de produtos",
-      "category": "logistica",
-      "keywords": [
-        "electrolux",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "1896e2330f",
       "headline": "Centro de Distribuição da Araújo tem investimento de R$ 150 mi - Portal UAI",
       "source": "Mercadohoje",
@@ -306,12 +308,12 @@
     },
     {
       "id": "c492da2902",
-      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 15 - ArchDaily",
+      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 4 - ArchDaily",
       "source": "Archdaily",
       "link": "https://www.archdaily.com",
-      "time": "hoje, 09:19",
-      "dt_iso": "2026-07-12T12:19:48+00:00",
-      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 15 &nbsp;&nbsp; ArchDaily",
+      "time": "11/07 às 07:43",
+      "dt_iso": "2026-07-11T10:43:25+00:00",
+      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 4 &nbsp;&nbsp; ArchDaily",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -381,6 +383,25 @@
       ]
     },
     {
+      "id": "c3b63ff423",
+      "headline": "Hub logístico no interior de São Paulo amplia infraestrutura multimodal para combustíveis - brazileconomy.com.br",
+      "source": "Brazileconomy",
+      "link": "https://brazileconomy.com.br",
+      "time": "06/07 às 21:21",
+      "dt_iso": "2026-07-07T00:21:47+00:00",
+      "summary": "Hub logístico no interior de São Paulo amplia infraestrutura multimodal para combustíveis &nbsp;&nbsp; brazileconomy.com.br",
+      "category": "logistica",
+      "keywords": [
+        "hub logístico",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "c7821b4de8",
       "headline": "Expansão Global Simplificada: O guia definitivo para PMEs - DHL",
       "source": "Dhl",
@@ -397,25 +418,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "aa8d152712",
-      "headline": "Aluguel de galpões sobe 16% em seis anos e escassez de espaços pressiona logística - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "06/07 às 13:57",
-      "dt_iso": "2026-07-06T16:57:10+00:00",
-      "summary": "Aluguel de galpões sobe 16% em seis anos e escassez de espaços pressiona logística &nbsp;&nbsp; Transporte Moderno",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -492,6 +494,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "7efce7dc25",
+      "headline": "Provet, da Petlove, inaugura centro de diagnóstico veterinário de alta complexidade - Jornal O Sul",
+      "source": "Osul",
+      "link": "https://www.osul.com.br",
+      "time": "ontem, 21:30",
+      "dt_iso": "2026-07-12T00:30:10+00:00",
+      "summary": "Provet, da Petlove, inaugura centro de diagnóstico veterinário de alta complexidade &nbsp;&nbsp; Jornal O Sul",
+      "category": "logistica",
+      "keywords": [
+        "petlove",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
       ]
     }
   ]
