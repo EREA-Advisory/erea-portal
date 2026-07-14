@@ -71,7 +71,6 @@ FEEDS = [
     {"url": "https://www.logisticsnews.com.br/feed/",           "fonte": "Logistics News"},
 
     # Real estate e FII
-    {"url": "https://www.fundsexplorer.com.br/feed",            "fonte": "Funds Explorer"},
     {"url": "https://www.buildings.com.br/feed/",               "fonte": "Buildings"},
     {"url": "https://griclub.org/feed/",                        "fonte": "GRI Club"},
 
@@ -728,12 +727,22 @@ def coletar_feeds(horas: int) -> list[dict]:
                 sem_keyword += 1
                 continue
 
-            # Descarta notícias de vagas de emprego sem contexto de expansão física
+            # Descarta notícias de vagas de emprego, FII e resultados financeiros
             RUIDO_KEYWORDS = [
-                "vagas de emprego", "processo seletivo", "oportunidade de emprego",
-                "trabalhe na", "curriculum", "recrutamento",
+                # Vagas de emprego
+                "vagas de emprego", "novas vagas", "mil vagas", "vagas em logística",
+                "vagas de trabalho", "processo seletivo", "oportunidade de emprego",
+                "trabalhe na", "trabalhe no", "está contratando", "aceita candidatos",
+                "sem experiência", "curriculum", "recrutamento", "inscrições abertas",
+                "como se candidatar", "veja como se inscrever", "confira as vagas",
+                # Resultados financeiros
                 "amplia prejuízo", "reduz lucro", "queda no lucro",
                 "resultado financeiro", "lucro líquido recua", "prejuízo líquido",
+                "lucro líquido", "ebitda ajustado", "receita líquida recua",
+                # FII
+                "fundo de investimento imobiliário", "fii cota", "rendimento por cota",
+                "dividend yield", "vacância física", "cap rate",
+                "relatório gerencial", "informe mensal",
             ]
             if any(r in texto for r in RUIDO_KEYWORDS):
                 tem_ancora_fisica = any(kw in texto for kw in [
@@ -743,6 +752,12 @@ def coletar_feeds(horas: int) -> list[dict]:
                 if not tem_ancora_fisica:
                     log.debug(f"  Descartada (ruído): {titulo[:60]}")
                     continue
+
+            # Descarta títulos que são apenas tickers de FII (ex: KDLG11, GGRC11)
+            import re as _re
+            if _re.match(r'^[A-Z]{4}11', titulo.strip()):
+                log.debug(f"  Descartada (ticker FII): {titulo[:60]}")
+                continue
 
             link_real = _extrair_link(entry)
 
@@ -909,6 +924,7 @@ def analisar_com_claude(noticia: dict) -> dict:
 # Domínios bloqueados — listings, redes sociais e fontes irrelevantes
 DOMINIOS_BLOQUEADOS = {
     "spot.siila.com.br",      # listings de imóveis disponíveis (não notícias)
+    "fundsexplorer.com.br",   # notícias de FII — não relevante para locações
     "instagram.com",
     "facebook.com",
     "twitter.com",
