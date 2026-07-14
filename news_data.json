@@ -1,6 +1,6 @@
 {
-  "gerado_em": "14/07/2026 às 10:20",
-  "total": 14,
+  "gerado_em": "14/07/2026 às 14:12",
+  "total": 16,
   "noticias": [
     {
       "id": "a54ce4e9a0",
@@ -46,6 +46,25 @@
       ]
     },
     {
+      "id": "4960a72ac8",
+      "headline": "Para TRX e Shopee, o interior também tem direito ao last mile - Metro Quadrado",
+      "source": "Metroquadrado",
+      "link": "https://metroquadrado.com",
+      "time": "ontem, 07:46",
+      "dt_iso": "2026-07-13T10:46:42+00:00",
+      "summary": "Para TRX e Shopee, o interior também tem direito ao last mile &nbsp;&nbsp; Metro Quadrado",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "last mile"
+      ],
+      "score": 7,
+      "relevance": "Expansão de last mile — demanda por imóveis urbanos pequenos e ágeis.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e9fd176883",
       "headline": "Ultracargo e bp ampliam capacidade de armazenagem de combustíveis em hub logístico multimodal em Paulínia (SP) - Tecnologística",
       "source": "Tecnologística",
@@ -66,13 +85,13 @@
       ]
     },
     {
-      "id": "6dff982b71",
-      "headline": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil - Jornal O Diário",
-      "source": "Odiario",
-      "link": "https://odiario.net",
-      "time": "11/07 às 09:50",
-      "dt_iso": "2026-07-11T12:50:26+00:00",
-      "summary": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil &nbsp;&nbsp; Jornal O Diário",
+      "id": "3af2412d31",
+      "headline": "Delly’s amplia operação e inaugura novo Centro de Distribuição no RS - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "hoje, 11:49",
+      "dt_iso": "2026-07-14T14:49:56+00:00",
+      "summary": "Delly’s amplia operação e inaugura novo Centro de Distribuição no RS &nbsp;&nbsp; Giro News",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -102,6 +121,26 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "a2f52bab87",
+      "headline": "Mercado Livre expande logística e abre 28 mil oportunidades - Seu Crédito Digital",
+      "source": "Seucreditodigital",
+      "link": "https://seucreditodigital.com.br",
+      "time": "12/07 às 06:30",
+      "dt_iso": "2026-07-12T09:30:00+00:00",
+      "summary": "Mercado Livre expande logística e abre 28 mil oportunidades &nbsp;&nbsp; Seu Crédito Digital",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "expande",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
