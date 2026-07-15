@@ -1,6 +1,6 @@
 {
-  "gerado_em": "15/07/2026 às 07:40",
-  "total": 18,
+  "gerado_em": "15/07/2026 às 14:15",
+  "total": 17,
   "noticias": [
     {
       "id": "42a1d9cc09",
@@ -29,7 +29,7 @@
       "headline": "DHL Supply Chain amplia operação para a Reckitt e passa a atender divisões de saúde e nutrição - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 11:56",
+      "time": "13/07 às 11:56",
       "dt_iso": "2026-07-13T14:56:59+00:00",
       "summary": "DHL Supply Chain amplia operação para a Reckitt e passa a atender divisões de saúde e nutrição &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -68,11 +68,31 @@
       ]
     },
     {
+      "id": "2a58e679c4",
+      "headline": "MRV (MRVE3): ação sobe após anúncio de desinvestimento de ativos da Luggo",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/mrv-mrve3-acao-sobe-apos-anuncio-de-desinvestimento-de-ativos-da-luggo/",
+      "time": "há 24 min",
+      "dt_iso": "2026-07-15T16:49:33+00:00",
+      "summary": "Os ativos fazem parte da Luggo, plataforma de aluguel por assinatura da MRV \n The post  MRV (MRVE3): ação sobe após anúncio de desinvestimento de ativos da Luggo  appeared first on  InfoMoney .",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "investimento",
+        "aluguel"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "4960a72ac8",
       "headline": "Para TRX e Shopee, o interior também tem direito ao last mile - Metro Quadrado",
       "source": "Metroquadrado",
       "link": "https://metroquadrado.com",
-      "time": "ontem, 07:46",
+      "time": "13/07 às 07:46",
       "dt_iso": "2026-07-13T10:46:42+00:00",
       "summary": "Para TRX e Shopee, o interior também tem direito ao last mile &nbsp;&nbsp; Metro Quadrado",
       "category": "logistica",
@@ -87,31 +107,11 @@
       ]
     },
     {
-      "id": "e9fd176883",
-      "headline": "Ultracargo e bp ampliam capacidade de armazenagem de combustíveis em hub logístico multimodal em Paulínia (SP) - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "08/07 às 10:33",
-      "dt_iso": "2026-07-08T13:33:57+00:00",
-      "summary": "Ultracargo e bp ampliam capacidade de armazenagem de combustíveis em hub logístico multimodal em Paulínia (SP) &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "hub logístico",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "3af2412d31",
       "headline": "Delly’s amplia operação e inaugura novo Centro de Distribuição no RS - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "hoje, 11:49",
+      "time": "ontem, 11:49",
       "dt_iso": "2026-07-14T14:49:56+00:00",
       "summary": "Delly’s amplia operação e inaugura novo Centro de Distribuição no RS &nbsp;&nbsp; Giro News",
       "category": "logistica",
@@ -124,6 +124,26 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "f60877fcf2",
+      "headline": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce - EuQueroInvestir",
+      "source": "Euqueroinvestir",
+      "link": "https://euqueroinvestir.com",
+      "time": "hoje, 11:07",
+      "dt_iso": "2026-07-15T14:07:46+00:00",
+      "summary": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce &nbsp;&nbsp; EuQueroInvestir",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -204,44 +224,6 @@
       ]
     },
     {
-      "id": "d69b1c7b8f",
-      "headline": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano - Conexão In",
-      "source": "Conexaoin",
-      "link": "https://conexaoin.com.br",
-      "time": "08/07 às 13:04",
-      "dt_iso": "2026-07-08T16:04:32+00:00",
-      "summary": "Bauducco inaugura sua maior fábrica nos EUA e consolida liderança no mercado norte-americano &nbsp;&nbsp; Conexão In",
-      "category": "logistica",
-      "keywords": [
-        "bauducco",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "c7821b4de8",
-      "headline": "Expansão Global Simplificada: O guia definitivo para PMEs - DHL",
-      "source": "Dhl",
-      "link": "https://www.dhl.com",
-      "time": "08/07 às 13:43",
-      "dt_iso": "2026-07-08T16:43:43+00:00",
-      "summary": "Expansão Global Simplificada: O guia definitivo para PMEs &nbsp;&nbsp; DHL",
-      "category": "expansao",
-      "keywords": [
-        "dhl",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "4690edebfa",
       "headline": "Luiza Trajano, Magalu e MGLU3: da construção de um gigante do varejo ao novo teste de rentabilidade na Bolsa - A Revista",
       "source": "Arevista",
@@ -265,7 +247,7 @@
       "headline": "Fulfillment se consolida como motor de crescimento para sellers e impulsiona competitividade no e-commerce - ABC da Comunicação",
       "source": "Abcdacomunicacao",
       "link": "https://www.abcdacomunicacao.com.br",
-      "time": "hoje, 13:58",
+      "time": "ontem, 13:58",
       "dt_iso": "2026-07-14T16:58:55+00:00",
       "summary": "Fulfillment se consolida como motor de crescimento para sellers e impulsiona competitividade no e-commerce &nbsp;&nbsp; ABC da Comunicação",
       "category": "logistica",
@@ -303,7 +285,7 @@
       "headline": "Casas Bahia retoma foco no varejo e amplia crediário digital - BM&C",
       "source": "Bmcnews",
       "link": "https://bmcnews.com.br",
-      "time": "hoje, 12:45",
+      "time": "ontem, 12:45",
       "dt_iso": "2026-07-14T15:45:46+00:00",
       "summary": "Casas Bahia retoma foco no varejo e amplia crediário digital &nbsp;&nbsp; BM&amp;C",
       "category": "logistica",
@@ -318,22 +300,22 @@
       ]
     },
     {
-      "id": "50db20ee80",
-      "headline": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "08/07 às 11:07",
-      "dt_iso": "2026-07-08T14:07:49+00:00",
-      "summary": "Com expansão na capital paulista, Petlove chega a 23 unidades físicas &nbsp;&nbsp; Giro News",
-      "category": "expansao",
+      "id": "51f99c7108",
+      "headline": "Três meses após a aprovação da lei, Assaí inaugura sua rede de farmácias - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "há 46 min",
+      "dt_iso": "2026-07-15T16:28:00+00:00",
+      "summary": "Três meses após a aprovação da lei, Assaí inaugura sua rede de farmácias &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "logistica",
       "keywords": [
-        "petlove",
-        "expansão"
+        "assaí",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
