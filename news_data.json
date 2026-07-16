@@ -1,29 +1,7 @@
 {
-  "gerado_em": "16/07/2026 às 07:48",
-  "total": 23,
+  "gerado_em": "16/07/2026 às 14:13",
+  "total": 20,
   "noticias": [
-    {
-      "id": "42a1d9cc09",
-      "headline": "naPorta abre rodada de investimentos para ampliar operação logística - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "09/07 às 10:33",
-      "dt_iso": "2026-07-09T13:33:06+00:00",
-      "summary": "naPorta abre rodada de investimentos para ampliar operação logística &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "amplia",
-        "abre",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 9,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
     {
       "id": "1a72c702dc",
       "headline": "DHL Supply Chain amplia operação para a Reckitt e passa a atender divisões de saúde e nutrição - Tecnologística",
@@ -112,7 +90,7 @@
       "headline": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce - EuQueroInvestir",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
-      "time": "hoje, 11:07",
+      "time": "ontem, 11:07",
       "dt_iso": "2026-07-15T14:07:46+00:00",
       "summary": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce &nbsp;&nbsp; EuQueroInvestir",
       "category": "ecommerce",
@@ -128,21 +106,21 @@
       ]
     },
     {
-      "id": "a2f52bab87",
-      "headline": "Mercado Livre expande logística e abre 28 mil oportunidades - Seu Crédito Digital",
-      "source": "Seucreditodigital",
-      "link": "https://seucreditodigital.com.br",
-      "time": "12/07 às 06:30",
-      "dt_iso": "2026-07-12T09:30:00+00:00",
-      "summary": "Mercado Livre expande logística e abre 28 mil oportunidades &nbsp;&nbsp; Seu Crédito Digital",
+      "id": "eb05609f24",
+      "headline": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje? - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "09/07 às 15:24",
+      "dt_iso": "2026-07-09T18:24:00+00:00",
+      "summary": "MGLU3: Por que as ações do Magazine Luiza estão disparando hoje? &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "expande",
-        "abre"
+        "magazine luiza",
+        "investimento",
+        "investimentos"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -152,8 +130,8 @@
       "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 03:17",
-      "dt_iso": "2026-07-15T06:17:11+00:00",
+      "time": "ontem, 04:00",
+      "dt_iso": "2026-07-15T07:00:00+00:00",
       "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
       "category": "logistica",
       "keywords": [
@@ -165,25 +143,6 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "0f20f534eb",
-      "headline": "A Tigre quer crescer onde a rede de esgoto não chega",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/como-a-tigre-virou-o-jogo-com-saneamento-menos-estoques-e-r-900-milhoes-em-caixa/",
-      "time": "hoje, 03:01",
-      "dt_iso": "2026-07-16T06:01:46+00:00",
-      "summary": "Aos 85 anos, a empresa cresce na esteira do novo marco do saneamento básico, testa a venda de uma estação doméstica no Mercado Livre e reorganiza a operação",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -305,7 +264,7 @@
       "headline": "Fulfillment se consolida como motor de crescimento para sellers e impulsiona competitividade no e-commerce - ABC da Comunicação",
       "source": "Abcdacomunicacao",
       "link": "https://www.abcdacomunicacao.com.br",
-      "time": "ontem, 13:58",
+      "time": "14/07 às 13:58",
       "dt_iso": "2026-07-14T16:58:55+00:00",
       "summary": "Fulfillment se consolida como motor de crescimento para sellers e impulsiona competitividade no e-commerce &nbsp;&nbsp; ABC da Comunicação",
       "category": "logistica",
@@ -320,30 +279,11 @@
       ]
     },
     {
-      "id": "03ec0ada9f",
-      "headline": "Painel S.A.: Dark Lab expande para a Argentina em parceria com Mercado Livre - Folha de S.Paulo",
-      "source": "UOL",
-      "link": "https://www1.folha.uol.com.br",
-      "time": "09/07 às 12:59",
-      "dt_iso": "2026-07-09T15:59:00+00:00",
-      "summary": "Painel S.A.: Dark Lab expande para a Argentina em parceria com Mercado Livre &nbsp;&nbsp; Folha de S.Paulo",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "d37c233ded",
       "headline": "Casas Bahia retoma foco no varejo e amplia crediário digital - BM&C",
       "source": "Bmcnews",
       "link": "https://bmcnews.com.br",
-      "time": "ontem, 12:45",
+      "time": "14/07 às 12:45",
       "dt_iso": "2026-07-14T15:45:46+00:00",
       "summary": "Casas Bahia retoma foco no varejo e amplia crediário digital &nbsp;&nbsp; BM&amp;C",
       "category": "logistica",
@@ -400,7 +340,7 @@
       "headline": "Três meses após a aprovação da lei, Assaí inaugura sua rede de farmácias - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "hoje, 13:28",
+      "time": "ontem, 13:28",
       "dt_iso": "2026-07-15T16:28:00+00:00",
       "summary": "Três meses após a aprovação da lei, Assaí inaugura sua rede de farmácias &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
