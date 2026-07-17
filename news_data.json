@@ -1,27 +1,49 @@
 {
-  "gerado_em": "17/07/2026 às 07:28",
-  "total": 26,
+  "gerado_em": "17/07/2026 às 14:09",
+  "total": 22,
   "noticias": [
     {
-      "id": "96923e3c6d",
-      "headline": "Maersk amplia operação logística em Suape de olho na expansão do Nordeste - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "hoje, 14:42",
-      "dt_iso": "2026-07-16T17:42:39+00:00",
-      "summary": "Maersk amplia operação logística em Suape de olho na expansão do Nordeste &nbsp;&nbsp; Transporte Moderno",
-      "category": "expansao",
+      "id": "a29a5d621c",
+      "headline": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 08:05",
+      "dt_iso": "2026-07-17T11:05:13+00:00",
+      "summary": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
       "keywords": [
         "maersk",
+        "centro de distribuição",
         "operação logística",
-        "expansão",
         "amplia"
       ],
       "score": 9,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
-        "Expansão"
+        "Logística"
+      ]
+    },
+    {
+      "id": "d29428cecc",
+      "headline": "Maersk amplia operação logística com centro de distribuição em Pernambuco - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 18:06",
+      "dt_iso": "2026-07-16T21:06:58+00:00",
+      "summary": "Maersk amplia operação logística com centro de distribuição em Pernambuco &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "centro de distribuição",
+        "operação logística",
+        "amplia"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
       ]
     },
     {
@@ -41,27 +63,6 @@
       ],
       "score": 9,
       "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "1829d6eea9",
-      "headline": "Maersk amplia operação logística com CD em Pernambuco - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "hoje, 18:06",
-      "dt_iso": "2026-07-16T21:06:58+00:00",
-      "summary": "Maersk amplia operação logística com CD em Pernambuco &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "maersk",
-        "operação logística",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -108,30 +109,11 @@
       ]
     },
     {
-      "id": "d4aa9d7649",
-      "headline": "Maersk fortalece logística no Nordeste com novo centro de distribuição em Suape - Portos e Navios",
-      "source": "Portos e Navios",
-      "link": "https://www.portosenavios.com.br",
-      "time": "hoje, 16:42",
-      "dt_iso": "2026-07-16T19:42:14+00:00",
-      "summary": "Maersk fortalece logística no Nordeste com novo centro de distribuição em Suape &nbsp;&nbsp; Portos e Navios",
-      "category": "logistica",
-      "keywords": [
-        "maersk",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "f60877fcf2",
       "headline": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce - EuQueroInvestir",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
-      "time": "ontem, 11:07",
+      "time": "15/07 às 11:07",
       "dt_iso": "2026-07-15T14:07:46+00:00",
       "summary": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce &nbsp;&nbsp; EuQueroInvestir",
       "category": "ecommerce",
@@ -187,82 +169,6 @@
       ]
     },
     {
-      "id": "2fbe37cb76",
-      "headline": "Carro voador da Eve, da Embraer, entra em nova fase com parceria pela eletrificação",
-      "source": "Exame",
-      "link": "https://exame.com/esg/carro-voador-da-eve-da-embraer-entra-em-nova-fase-com-parceria-pela-eletrificacao/",
-      "time": "hoje, 02:00",
-      "dt_iso": "2026-07-17T05:00:17+00:00",
-      "summary": "Acordo com a Hitachi Energy vai levar infraestrutura elétrica e carregamento rápido às aeronaves 100% elétricas: \"Não existe solução sozinha que resolva os gargalos\", diz presidente da empresa",
-      "category": "logistica",
-      "keywords": [
-        "embraer",
-        "nova fase"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "bfe38d5522",
-      "headline": "O que os investidores estão achando da primeira farmácia do Assaí",
-      "source": "Exame",
-      "link": "https://exame.com/invest/mercados/o-que-o-mercado-financeiro-achou-da-primeira-farmacia-do-assai/",
-      "time": "hoje, 02:00",
-      "dt_iso": "2026-07-17T05:00:03+00:00",
-      "summary": "Companhia inaugurou a primeira unidade da Assaí Farma na loja da Marginal Tietê, em São Paulo, após aprovação de lei, em março",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "inaugurou"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "1896e2330f",
-      "headline": "Centro de Distribuição da Araújo tem investimento de R$ 150 mi - Portal UAI",
-      "source": "Mercadohoje",
-      "link": "https://mercadohoje.uai.com.br",
-      "time": "10/07 às 12:02",
-      "dt_iso": "2026-07-10T15:02:33+00:00",
-      "summary": "Centro de Distribuição da Araújo tem investimento de R$ 150 mi &nbsp;&nbsp; Portal UAI",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "675d398d59",
-      "headline": "TransPacheco amplia atuação com operação de armazenagem em Campinas - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "10/07 às 08:18",
-      "dt_iso": "2026-07-10T11:18:39+00:00",
-      "summary": "TransPacheco amplia atuação com operação de armazenagem em Campinas &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Campinas.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e456ad7cb8",
       "headline": "Delly’s inaugura centro de distribuição no RS - Modais em Foco",
       "source": "Modais em Foco",
@@ -277,6 +183,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "bafa97a6d4",
+      "headline": "TransPacheco amplia operação de armazenagem em Campinas (SP) - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://modaisemfoco.com.br",
+      "time": "12/07 às 10:15",
+      "dt_iso": "2026-07-12T13:15:00+00:00",
+      "summary": "TransPacheco amplia operação de armazenagem em Campinas (SP) &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Campinas.",
       "badges": [
         "Logística"
       ]
@@ -320,30 +245,11 @@
       ]
     },
     {
-      "id": "76ef32327c",
-      "headline": "AZPL11 eleva aluguel de galpão em Franco da Rocha após renegociação contratual - n1mais.com.br",
-      "source": "N1Mais",
-      "link": "https://n1mais.com.br",
-      "time": "14/07 às 21:24",
-      "dt_iso": "2026-07-15T00:24:21+00:00",
-      "summary": "AZPL11 eleva aluguel de galpão em Franco da Rocha após renegociação contratual &nbsp;&nbsp; n1mais.com.br",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "0d1d7301c0",
       "headline": "DHL Express inaugura primeira unidade no interior do Paraná em Londrina - Rádio Paiquerê FM 98.9",
       "source": "Paiquerefm",
       "link": "https://paiquerefm.com.br",
-      "time": "hoje, 12:10",
+      "time": "ontem, 12:10",
       "dt_iso": "2026-07-16T15:10:00+00:00",
       "summary": "DHL Express inaugura primeira unidade no interior do Paraná em Londrina &nbsp;&nbsp; Rádio Paiquerê FM 98.9",
       "category": "logistica",
@@ -362,7 +268,7 @@
       "headline": "Rede Luncy Móveis inaugura loja em Suzano nesta quinta-feira (16) com presença de Tiago Barnabé, a \"Barnabela\" e brindes para os primeiros clientes - Hoje Diário",
       "source": "Hojediario",
       "link": "https://hojediario.com",
-      "time": "ontem, 11:35",
+      "time": "15/07 às 11:35",
       "dt_iso": "2026-07-15T14:35:22+00:00",
       "summary": "Rede Luncy Móveis inaugura loja em Suzano nesta quinta-feira (16) com presença de Tiago Barnabé, a \"Barnabela\" e brindes para os primeiros clientes &nbsp;&nbsp; Hoje Diário",
       "category": "logistica",
@@ -488,6 +394,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "8ccc697a10",
+      "headline": "República Tcheca recebe primeiro C-390 Millennium e amplia parceria estratégica com a Embraer - Brasília in Foco",
+      "source": "Brasiliainfoco",
+      "link": "https://brasiliainfoco.com",
+      "time": "hoje, 09:57",
+      "dt_iso": "2026-07-17T12:57:17+00:00",
+      "summary": "República Tcheca recebe primeiro C-390 Millennium e amplia parceria estratégica com a Embraer &nbsp;&nbsp; Brasília in Foco",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
