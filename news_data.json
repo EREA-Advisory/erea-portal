@@ -1,14 +1,14 @@
 {
-  "gerado_em": "18/07/2026 às 07:07",
-  "total": 21,
+  "gerado_em": "18/07/2026 às 13:55",
+  "total": 19,
   "noticias": [
     {
       "id": "a29a5d621c",
       "headline": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 08:05",
-      "dt_iso": "2026-07-17T11:05:13+00:00",
+      "time": "ontem, 08:58",
+      "dt_iso": "2026-07-17T11:58:12+00:00",
       "summary": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
@@ -90,21 +90,20 @@
       ]
     },
     {
-      "id": "6dff982b71",
-      "headline": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil - Jornal O Diário",
-      "source": "Odiario",
-      "link": "https://odiario.net",
-      "time": "11/07 às 09:50",
-      "dt_iso": "2026-07-11T12:50:26+00:00",
-      "summary": "Delly’s inaugura novo centro de distribuição e amplia operação na região Sul do Brasil &nbsp;&nbsp; Jornal O Diário",
+      "id": "4960a72ac8",
+      "headline": "Para TRX e Shopee, o interior também tem direito ao last mile - Metro Quadrado",
+      "source": "Metroquadrado",
+      "link": "https://metroquadrado.com",
+      "time": "13/07 às 07:46",
+      "dt_iso": "2026-07-13T10:46:42+00:00",
+      "summary": "Para TRX e Shopee, o interior também tem direito ao last mile &nbsp;&nbsp; Metro Quadrado",
       "category": "logistica",
       "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "amplia"
+        "shopee",
+        "last mile"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Expansão de last mile — demanda por imóveis urbanos pequenos e ágeis.",
       "badges": [
         "Logística"
       ]
@@ -230,7 +229,7 @@
       "headline": "DHL Express inaugura primeira unidade no interior do Paraná em Londrina - Rádio Paiquerê FM 98.9",
       "source": "Paiquerefm",
       "link": "https://paiquerefm.com.br",
-      "time": "ontem, 12:10",
+      "time": "16/07 às 12:10",
       "dt_iso": "2026-07-16T15:10:00+00:00",
       "summary": "DHL Express inaugura primeira unidade no interior do Paraná em Londrina &nbsp;&nbsp; Rádio Paiquerê FM 98.9",
       "category": "logistica",
@@ -321,44 +320,6 @@
       ]
     },
     {
-      "id": "d9fb75f04d",
-      "headline": "Assaí estreia no setor farmacêutico e mira expansão para mais de 250 lojas - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "15/07 às 15:57",
-      "dt_iso": "2026-07-15T18:57:38+00:00",
-      "summary": "Assaí estreia no setor farmacêutico e mira expansão para mais de 250 lojas &nbsp;&nbsp; SuperHiper",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "dc731f843e",
-      "headline": "Assaí inaugura farmácia própria dentro do supermercado - Consumidor Moderno",
-      "source": "Consumidormoderno",
-      "link": "https://consumidormoderno.com.br",
-      "time": "15/07 às 20:39",
-      "dt_iso": "2026-07-15T23:39:48+00:00",
-      "summary": "Assaí inaugura farmácia própria dentro do supermercado &nbsp;&nbsp; Consumidor Moderno",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "81ef4e690a",
       "headline": "Assaí mira mercado farmacêutico de R$ 243 bilhões com nova operação - Paraíba Business",
       "source": "Paraibabusiness",
@@ -378,11 +339,30 @@
       ]
     },
     {
+      "id": "5e0344c27c",
+      "headline": "Assaí Atacadista ingressa no setor farmacêutico com plano DE centenas DE novas unidades - Portal N1N",
+      "source": "N1N",
+      "link": "https://n1n.com.br",
+      "time": "hoje, 08:47",
+      "dt_iso": "2026-07-18T11:47:52+00:00",
+      "summary": "Assaí Atacadista ingressa no setor farmacêutico com plano DE centenas DE novas unidades &nbsp;&nbsp; Portal N1N",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "novas unidades"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "8ccc697a10",
       "headline": "República Tcheca recebe primeiro C-390 Millennium e amplia parceria estratégica com a Embraer - Brasília in Foco",
       "source": "Brasiliainfoco",
       "link": "https://brasiliainfoco.com",
-      "time": "hoje, 09:57",
+      "time": "ontem, 09:57",
       "dt_iso": "2026-07-17T12:57:17+00:00",
       "summary": "República Tcheca recebe primeiro C-390 Millennium e amplia parceria estratégica com a Embraer &nbsp;&nbsp; Brasília in Foco",
       "category": "logistica",
@@ -392,25 +372,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7efce7dc25",
-      "headline": "Provet, da Petlove, inaugura centro de diagnóstico veterinário de alta complexidade - TV Pampa",
-      "source": "Tvpampa",
-      "link": "https://www.tvpampa.com.br",
-      "time": "11/07 às 21:48",
-      "dt_iso": "2026-07-12T00:48:49+00:00",
-      "summary": "Provet, da Petlove, inaugura centro de diagnóstico veterinário de alta complexidade &nbsp;&nbsp; TV Pampa",
-      "category": "logistica",
-      "keywords": [
-        "petlove",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
