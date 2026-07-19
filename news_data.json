@@ -1,13 +1,13 @@
 {
-  "gerado_em": "19/07/2026 às 07:18",
-  "total": 20,
+  "gerado_em": "19/07/2026 às 13:55",
+  "total": 19,
   "noticias": [
     {
       "id": "a29a5d621c",
       "headline": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:58",
+      "time": "17/07 às 08:58",
       "dt_iso": "2026-07-17T11:58:12+00:00",
       "summary": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -169,20 +169,20 @@
       ]
     },
     {
-      "id": "bafa97a6d4",
-      "headline": "TransPacheco amplia operação de armazenagem em Campinas (SP) - Modais em Foco",
+      "id": "19af7bbdb6",
+      "headline": "Hapag-Lloyd e Kuehne+Nagel ampliam parceria para reduzir emissões - Modais em Foco",
       "source": "Modais em Foco",
-      "link": "https://modaisemfoco.com.br",
-      "time": "12/07 às 10:15",
-      "dt_iso": "2026-07-12T13:15:00+00:00",
-      "summary": "TransPacheco amplia operação de armazenagem em Campinas (SP) &nbsp;&nbsp; Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 09:05",
+      "dt_iso": "2026-07-19T12:05:00+00:00",
+      "summary": "Hapag-Lloyd e Kuehne+Nagel ampliam parceria para reduzir emissões &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
-        "armazenagem",
+        "kuehne+nagel",
         "amplia"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Campinas.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -208,12 +208,12 @@
     },
     {
       "id": "c492da2902",
-      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 15 - ArchDaily",
+      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 8 - ArchDaily",
       "source": "Archdaily",
       "link": "https://www.archdaily.com",
-      "time": "12/07 às 09:19",
-      "dt_iso": "2026-07-12T12:19:48+00:00",
-      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 15 &nbsp;&nbsp; ArchDaily",
+      "time": "14/07 às 14:21",
+      "dt_iso": "2026-07-14T17:21:35+00:00",
+      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 8 &nbsp;&nbsp; ArchDaily",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -223,25 +223,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "0d1d7301c0",
-      "headline": "DHL Express inaugura primeira unidade no interior do Paraná em Londrina - Rádio Paiquerê FM 98.9",
-      "source": "Paiquerefm",
-      "link": "https://paiquerefm.com.br",
-      "time": "16/07 às 12:10",
-      "dt_iso": "2026-07-16T15:10:00+00:00",
-      "summary": "DHL Express inaugura primeira unidade no interior do Paraná em Londrina &nbsp;&nbsp; Rádio Paiquerê FM 98.9",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -264,25 +245,6 @@
       ]
     },
     {
-      "id": "3d1aed4802",
-      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Gazeta do Povo",
-      "source": "Gazeta do Povo",
-      "link": "https://www.gazetadopovo.com.br",
-      "time": "15/07 às 18:10",
-      "dt_iso": "2026-07-15T21:10:00+00:00",
-      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Gazeta do Povo",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "novos galpões"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "a9712b6687",
       "headline": "CB Full e Marketplace Casas Bahia ampliam soluções para comércio, varejo e indústria - E-Commerce Brasil",
       "source": "E-commerce Brasil",
@@ -299,6 +261,25 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "3d1aed4802",
+      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Gazeta do Povo",
+      "source": "Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br",
+      "time": "15/07 às 18:10",
+      "dt_iso": "2026-07-15T21:10:00+00:00",
+      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Gazeta do Povo",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -363,7 +344,7 @@
       "headline": "Assaí Atacadista ingressa no setor farmacêutico com plano DE centenas DE novas unidades - Portal N1N",
       "source": "N1N",
       "link": "https://n1n.com.br",
-      "time": "hoje, 08:47",
+      "time": "ontem, 08:47",
       "dt_iso": "2026-07-18T11:47:52+00:00",
       "summary": "Assaí Atacadista ingressa no setor farmacêutico com plano DE centenas DE novas unidades &nbsp;&nbsp; Portal N1N",
       "category": "logistica",
@@ -382,7 +363,7 @@
       "headline": "República Tcheca recebe primeiro C-390 Millennium e amplia parceria estratégica com a Embraer - Brasília in Foco",
       "source": "Brasiliainfoco",
       "link": "https://brasiliainfoco.com",
-      "time": "ontem, 09:57",
+      "time": "17/07 às 09:57",
       "dt_iso": "2026-07-17T12:57:17+00:00",
       "summary": "República Tcheca recebe primeiro C-390 Millennium e amplia parceria estratégica com a Embraer &nbsp;&nbsp; Brasília in Foco",
       "category": "logistica",
