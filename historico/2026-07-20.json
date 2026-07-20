@@ -1,6 +1,6 @@
 {
-  "gerado_em": "20/07/2026 às 08:32",
-  "total": 19,
+  "gerado_em": "20/07/2026 às 14:59",
+  "total": 24,
   "noticias": [
     {
       "id": "a29a5d621c",
@@ -47,18 +47,18 @@
       ]
     },
     {
-      "id": "1a72c702dc",
-      "headline": "DHL Supply Chain amplia operação para a Reckitt e passa a atender divisões de saúde e nutrição - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "13/07 às 11:56",
-      "dt_iso": "2026-07-13T14:56:59+00:00",
-      "summary": "DHL Supply Chain amplia operação para a Reckitt e passa a atender divisões de saúde e nutrição &nbsp;&nbsp; Tecnologística",
+      "id": "1ecd8c9243",
+      "headline": "DHL amplia operação logística para Reckitt nas áreas de saúde e nutrição - Guia da Farmácia",
+      "source": "Guiadafarmacia",
+      "link": "https://guiadafarmacia.com.br",
+      "time": "17/07 às 15:00",
+      "dt_iso": "2026-07-17T18:00:01+00:00",
+      "summary": "DHL amplia operação logística para Reckitt nas áreas de saúde e nutrição &nbsp;&nbsp; Guia da Farmácia",
       "category": "logistica",
       "keywords": [
         "dhl",
         "reckitt",
-        "supply chain",
+        "operação logística",
         "amplia"
       ],
       "score": 9,
@@ -131,22 +131,81 @@
       ]
     },
     {
-      "id": "2fd2d6e1ff",
-      "headline": "Com mais de 700 vagas de emprego, Mercado Livre confirma centro de distribuição em Gravataí e reforça vocação logística d - Giro de Gravataí",
-      "source": "Girodegravatai",
-      "link": "https://girodegravatai.com.br",
-      "time": "17/07 às 12:44",
-      "dt_iso": "2026-07-17T15:44:13+00:00",
-      "summary": "Com mais de 700 vagas de emprego, Mercado Livre confirma centro de distribuição em Gravataí e reforça vocação logística d &nbsp;&nbsp; Giro de Gravataí",
-      "category": "logistica",
+      "id": "bb135ac023",
+      "headline": "BNDES financia R$ 60,5 milhões para Coamo na ampliação de armazéns - boca.com.br",
+      "source": "Boca",
+      "link": "https://boca.com.br",
+      "time": "16/07 às 10:40",
+      "dt_iso": "2026-07-16T13:40:24+00:00",
+      "summary": "BNDES financia R$ 60,5 milhões para Coamo na ampliação de armazéns &nbsp;&nbsp; boca.com.br",
+      "category": "expansao",
+      "keywords": [
+        "armazéns",
+        "amplia",
+        "ampliação"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "8631a059b1",
+      "headline": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "há 25 min",
+      "dt_iso": "2026-07-20T17:33:00+00:00",
+      "summary": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
       "keywords": [
         "mercado livre",
         "centro de distribuição"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Região(ões) mencionada(s): Cajamar.",
       "badges": [
-        "Logística"
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "530d61ebf4",
+      "headline": "O algoritmo da beleza: a expansão do Grupo Boticário - InvestNews",
+      "source": "InvestNews",
+      "link": "https://investnews.com.br",
+      "time": "16/07 às 08:15",
+      "dt_iso": "2026-07-16T11:15:00+00:00",
+      "summary": "O algoritmo da beleza: a expansão do Grupo Boticário &nbsp;&nbsp; InvestNews",
+      "category": "expansao",
+      "keywords": [
+        "grupo boticário",
+        "boticário",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "059cc56f9b",
+      "headline": "Expansão da Delly’s ganha escala com novo centro de distribuição no Rio Grande do Sul - Economic News Brasil",
+      "source": "Economicnewsbrasil",
+      "link": "https://economicnewsbrasil.com.br",
+      "time": "hoje, 12:33",
+      "dt_iso": "2026-07-20T15:33:00+00:00",
+      "summary": "Expansão da Delly’s ganha escala com novo centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; Economic News Brasil",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -173,12 +232,31 @@
       "headline": "Hapag-Lloyd e Kuehne+Nagel ampliam parceria para reduzir emissões - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 09:05",
+      "time": "ontem, 09:05",
       "dt_iso": "2026-07-19T12:05:00+00:00",
       "summary": "Hapag-Lloyd e Kuehne+Nagel ampliam parceria para reduzir emissões &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "kuehne+nagel",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "85085d1b54",
+      "headline": "Jadlog amplia capilaridade logística em todo o Brasil - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 09:18",
+      "dt_iso": "2026-07-20T12:18:00+00:00",
+      "summary": "Jadlog amplia capilaridade logística em todo o Brasil &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "jadlog",
         "amplia"
       ],
       "score": 6,
@@ -218,6 +296,25 @@
       "keywords": [
         "galpão",
         "novo galpão"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "7539fb4a0a",
+      "headline": "Xandô moderniza operação logística com novo CD - SuperHiper",
+      "source": "Superhiper",
+      "link": "https://www.superhiper.com.br",
+      "time": "hoje, 09:49",
+      "dt_iso": "2026-07-20T12:49:39+00:00",
+      "summary": "Xandô moderniza operação logística com novo CD &nbsp;&nbsp; SuperHiper",
+      "category": "expansao",
+      "keywords": [
+        "operação logística",
+        "novo cd"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -283,6 +380,25 @@
       ]
     },
     {
+      "id": "3d1aed4802",
+      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Gazeta do Povo",
+      "source": "Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br",
+      "time": "15/07 às 18:10",
+      "dt_iso": "2026-07-15T21:10:00+00:00",
+      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Gazeta do Povo",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "db1a87af20",
       "headline": "Fulfillment se consolida como motor de crescimento para sellers e impulsiona competitividade no e-commerce - ABC da Comunicação",
       "source": "Abcdacomunicacao",
@@ -344,7 +460,7 @@
       "headline": "Assaí Atacadista ingressa no setor farmacêutico com plano DE centenas DE novas unidades - Portal N1N",
       "source": "N1N",
       "link": "https://n1n.com.br",
-      "time": "ontem, 08:47",
+      "time": "18/07 às 08:47",
       "dt_iso": "2026-07-18T11:47:52+00:00",
       "summary": "Assaí Atacadista ingressa no setor farmacêutico com plano DE centenas DE novas unidades &nbsp;&nbsp; Portal N1N",
       "category": "logistica",
@@ -356,25 +472,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "b2b8d132ae",
-      "headline": "Embraer entrega primeiro C-390 Millennium à República Tcheca e reforça expansão global da aeronave militar - ADVFN",
-      "source": "Google News",
-      "link": "https://br.advfn.com",
-      "time": "17/07 às 14:50",
-      "dt_iso": "2026-07-17T17:50:04+00:00",
-      "summary": "Embraer entrega primeiro C-390 Millennium à República Tcheca e reforça expansão global da aeronave militar &nbsp;&nbsp; ADVFN",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     }
   ]
