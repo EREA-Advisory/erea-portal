@@ -1,6 +1,6 @@
 {
-  "gerado_em": "21/07/2026 às 07:55",
-  "total": 30,
+  "gerado_em": "21/07/2026 às 14:15",
+  "total": 32,
   "noticias": [
     {
       "id": "a29a5d621c",
@@ -69,6 +69,27 @@
       ]
     },
     {
+      "id": "81b6ee98bf",
+      "headline": "Multinacional mexicana que já processa mais de 1 milhão de pedidos por mês investe R$ 450 mil, inaugura o quinto centro logístico no Brasil e transforma um galpão de 2,2 mil metros quadrados em nova base de expansão, enquanto mira faturamento globa - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "18/07 às 19:18",
+      "dt_iso": "2026-07-18T22:18:00+00:00",
+      "summary": "Multinacional mexicana que já processa mais de 1 milhão de pedidos por mês investe R$ 450 mil, inaugura o quinto centro logístico no Brasil e transforma um galpão de 2,2 mil metros quadrados em nova base de expansão, enquanto mira faturamento globa &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "inaugura",
+        "expansão",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "9e7fc08d43",
       "headline": "Com 22 centros de distribuição, mais de 200 hubs logísticos, 3 mil Agências Shopee e 45 mil motoristas parceiros, a Shopee monta no Brasil uma engrenagem gigante de entregas para encurtar prazos e acelerar milhões de pedidos no e-commerce nacional - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
@@ -130,6 +151,44 @@
       ]
     },
     {
+      "id": "9bb1e4e577",
+      "headline": "Mercado Livre terá centro de distribuição em Guaíba (RS) - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 12:01",
+      "dt_iso": "2026-07-21T15:01:39+00:00",
+      "summary": "Mercado Livre terá centro de distribuição em Guaíba (RS) &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1390b4fab4",
+      "headline": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 12:55",
+      "dt_iso": "2026-07-21T15:55:00+00:00",
+      "summary": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "investimento",
+      "keywords": [
+        "casas bahia",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "f60877fcf2",
       "headline": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce - EuQueroInvestir",
       "source": "Euqueroinvestir",
@@ -150,22 +209,22 @@
       ]
     },
     {
-      "id": "8631a059b1",
-      "headline": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 14:33",
-      "dt_iso": "2026-07-20T17:33:00+00:00",
-      "summary": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
+      "id": "e898719289",
+      "headline": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "hoje, 11:19",
+      "dt_iso": "2026-07-21T14:19:22+00:00",
+      "summary": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões &nbsp;&nbsp; InfoMoney",
+      "category": "investimento",
       "keywords": [
         "mercado livre",
-        "centro de distribuição"
+        "galpões"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Região(ões) mencionada(s): Cajamar.",
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
-        "E-commerce"
+        "Investimento"
       ]
     },
     {
@@ -193,7 +252,7 @@
       "headline": "Expansão da Delly’s ganha escala com novo centro de distribuição no Rio Grande do Sul - Economic News Brasil",
       "source": "Economicnewsbrasil",
       "link": "https://economicnewsbrasil.com.br",
-      "time": "hoje, 12:33",
+      "time": "ontem, 12:33",
       "dt_iso": "2026-07-20T15:33:00+00:00",
       "summary": "Expansão da Delly’s ganha escala com novo centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; Economic News Brasil",
       "category": "expansao",
@@ -265,11 +324,49 @@
       ]
     },
     {
+      "id": "064254a8c7",
+      "headline": "Penske Logistics inaugura armazém multiclientes na Região Metropolitana de São Paulo - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 08:00",
+      "dt_iso": "2026-07-21T11:00:00+00:00",
+      "summary": "Penske Logistics inaugura armazém multiclientes na Região Metropolitana de São Paulo &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "armazém",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "31f7da1ba5",
+      "headline": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 11:01",
+      "dt_iso": "2026-07-21T14:01:17+00:00",
+      "summary": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "armazéns",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "19af7bbdb6",
       "headline": "Hapag-Lloyd e Kuehne+Nagel ampliam parceria para reduzir emissões - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 09:05",
+      "time": "19/07 às 09:05",
       "dt_iso": "2026-07-19T12:05:00+00:00",
       "summary": "Hapag-Lloyd e Kuehne+Nagel ampliam parceria para reduzir emissões &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -288,7 +385,7 @@
       "headline": "Jadlog amplia capilaridade logística em todo o Brasil - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 09:18",
+      "time": "ontem, 09:18",
       "dt_iso": "2026-07-20T12:18:00+00:00",
       "summary": "Jadlog amplia capilaridade logística em todo o Brasil &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -345,7 +442,7 @@
       "headline": "Xandô moderniza operação logística com novo CD - SuperHiper",
       "source": "Superhiper",
       "link": "https://www.superhiper.com.br",
-      "time": "hoje, 09:49",
+      "time": "ontem, 09:49",
       "dt_iso": "2026-07-20T12:49:39+00:00",
       "summary": "Xandô moderniza operação logística com novo CD &nbsp;&nbsp; SuperHiper",
       "category": "expansao",
@@ -398,25 +495,6 @@
       ]
     },
     {
-      "id": "bc1a18d403",
-      "headline": "Shopee no Brasil intensifica ofertas e promoções e amplia presença no comércio eletrônico - Gazeta da Semana",
-      "source": "Gazetadasemana",
-      "link": "https://gazetadasemana.com.br",
-      "time": "16/07 às 04:00",
-      "dt_iso": "2026-07-16T07:00:00+00:00",
-      "summary": "Shopee no Brasil intensifica ofertas e promoções e amplia presença no comércio eletrônico &nbsp;&nbsp; Gazeta da Semana",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "3d1aed4802",
       "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Gazeta do Povo",
       "source": "Gazeta do Povo",
@@ -455,25 +533,6 @@
       ]
     },
     {
-      "id": "db1a87af20",
-      "headline": "Fulfillment se consolida como motor de crescimento para sellers e impulsiona competitividade no e-commerce - ABC da Comunicação",
-      "source": "Abcdacomunicacao",
-      "link": "https://www.abcdacomunicacao.com.br",
-      "time": "14/07 às 13:58",
-      "dt_iso": "2026-07-14T16:58:55+00:00",
-      "summary": "Fulfillment se consolida como motor de crescimento para sellers e impulsiona competitividade no e-commerce &nbsp;&nbsp; ABC da Comunicação",
-      "category": "logistica",
-      "keywords": [
-        "fulfillment",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d35abb63ae",
       "headline": "10% OFF! Loja oficial de Pokémon TCG faz liquidação da nova expansão Escuridão Absoluta no Mercado Livre - IGN Brasil",
       "source": "Google News",
@@ -490,25 +549,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "d37c233ded",
-      "headline": "Casas Bahia retoma foco no varejo e amplia crediário digital - BM&C",
-      "source": "Bmcnews",
-      "link": "https://bmcnews.com.br",
-      "time": "14/07 às 12:45",
-      "dt_iso": "2026-07-14T15:45:46+00:00",
-      "summary": "Casas Bahia retoma foco no varejo e amplia crediário digital &nbsp;&nbsp; BM&amp;C",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -551,12 +591,12 @@
     },
     {
       "id": "e18abab1b4",
-      "headline": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado - Poder Aéreo",
-      "source": "Aereo",
-      "link": "https://www.aereo.jor.br",
-      "time": "há 14 min",
-      "dt_iso": "2026-07-21T10:40:34+00:00",
-      "summary": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado &nbsp;&nbsp; Poder Aéreo",
+      "headline": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado - DefesaNet",
+      "source": "Defesanet",
+      "link": "https://www.defesanet.com.br",
+      "time": "hoje, 10:15",
+      "dt_iso": "2026-07-21T13:15:38+00:00",
+      "summary": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado &nbsp;&nbsp; DefesaNet",
       "category": "logistica",
       "keywords": [
         "embraer",
