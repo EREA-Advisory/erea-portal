@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/07/2026 às 07:56",
-  "total": 31,
+  "gerado_em": "22/07/2026 às 14:15",
+  "total": 32,
   "noticias": [
     {
       "id": "a29a5d621c",
@@ -89,21 +89,21 @@
       ]
     },
     {
-      "id": "feda32c091",
-      "headline": "Após chegada da Shopee e da DHL, Londrina negocia vinda de Centro de Distribuição da Amazon - CBN Londrina",
-      "source": "Cbnlondrina",
-      "link": "https://cbnlondrina.com.br",
-      "time": "15/07 às 18:25",
-      "dt_iso": "2026-07-15T21:25:00+00:00",
-      "summary": "Após chegada da Shopee e da DHL, Londrina negocia vinda de Centro de Distribuição da Amazon &nbsp;&nbsp; CBN Londrina",
+      "id": "c85e8ab109",
+      "headline": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "hoje, 11:00",
+      "dt_iso": "2026-07-22T14:00:00+00:00",
+      "summary": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
       "keywords": [
+        "mercado livre",
         "shopee",
-        "dhl",
-        "centro de distribuição"
+        "galpões"
       ],
       "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
         "E-commerce"
@@ -153,7 +153,7 @@
       "headline": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 11:19",
+      "time": "ontem, 11:19",
       "dt_iso": "2026-07-21T14:19:22+00:00",
       "summary": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
@@ -172,7 +172,7 @@
       "headline": "Mercado Livre terá centro de distribuição em Guaíba (RS) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 12:01",
+      "time": "ontem, 12:01",
       "dt_iso": "2026-07-21T15:01:39+00:00",
       "summary": "Mercado Livre terá centro de distribuição em Guaíba (RS) &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -187,11 +187,30 @@
       ]
     },
     {
+      "id": "0bb4db7541",
+      "headline": "Mercado Livre prepara dois novos centros de distribuição no Sul - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 11:40",
+      "dt_iso": "2026-07-22T14:40:32+00:00",
+      "summary": "Mercado Livre prepara dois novos centros de distribuição no Sul &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "centros de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "1390b4fab4",
       "headline": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 12:55",
+      "time": "ontem, 12:55",
       "dt_iso": "2026-07-21T15:55:00+00:00",
       "summary": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "investimento",
@@ -203,26 +222,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "f60877fcf2",
-      "headline": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce - EuQueroInvestir",
-      "source": "Euqueroinvestir",
-      "link": "https://euqueroinvestir.com",
-      "time": "15/07 às 11:07",
-      "dt_iso": "2026-07-15T14:07:46+00:00",
-      "summary": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce &nbsp;&nbsp; EuQueroInvestir",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -243,6 +242,26 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "f60877fcf2",
+      "headline": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce - EuQueroInvestir",
+      "source": "Euqueroinvestir",
+      "link": "https://euqueroinvestir.com",
+      "time": "15/07 às 23:26",
+      "dt_iso": "2026-07-16T02:26:15+00:00",
+      "summary": "Mercado Livre (MELI34) busca monetizar investimentos apesar da disputa acirrada no e-commerce &nbsp;&nbsp; EuQueroInvestir",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -290,8 +309,8 @@
       "headline": "TRX investe R$1,4 bi em complexo de 3 galpões logísticos em SP - Terra",
       "source": "Terra",
       "link": "https://www.terra.com.br",
-      "time": "ontem, 19:38",
-      "dt_iso": "2026-07-20T22:38:00+00:00",
+      "time": "hoje, 18:38",
+      "dt_iso": "2026-07-21T21:38:00+00:00",
       "summary": "TRX investe R$1,4 bi em complexo de 3 galpões logísticos em SP &nbsp;&nbsp; Terra",
       "category": "logistica",
       "keywords": [
@@ -347,7 +366,7 @@
       "headline": "Penske Logistics inaugura armazém multiclientes na Região Metropolitana de São Paulo - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 08:00",
+      "time": "ontem, 08:00",
       "dt_iso": "2026-07-21T11:00:00+00:00",
       "summary": "Penske Logistics inaugura armazém multiclientes na Região Metropolitana de São Paulo &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -366,7 +385,7 @@
       "headline": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 11:01",
+      "time": "ontem, 11:01",
       "dt_iso": "2026-07-21T14:01:17+00:00",
       "summary": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -376,6 +395,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d273e8b9d6",
+      "headline": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 10:13",
+      "dt_iso": "2026-07-22T13:13:00+00:00",
+      "summary": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
         "Logística"
       ]
@@ -397,25 +435,6 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "7539fb4a0a",
-      "headline": "Xandô moderniza operação logística com novo CD - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "ontem, 09:49",
-      "dt_iso": "2026-07-20T12:49:39+00:00",
-      "summary": "Xandô moderniza operação logística com novo CD &nbsp;&nbsp; SuperHiper",
-      "category": "expansao",
-      "keywords": [
-        "operação logística",
-        "novo cd"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -591,12 +610,12 @@
     },
     {
       "id": "e18abab1b4",
-      "headline": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado - DefesaNet",
-      "source": "Defesanet",
-      "link": "https://www.defesanet.com.br",
-      "time": "hoje, 10:18",
-      "dt_iso": "2026-07-21T13:18:15+00:00",
-      "summary": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado &nbsp;&nbsp; DefesaNet",
+      "headline": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado - Poder Aéreo",
+      "source": "Aereo",
+      "link": "https://www.aereo.jor.br",
+      "time": "hoje, 15:47",
+      "dt_iso": "2026-07-21T18:47:17+00:00",
+      "summary": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado &nbsp;&nbsp; Poder Aéreo",
       "category": "logistica",
       "keywords": [
         "embraer",
