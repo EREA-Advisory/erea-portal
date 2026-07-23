@@ -1,6 +1,6 @@
 {
-  "gerado_em": "23/07/2026 às 07:56",
-  "total": 32,
+  "gerado_em": "23/07/2026 às 14:19",
+  "total": 34,
   "noticias": [
     {
       "id": "a29a5d621c",
@@ -114,7 +114,7 @@
       "headline": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 11:00",
+      "time": "ontem, 11:00",
       "dt_iso": "2026-07-22T14:00:00+00:00",
       "summary": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
@@ -128,6 +128,26 @@
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "5b8eaa8e30",
+      "headline": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão - Business Moment",
+      "source": "Businessmoment",
+      "link": "https://businessmoment.com.br",
+      "time": "hoje, 08:43",
+      "dt_iso": "2026-07-23T11:43:43+00:00",
+      "summary": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão &nbsp;&nbsp; Business Moment",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -174,7 +194,7 @@
       "headline": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "ontem, 11:19",
+      "time": "21/07 às 11:19",
       "dt_iso": "2026-07-21T14:19:22+00:00",
       "summary": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
@@ -193,7 +213,7 @@
       "headline": "Mercado Livre terá centro de distribuição em Guaíba (RS) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 12:01",
+      "time": "21/07 às 12:01",
       "dt_iso": "2026-07-21T15:01:39+00:00",
       "summary": "Mercado Livre terá centro de distribuição em Guaíba (RS) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -212,7 +232,7 @@
       "headline": "Mercado Livre prepara dois novos centros de distribuição no Sul - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 11:40",
+      "time": "ontem, 11:40",
       "dt_iso": "2026-07-22T14:40:32+00:00",
       "summary": "Mercado Livre prepara dois novos centros de distribuição no Sul &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -231,7 +251,7 @@
       "headline": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 12:55",
+      "time": "21/07 às 12:55",
       "dt_iso": "2026-07-21T15:55:00+00:00",
       "summary": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "investimento",
@@ -266,26 +286,6 @@
       ]
     },
     {
-      "id": "bb135ac023",
-      "headline": "BNDES financia R$ 60,5 milhões para Coamo na ampliação de armazéns - boca.com.br",
-      "source": "Boca",
-      "link": "https://boca.com.br",
-      "time": "16/07 às 10:40",
-      "dt_iso": "2026-07-16T13:40:24+00:00",
-      "summary": "BNDES financia R$ 60,5 milhões para Coamo na ampliação de armazéns &nbsp;&nbsp; boca.com.br",
-      "category": "expansao",
-      "keywords": [
-        "armazéns",
-        "amplia",
-        "ampliação"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "7e21656293",
       "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
       "source": "Nordinvestimentos",
@@ -306,23 +306,22 @@
       ]
     },
     {
-      "id": "530d61ebf4",
-      "headline": "O algoritmo da beleza: a expansão do Grupo Boticário - InvestNews",
-      "source": "InvestNews",
-      "link": "https://investnews.com.br",
-      "time": "16/07 às 08:15",
-      "dt_iso": "2026-07-16T11:15:00+00:00",
-      "summary": "O algoritmo da beleza: a expansão do Grupo Boticário &nbsp;&nbsp; InvestNews",
-      "category": "expansao",
+      "id": "91d28e1723",
+      "headline": "Embraer conquista encomendas em Farnborough e vê espaço para ampliar produção militar",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/embraer-conquista-encomendas-em-farnborough-e-ve-espaco-para-ampliar-producao-militar/",
+      "time": "há 3 min",
+      "dt_iso": "2026-07-23T17:15:31+00:00",
+      "summary": "Fabricante anunciou 25 novos pedidos firmes e 30 opções de compra durante o evento \n The post  Embraer conquista encomendas em Farnborough e vê espaço para ampliar produção militar  appeared first on  InfoMoney .",
+      "category": "logistica",
       "keywords": [
-        "grupo boticário",
-        "boticário",
-        "expansão"
+        "embraer",
+        "amplia"
       ],
-      "score": 7,
+      "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -406,7 +405,7 @@
       "headline": "Penske Logistics inaugura armazém multiclientes na Região Metropolitana de São Paulo - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:00",
+      "time": "21/07 às 08:00",
       "dt_iso": "2026-07-21T11:00:00+00:00",
       "summary": "Penske Logistics inaugura armazém multiclientes na Região Metropolitana de São Paulo &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -425,7 +424,7 @@
       "headline": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 11:01",
+      "time": "21/07 às 11:01",
       "dt_iso": "2026-07-21T14:01:17+00:00",
       "summary": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -444,7 +443,7 @@
       "headline": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 10:13",
+      "time": "ontem, 10:13",
       "dt_iso": "2026-07-22T13:13:00+00:00",
       "summary": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -501,8 +500,8 @@
       "headline": "Cultura apoiando as entregas sustenta um novo ciclo de crescimento da Jadlog no e-commerce - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "há 59 min",
-      "dt_iso": "2026-07-23T09:56:15+00:00",
+      "time": "hoje, 06:56",
+      "dt_iso": "2026-07-23T09:56:28+00:00",
       "summary": "Cultura apoiando as entregas sustenta um novo ciclo de crescimento da Jadlog no e-commerce &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
       "keywords": [
@@ -592,6 +591,25 @@
       ]
     },
     {
+      "id": "f9b0278463",
+      "headline": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "há 36 min",
+      "dt_iso": "2026-07-23T16:43:00+00:00",
+      "summary": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo &nbsp;&nbsp; Estadão",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d35abb63ae",
       "headline": "10% OFF! Loja oficial de Pokémon TCG faz liquidação da nova expansão Escuridão Absoluta no Mercado Livre - IGN Brasil",
       "source": "Google News",
@@ -625,6 +643,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "e18abab1b4",
+      "headline": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado - DefesaNet",
+      "source": "Defesanet",
+      "link": "https://www.defesanet.com.br",
+      "time": "21/07 às 10:18",
+      "dt_iso": "2026-07-21T13:18:15+00:00",
+      "summary": "Embraer e Anduril assinam acordo para ampliar as capacidades do C-390 com o Barracuda-500M paletizado &nbsp;&nbsp; DefesaNet",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
