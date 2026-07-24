@@ -1,29 +1,7 @@
 {
-  "gerado_em": "24/07/2026 às 07:52",
-  "total": 30,
+  "gerado_em": "24/07/2026 às 14:28",
+  "total": 35,
   "noticias": [
-    {
-      "id": "a29a5d621c",
-      "headline": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "17/07 às 08:58",
-      "dt_iso": "2026-07-17T11:58:12+00:00",
-      "summary": "Maersk amplia operação logística no Nordeste com centro de distribuição em Suape &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "maersk",
-        "centro de distribuição",
-        "operação logística",
-        "amplia"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "81b6ee98bf",
       "headline": "Multinacional mexicana que já processa mais de 1 milhão de pedidos por mês investe R$ 450 mil, inaugura o quinto centro logístico no Brasil e transforma um galpão de 2,2 mil metros quadrados em nova base de expansão, enquanto mira faturamento globa - CPG Click Petróleo e Gás",
@@ -64,6 +42,27 @@
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "24c47b87f2",
+      "headline": "Maersk inaugura centro de distribuição em Pernambuco - Portal BE News",
+      "source": "Portalbenews",
+      "link": "https://portalbenews.com.br",
+      "time": "20/07 às 11:07",
+      "dt_iso": "2026-07-20T14:07:00+00:00",
+      "summary": "Maersk inaugura centro de distribuição em Pernambuco &nbsp;&nbsp; Portal BE News",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Destaque",
+        "Logística"
       ]
     },
     {
@@ -113,7 +112,7 @@
       "headline": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "ontem, 11:00",
+      "time": "22/07 às 11:00",
       "dt_iso": "2026-07-22T14:00:00+00:00",
       "summary": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
@@ -134,7 +133,7 @@
       "headline": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão - Business Moment",
       "source": "Businessmoment",
       "link": "https://businessmoment.com.br",
-      "time": "hoje, 08:43",
+      "time": "ontem, 08:43",
       "dt_iso": "2026-07-23T11:43:43+00:00",
       "summary": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão &nbsp;&nbsp; Business Moment",
       "category": "expansao",
@@ -147,26 +146,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "28e194015b",
-      "headline": "Luciano Hang investe R$ 250 milhões na construção de novo Centro de Distribuição da Havan, com mais de 50 mil metros quadrados, e promete centenas de empregos - Banda B",
-      "source": "Bandab",
-      "link": "https://www.bandab.com.br",
-      "time": "21/07 às 14:27",
-      "dt_iso": "2026-07-21T17:27:00+00:00",
-      "summary": "Luciano Hang investe R$ 250 milhões na construção de novo Centro de Distribuição da Havan, com mais de 50 mil metros quadrados, e promete centenas de empregos &nbsp;&nbsp; Banda B",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "investe",
-        "construção"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -227,11 +206,31 @@
       ]
     },
     {
+      "id": "318ef9a183",
+      "headline": "Patrus Transportes inaugura nova filial em Ribeirão Preto e amplia capacidade operacional em SP - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 04:49",
+      "dt_iso": "2026-07-24T07:49:01+00:00",
+      "summary": "Patrus Transportes inaugura nova filial em Ribeirão Preto e amplia capacidade operacional em SP &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "patrus transportes",
+        "inaugura",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "0bb4db7541",
       "headline": "Mercado Livre prepara dois novos centros de distribuição no Sul - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 11:40",
+      "time": "22/07 às 11:40",
       "dt_iso": "2026-07-22T14:40:32+00:00",
       "summary": "Mercado Livre prepara dois novos centros de distribuição no Sul &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -285,6 +284,25 @@
       ]
     },
     {
+      "id": "c86ece1921",
+      "headline": "Com 12 mil m² e 36 docas, Maersk monta centro de distribuição a 20 km de Suape - Movimento Econômico",
+      "source": "Movimentoeconomico",
+      "link": "https://movimentoeconomico.com.br",
+      "time": "20/07 às 11:18",
+      "dt_iso": "2026-07-20T14:18:31+00:00",
+      "summary": "Com 12 mil m² e 36 docas, Maersk monta centro de distribuição a 20 km de Suape &nbsp;&nbsp; Movimento Econômico",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "ce68f4ac0d",
       "headline": "Suzano aposta em geração de valor após investimentos bilionários - CNN Brasil",
       "source": "CNN Brasil",
@@ -302,6 +320,25 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "8631a059b1",
+      "headline": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "20/07 às 14:33",
+      "dt_iso": "2026-07-20T17:33:00+00:00",
+      "summary": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Região(ões) mencionada(s): Cajamar.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -344,6 +381,25 @@
       ]
     },
     {
+      "id": "ad61352beb",
+      "headline": "Hidrotintas amplia centro de distribuição em Pernambuco e fortalece operação no Nordeste - istoae.com.br",
+      "source": "Istoae",
+      "link": "https://istoae.com.br",
+      "time": "hoje, 16:18",
+      "dt_iso": "2026-07-23T19:18:41+00:00",
+      "summary": "Hidrotintas amplia centro de distribuição em Pernambuco e fortalece operação no Nordeste &nbsp;&nbsp; istoae.com.br",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "9c3b1529ab",
       "headline": "Locação antecipada de galpões bate recorde puxada por e-commerce - Estadão",
       "source": "Estadão",
@@ -374,6 +430,25 @@
       "keywords": [
         "galpões",
         "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "62b74e6d73",
+      "headline": "Escassez de terrenos em SP acelera aportes em galpões logísticos no Nordeste - Paraíba Business",
+      "source": "Paraibabusiness",
+      "link": "https://paraibabusiness.com.br",
+      "time": "hoje, 05:30",
+      "dt_iso": "2026-07-24T08:30:00+00:00",
+      "summary": "Escassez de terrenos em SP acelera aportes em galpões logísticos no Nordeste &nbsp;&nbsp; Paraíba Business",
+      "category": "investimento",
+      "keywords": [
+        "galpões",
+        "aporte"
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
@@ -439,6 +514,25 @@
       ]
     },
     {
+      "id": "70beb864ac",
+      "headline": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 05:19",
+      "dt_iso": "2026-07-24T08:19:37+00:00",
+      "summary": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Guarulhos.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "31f7da1ba5",
       "headline": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns - Tecnologística",
       "source": "Tecnologística",
@@ -462,7 +556,7 @@
       "headline": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 10:13",
+      "time": "22/07 às 10:13",
       "dt_iso": "2026-07-22T13:13:00+00:00",
       "summary": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -538,7 +632,7 @@
       "headline": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo - Estadão",
       "source": "Estadão",
       "link": "https://www.estadao.com.br",
-      "time": "hoje, 13:43",
+      "time": "ontem, 13:43",
       "dt_iso": "2026-07-23T16:43:00+00:00",
       "summary": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo &nbsp;&nbsp; Estadão",
       "category": "logistica",
@@ -576,7 +670,7 @@
       "headline": "GPA rescinde contrato de centro de distribuição alugado da Bresco, em meio ao processo de reestruturação de dívidas - ADVFN",
       "source": "Google News",
       "link": "https://br.advfn.com",
-      "time": "hoje, 13:43",
+      "time": "ontem, 13:43",
       "dt_iso": "2026-07-23T16:43:07+00:00",
       "summary": "GPA rescinde contrato de centro de distribuição alugado da Bresco, em meio ao processo de reestruturação de dívidas &nbsp;&nbsp; ADVFN",
       "category": "logistica",
