@@ -1,6 +1,6 @@
 {
-  "gerado_em": "26/07/2026 às 07:26",
-  "total": 33,
+  "gerado_em": "26/07/2026 às 13:56",
+  "total": 35,
   "noticias": [
     {
       "id": "123e18a81d",
@@ -49,7 +49,7 @@
       "headline": "Maersk amplia aposta na verticalização logística com novo centro de distribuição em Suape - Portogente",
       "source": "Portogente",
       "link": "https://portogente.com.br",
-      "time": "hoje, 10:25",
+      "time": "ontem, 10:25",
       "dt_iso": "2026-07-25T13:25:17+00:00",
       "summary": "Maersk amplia aposta na verticalização logística com novo centro de distribuição em Suape &nbsp;&nbsp; Portogente",
       "category": "logistica",
@@ -265,6 +265,25 @@
       ]
     },
     {
+      "id": "58e07e351e",
+      "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
+      "source": "Acil",
+      "link": "https://acil.com.br",
+      "time": "23/07 às 04:00",
+      "dt_iso": "2026-07-23T07:00:00+00:00",
+      "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; Acil",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "condomínio logístico"
+      ],
+      "score": 7,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "1390b4fab4",
       "headline": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
@@ -403,7 +422,7 @@
       "headline": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:52",
+      "time": "24/07 às 08:52",
       "dt_iso": "2026-07-24T11:52:05+00:00",
       "summary": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -551,6 +570,25 @@
       ]
     },
     {
+      "id": "3d1aed4802",
+      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Foco Nacional",
+      "source": "Foconacional",
+      "link": "https://www.foconacional.com.br",
+      "time": "ontem, 14:40",
+      "dt_iso": "2026-07-24T17:40:00+00:00",
+      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Foco Nacional",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "cba9933140",
       "headline": "Shopee amplia contratações com 464 vagas para tecnologia, logística e processos - JC Concursos",
       "source": "Jcconcursos",
@@ -574,8 +612,8 @@
       "headline": "TRX investe R$1,4 bi em complexo de 3 galpões logísticos em SP - Terra",
       "source": "Terra",
       "link": "https://www.terra.com.br",
-      "time": "20/07 às 19:38",
-      "dt_iso": "2026-07-20T22:38:00+00:00",
+      "time": "21/07 às 18:38",
+      "dt_iso": "2026-07-21T21:38:00+00:00",
       "summary": "TRX investe R$1,4 bi em complexo de 3 galpões logísticos em SP &nbsp;&nbsp; Terra",
       "category": "logistica",
       "keywords": [
