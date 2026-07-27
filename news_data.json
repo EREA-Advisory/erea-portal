@@ -1,5 +1,5 @@
 {
-  "gerado_em": "27/07/2026 às 09:08",
+  "gerado_em": "27/07/2026 às 14:40",
   "total": 28,
   "noticias": [
     {
@@ -49,7 +49,7 @@
       "headline": "Maersk amplia aposta na verticalização logística com novo centro de distribuição em Suape - Portogente",
       "source": "Portogente",
       "link": "https://portogente.com.br",
-      "time": "ontem, 10:25",
+      "time": "25/07 às 10:25",
       "dt_iso": "2026-07-25T13:25:17+00:00",
       "summary": "Maersk amplia aposta na verticalização logística com novo centro de distribuição em Suape &nbsp;&nbsp; Portogente",
       "category": "logistica",
@@ -129,6 +129,26 @@
       ]
     },
     {
+      "id": "5b8eaa8e30",
+      "headline": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão - Business Moment",
+      "source": "Businessmoment",
+      "link": "https://businessmoment.com.br",
+      "time": "23/07 às 08:43",
+      "dt_iso": "2026-07-23T11:43:43+00:00",
+      "summary": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão &nbsp;&nbsp; Business Moment",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "e898719289",
       "headline": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões - InfoMoney",
       "source": "InfoMoney",
@@ -149,12 +169,12 @@
     },
     {
       "id": "9bb1e4e577",
-      "headline": "Mercado Livre terá centro de distribuição em Guaíba (RS) - MundoLogística",
+      "headline": "Mercado Livre terá centro de distribuição em Guaíba (RS) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "21/07 às 12:01",
       "dt_iso": "2026-07-21T15:01:39+00:00",
-      "summary": "Mercado Livre terá centro de distribuição em Guaíba (RS) &nbsp;&nbsp; MundoLogística",
+      "summary": "Mercado Livre terá centro de distribuição em Guaíba (RS) &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -206,25 +226,6 @@
       ]
     },
     {
-      "id": "568f79d85f",
-      "headline": "Fundo TRXF11 paga R$ 1,4 bilhão por complexo logístico com galpões do Mercado Livre - InvestNews",
-      "source": "InvestNews",
-      "link": "https://investnews.com.br",
-      "time": "20/07 às 20:21",
-      "dt_iso": "2026-07-20T23:21:59+00:00",
-      "summary": "Fundo TRXF11 paga R$ 1,4 bilhão por complexo logístico com galpões do Mercado Livre &nbsp;&nbsp; InvestNews",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "galpões"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "58e07e351e",
       "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
       "source": "Acil",
@@ -263,51 +264,32 @@
       ]
     },
     {
-      "id": "8631a059b1",
-      "headline": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "20/07 às 14:33",
-      "dt_iso": "2026-07-20T17:33:00+00:00",
-      "summary": "Com 111 mil metros quadrados, estoque para até 10 milhões de produtos e operação capaz de consolidar 450 mil pacotes por dia, o Mercado Livre ergue em Cajamar o maior centro de distribuição da empresa no Brasil, um colosso logístico que virou peça-c &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
+      "id": "568f79d85f",
+      "headline": "Fundo TRXF11 paga R$ 1,4 bilhão por complexo logístico com galpões do Mercado Livre - InvestNews",
+      "source": "InvestNews",
+      "link": "https://investnews.com.br",
+      "time": "20/07 às 20:21",
+      "dt_iso": "2026-07-20T23:21:59+00:00",
+      "summary": "Fundo TRXF11 paga R$ 1,4 bilhão por complexo logístico com galpões do Mercado Livre &nbsp;&nbsp; InvestNews",
+      "category": "investimento",
       "keywords": [
         "mercado livre",
-        "centro de distribuição"
+        "galpões"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Região(ões) mencionada(s): Cajamar.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "059cc56f9b",
-      "headline": "Expansão da Delly’s ganha escala com novo centro de distribuição no Rio Grande do Sul - Economic News Brasil",
-      "source": "Economicnewsbrasil",
-      "link": "https://economicnewsbrasil.com.br",
-      "time": "20/07 às 12:33",
-      "dt_iso": "2026-07-20T15:33:00+00:00",
-      "summary": "Expansão da Delly’s ganha escala com novo centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; Economic News Brasil",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
+        "Investimento"
       ]
     },
     {
       "id": "fa9e6205b1",
-      "headline": "Jadlog fortalece rede franqueada com investimento em capacitação e tecnologia - MundoLogística",
+      "headline": "Jadlog fortalece rede franqueada com investimento em capacitação e tecnologia - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "20/07 às 18:01",
       "dt_iso": "2026-07-20T21:01:25+00:00",
-      "summary": "Jadlog fortalece rede franqueada com investimento em capacitação e tecnologia &nbsp;&nbsp; MundoLogística",
+      "summary": "Jadlog fortalece rede franqueada com investimento em capacitação e tecnologia &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "jadlog",
@@ -372,6 +354,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "75ea9dd217",
+      "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 11:07",
+      "dt_iso": "2026-07-27T14:07:34+00:00",
+      "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "yusen logistics",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
