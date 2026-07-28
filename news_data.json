@@ -1,6 +1,6 @@
 {
-  "gerado_em": "28/07/2026 às 08:07",
-  "total": 25,
+  "gerado_em": "28/07/2026 às 14:24",
+  "total": 24,
   "noticias": [
     {
       "id": "123e18a81d",
@@ -45,27 +45,6 @@
       ]
     },
     {
-      "id": "58ffd78633",
-      "headline": "Gilberto Tomazoni destaca expansão internacional e novos investimentos da JBS - Times Brasil | CNBC",
-      "source": "Timesbrasil",
-      "link": "https://timesbrasil.com.br",
-      "time": "23/07 às 20:39",
-      "dt_iso": "2026-07-23T23:39:00+00:00",
-      "summary": "Gilberto Tomazoni destaca expansão internacional e novos investimentos da JBS &nbsp;&nbsp; Times Brasil | CNBC",
-      "category": "expansao",
-      "keywords": [
-        "jbs",
-        "expansão",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "c85e8ab109",
       "headline": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 - InfoMoney",
       "source": "InfoMoney",
@@ -107,20 +86,20 @@
       ]
     },
     {
-      "id": "9bb1e4e577",
-      "headline": "Mercado Livre terá centro de distribuição em Guaíba (RS) - MundoLogística",
+      "id": "9d21232403",
+      "headline": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "21/07 às 12:01",
-      "dt_iso": "2026-07-21T15:01:39+00:00",
-      "summary": "Mercado Livre terá centro de distribuição em Guaíba (RS) &nbsp;&nbsp; MundoLogística",
+      "time": "hoje, 11:00",
+      "dt_iso": "2026-07-28T14:00:55+00:00",
+      "summary": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "centro de distribuição"
+        "dhl",
+        "supply chain"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Região(ões) mencionada(s): Extrema.",
       "badges": [
         "Logística"
       ]
@@ -146,6 +125,26 @@
       ]
     },
     {
+      "id": "0267402015",
+      "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 10:21",
+      "dt_iso": "2026-07-28T13:21:51+00:00",
+      "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "fulfillment",
+        "constrói"
+      ],
+      "score": 7,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. E-commerce em expansão — típico de contratos longos e galpões Classe A. Região(ões) mencionada(s): Guarulhos.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "0bb4db7541",
       "headline": "Mercado Livre prepara dois novos centros de distribuição no Sul - Tecnologística",
       "source": "Tecnologística",
@@ -162,25 +161,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "e898719289",
-      "headline": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "21/07 às 11:19",
-      "dt_iso": "2026-07-21T14:19:22+00:00",
-      "summary": "FII TRXF11 compra complexo de R$ 1,4 bi; Mercado Livre ocupa dois dos três galpões &nbsp;&nbsp; InfoMoney",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "galpões"
-      ],
-      "score": 7,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -203,30 +183,11 @@
       ]
     },
     {
-      "id": "1390b4fab4",
-      "headline": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "21/07 às 12:55",
-      "dt_iso": "2026-07-21T15:55:00+00:00",
-      "summary": "Cem caminhões por dia vão entrar e sair do novo centro de distribuição que a Casas Bahia acaba de abrir, uma estrutura de 16 mil metros quadrados com 120 trabalhadores, criada para deixar o estoque mais perto do cliente e acelerar as entregas em São &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "investimento",
-      "keywords": [
-        "casas bahia",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "e755708e4b",
       "headline": "Solução logística da Shopee cresce 15 vezes e impulsiona expansão de pequenos negócios - Paraíba Total",
       "source": "Paraibatotal",
       "link": "https://paraibatotal.com.br",
-      "time": "hoje, 13:28",
+      "time": "ontem, 13:28",
       "dt_iso": "2026-07-27T16:28:12+00:00",
       "summary": "Solução logística da Shopee cresce 15 vezes e impulsiona expansão de pequenos negócios &nbsp;&nbsp; Paraíba Total",
       "category": "expansao",
@@ -262,20 +223,20 @@
       ]
     },
     {
-      "id": "124f957166",
-      "headline": "BHP exporta presidente brasileiro para a Austrália e prepara nova fase da Samarco",
-      "source": "Exame",
-      "link": "https://exame.com/exame-in/bhp-exporta-executivo-brasileiro-para-a-australia-e-inicia-nova-fase-no-brasil-apos-mariana/",
-      "time": "hoje, 04:55",
-      "dt_iso": "2026-07-28T07:55:45+00:00",
-      "summary": "Depois de liderar a operação brasileira durante a assinatura do acordo de reparação de Mariana, Emir Calluf Filho assume a diretoria global de Ética, Compliance e Direitos Humanos da BHP, na Austrália",
+      "id": "1efd546f6c",
+      "headline": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga - Portal Nosso Meio",
+      "source": "Nossomeio",
+      "link": "https://nossomeio.com.br",
+      "time": "hoje, 08:55",
+      "dt_iso": "2026-07-28T11:55:00+00:00",
+      "summary": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga &nbsp;&nbsp; Portal Nosso Meio",
       "category": "logistica",
       "keywords": [
-        "natura",
-        "nova fase"
+        "centro de distribuição",
+        "crescimento"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -300,30 +261,11 @@
       ]
     },
     {
-      "id": "31f7da1ba5",
-      "headline": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "21/07 às 11:01",
-      "dt_iso": "2026-07-21T14:01:17+00:00",
-      "summary": "Infios incorpora plataforma vaibe ao portfólio para ampliar produtividade em armazéns &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "armazéns",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "75ea9dd217",
       "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 11:07",
+      "time": "ontem, 11:07",
       "dt_iso": "2026-07-27T14:07:34+00:00",
       "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -333,6 +275,44 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d273e8b9d6",
+      "headline": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "22/07 às 10:13",
+      "dt_iso": "2026-07-22T13:13:00+00:00",
+      "summary": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Guarulhos.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "03b7524eb1",
+      "headline": "Escassez de galpões logísticos eleva preço do aluguel - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 08:25",
+      "dt_iso": "2026-07-28T11:25:00+00:00",
+      "summary": "Escassez de galpões logísticos eleva preço do aluguel &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -349,6 +329,25 @@
       "keywords": [
         "centro de distribuição",
         "aluga"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "f9b0278463",
+      "headline": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo - Terra",
+      "source": "Terra",
+      "link": "https://www.terra.com.br",
+      "time": "23/07 às 13:54",
+      "dt_iso": "2026-07-23T16:54:00+00:00",
+      "summary": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo &nbsp;&nbsp; Terra",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "aluguel"
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
@@ -447,25 +446,6 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "f9b0278463",
-      "headline": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "23/07 às 13:43",
-      "dt_iso": "2026-07-23T16:43:00+00:00",
-      "summary": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo &nbsp;&nbsp; Estadão",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
