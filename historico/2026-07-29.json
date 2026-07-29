@@ -1,7 +1,28 @@
 {
-  "gerado_em": "29/07/2026 às 08:13",
-  "total": 24,
+  "gerado_em": "29/07/2026 às 14:12",
+  "total": 25,
   "noticias": [
+    {
+      "id": "5dca79ab3c",
+      "headline": "Shopee amplia rede logística no Brasil com dez novos centros de distribuição - VEJA",
+      "source": "Veja",
+      "link": "https://veja.abril.com.br",
+      "time": "hoje, 09:01",
+      "dt_iso": "2026-07-29T12:01:54+00:00",
+      "summary": "Shopee amplia rede logística no Brasil com dez novos centros de distribuição &nbsp;&nbsp; VEJA",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centros de distribuição",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
     {
       "id": "58ffd78633",
       "headline": "Gilberto Tomazoni destaca expansão internacional e novos investimentos da JBS - Times Brasil | CNBC",
@@ -24,24 +45,23 @@
       ]
     },
     {
-      "id": "c85e8ab109",
-      "headline": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 - InfoMoney",
+      "id": "7dd455d555",
+      "headline": "IPO da Shein vem aí: como abertura de capital pode afetar ações de varejistas na B3?",
       "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "22/07 às 11:00",
-      "dt_iso": "2026-07-22T14:00:00+00:00",
-      "summary": "Mercado Livre e Shopee puxam 9 das 10 maiores locações de galpões logísticos no 2T26 &nbsp;&nbsp; InfoMoney",
-      "category": "ecommerce",
+      "link": "https://www.infomoney.com.br/mercados/ipo-da-shein-vem-ai-como-abertura-de-capital-pode-afetar-acoes-de-varejistas-na-b3/",
+      "time": "hoje, 13:00",
+      "dt_iso": "2026-07-29T16:00:00+00:00",
+      "summary": "Prospecto do IPO revela desaceleração das vendas da Shein em mercados desenvolvidos, mas analistas alertam que Brasil pode se tornar alvo prioritário da expansão da companhia \n The post  IPO da Shein vem aí: como abertura de capital pode afetar ações de varejistas na B3?  appeared first on  InfoMoney .",
+      "category": "expansao",
       "keywords": [
-        "mercado livre",
-        "shopee",
-        "galpões"
+        "shein",
+        "expansão",
+        "abertura"
       ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Destaque",
-        "E-commerce"
+        "Expansão"
       ]
     },
     {
@@ -62,6 +82,25 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "26ed4dcb71",
+      "headline": "ALZR11 conclui compra de galpão logístico da Shopee - Clube FII News",
+      "source": "Clubefiinews",
+      "link": "https://www.clubefiinews.com.br",
+      "time": "hoje, 11:17",
+      "dt_iso": "2026-07-29T14:17:00+00:00",
+      "summary": "ALZR11 conclui compra de galpão logístico da Shopee &nbsp;&nbsp; Clube FII News",
+      "category": "investimento",
+      "keywords": [
+        "shopee",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -88,7 +127,7 @@
       "headline": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 11:00",
+      "time": "ontem, 11:00",
       "dt_iso": "2026-07-28T14:00:55+00:00",
       "summary": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -127,7 +166,7 @@
       "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 10:21",
+      "time": "ontem, 10:21",
       "dt_iso": "2026-07-28T13:21:51+00:00",
       "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -143,51 +182,13 @@
       ]
     },
     {
-      "id": "0bb4db7541",
-      "headline": "Mercado Livre prepara dois novos centros de distribuição no Sul - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "22/07 às 11:40",
-      "dt_iso": "2026-07-22T14:40:32+00:00",
-      "summary": "Mercado Livre prepara dois novos centros de distribuição no Sul &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "centros de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "8c16c1eb5d",
-      "headline": "ALZR11 conclui aquisição de galpão logístico locado para a Shopee por R$ 125 milhões - Fiis",
-      "source": "Fiis",
-      "link": "https://fiis.com.br",
-      "time": "hoje, 17:40",
-      "dt_iso": "2026-07-28T20:40:08+00:00",
-      "summary": "ALZR11 conclui aquisição de galpão logístico locado para a Shopee por R$ 125 milhões &nbsp;&nbsp; Fiis",
-      "category": "investimento",
-      "keywords": [
-        "shopee",
-        "galpão"
-      ],
-      "score": 7,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "58e07e351e",
-      "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
+      "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - acil.com.br",
       "source": "Acil",
       "link": "https://acil.com.br",
       "time": "23/07 às 04:00",
       "dt_iso": "2026-07-23T07:00:00+00:00",
-      "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; Acil",
+      "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; acil.com.br",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -204,7 +205,7 @@
       "headline": "Solução logística da Shopee cresce 15 vezes e impulsiona expansão de pequenos negócios - Paraíba Total",
       "source": "Paraibatotal",
       "link": "https://paraibatotal.com.br",
-      "time": "ontem, 13:28",
+      "time": "27/07 às 13:28",
       "dt_iso": "2026-07-27T16:28:12+00:00",
       "summary": "Solução logística da Shopee cresce 15 vezes e impulsiona expansão de pequenos negócios &nbsp;&nbsp; Paraíba Total",
       "category": "expansao",
@@ -220,33 +221,13 @@
       ]
     },
     {
-      "id": "7e21656293",
-      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - Nord Investimentos",
-      "source": "Nordinvestimentos",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 17:23",
-      "dt_iso": "2026-07-27T20:23:20+00:00",
-      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; Nord Investimentos",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "1efd546f6c",
-      "headline": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga - Portal Nosso Meio",
+      "headline": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga - nossomeio.com.br",
       "source": "Nossomeio",
       "link": "https://nossomeio.com.br",
-      "time": "hoje, 08:55",
+      "time": "ontem, 08:55",
       "dt_iso": "2026-07-28T11:55:00+00:00",
-      "summary": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga &nbsp;&nbsp; Portal Nosso Meio",
+      "summary": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga &nbsp;&nbsp; nossomeio.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -254,6 +235,44 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6f1814b0fc",
+      "headline": "LATAM Cargo reduz tempo de entrega e cresce no last mile - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 09:04",
+      "dt_iso": "2026-07-29T12:04:29+00:00",
+      "summary": "LATAM Cargo reduz tempo de entrega e cresce no last mile &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "last mile",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Expansão de last mile — demanda por imóveis urbanos pequenos e ágeis.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "ebdb407b47",
+      "headline": "Delly’s inaugura centro de distribuição no Rio Grande do Sul - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 09:43",
+      "dt_iso": "2026-07-29T12:43:30+00:00",
+      "summary": "Delly’s inaugura centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -282,7 +301,7 @@
       "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 11:07",
+      "time": "27/07 às 11:07",
       "dt_iso": "2026-07-27T14:07:34+00:00",
       "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -297,30 +316,11 @@
       ]
     },
     {
-      "id": "d273e8b9d6",
-      "headline": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "22/07 às 10:13",
-      "dt_iso": "2026-07-22T13:13:00+00:00",
-      "summary": "TRXF11 anuncia investimento de R$ 1,4 bi em galpões em Guarulhos &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Guarulhos.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "03b7524eb1",
       "headline": "Escassez de galpões logísticos eleva preço do aluguel - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 08:25",
+      "time": "ontem, 08:25",
       "dt_iso": "2026-07-28T11:25:00+00:00",
       "summary": "Escassez de galpões logísticos eleva preço do aluguel &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -354,25 +354,6 @@
       ]
     },
     {
-      "id": "f9b0278463",
-      "headline": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo - Terra",
-      "source": "Terra",
-      "link": "https://www.terra.com.br",
-      "time": "23/07 às 13:54",
-      "dt_iso": "2026-07-23T16:54:00+00:00",
-      "summary": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo &nbsp;&nbsp; Terra",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e02236de84",
       "headline": "Jadlog fortalece rede franqueada e amplia capilaridade logística em todo o Brasil - Melhores Franquias Para 2026",
       "source": "Portaldofranchising",
@@ -392,13 +373,32 @@
       ]
     },
     {
+      "id": "1042b84fd6",
+      "headline": "Com voos para o Brasil, Kuehne+Nagel amplia rede aérea do “corredor frio” para logística de itens de saúde - AEROIN",
+      "source": "Aeroin",
+      "link": "https://aeroin.net",
+      "time": "hoje, 10:06",
+      "dt_iso": "2026-07-29T13:06:36+00:00",
+      "summary": "Com voos para o Brasil, Kuehne+Nagel amplia rede aérea do “corredor frio” para logística de itens de saúde &nbsp;&nbsp; AEROIN",
+      "category": "logistica",
+      "keywords": [
+        "kuehne+nagel",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "aaaff748a6",
-      "headline": "Mercado Livre no 2T26: crescimento forte já não basta para o mercado - EuQueroInvestir",
+      "headline": "Mercado Livre no 2T26: crescimento forte já não basta para o mercado - euqueroinvestir.com",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
       "time": "hoje, 16:43",
       "dt_iso": "2026-07-28T19:43:59+00:00",
-      "summary": "Mercado Livre no 2T26: crescimento forte já não basta para o mercado &nbsp;&nbsp; EuQueroInvestir",
+      "summary": "Mercado Livre no 2T26: crescimento forte já não basta para o mercado &nbsp;&nbsp; euqueroinvestir.com",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -408,25 +408,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "3d1aed4802",
-      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Foco Nacional",
-      "source": "Foconacional",
-      "link": "https://www.foconacional.com.br",
-      "time": "24/07 às 14:40",
-      "dt_iso": "2026-07-24T17:40:00+00:00",
-      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Foco Nacional",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "novos galpões"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -449,6 +430,25 @@
       ]
     },
     {
+      "id": "f9b0278463",
+      "headline": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "23/07 às 13:43",
+      "dt_iso": "2026-07-23T16:43:00+00:00",
+      "summary": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo &nbsp;&nbsp; Estadão",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a06c5930e6",
       "headline": "Gi Group e Amazon abrem 200 vagas temporárias para operação logística em Fortaleza - Gazeta da Semana",
       "source": "Gazetadasemana",
@@ -463,6 +463,25 @@
       ],
       "score": 6,
       "relevance": "Região(ões) mencionada(s): Fortaleza.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d2590dc3eb",
+      "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - JM Online",
+      "source": "Jmonline",
+      "link": "https://jmonline.com.br",
+      "time": "ontem, 04:00",
+      "dt_iso": "2026-07-28T07:00:00+00:00",
+      "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; JM Online",
+      "category": "logistica",
+      "keywords": [
+        "shein",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
