@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/07/2026 às 07:56",
-  "total": 22,
+  "gerado_em": "30/07/2026 às 14:24",
+  "total": 21,
   "noticias": [
     {
       "id": "e458d30006",
@@ -28,7 +28,7 @@
       "headline": "Shopee amplia rede logística no Brasil com dez novos centros de distribuição - VEJA",
       "source": "Veja",
       "link": "https://veja.abril.com.br",
-      "time": "hoje, 09:01",
+      "time": "ontem, 09:01",
       "dt_iso": "2026-07-29T12:01:54+00:00",
       "summary": "Shopee amplia rede logística no Brasil com dez novos centros de distribuição &nbsp;&nbsp; VEJA",
       "category": "logistica",
@@ -45,52 +45,11 @@
       ]
     },
     {
-      "id": "58ffd78633",
-      "headline": "Gilberto Tomazoni destaca expansão internacional e novos investimentos da JBS - Times Brasil | CNBC",
-      "source": "Timesbrasil",
-      "link": "https://timesbrasil.com.br",
-      "time": "23/07 às 20:39",
-      "dt_iso": "2026-07-23T23:39:00+00:00",
-      "summary": "Gilberto Tomazoni destaca expansão internacional e novos investimentos da JBS &nbsp;&nbsp; Times Brasil | CNBC",
-      "category": "expansao",
-      "keywords": [
-        "jbs",
-        "expansão",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "5b8eaa8e30",
-      "headline": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão - Business Moment",
-      "source": "Businessmoment",
-      "link": "https://businessmoment.com.br",
-      "time": "23/07 às 08:43",
-      "dt_iso": "2026-07-23T11:43:43+00:00",
-      "summary": "Cubbo abre quinto centro de distribuição no Brasil e acelera expansão &nbsp;&nbsp; Business Moment",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão",
-        "abre"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "26ed4dcb71",
       "headline": "ALZR11 conclui compra de galpão logístico da Shopee - Clube FII News",
       "source": "Clubefiinews",
       "link": "https://www.clubefiinews.com.br",
-      "time": "hoje, 11:17",
+      "time": "ontem, 11:17",
       "dt_iso": "2026-07-29T14:17:00+00:00",
       "summary": "ALZR11 conclui compra de galpão logístico da Shopee &nbsp;&nbsp; Clube FII News",
       "category": "investimento",
@@ -128,7 +87,7 @@
       "headline": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 11:00",
+      "time": "28/07 às 11:00",
       "dt_iso": "2026-07-28T14:00:55+00:00",
       "summary": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -144,12 +103,12 @@
     },
     {
       "id": "318ef9a183",
-      "headline": "Patrus Transportes inaugura nova filial em Ribeirão Preto e amplia capacidade operacional em SP - Tecnologística",
+      "headline": "Patrus Transportes inaugura nova filial em Ribeirão Preto e amplia capacidade operacional em SP - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "24/07 às 22:32",
       "dt_iso": "2026-07-25T01:32:59+00:00",
-      "summary": "Patrus Transportes inaugura nova filial em Ribeirão Preto e amplia capacidade operacional em SP &nbsp;&nbsp; Tecnologística",
+      "summary": "Patrus Transportes inaugura nova filial em Ribeirão Preto e amplia capacidade operacional em SP &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "patrus transportes",
@@ -164,12 +123,12 @@
     },
     {
       "id": "0267402015",
-      "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - Tecnologística",
+      "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 10:21",
+      "time": "28/07 às 10:21",
       "dt_iso": "2026-07-28T13:21:51+00:00",
-      "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; Tecnologística",
+      "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
@@ -180,6 +139,26 @@
       "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. E-commerce em expansão — típico de contratos longos e galpões Classe A. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "bd842c92e3",
+      "headline": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e planeja dez novos centros no Brasil em 2026; Shein já mira IPO - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 13:00",
+      "dt_iso": "2026-07-30T16:00:00+00:00",
+      "summary": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e planeja dez novos centros no Brasil em 2026; Shein já mira IPO &nbsp;&nbsp; Times Brasil | CNBC",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "shein",
+        "cresce"
+      ],
+      "score": 7,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -203,11 +182,31 @@
       ]
     },
     {
+      "id": "6391c95552",
+      "headline": "Shopee chega a 26 centros logísticos após dez inaugurações em 2026 - Brasil 247",
+      "source": "Brasil247",
+      "link": "https://www.brasil247.com",
+      "time": "hoje, 17:48",
+      "dt_iso": "2026-07-29T20:48:00+00:00",
+      "summary": "Shopee chega a 26 centros logísticos após dez inaugurações em 2026 &nbsp;&nbsp; Brasil 247",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "inaugura",
+        "inaugurações"
+      ],
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "1efd546f6c",
       "headline": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga - Portal Nosso Meio",
       "source": "Nossomeio",
       "link": "https://nossomeio.com.br",
-      "time": "ontem, 08:55",
+      "time": "28/07 às 08:55",
       "dt_iso": "2026-07-28T11:55:00+00:00",
       "summary": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga &nbsp;&nbsp; Portal Nosso Meio",
       "category": "logistica",
@@ -226,7 +225,7 @@
       "headline": "LATAM Cargo reduz tempo de entrega e cresce no last mile - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 09:04",
+      "time": "ontem, 09:04",
       "dt_iso": "2026-07-29T12:04:29+00:00",
       "summary": "LATAM Cargo reduz tempo de entrega e cresce no last mile &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -245,7 +244,7 @@
       "headline": "Delly’s inaugura centro de distribuição no Rio Grande do Sul - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 09:43",
+      "time": "ontem, 09:43",
       "dt_iso": "2026-07-29T12:43:30+00:00",
       "summary": "Delly’s inaugura centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -261,12 +260,12 @@
     },
     {
       "id": "70beb864ac",
-      "headline": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões - Tecnologística",
+      "headline": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "24/07 às 08:52",
       "dt_iso": "2026-07-24T11:52:05+00:00",
-      "summary": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões &nbsp;&nbsp; Tecnologística",
+      "summary": "IBL Logística dobra capacidade de armazenagem refrigerada em Guarulhos com investimento de R$ 2 milhões &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "armazenagem",
@@ -280,12 +279,12 @@
     },
     {
       "id": "75ea9dd217",
-      "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - Tecnologística",
+      "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "27/07 às 11:07",
       "dt_iso": "2026-07-27T14:07:34+00:00",
-      "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; Tecnologística",
+      "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "yusen logistics",
@@ -302,7 +301,7 @@
       "headline": "Escassez de galpões logísticos eleva preço do aluguel - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 08:25",
+      "time": "28/07 às 08:25",
       "dt_iso": "2026-07-28T11:25:00+00:00",
       "summary": "Escassez de galpões logísticos eleva preço do aluguel &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -312,25 +311,6 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "284a137e55",
-      "headline": "GPA rescinde contrato de centro de distribuição alugado da Bresco, em meio ao processo de reestruturação de dívidas - ADVFN",
-      "source": "Google News",
-      "link": "https://br.advfn.com",
-      "time": "23/07 às 14:10",
-      "dt_iso": "2026-07-23T17:10:07+00:00",
-      "summary": "GPA rescinde contrato de centro de distribuição alugado da Bresco, em meio ao processo de reestruturação de dívidas &nbsp;&nbsp; ADVFN",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "aluga"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -350,25 +330,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "1042b84fd6",
-      "headline": "Com voos para o Brasil, Kuehne+Nagel amplia rede aérea do “corredor frio” para logística de itens de saúde - AEROIN",
-      "source": "Aeroin",
-      "link": "https://aeroin.net",
-      "time": "hoje, 10:06",
-      "dt_iso": "2026-07-29T13:06:36+00:00",
-      "summary": "Com voos para o Brasil, Kuehne+Nagel amplia rede aérea do “corredor frio” para logística de itens de saúde &nbsp;&nbsp; AEROIN",
-      "category": "logistica",
-      "keywords": [
-        "kuehne+nagel",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -416,7 +377,7 @@
       "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - JM Online",
       "source": "Jmonline",
       "link": "https://jmonline.com.br",
-      "time": "hoje, 10:10",
+      "time": "ontem, 10:10",
       "dt_iso": "2026-07-29T13:10:00+00:00",
       "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; JM Online",
       "category": "logistica",
@@ -426,6 +387,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "ea3b561a01",
+      "headline": "Em meio às mudanças no consumo, Ambev investe em portfólio de marcas complementares - valor.globo.com",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "hoje, 12:54",
+      "dt_iso": "2026-07-30T15:54:58+00:00",
+      "summary": "Em meio às mudanças no consumo, Ambev investe em portfólio de marcas complementares &nbsp;&nbsp; valor.globo.com",
+      "category": "logistica",
+      "keywords": [
+        "ambev",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
