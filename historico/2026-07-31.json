@@ -1,6 +1,6 @@
 {
-  "gerado_em": "31/07/2026 às 10:03",
-  "total": 23,
+  "gerado_em": "31/07/2026 às 14:26",
+  "total": 25,
   "noticias": [
     {
       "id": "0d0d70ec73",
@@ -46,12 +46,12 @@
     },
     {
       "id": "8b47d14435",
-      "headline": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO - timesbrasil.com.br",
+      "headline": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
-      "time": "hoje, 13:00",
+      "time": "ontem, 13:00",
       "dt_iso": "2026-07-30T16:00:00+00:00",
-      "summary": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO &nbsp;&nbsp; timesbrasil.com.br",
+      "summary": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -70,7 +70,7 @@
       "headline": "ALZR11 conclui compra de galpão logístico da Shopee - Clube FII News",
       "source": "Clubefiinews",
       "link": "https://www.clubefiinews.com.br",
-      "time": "ontem, 11:17",
+      "time": "29/07 às 11:17",
       "dt_iso": "2026-07-29T14:17:00+00:00",
       "summary": "ALZR11 conclui compra de galpão logístico da Shopee &nbsp;&nbsp; Clube FII News",
       "category": "investimento",
@@ -143,13 +143,33 @@
       ]
     },
     {
+      "id": "e1459e8bb2",
+      "headline": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil - TrendsCE",
+      "source": "Trendsce",
+      "link": "https://www.trendsce.com.br",
+      "time": "hoje, 12:19",
+      "dt_iso": "2026-07-31T15:19:04+00:00",
+      "summary": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil &nbsp;&nbsp; TrendsCE",
+      "category": "logistica",
+      "keywords": [
+        "hubs logísticos",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "3a36ea7405",
-      "headline": "Shopee anuncia 10 novos centros de distribuição no Brasil e prevê 1.800 empregos - timesbrasil.com.br",
+      "headline": "Shopee anuncia 10 novos centros de distribuição no Brasil e prevê 1.800 empregos - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
       "time": "hoje, 06:30",
       "dt_iso": "2026-07-31T09:30:00+00:00",
-      "summary": "Shopee anuncia 10 novos centros de distribuição no Brasil e prevê 1.800 empregos &nbsp;&nbsp; timesbrasil.com.br",
+      "summary": "Shopee anuncia 10 novos centros de distribuição no Brasil e prevê 1.800 empregos &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -357,7 +377,7 @@
       "headline": "DHL Express reforça expansão no Rio de Janeiro com nova loja na Tijuca - Sala da Notícia",
       "source": "Portal",
       "link": "https://portal.saladanoticia.com.br",
-      "time": "ontem, 13:42",
+      "time": "29/07 às 13:42",
       "dt_iso": "2026-07-29T16:42:54+00:00",
       "summary": "DHL Express reforça expansão no Rio de Janeiro com nova loja na Tijuca &nbsp;&nbsp; Sala da Notícia",
       "category": "expansao",
@@ -410,11 +430,30 @@
       ]
     },
     {
+      "id": "c5653cad27",
+      "headline": "Assaí Farma inaugura 2ª unidade na loja Penha Tiquatira - SuperHiper",
+      "source": "Superhiper",
+      "link": "https://www.superhiper.com.br",
+      "time": "hoje, 11:37",
+      "dt_iso": "2026-07-31T14:37:25+00:00",
+      "summary": "Assaí Farma inaugura 2ª unidade na loja Penha Tiquatira &nbsp;&nbsp; SuperHiper",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d2590dc3eb",
       "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - JM Online",
       "source": "Jmonline",
       "link": "https://jmonline.com.br",
-      "time": "ontem, 10:10",
+      "time": "29/07 às 10:10",
       "dt_iso": "2026-07-29T13:10:00+00:00",
       "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; JM Online",
       "category": "logistica",
@@ -433,7 +472,7 @@
       "headline": "Em meio às mudanças no consumo, Ambev investe em marcas complementares - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "hoje, 12:54",
+      "time": "ontem, 12:54",
       "dt_iso": "2026-07-30T15:54:58+00:00",
       "summary": "Em meio às mudanças no consumo, Ambev investe em marcas complementares &nbsp;&nbsp; Valor Econômico",
       "category": "logistica",
