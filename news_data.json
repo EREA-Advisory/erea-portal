@@ -1,5 +1,451 @@
 {
-  "gerado_em": "31/07/2026 às 08:31",
-  "total": 0,
-  "noticias": []
+  "gerado_em": "31/07/2026 às 10:03",
+  "total": 23,
+  "noticias": [
+    {
+      "id": "0d0d70ec73",
+      "headline": "Shopee amplia número de centros de distribuição em mais de 60% no Brasil em 2026 - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 16:02",
+      "dt_iso": "2026-07-30T19:02:13+00:00",
+      "summary": "Shopee amplia número de centros de distribuição em mais de 60% no Brasil em 2026 &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centros de distribuição",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "faab4f8c74",
+      "headline": "Jornal de Blumenau - Appel Home conclui construção de novo galpão e otimiza operação logística - noticenter.com.br",
+      "source": "Noticenter",
+      "link": "https://www.noticenter.com.br",
+      "time": "ontem, 22:07",
+      "dt_iso": "2026-07-30T01:07:00+00:00",
+      "summary": "Jornal de Blumenau - Appel Home conclui construção de novo galpão e otimiza operação logística &nbsp;&nbsp; noticenter.com.br",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "operação logística",
+        "novo galpão",
+        "construção"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "8b47d14435",
+      "headline": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO - timesbrasil.com.br",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 13:00",
+      "dt_iso": "2026-07-30T16:00:00+00:00",
+      "summary": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO &nbsp;&nbsp; timesbrasil.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "shein",
+        "abre",
+        "cresce"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "26ed4dcb71",
+      "headline": "ALZR11 conclui compra de galpão logístico da Shopee - Clube FII News",
+      "source": "Clubefiinews",
+      "link": "https://www.clubefiinews.com.br",
+      "time": "ontem, 11:17",
+      "dt_iso": "2026-07-29T14:17:00+00:00",
+      "summary": "ALZR11 conclui compra de galpão logístico da Shopee &nbsp;&nbsp; Clube FII News",
+      "category": "investimento",
+      "keywords": [
+        "shopee",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "4433f6fb91",
+      "headline": "Fulfillment da Shopee registra aumento em 15 vezes o número de pedidos processados - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "28/07 às 17:01",
+      "dt_iso": "2026-07-28T20:01:11+00:00",
+      "summary": "Fulfillment da Shopee registra aumento em 15 vezes o número de pedidos processados &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "fulfillment"
+      ],
+      "score": 7,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "9d21232403",
+      "headline": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "28/07 às 11:00",
+      "dt_iso": "2026-07-28T14:00:55+00:00",
+      "summary": "DHL Supply Chain passa a operar logística da Exeltis em CD de Extrema (MG) &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "supply chain"
+      ],
+      "score": 7,
+      "relevance": "Região(ões) mencionada(s): Extrema.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "0267402015",
+      "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "28/07 às 10:21",
+      "dt_iso": "2026-07-28T13:21:51+00:00",
+      "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "fulfillment",
+        "constrói"
+      ],
+      "score": 7,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. E-commerce em expansão — típico de contratos longos e galpões Classe A. Região(ões) mencionada(s): Guarulhos.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3a36ea7405",
+      "headline": "Shopee anuncia 10 novos centros de distribuição no Brasil e prevê 1.800 empregos - timesbrasil.com.br",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 06:30",
+      "dt_iso": "2026-07-31T09:30:00+00:00",
+      "summary": "Shopee anuncia 10 novos centros de distribuição no Brasil e prevê 1.800 empregos &nbsp;&nbsp; timesbrasil.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centros de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "7e21656293",
+      "headline": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa - nordinvestimentos.com.br",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "hoje, 06:45",
+      "dt_iso": "2026-07-31T09:45:29+00:00",
+      "summary": "CDB da MagaluPay: vale a pena? Rentabilidade, riscos e análise completa &nbsp;&nbsp; nordinvestimentos.com.br",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1efd546f6c",
+      "headline": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga - Portal Nosso Meio",
+      "source": "Nossomeio",
+      "link": "https://nossomeio.com.br",
+      "time": "28/07 às 08:55",
+      "dt_iso": "2026-07-28T11:55:00+00:00",
+      "summary": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga &nbsp;&nbsp; Portal Nosso Meio",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6f1814b0fc",
+      "headline": "LATAM Cargo reduz tempo de entrega e cresce no last mile - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "29/07 às 09:04",
+      "dt_iso": "2026-07-29T12:04:29+00:00",
+      "summary": "LATAM Cargo reduz tempo de entrega e cresce no last mile &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "last mile",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Expansão de last mile — demanda por imóveis urbanos pequenos e ágeis.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "ebdb407b47",
+      "headline": "Delly’s inaugura centro de distribuição no Rio Grande do Sul - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "29/07 às 09:43",
+      "dt_iso": "2026-07-29T12:43:30+00:00",
+      "summary": "Delly’s inaugura centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "75ea9dd217",
+      "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "27/07 às 11:07",
+      "dt_iso": "2026-07-27T14:07:34+00:00",
+      "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "yusen logistics",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "03b7524eb1",
+      "headline": "Escassez de galpões logísticos eleva preço do aluguel - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "28/07 às 08:25",
+      "dt_iso": "2026-07-28T11:25:00+00:00",
+      "summary": "Escassez de galpões logísticos eleva preço do aluguel &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "8bbc1655b2",
+      "headline": "Appel Home finaliza novo galpão logístico e melhora eficiência operacional - novarejo",
+      "source": "Portalnovarejo",
+      "link": "https://portalnovarejo.com.br",
+      "time": "hoje, 23:13",
+      "dt_iso": "2026-07-31T02:13:51+00:00",
+      "summary": "Appel Home finaliza novo galpão logístico e melhora eficiência operacional &nbsp;&nbsp; novarejo",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "novo galpão"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "8ce8c753ec",
+      "headline": "O Boticário inaugura nova loja em prédio histórico restaurado e une inovação, beleza e preservação da memória de Lages - Top Society - Karla Cruz",
+      "source": "Topsociety",
+      "link": "https://topsociety.com.br",
+      "time": "hoje, 22:00",
+      "dt_iso": "2026-07-31T01:00:17+00:00",
+      "summary": "O Boticário inaugura nova loja em prédio histórico restaurado e une inovação, beleza e preservação da memória de Lages &nbsp;&nbsp; Top Society - Karla Cruz",
+      "category": "logistica",
+      "keywords": [
+        "boticário",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "8242fded87",
+      "headline": "J&T Express ajuda a democratizar a logística e impulsionar o crescimento do Brasil - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "25/07 às 07:17",
+      "dt_iso": "2026-07-25T10:17:55+00:00",
+      "summary": "J&amp;T Express ajuda a democratizar a logística e impulsionar o crescimento do Brasil &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "logistica",
+      "keywords": [
+        "j&t express",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "e02236de84",
+      "headline": "Jadlog fortalece rede franqueada e amplia capilaridade logística em todo o Brasil - Melhores Franquias Para 2026",
+      "source": "Portaldofranchising",
+      "link": "https://www.portaldofranchising.com.br",
+      "time": "27/07 às 16:30",
+      "dt_iso": "2026-07-27T19:30:55+00:00",
+      "summary": "Jadlog fortalece rede franqueada e amplia capilaridade logística em todo o Brasil &nbsp;&nbsp; Melhores Franquias Para 2026",
+      "category": "logistica",
+      "keywords": [
+        "jadlog",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c814d94004",
+      "headline": "DHL Express reforça expansão no Rio de Janeiro com nova loja na Tijuca - Sala da Notícia",
+      "source": "Portal",
+      "link": "https://portal.saladanoticia.com.br",
+      "time": "ontem, 13:42",
+      "dt_iso": "2026-07-29T16:42:54+00:00",
+      "summary": "DHL Express reforça expansão no Rio de Janeiro com nova loja na Tijuca &nbsp;&nbsp; Sala da Notícia",
+      "category": "expansao",
+      "keywords": [
+        "dhl",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "aaaff748a6",
+      "headline": "Mercado Livre no 2T26: crescimento forte já não basta para o mercado - EuQueroInvestir",
+      "source": "Euqueroinvestir",
+      "link": "https://euqueroinvestir.com",
+      "time": "28/07 às 16:43",
+      "dt_iso": "2026-07-28T19:43:59+00:00",
+      "summary": "Mercado Livre no 2T26: crescimento forte já não basta para o mercado &nbsp;&nbsp; EuQueroInvestir",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "ff2f42d582",
+      "headline": "Sebrae e Magalu fecham parceria para capacitar 10 mil empreendedores e ampliar a inclusão digital de pequenos negócios - Maranhão Hoje",
+      "source": "Mahoje",
+      "link": "https://mahoje.com.br",
+      "time": "29/07 às 05:18",
+      "dt_iso": "2026-07-29T08:18:13+00:00",
+      "summary": "Sebrae e Magalu fecham parceria para capacitar 10 mil empreendedores e ampliar a inclusão digital de pequenos negócios &nbsp;&nbsp; Maranhão Hoje",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d2590dc3eb",
+      "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - JM Online",
+      "source": "Jmonline",
+      "link": "https://jmonline.com.br",
+      "time": "ontem, 10:10",
+      "dt_iso": "2026-07-29T13:10:00+00:00",
+      "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; JM Online",
+      "category": "logistica",
+      "keywords": [
+        "shein",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "2fbdd9e9bd",
+      "headline": "Em meio às mudanças no consumo, Ambev investe em marcas complementares - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "hoje, 12:54",
+      "dt_iso": "2026-07-30T15:54:58+00:00",
+      "summary": "Em meio às mudanças no consumo, Ambev investe em marcas complementares &nbsp;&nbsp; Valor Econômico",
+      "category": "logistica",
+      "keywords": [
+        "ambev",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    }
+  ]
 }
