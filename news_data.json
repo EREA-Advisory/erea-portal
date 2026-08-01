@@ -1,5 +1,5 @@
 {
-  "gerado_em": "01/08/2026 às 07:24",
+  "gerado_em": "01/08/2026 às 13:56",
   "total": 24,
   "noticias": [
     {
@@ -45,13 +45,13 @@
       ]
     },
     {
-      "id": "32a34e9bcb",
-      "headline": "Appel Home conclui construção de novo galpão e otimiza operação logística - noticenter.com.br",
+      "id": "faab4f8c74",
+      "headline": "Jornal de Blumenau - Appel Home conclui construção de novo galpão e otimiza operação logística - noticenter.com.br",
       "source": "Noticenter",
-      "link": "http://www.noticenter.com.br",
+      "link": "https://www.noticenter.com.br",
       "time": "29/07 às 22:07",
       "dt_iso": "2026-07-30T01:07:00+00:00",
-      "summary": "Appel Home conclui construção de novo galpão e otimiza operação logística &nbsp;&nbsp; noticenter.com.br",
+      "summary": "Jornal de Blumenau - Appel Home conclui construção de novo galpão e otimiza operação logística &nbsp;&nbsp; noticenter.com.br",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -70,7 +70,7 @@
       "headline": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO - Times Brasil | CNBC",
       "source": "Timesbrasil",
       "link": "https://timesbrasil.com.br",
-      "time": "ontem, 13:00",
+      "time": "30/07 às 13:00",
       "dt_iso": "2026-07-30T16:00:00+00:00",
       "summary": "Shopee cresce 35% em vendas, lidera avanço do setor no 7.7 e abre dez novos centros no Brasil em 2026; Shein já mira IPO &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "ecommerce",
@@ -84,25 +84,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "26ed4dcb71",
-      "headline": "ALZR11 conclui compra de galpão logístico da Shopee - Clube FII News",
-      "source": "Clubefiinews",
-      "link": "https://www.clubefiinews.com.br",
-      "time": "29/07 às 11:17",
-      "dt_iso": "2026-07-29T14:17:00+00:00",
-      "summary": "ALZR11 conclui compra de galpão logístico da Shopee &nbsp;&nbsp; Clube FII News",
-      "category": "investimento",
-      "keywords": [
-        "shopee",
-        "galpão"
-      ],
-      "score": 7,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -145,13 +126,32 @@
       ]
     },
     {
+      "id": "8c16c1eb5d",
+      "headline": "ALZR11 conclui aquisição de galpão logístico locado para a Shopee por R$ 125 milhões - Fiis",
+      "source": "Fiis",
+      "link": "https://fiis.com.br",
+      "time": "28/07 às 17:40",
+      "dt_iso": "2026-07-28T20:40:08+00:00",
+      "summary": "ALZR11 conclui aquisição de galpão logístico locado para a Shopee por R$ 125 milhões &nbsp;&nbsp; Fiis",
+      "category": "investimento",
+      "keywords": [
+        "shopee",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "e1459e8bb2",
-      "headline": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil - trendsce.com.br",
+      "headline": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil - TrendsCE",
       "source": "Trendsce",
       "link": "https://www.trendsce.com.br",
-      "time": "hoje, 12:18",
+      "time": "ontem, 12:18",
       "dt_iso": "2026-07-31T15:18:28+00:00",
-      "summary": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil &nbsp;&nbsp; trendsce.com.br",
+      "summary": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil &nbsp;&nbsp; TrendsCE",
       "category": "logistica",
       "keywords": [
         "hubs logísticos",
@@ -280,13 +280,13 @@
       ]
     },
     {
-      "id": "ac432aeaec",
-      "headline": "Tecon Santos amplia capacidade de armazenagem após incorporar área de antigo prédio administrativo - Portos e Navios",
-      "source": "Portos e Navios",
-      "link": "https://www.portosenavios.com.br",
-      "time": "ontem, 18:39",
-      "dt_iso": "2026-07-30T21:39:09+00:00",
-      "summary": "Tecon Santos amplia capacidade de armazenagem após incorporar área de antigo prédio administrativo &nbsp;&nbsp; Portos e Navios",
+      "id": "8438bb8301",
+      "headline": "Tecon Santos amplia sua capacidade de armazenagem - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 08:08",
+      "dt_iso": "2026-08-01T11:08:00+00:00",
+      "summary": "Tecon Santos amplia sua capacidade de armazenagem &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "armazenagem",
@@ -398,7 +398,7 @@
       "headline": "Assaí Farma abre 2ª unidade na loja Penha Tiquatira - SuperHiper",
       "source": "Superhiper",
       "link": "https://www.superhiper.com.br",
-      "time": "hoje, 11:37",
+      "time": "ontem, 11:37",
       "dt_iso": "2026-07-31T14:37:25+00:00",
       "summary": "Assaí Farma abre 2ª unidade na loja Penha Tiquatira &nbsp;&nbsp; SuperHiper",
       "category": "logistica",
@@ -452,12 +452,12 @@
     },
     {
       "id": "2fbdd9e9bd",
-      "headline": "Em meio às mudanças no consumo, Ambev investe em marcas complementares - valor.globo.com",
+      "headline": "Em meio às mudanças no consumo, Ambev investe em marcas complementares - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "ontem, 12:54",
+      "time": "30/07 às 12:54",
       "dt_iso": "2026-07-30T15:54:58+00:00",
-      "summary": "Em meio às mudanças no consumo, Ambev investe em marcas complementares &nbsp;&nbsp; valor.globo.com",
+      "summary": "Em meio às mudanças no consumo, Ambev investe em marcas complementares &nbsp;&nbsp; Valor Econômico",
       "category": "logistica",
       "keywords": [
         "ambev",
