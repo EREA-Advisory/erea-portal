@@ -1,15 +1,15 @@
 {
-  "gerado_em": "02/08/2026 às 07:23",
+  "gerado_em": "02/08/2026 às 13:55",
   "total": 23,
   "noticias": [
     {
       "id": "0141f35f34",
-      "headline": "DHL Supply Chain otimiza operação logística da Exeltis com migração de CD - tecnologistica.com.br",
+      "headline": "DHL Supply Chain otimiza operação logística da Exeltis com migração de CD - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "28/07 às 09:50",
       "dt_iso": "2026-07-28T12:50:35+00:00",
-      "summary": "DHL Supply Chain otimiza operação logística da Exeltis com migração de CD &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "DHL Supply Chain otimiza operação logística da Exeltis com migração de CD &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -128,12 +128,12 @@
     },
     {
       "id": "0267402015",
-      "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - tecnologistica.com.br",
+      "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "28/07 às 10:21",
       "dt_iso": "2026-07-28T13:21:51+00:00",
-      "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
@@ -151,7 +151,7 @@
       "headline": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil - TrendsCE",
       "source": "Trendsce",
       "link": "https://www.trendsce.com.br",
-      "time": "ontem, 12:18",
+      "time": "31/07 às 12:18",
       "dt_iso": "2026-07-31T15:18:28+00:00",
       "summary": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil &nbsp;&nbsp; TrendsCE",
       "category": "logistica",
@@ -206,12 +206,12 @@
     },
     {
       "id": "ebdb407b47",
-      "headline": "Delly’s inaugura centro de distribuição no Rio Grande do Sul - MundoLogística",
+      "headline": "Delly’s inaugura centro de distribuição no Rio Grande do Sul - mundologistica.com.br",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "29/07 às 09:43",
       "dt_iso": "2026-07-29T12:43:30+00:00",
-      "summary": "Delly’s inaugura centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; MundoLogística",
+      "summary": "Delly’s inaugura centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; mundologistica.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -225,12 +225,12 @@
     },
     {
       "id": "75ea9dd217",
-      "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - tecnologistica.com.br",
+      "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "27/07 às 11:07",
       "dt_iso": "2026-07-27T14:07:34+00:00",
-      "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "yusen logistics",
@@ -247,7 +247,7 @@
       "headline": "Tecon Santos amplia sua capacidade de armazenagem - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 08:08",
+      "time": "ontem, 08:08",
       "dt_iso": "2026-08-01T11:08:00+00:00",
       "summary": "Tecon Santos amplia sua capacidade de armazenagem &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -262,11 +262,30 @@
       ]
     },
     {
+      "id": "3ac7d0b7dc",
+      "headline": "Grupo Montekali implanta WMS na operação logística - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 09:37",
+      "dt_iso": "2026-08-02T12:37:00+00:00",
+      "summary": "Grupo Montekali implanta WMS na operação logística &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "operação logística",
+        "implanta"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "254ef2515d",
       "headline": "Fulfillment se consolida como motor de crescimento para sellers - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 10:43",
+      "time": "ontem, 10:43",
       "dt_iso": "2026-08-01T13:43:00+00:00",
       "summary": "Fulfillment se consolida como motor de crescimento para sellers &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -338,25 +357,6 @@
       ]
     },
     {
-      "id": "c814d94004",
-      "headline": "DHL Express reforça expansão no Rio de Janeiro com nova loja na Tijuca - Sala da Notícia",
-      "source": "Portal",
-      "link": "https://portal.saladanoticia.com.br",
-      "time": "29/07 às 13:42",
-      "dt_iso": "2026-07-29T16:42:54+00:00",
-      "summary": "DHL Express reforça expansão no Rio de Janeiro com nova loja na Tijuca &nbsp;&nbsp; Sala da Notícia",
-      "category": "expansao",
-      "keywords": [
-        "dhl",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "ff2f42d582",
       "headline": "Sebrae e Magalu fecham parceria para capacitar 10 mil empreendedores e ampliar a inclusão digital de pequenos negócios - Maranhão Hoje",
       "source": "Mahoje",
@@ -371,25 +371,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "93eca86c4e",
-      "headline": "Assaí Farma abre 2ª unidade na loja Penha Tiquatira - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "ontem, 11:37",
-      "dt_iso": "2026-07-31T14:37:25+00:00",
-      "summary": "Assaí Farma abre 2ª unidade na loja Penha Tiquatira &nbsp;&nbsp; SuperHiper",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -414,13 +395,32 @@
       ]
     },
     {
+      "id": "93eca86c4e",
+      "headline": "Assaí Farma abre 2ª unidade na loja Penha Tiquatira - SuperHiper",
+      "source": "Superhiper",
+      "link": "https://www.superhiper.com.br",
+      "time": "31/07 às 11:37",
+      "dt_iso": "2026-07-31T14:37:25+00:00",
+      "summary": "Assaí Farma abre 2ª unidade na loja Penha Tiquatira &nbsp;&nbsp; SuperHiper",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d2590dc3eb",
-      "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - JM Online",
+      "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - jmonline.com.br",
       "source": "Jmonline",
       "link": "https://jmonline.com.br",
       "time": "29/07 às 10:10",
       "dt_iso": "2026-07-29T13:10:00+00:00",
-      "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; JM Online",
+      "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; jmonline.com.br",
       "category": "logistica",
       "keywords": [
         "shein",
