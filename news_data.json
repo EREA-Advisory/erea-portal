@@ -1,6 +1,6 @@
 {
-  "gerado_em": "03/08/2026 às 09:09",
-  "total": 20,
+  "gerado_em": "03/08/2026 às 14:48",
+  "total": 19,
   "noticias": [
     {
       "id": "0141f35f34",
@@ -186,6 +186,26 @@
       ]
     },
     {
+      "id": "4c4db31ce7",
+      "headline": "Assaí amplia projeto de farmácias e inaugura segunda unidade em São Paulo - SA+ Ecossistema de Varejo",
+      "source": "Samais",
+      "link": "https://samais.com.br",
+      "time": "hoje, 11:38",
+      "dt_iso": "2026-08-03T14:38:06+00:00",
+      "summary": "Assaí amplia projeto de farmácias e inaugura segunda unidade em São Paulo &nbsp;&nbsp; SA+ Ecossistema de Varejo",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "inaugura",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "1efd546f6c",
       "headline": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga - Portal Nosso Meio",
       "source": "Nossomeio",
@@ -224,49 +244,11 @@
       ]
     },
     {
-      "id": "75ea9dd217",
-      "headline": "Yusen Logistics inaugura sede regional europeia em Antuérpia - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "27/07 às 11:07",
-      "dt_iso": "2026-07-27T14:07:34+00:00",
-      "summary": "Yusen Logistics inaugura sede regional europeia em Antuérpia &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "yusen logistics",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "8438bb8301",
-      "headline": "Tecon Santos amplia sua capacidade de armazenagem - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "01/08 às 08:08",
-      "dt_iso": "2026-08-01T11:08:00+00:00",
-      "summary": "Tecon Santos amplia sua capacidade de armazenagem &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "3ac7d0b7dc",
       "headline": "Grupo Montekali implanta WMS na operação logística - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 09:37",
+      "time": "ontem, 09:37",
       "dt_iso": "2026-08-02T12:37:00+00:00",
       "summary": "Grupo Montekali implanta WMS na operação logística &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -278,6 +260,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "8bbc1655b2",
+      "headline": "Appel Home finaliza novo galpão logístico e melhora eficiência operacional - novarejo",
+      "source": "Portalnovarejo",
+      "link": "https://portalnovarejo.com.br",
+      "time": "30/07 às 23:13",
+      "dt_iso": "2026-07-31T02:13:51+00:00",
+      "summary": "Appel Home finaliza novo galpão logístico e melhora eficiência operacional &nbsp;&nbsp; novarejo",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "novo galpão"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -333,25 +334,6 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "367b9dff01",
-      "headline": "Assaí amplia projeto Assaí Farma com segunda unidade em São Paulo - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "31/07 às 16:05",
-      "dt_iso": "2026-07-31T19:05:43+00:00",
-      "summary": "Assaí amplia projeto Assaí Farma com segunda unidade em São Paulo &nbsp;&nbsp; SuperVarejo",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
