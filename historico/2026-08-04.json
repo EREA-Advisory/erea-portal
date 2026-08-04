@@ -1,47 +1,26 @@
 {
-  "gerado_em": "04/08/2026 às 08:13",
-  "total": 21,
+  "gerado_em": "04/08/2026 às 14:45",
+  "total": 23,
   "noticias": [
     {
-      "id": "0141f35f34",
-      "headline": "DHL Supply Chain otimiza operação logística da Exeltis com migração de CD - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "28/07 às 09:50",
-      "dt_iso": "2026-07-28T12:50:35+00:00",
-      "summary": "DHL Supply Chain otimiza operação logística da Exeltis com migração de CD &nbsp;&nbsp; Tecnologística",
+      "id": "0d0d70ec73",
+      "headline": "Shopee amplia número de centros de distribuição em mais de 60% no Brasil em 2026 - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "30/07 às 16:02",
+      "dt_iso": "2026-07-30T19:02:13+00:00",
+      "summary": "Shopee amplia número de centros de distribuição em mais de 60% no Brasil em 2026 &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
-      "keywords": [
-        "dhl",
-        "operação logística",
-        "supply chain"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "e458d30006",
-      "headline": "Shopee abre 10 centros de distribuição de mercadorias só em 2026 - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "29/07 às 18:58",
-      "dt_iso": "2026-07-29T21:58:00+00:00",
-      "summary": "Shopee abre 10 centros de distribuição de mercadorias só em 2026 &nbsp;&nbsp; Estadão",
-      "category": "ecommerce",
       "keywords": [
         "shopee",
         "centros de distribuição",
-        "abre"
+        "amplia"
       ],
       "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -66,21 +45,21 @@
       ]
     },
     {
-      "id": "5dca79ab3c",
-      "headline": "Shopee amplia rede logística no Brasil com dez novos centros de distribuição - VEJA",
-      "source": "Veja",
-      "link": "https://veja.abril.com.br",
-      "time": "29/07 às 09:01",
-      "dt_iso": "2026-07-29T12:01:54+00:00",
-      "summary": "Shopee amplia rede logística no Brasil com dez novos centros de distribuição &nbsp;&nbsp; VEJA",
+      "id": "3fa96446da",
+      "headline": "Cross-docking vs. fulfillment: qual é a diferença nos centros logísticos da Shopee - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 06:54",
+      "dt_iso": "2026-08-04T09:54:55+00:00",
+      "summary": "Cross-docking vs. fulfillment: qual é a diferença nos centros logísticos da Shopee &nbsp;&nbsp; Times Brasil | CNBC",
       "category": "logistica",
       "keywords": [
         "shopee",
-        "centros de distribuição",
-        "amplia"
+        "fulfillment",
+        "cross-docking"
       ],
       "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas. E-commerce em expansão — típico de contratos longos e galpões Classe A.",
       "badges": [
         "Destaque",
         "Logística"
@@ -146,21 +125,20 @@
       ]
     },
     {
-      "id": "0267402015",
-      "headline": "Goodman constrói condomínio logístico para fulfillment em Guarulhos - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "28/07 às 10:21",
-      "dt_iso": "2026-07-28T13:21:51+00:00",
-      "summary": "Goodman constrói condomínio logístico para fulfillment em Guarulhos &nbsp;&nbsp; Tecnologística",
+      "id": "f0ba70cbfa",
+      "headline": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 12:07",
+      "dt_iso": "2026-08-04T15:07:18+00:00",
+      "summary": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
-        "condomínio logístico",
-        "fulfillment",
-        "constrói"
+        "amazon brasil",
+        "operação logística"
       ],
       "score": 7,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. E-commerce em expansão — típico de contratos longos e galpões Classe A. Região(ões) mencionada(s): Guarulhos.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -205,11 +183,30 @@
       ]
     },
     {
+      "id": "73522ad71a",
+      "headline": "DHL Supply Chain otimiza logística da Exeltis no setor farmacêutico - VOENEWS",
+      "source": "Voenews",
+      "link": "https://voenews.com.br",
+      "time": "31/07 às 15:07",
+      "dt_iso": "2026-07-31T18:07:07+00:00",
+      "summary": "DHL Supply Chain otimiza logística da Exeltis no setor farmacêutico &nbsp;&nbsp; VOENEWS",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "supply chain"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "9ff296cb21",
       "headline": "Fulwood investe R$ 240 milhões para ampliar condomínios logísticos em Minas Gerais; Pouso Alegre receberá R$ 150 milhões - TVUAI",
       "source": "Tvuai",
       "link": "https://www.tvuai.com.br",
-      "time": "hoje, 12:30",
+      "time": "ontem, 12:30",
       "dt_iso": "2026-08-03T15:30:35+00:00",
       "summary": "Fulwood investe R$ 240 milhões para ampliar condomínios logísticos em Minas Gerais; Pouso Alegre receberá R$ 150 milhões &nbsp;&nbsp; TVUAI",
       "category": "logistica",
@@ -226,12 +223,12 @@
     },
     {
       "id": "4c4db31ce7",
-      "headline": "Assaí amplia projeto de farmácias e inaugura segunda unidade em São Paulo - samais.com.br",
+      "headline": "Assaí amplia projeto de farmácias e inaugura segunda unidade em São Paulo - SA+ Ecossistema de Varejo",
       "source": "Samais",
       "link": "https://samais.com.br",
-      "time": "hoje, 11:38",
+      "time": "ontem, 11:38",
       "dt_iso": "2026-08-03T14:38:06+00:00",
-      "summary": "Assaí amplia projeto de farmácias e inaugura segunda unidade em São Paulo &nbsp;&nbsp; samais.com.br",
+      "summary": "Assaí amplia projeto de farmácias e inaugura segunda unidade em São Paulo &nbsp;&nbsp; SA+ Ecossistema de Varejo",
       "category": "logistica",
       "keywords": [
         "assaí",
@@ -245,20 +242,20 @@
       ]
     },
     {
-      "id": "1efd546f6c",
-      "headline": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga - Portal Nosso Meio",
-      "source": "Nossomeio",
-      "link": "https://nossomeio.com.br",
-      "time": "28/07 às 08:55",
-      "dt_iso": "2026-07-28T11:55:00+00:00",
-      "summary": "Solar Coca-Cola reforça trajetória de crescimento no Ceará com novo Centro de Distribuição em Itaitinga &nbsp;&nbsp; Portal Nosso Meio",
+      "id": "cb78c595f6",
+      "headline": "Quanto eu teria hoje se tivesse investido R$ 10 mil em ações da Ambev há 20 anos",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/quanto-eu-teria-hoje-se-tivesse-investido-r-10-mil-em-acoes-da-ambev-ha-20-anos/",
+      "time": "hoje, 11:12",
+      "dt_iso": "2026-08-04T14:12:41+00:00",
+      "summary": "Cálculo da Economatica mostra quanto um investimento em ABEV3 teria acumulado desde 2006; companhia segue entre as maiores empresas da bolsa brasileira",
       "category": "logistica",
       "keywords": [
-        "centro de distribuição",
-        "crescimento"
+        "ambev",
+        "investimento"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -283,25 +280,6 @@
       ]
     },
     {
-      "id": "3ac7d0b7dc",
-      "headline": "Grupo Montekali implanta WMS na operação logística - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 09:37",
-      "dt_iso": "2026-08-02T12:37:00+00:00",
-      "summary": "Grupo Montekali implanta WMS na operação logística &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "implanta"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "8bbc1655b2",
       "headline": "Appel Home finaliza novo galpão logístico e melhora eficiência operacional - novarejo",
       "source": "Portalnovarejo",
@@ -321,16 +299,35 @@
       ]
     },
     {
-      "id": "adecf64d1f",
-      "headline": "Falta de armazéns ameaça logística da safra brasileira e amplia gargalos no escoamento de grãos - Portal do Agronegócio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "hoje, 16:30",
-      "dt_iso": "2026-08-03T19:30:00+00:00",
-      "summary": "Falta de armazéns ameaça logística da safra brasileira e amplia gargalos no escoamento de grãos &nbsp;&nbsp; Portal do Agronegócio",
+      "id": "70505e1836",
+      "headline": "GARE11 investe R$ 119,8 milhões na aquisição de galpão logístico em Itapevi para ajustar portfólio - n1mais.com.br",
+      "source": "N1Mais",
+      "link": "https://n1mais.com.br",
+      "time": "hoje, 12:32",
+      "dt_iso": "2026-08-04T15:32:01+00:00",
+      "summary": "GARE11 investe R$ 119,8 milhões na aquisição de galpão logístico em Itapevi para ajustar portfólio &nbsp;&nbsp; n1mais.com.br",
       "category": "logistica",
       "keywords": [
-        "armazéns",
+        "galpão",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "31591088f7",
+      "headline": "Jadlog aposta em comércios de bairro para ampliar logística no Nordeste - Movimento Econômico",
+      "source": "Movimentoeconomico",
+      "link": "https://movimentoeconomico.com.br",
+      "time": "hoje, 11:15",
+      "dt_iso": "2026-08-04T14:15:00+00:00",
+      "summary": "Jadlog aposta em comércios de bairro para ampliar logística no Nordeste &nbsp;&nbsp; Movimento Econômico",
+      "category": "logistica",
+      "keywords": [
+        "jadlog",
         "amplia"
       ],
       "score": 6,
@@ -359,6 +356,44 @@
       ]
     },
     {
+      "id": "adecf64d1f",
+      "headline": "Falta de armazéns ameaça logística da safra brasileira e amplia gargalos no escoamento de grãos - Portal do Agronegócio",
+      "source": "Portaldoagronegocio",
+      "link": "https://www.portaldoagronegocio.com.br",
+      "time": "hoje, 16:30",
+      "dt_iso": "2026-08-03T19:30:00+00:00",
+      "summary": "Falta de armazéns ameaça logística da safra brasileira e amplia gargalos no escoamento de grãos &nbsp;&nbsp; Portal do Agronegócio",
+      "category": "logistica",
+      "keywords": [
+        "armazéns",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "85827298c6",
+      "headline": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda - Kinvo",
+      "source": "Kinvo",
+      "link": "https://kinvo.com.br",
+      "time": "hoje, 09:08",
+      "dt_iso": "2026-08-04T12:08:00+00:00",
+      "summary": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda &nbsp;&nbsp; Kinvo",
+      "category": "investimento",
+      "keywords": [
+        "galpão",
+        "aluga"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "ff2f42d582",
       "headline": "Sebrae e Magalu fecham parceria para capacitar 10 mil empreendedores e ampliar a inclusão digital de pequenos negócios - Maranhão Hoje",
       "source": "Mahoje",
@@ -379,12 +414,12 @@
     },
     {
       "id": "d2590dc3eb",
-      "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - JM Online",
+      "headline": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda - jmonline.com.br",
       "source": "Jmonline",
       "link": "https://jmonline.com.br",
       "time": "29/07 às 10:10",
       "dt_iso": "2026-07-29T13:10:00+00:00",
-      "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; JM Online",
+      "summary": "Shein abre capital e pode aumentar disputa com varejo brasileiro de moda &nbsp;&nbsp; jmonline.com.br",
       "category": "logistica",
       "keywords": [
         "shein",
