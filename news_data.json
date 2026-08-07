@@ -1,16 +1,16 @@
 {
-  "gerado_em": "07/08/2026 às 06:46",
-  "total": 24,
+  "gerado_em": "07/08/2026 às 13:51",
+  "total": 23,
   "noticias": [
     {
       "id": "89a7750866",
-      "headline": "Shopee expande operação fulfillment com três novos CDs no Brasil - E-Commerce Brasil",
+      "headline": "Shopee expande operação fulfillment com três novos CDs no Brasil - ecommercebrasil.com.br",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
       "time": "04/08 às 15:22",
       "dt_iso": "2026-08-04T18:22:39+00:00",
-      "summary": "Shopee expande operação fulfillment com três novos CDs no Brasil &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
+      "summary": "Shopee expande operação fulfillment com três novos CDs no Brasil &nbsp;&nbsp; ecommercebrasil.com.br",
+      "category": "logistica",
       "keywords": [
         "shopee",
         "fulfillment",
@@ -20,7 +20,7 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -28,7 +28,7 @@
       "headline": "Shopee amplia rede para 26 centros de distribuição - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "hoje, 10:20",
+      "time": "ontem, 10:20",
       "dt_iso": "2026-08-06T13:20:07+00:00",
       "summary": "Shopee amplia rede para 26 centros de distribuição &nbsp;&nbsp; Transporte Moderno",
       "category": "ecommerce",
@@ -42,27 +42,6 @@
       "badges": [
         "Destaque",
         "E-commerce"
-      ]
-    },
-    {
-      "id": "d99d43d5f7",
-      "headline": "China amplia investimentos em fertilizantes e anuncia plano para construir 100 depósitos e 1.000 centros de distribuição até 2030 - Portal do Agronegocio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "04/08 às 18:40",
-      "dt_iso": "2026-08-04T21:40:00+00:00",
-      "summary": "China amplia investimentos em fertilizantes e anuncia plano para construir 100 depósitos e 1.000 centros de distribuição até 2030 &nbsp;&nbsp; Portal do Agronegocio",
-      "category": "logistica",
-      "keywords": [
-        "centros de distribuição",
-        "amplia",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -104,33 +83,13 @@
       ]
     },
     {
-      "id": "e1459e8bb2",
-      "headline": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil - TrendsCE",
-      "source": "Trendsce",
-      "link": "https://www.trendsce.com.br",
-      "time": "31/07 às 12:18",
-      "dt_iso": "2026-07-31T15:18:28+00:00",
-      "summary": "Investimentos colocam Pernambuco entre os maiores hubs logísticos do Brasil &nbsp;&nbsp; TrendsCE",
-      "category": "logistica",
-      "keywords": [
-        "hubs logísticos",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "a45e6c3f68",
-      "headline": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG - EuQueroInvestir",
+      "headline": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG - euqueroinvestir.com",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
       "time": "ontem, 18:08",
       "dt_iso": "2026-08-05T21:08:43+00:00",
-      "summary": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG &nbsp;&nbsp; EuQueroInvestir",
+      "summary": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG &nbsp;&nbsp; euqueroinvestir.com",
       "category": "logistica",
       "keywords": [
         "ambev",
@@ -144,30 +103,11 @@
       ]
     },
     {
-      "id": "b0a5dc5a37",
-      "headline": "Renner lucra R$ 397 mi no 2° tri, mas vendas frustram e empresa corta projeção de receita",
-      "source": "Exame",
-      "link": "https://exame.com/invest/mercados/renner-lucra-r-397-mi-no-2-tri-mas-vendas-frustram-e-empresa-corta-projecao-de-receita/",
-      "time": "hoje, 16:57",
-      "dt_iso": "2026-08-06T19:57:56+00:00",
-      "summary": "A varejista reduziu a previsão de crescimento da receita de 9%-13% para 4%-8% neste ano após vendas abaixo do esperado, mas manteve as metas estratégicas para 2027 a 2030",
-      "category": "logistica",
-      "keywords": [
-        "renner",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "9f2ee18e69",
       "headline": "Sell Agro inicia ciclo de expansão com primeira operação internacional e novo Centro de Distribuição - Primeira Hora",
       "source": "Primeirahora",
       "link": "https://primeirahora.com.br",
-      "time": "ontem, 08:49",
+      "time": "05/08 às 08:49",
       "dt_iso": "2026-08-05T11:49:37+00:00",
       "summary": "Sell Agro inicia ciclo de expansão com primeira operação internacional e novo Centro de Distribuição &nbsp;&nbsp; Primeira Hora",
       "category": "expansao",
@@ -186,7 +126,7 @@
       "headline": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 08:00",
+      "time": "ontem, 08:00",
       "dt_iso": "2026-08-06T11:00:00+00:00",
       "summary": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -196,6 +136,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "65609fb3c2",
+      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "05/08 às 03:02",
+      "dt_iso": "2026-08-05T06:02:59+00:00",
+      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "loggi",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -224,7 +183,7 @@
       "headline": "TRXF11 amplia patrimônio com galpão em Recife por R$ 210 mi - ncnews.com.br",
       "source": "Ncnews",
       "link": "https://ncnews.com.br",
-      "time": "hoje, 11:21",
+      "time": "ontem, 11:21",
       "dt_iso": "2026-08-06T14:21:37+00:00",
       "summary": "TRXF11 amplia patrimônio com galpão em Recife por R$ 210 mi &nbsp;&nbsp; ncnews.com.br",
       "category": "logistica",
@@ -258,32 +217,13 @@
       ]
     },
     {
-      "id": "65609fb3c2",
-      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "05/08 às 03:02",
-      "dt_iso": "2026-08-05T06:02:59+00:00",
-      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "loggi",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "315323eaa8",
-      "headline": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra - EuQueroInvestir",
+      "headline": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra - euqueroinvestir.com",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
       "time": "hoje, 03:46",
       "dt_iso": "2026-08-07T06:46:24+00:00",
-      "summary": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra &nbsp;&nbsp; EuQueroInvestir",
+      "summary": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra &nbsp;&nbsp; euqueroinvestir.com",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -353,6 +293,25 @@
       ]
     },
     {
+      "id": "cd36c604d3",
+      "headline": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar - Economic News Brasil",
+      "source": "Economicnewsbrasil",
+      "link": "https://economicnewsbrasil.com.br",
+      "time": "há 58 min",
+      "dt_iso": "2026-08-07T15:53:00+00:00",
+      "summary": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar &nbsp;&nbsp; Economic News Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "85827298c6",
       "headline": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda - Kinvo",
       "source": "Kinvo",
@@ -392,12 +351,12 @@
     },
     {
       "id": "972e14bb00",
-      "headline": "Magazine Luiza tem prejuízo de R$ 50 mi no 2º tri, mas descarta crescer a qualquer custo - Exame",
+      "headline": "Magazine Luiza tem prejuízo de R$ 50 mi no 2º tri, mas descarta crescer a qualquer custo - exame.com",
       "source": "Exame",
       "link": "https://exame.com",
       "time": "hoje, 19:40",
       "dt_iso": "2026-08-06T22:40:20+00:00",
-      "summary": "Magazine Luiza tem prejuízo de R$ 50 mi no 2º tri, mas descarta crescer a qualquer custo &nbsp;&nbsp; Exame",
+      "summary": "Magazine Luiza tem prejuízo de R$ 50 mi no 2º tri, mas descarta crescer a qualquer custo &nbsp;&nbsp; exame.com",
       "category": "logistica",
       "keywords": [
         "magazine luiza",
@@ -433,7 +392,7 @@
       "headline": "Assaí Atacadista amplia linha de marca própria com lançamento de suco integral - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "ontem, 13:04",
+      "time": "05/08 às 13:04",
       "dt_iso": "2026-08-05T16:04:29+00:00",
       "summary": "Assaí Atacadista amplia linha de marca própria com lançamento de suco integral &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
@@ -448,11 +407,30 @@
       ]
     },
     {
+      "id": "849de9503c",
+      "headline": "Riachuelo ignora juro alto e liga o motor da expansão - NeoFeed",
+      "source": "Neofeed",
+      "link": "https://neofeed.com.br",
+      "time": "ontem, 18:27",
+      "dt_iso": "2026-08-05T21:27:00+00:00",
+      "summary": "Riachuelo ignora juro alto e liga o motor da expansão &nbsp;&nbsp; NeoFeed",
+      "category": "expansao",
+      "keywords": [
+        "riachuelo",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "8b624a48db",
       "headline": "C&A registra lucro ajustado recorde de R$ 130 milhões no 2T26, com avanço das vendas de vestuário e expansão da margem bruta - ADVFN",
       "source": "Google News",
       "link": "https://br.advfn.com",
-      "time": "ontem, 07:37",
+      "time": "05/08 às 07:37",
       "dt_iso": "2026-08-05T10:37:22+00:00",
       "summary": "C&amp;A registra lucro ajustado recorde de R$ 130 milhões no 2T26, com avanço das vendas de vestuário e expansão da margem bruta &nbsp;&nbsp; ADVFN",
       "category": "expansao",
