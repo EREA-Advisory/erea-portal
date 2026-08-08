@@ -1,6 +1,6 @@
 {
-  "gerado_em": "08/08/2026 às 06:25",
-  "total": 28,
+  "gerado_em": "08/08/2026 às 13:29",
+  "total": 27,
   "noticias": [
     {
       "id": "89a7750866",
@@ -28,7 +28,7 @@
       "headline": "Shopee amplia rede para 26 centros de distribuição - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "ontem, 10:20",
+      "time": "06/08 às 10:20",
       "dt_iso": "2026-08-06T13:20:07+00:00",
       "summary": "Shopee amplia rede para 26 centros de distribuição &nbsp;&nbsp; Transporte Moderno",
       "category": "ecommerce",
@@ -65,12 +65,12 @@
     },
     {
       "id": "a45e6c3f68",
-      "headline": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG - EuQueroInvestir",
+      "headline": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG - euqueroinvestir.com",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
       "time": "05/08 às 18:08",
       "dt_iso": "2026-08-05T21:08:43+00:00",
-      "summary": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG &nbsp;&nbsp; EuQueroInvestir",
+      "summary": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG &nbsp;&nbsp; euqueroinvestir.com",
       "category": "logistica",
       "keywords": [
         "ambev",
@@ -107,7 +107,7 @@
       "headline": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:00",
+      "time": "06/08 às 08:00",
       "dt_iso": "2026-08-06T11:00:00+00:00",
       "summary": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -183,7 +183,7 @@
       "headline": "TRXF11 amplia patrimônio com galpão em Recife por R$ 210 mi - ncnews.com.br",
       "source": "Ncnews",
       "link": "https://ncnews.com.br",
-      "time": "ontem, 11:21",
+      "time": "06/08 às 11:21",
       "dt_iso": "2026-08-06T14:21:37+00:00",
       "summary": "TRXF11 amplia patrimônio com galpão em Recife por R$ 210 mi &nbsp;&nbsp; ncnews.com.br",
       "category": "logistica",
@@ -218,12 +218,12 @@
     },
     {
       "id": "315323eaa8",
-      "headline": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra - EuQueroInvestir",
+      "headline": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra - euqueroinvestir.com",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
       "time": "ontem, 03:46",
       "dt_iso": "2026-08-07T06:46:24+00:00",
-      "summary": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra &nbsp;&nbsp; EuQueroInvestir",
+      "summary": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra &nbsp;&nbsp; euqueroinvestir.com",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -275,12 +275,12 @@
     },
     {
       "id": "cd36c604d3",
-      "headline": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar - Economic News Brasil",
+      "headline": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar - economicnewsbrasil.com.br",
       "source": "Economicnewsbrasil",
       "link": "https://economicnewsbrasil.com.br",
-      "time": "hoje, 12:53",
+      "time": "ontem, 12:53",
       "dt_iso": "2026-08-07T15:53:00+00:00",
-      "summary": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar &nbsp;&nbsp; Economic News Brasil",
+      "summary": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar &nbsp;&nbsp; economicnewsbrasil.com.br",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -350,30 +350,11 @@
       ]
     },
     {
-      "id": "ce50ad3f0b",
-      "headline": "Magazine Luiza (MGLU3) 2T26: volume de vendas nas lojas físicas cresce e ganha representatividade, mas trimestre ainda fecha com prejuízo - InvesTalk",
-      "source": "Investalk",
-      "link": "https://investalk.bb.com.br",
-      "time": "hoje, 14:42",
-      "dt_iso": "2026-08-07T17:42:00+00:00",
-      "summary": "Magazine Luiza (MGLU3) 2T26: volume de vendas nas lojas físicas cresce e ganha representatividade, mas trimestre ainda fecha com prejuízo &nbsp;&nbsp; InvesTalk",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d20090ac08",
       "headline": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões - Diario de Pernambuco",
       "source": "Diariodepernambuco",
       "link": "https://diariodepernambuco.com.br",
-      "time": "hoje, 08:48",
+      "time": "ontem, 08:48",
       "dt_iso": "2026-08-07T11:48:12+00:00",
       "summary": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões &nbsp;&nbsp; Diario de Pernambuco",
       "category": "logistica",
@@ -427,12 +408,12 @@
     },
     {
       "id": "5d0fa2ccd6",
-      "headline": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas - portaldoholanda.com.br",
+      "headline": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas - Portal do Holanda",
       "source": "Portaldoholanda",
       "link": "https://www.portaldoholanda.com.br",
       "time": "hoje, 17:01",
       "dt_iso": "2026-08-07T20:01:00+00:00",
-      "summary": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas &nbsp;&nbsp; portaldoholanda.com.br",
+      "summary": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas &nbsp;&nbsp; Portal do Holanda",
       "category": "logistica",
       "keywords": [
         "magalu",
@@ -484,12 +465,12 @@
     },
     {
       "id": "849de9503c",
-      "headline": "Riachuelo ignora juro alto e liga o motor da expansão - NeoFeed",
+      "headline": "Riachuelo ignora juro alto e liga o motor da expansão - neofeed.com.br",
       "source": "Neofeed",
       "link": "https://neofeed.com.br",
       "time": "05/08 às 18:27",
       "dt_iso": "2026-08-05T21:27:00+00:00",
-      "summary": "Riachuelo ignora juro alto e liga o motor da expansão &nbsp;&nbsp; NeoFeed",
+      "summary": "Riachuelo ignora juro alto e liga o motor da expansão &nbsp;&nbsp; neofeed.com.br",
       "category": "expansao",
       "keywords": [
         "riachuelo",
