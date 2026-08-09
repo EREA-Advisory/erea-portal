@@ -1,5 +1,5 @@
 {
-  "gerado_em": "09/08/2026 às 06:26",
+  "gerado_em": "09/08/2026 às 13:30",
   "total": 26,
   "noticias": [
     {
@@ -24,13 +24,34 @@
       ]
     },
     {
+      "id": "57ddc961bb",
+      "headline": "Após Mercado Livre e Assaí, Anvisa abre caminho para venda de medicamentos pela Shopee - InvestNews",
+      "source": "InvestNews",
+      "link": "https://investnews.com.br",
+      "time": "hoje, 18:57",
+      "dt_iso": "2026-08-08T21:57:11+00:00",
+      "summary": "Após Mercado Livre e Assaí, Anvisa abre caminho para venda de medicamentos pela Shopee &nbsp;&nbsp; InvestNews",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "assaí",
+        "abre"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "f0ba70cbfa",
-      "headline": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria - mundologistica.com.br",
+      "headline": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "04/08 às 12:07",
       "dt_iso": "2026-08-04T15:07:18+00:00",
-      "summary": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria &nbsp;&nbsp; mundologistica.com.br",
+      "summary": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "amazon brasil",
@@ -47,8 +68,8 @@
       "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 07:42",
-      "dt_iso": "2026-08-08T10:42:03+00:00",
+      "time": "hoje, 13:45",
+      "dt_iso": "2026-08-08T16:45:49+00:00",
       "summary": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
@@ -83,25 +104,6 @@
       ]
     },
     {
-      "id": "dc176f94eb",
-      "headline": "A Embraer dos últimos dez anos: o que mudou na tese de investimento das ações?",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/a-embraer-dos-ultimos-dez-anos-o-que-mudou-na-tese-de-investimento-das-acoes/",
-      "time": "hoje, 05:00",
-      "dt_iso": "2026-08-09T08:00:00+00:00",
-      "summary": "Em dez anos, companhia enfrentou diversas disrupções e expectativas acompanharam movimento \n The post  A Embraer dos últimos dez anos: o que mudou na tese de investimento das ações?  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "embraer",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "9f2ee18e69",
       "headline": "Sell Agro inicia ciclo de expansão com primeira operação internacional e novo Centro de Distribuição - Primeira Hora",
       "source": "Primeirahora",
@@ -122,12 +124,12 @@
     },
     {
       "id": "f12d8418a9",
-      "headline": "DHL Express inaugura primeira loja em Maringá (PR) - mundologistica.com.br",
+      "headline": "DHL Express inaugura primeira loja em Maringá (PR) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "ontem, 13:51",
       "dt_iso": "2026-08-07T16:51:08+00:00",
-      "summary": "DHL Express inaugura primeira loja em Maringá (PR) &nbsp;&nbsp; mundologistica.com.br",
+      "summary": "DHL Express inaugura primeira loja em Maringá (PR) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -141,13 +143,13 @@
     },
     {
       "id": "65609fb3c2",
-      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - mundologistica.com.br",
+      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "05/08 às 03:02",
       "dt_iso": "2026-08-05T06:02:59+00:00",
-      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; mundologistica.com.br",
-      "category": "ecommerce",
+      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
       "keywords": [
         "loggi",
         "amplia"
@@ -155,7 +157,7 @@
       "score": 6,
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -175,44 +177,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "3ac7d0b7dc",
-      "headline": "Grupo Montekali implanta WMS na operação logística - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "02/08 às 09:37",
-      "dt_iso": "2026-08-02T12:37:00+00:00",
-      "summary": "Grupo Montekali implanta WMS na operação logística &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "implanta"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "33b4a26826",
-      "headline": "Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "04/08 às 09:36",
-      "dt_iso": "2026-08-04T12:36:00+00:00",
-      "summary": "Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda &nbsp;&nbsp; Money Times",
-      "category": "investimento",
-      "keywords": [
-        "galpão",
-        "aluga"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -315,7 +279,7 @@
       "headline": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar - Economic News Brasil",
       "source": "Economicnewsbrasil",
       "link": "https://economicnewsbrasil.com.br",
-      "time": "ontem, 12:53",
+      "time": "07/08 às 12:53",
       "dt_iso": "2026-08-07T15:53:00+00:00",
       "summary": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar &nbsp;&nbsp; Economic News Brasil",
       "category": "ecommerce",
@@ -349,6 +313,25 @@
       ]
     },
     {
+      "id": "85827298c6",
+      "headline": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda - Kinvo",
+      "source": "Kinvo",
+      "link": "https://kinvo.com.br",
+      "time": "04/08 às 09:08",
+      "dt_iso": "2026-08-04T12:08:00+00:00",
+      "summary": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda &nbsp;&nbsp; Kinvo",
+      "category": "investimento",
+      "keywords": [
+        "galpão",
+        "aluga"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "b24da9cf7c",
       "headline": "Gestor da TRX destaca força dos galpões logísticos em meio à expansão do comércio eletrônico - Times Brasil | CNBC",
       "source": "Timesbrasil",
@@ -368,13 +351,32 @@
       ]
     },
     {
+      "id": "a76036a335",
+      "headline": "Vendas físicas do Magalu crescem 10% no 2º trimestre - Poder360",
+      "source": "Poder360",
+      "link": "https://www.poder360.com.br",
+      "time": "06/08 às 19:51",
+      "dt_iso": "2026-08-06T22:51:31+00:00",
+      "summary": "Vendas físicas do Magalu crescem 10% no 2º trimestre &nbsp;&nbsp; Poder360",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d20090ac08",
-      "headline": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões - diariodepernambuco.com.br",
+      "headline": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões - Diario de Pernambuco",
       "source": "Diariodepernambuco",
       "link": "https://diariodepernambuco.com.br",
-      "time": "ontem, 08:48",
+      "time": "07/08 às 08:48",
       "dt_iso": "2026-08-07T11:48:12+00:00",
-      "summary": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões &nbsp;&nbsp; diariodepernambuco.com.br",
+      "summary": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões &nbsp;&nbsp; Diario de Pernambuco",
       "category": "logistica",
       "keywords": [
         "magazine luiza",
@@ -388,12 +390,12 @@
     },
     {
       "id": "5d0fa2ccd6",
-      "headline": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas - portaldoholanda.com.br",
+      "headline": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas - Portal do Holanda",
       "source": "Portaldoholanda",
       "link": "https://www.portaldoholanda.com.br",
       "time": "ontem, 17:01",
       "dt_iso": "2026-08-07T20:01:00+00:00",
-      "summary": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas &nbsp;&nbsp; portaldoholanda.com.br",
+      "summary": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas &nbsp;&nbsp; Portal do Holanda",
       "category": "logistica",
       "keywords": [
         "magalu",
