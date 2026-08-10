@@ -1,6 +1,6 @@
 {
-  "gerado_em": "10/08/2026 às 07:06",
-  "total": 24,
+  "gerado_em": "10/08/2026 às 13:51",
+  "total": 28,
   "noticias": [
     {
       "id": "57ddc961bb",
@@ -45,6 +45,25 @@
       ]
     },
     {
+      "id": "cd6ef90174",
+      "headline": "Shopee avança em MG com projeto logístico de R$ 400 milhões",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/business/shopee-avanca-em-mg-com-projeto-logistico-de-r-400-milhoes/",
+      "time": "há 0 min",
+      "dt_iso": "2026-08-10T16:50:13+00:00",
+      "summary": "Segundo fontes, a varejista ocupará um galpão de 110 mil m² na terceira fase do BRZ040 Logistics Park, projeto desenvolvido pela Barzel Properties \n The post  Shopee avança em MG com projeto logístico de R$ 400 milhões  appeared first on  InfoMoney .",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "f0ba70cbfa",
       "headline": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria - MundoLogística",
       "source": "Mundo Logística",
@@ -68,8 +87,8 @@
       "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 13:45",
-      "dt_iso": "2026-08-08T16:45:49+00:00",
+      "time": "hoje, 08:35",
+      "dt_iso": "2026-08-10T11:35:10+00:00",
       "summary": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
@@ -84,23 +103,60 @@
       ]
     },
     {
-      "id": "a45e6c3f68",
-      "headline": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG - EuQueroInvestir",
-      "source": "Euqueroinvestir",
-      "link": "https://euqueroinvestir.com",
-      "time": "05/08 às 18:08",
-      "dt_iso": "2026-08-05T21:08:43+00:00",
-      "summary": "Ambev amplia vantagem sobre Heineken no Brasil, diz BTG &nbsp;&nbsp; EuQueroInvestir",
-      "category": "logistica",
+      "id": "58e07e351e",
+      "headline": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) - Acil",
+      "source": "Acil",
+      "link": "https://acil.com.br",
+      "time": "07/08 às 04:00",
+      "dt_iso": "2026-08-07T07:00:00+00:00",
+      "summary": "Condomínio logístico que vai sediar a Shopee em Londrina é lançado nesta quarta (27) &nbsp;&nbsp; Acil",
+      "category": "ecommerce",
       "keywords": [
-        "ambev",
-        "heineken",
-        "amplia"
+        "shopee",
+        "condomínio logístico"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "6e4e58b249",
+      "headline": "Embraer lidera altas do Ibovespa após balanço e elevação do guidance para o ano",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/embraer-lidera-altas-do-ibovespa-apos-balanco-e-elevacao-do-guidance-para-o-ano/",
+      "time": "hoje, 09:26",
+      "dt_iso": "2026-08-10T12:26:31+00:00",
+      "summary": "A carteira de pedidos firmes da fabricante de aeronaves brasileira atingiu um recorde, de US$ 34,5 bilhões, crescimento superior a 16% em um ano",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "29e70843c6",
+      "headline": "Mercado Livre, iFood e as farmácias: quem vai ganhar a disputa pelos remédios online?",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/mercado-livre-ifood-e-as-farmacias-quem-vai-ganhar-a-disputa-pelos-remedios-online/",
+      "time": "hoje, 09:18",
+      "dt_iso": "2026-08-10T12:18:33+00:00",
+      "summary": "Revogação de restrições abre caminho para marketplaces como Mercado Livre, iFood e Rappi avançarem no setor farmacêutico, mas regras ainda dependem de regulamentação",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -142,25 +198,6 @@
       ]
     },
     {
-      "id": "65609fb3c2",
-      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "05/08 às 03:02",
-      "dt_iso": "2026-08-05T06:02:59+00:00",
-      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "loggi",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "14cb45abd6",
       "headline": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália - Tecnologística",
       "source": "Tecnologística",
@@ -177,6 +214,44 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "e80e89ff3a",
+      "headline": "Maersk ressalta a crescente da rota Ásia-América Latina - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 09:15",
+      "dt_iso": "2026-08-10T12:15:00+00:00",
+      "summary": "Maersk ressalta a crescente da rota Ásia-América Latina &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "33b4a26826",
+      "headline": "Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "04/08 às 09:36",
+      "dt_iso": "2026-08-04T12:36:00+00:00",
+      "summary": "Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda &nbsp;&nbsp; Money Times",
+      "category": "investimento",
+      "keywords": [
+        "galpão",
+        "aluga"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -218,13 +293,32 @@
       ]
     },
     {
+      "id": "65609fb3c2",
+      "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "05/08 às 03:02",
+      "dt_iso": "2026-08-05T06:02:59+00:00",
+      "summary": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "loggi",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "315323eaa8",
-      "headline": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra - EuQueroInvestir",
+      "headline": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra - euqueroinvestir.com",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
       "time": "07/08 às 03:46",
       "dt_iso": "2026-08-07T06:46:24+00:00",
-      "summary": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra &nbsp;&nbsp; EuQueroInvestir",
+      "summary": "Mercado Livre registra maior ritmo de crescimento em quatro anos e mantém força operacional, diz Safra &nbsp;&nbsp; euqueroinvestir.com",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -313,25 +407,6 @@
       ]
     },
     {
-      "id": "85827298c6",
-      "headline": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda - Kinvo",
-      "source": "Kinvo",
-      "link": "https://kinvo.com.br",
-      "time": "04/08 às 09:08",
-      "dt_iso": "2026-08-04T12:08:00+00:00",
-      "summary": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda &nbsp;&nbsp; Kinvo",
-      "category": "investimento",
-      "keywords": [
-        "galpão",
-        "aluga"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "b24da9cf7c",
       "headline": "Gestor da TRX destaca força dos galpões logísticos em meio à expansão do comércio eletrônico - Times Brasil | CNBC",
       "source": "Timesbrasil",
@@ -371,12 +446,12 @@
     },
     {
       "id": "a76036a335",
-      "headline": "Vendas físicas do Magalu crescem 10% no 2º trimestre - Poder360",
+      "headline": "Vendas físicas do Magalu crescem 10% no 2º trimestre - poder360.com.br",
       "source": "Poder360",
       "link": "https://www.poder360.com.br",
       "time": "06/08 às 19:51",
       "dt_iso": "2026-08-06T22:51:31+00:00",
-      "summary": "Vendas físicas do Magalu crescem 10% no 2º trimestre &nbsp;&nbsp; Poder360",
+      "summary": "Vendas físicas do Magalu crescem 10% no 2º trimestre &nbsp;&nbsp; poder360.com.br",
       "category": "logistica",
       "keywords": [
         "magalu",
