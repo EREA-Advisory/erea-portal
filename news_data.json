@@ -1,6 +1,6 @@
 {
-  "gerado_em": "11/08/2026 às 06:47",
-  "total": 28,
+  "gerado_em": "11/08/2026 às 13:55",
+  "total": 29,
   "noticias": [
     {
       "id": "08ad07720c",
@@ -109,25 +109,6 @@
       ]
     },
     {
-      "id": "f0ba70cbfa",
-      "headline": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "04/08 às 12:07",
-      "dt_iso": "2026-08-04T15:07:18+00:00",
-      "summary": "Carrefour passa a vender produtos na Amazon Brasil com operação logística própria &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "amazon brasil",
-        "operação logística"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "5326ff0056",
       "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - Tecnologística",
       "source": "Tecnologística",
@@ -186,25 +167,6 @@
       ]
     },
     {
-      "id": "4461098d6f",
-      "headline": "O que a dona da Centauro fez para faturar R$ 2,2 bilhões com a Copa do Mundo",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/o-que-a-dona-da-centauro-fez-para-faturar-r-22-bilhoes-com-a-copa-do-mundo/",
-      "time": "hoje, 15:21",
-      "dt_iso": "2026-08-10T18:21:47+00:00",
-      "summary": "Grupo preparou a operação com mais de um ano de antecedência e agora aposta em lojas reformadas, expansão da Nike e mudanças logísticas para manter o ritmo",
-      "category": "expansao",
-      "keywords": [
-        "centauro",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "9f2ee18e69",
       "headline": "Sell Agro inicia ciclo de expansão com primeira operação internacional e novo Centro de Distribuição - Primeira Hora",
       "source": "Primeirahora",
@@ -221,25 +183,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "14cb45abd6",
-      "headline": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "06/08 às 08:00",
-      "dt_iso": "2026-08-06T11:00:00+00:00",
-      "summary": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "id logistics",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -262,11 +205,30 @@
       ]
     },
     {
+      "id": "14cb45abd6",
+      "headline": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "06/08 às 08:00",
+      "dt_iso": "2026-08-06T11:00:00+00:00",
+      "summary": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "id logistics",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e80e89ff3a",
       "headline": "Maersk ressalta a crescente da rota Ásia-América Latina - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 09:15",
+      "time": "ontem, 09:15",
       "dt_iso": "2026-08-10T12:15:00+00:00",
       "summary": "Maersk ressalta a crescente da rota Ásia-América Latina &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -319,6 +281,44 @@
       ]
     },
     {
+      "id": "ac45776c5f",
+      "headline": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista - Revide",
+      "source": "Revide",
+      "link": "https://www.revide.com.br",
+      "time": "hoje, 12:04",
+      "dt_iso": "2026-08-11T15:04:17+00:00",
+      "summary": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista &nbsp;&nbsp; Revide",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3eff70c2fe",
+      "headline": "Amazon reforça compromisso com o Brasil com operação crescente alinhada à estratégia global - About Amazon Brasil",
+      "source": "Aboutamazon",
+      "link": "https://www.aboutamazon.com.br",
+      "time": "04/08 às 15:14",
+      "dt_iso": "2026-08-04T18:14:07+00:00",
+      "summary": "Amazon reforça compromisso com o Brasil com operação crescente alinhada à estratégia global &nbsp;&nbsp; About Amazon Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "amazon brasil",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "65609fb3c2",
       "headline": "Loggi amplia integrações e alcança 90% do e-commerce brasileiro - MundoLogística",
       "source": "Mundo Logística",
@@ -338,22 +338,41 @@
       ]
     },
     {
-      "id": "cd36c604d3",
-      "headline": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar - Economic News Brasil",
-      "source": "Economicnewsbrasil",
-      "link": "https://economicnewsbrasil.com.br",
-      "time": "07/08 às 12:53",
-      "dt_iso": "2026-08-07T15:53:00+00:00",
-      "summary": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar &nbsp;&nbsp; Economic News Brasil",
-      "category": "ecommerce",
+      "id": "568539ab61",
+      "headline": "Expansão do e-commerce muda padrão dos galpões - Eletrolar News",
+      "source": "Eletrolarnews",
+      "link": "https://eletrolarnews.com.br",
+      "time": "hoje, 09:58",
+      "dt_iso": "2026-08-11T12:58:00+00:00",
+      "summary": "Expansão do e-commerce muda padrão dos galpões &nbsp;&nbsp; Eletrolar News",
+      "category": "expansao",
       "keywords": [
-        "mercado livre",
-        "cresce"
+        "galpões",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "E-commerce"
+        "Expansão"
+      ]
+    },
+    {
+      "id": "18b628e92e",
+      "headline": "Africa World Airlines recebe primeiro jato Embraer E190 e inicia expansão na África Ocidental - AEROIN",
+      "source": "Aeroin",
+      "link": "https://aeroin.net",
+      "time": "hoje, 06:39",
+      "dt_iso": "2026-08-11T09:39:41+00:00",
+      "summary": "Africa World Airlines recebe primeiro jato Embraer E190 e inicia expansão na África Ocidental &nbsp;&nbsp; AEROIN",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -376,25 +395,6 @@
       ]
     },
     {
-      "id": "85827298c6",
-      "headline": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda - Kinvo",
-      "source": "Kinvo",
-      "link": "https://kinvo.com.br",
-      "time": "04/08 às 09:08",
-      "dt_iso": "2026-08-04T12:08:00+00:00",
-      "summary": "Notícia Fundo imobiliário GARE11 compra galpão alugado ao Carrefour e mira dividendos maiores; entenda &nbsp;&nbsp; Kinvo",
-      "category": "investimento",
-      "keywords": [
-        "galpão",
-        "aluga"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "b24da9cf7c",
       "headline": "Gestor da TRX destaca força dos galpões logísticos em meio à expansão do comércio eletrônico - Times Brasil | CNBC",
       "source": "Timesbrasil",
@@ -411,6 +411,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "cd36c604d3",
+      "headline": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar - Economic News Brasil",
+      "source": "Economicnewsbrasil",
+      "link": "https://economicnewsbrasil.com.br",
+      "time": "07/08 às 12:53",
+      "dt_iso": "2026-08-07T15:53:00+00:00",
+      "summary": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar &nbsp;&nbsp; Economic News Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
