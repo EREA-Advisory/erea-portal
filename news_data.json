@@ -1,6 +1,6 @@
 {
-  "gerado_em": "12/08/2026 às 06:52",
-  "total": 30,
+  "gerado_em": "12/08/2026 às 13:55",
+  "total": 31,
   "noticias": [
     {
       "id": "08ad07720c",
@@ -186,22 +186,22 @@
       ]
     },
     {
-      "id": "9f2ee18e69",
-      "headline": "Sell Agro inicia ciclo de expansão com primeira operação internacional e novo Centro de Distribuição - Primeira Hora",
-      "source": "Primeirahora",
-      "link": "https://primeirahora.com.br",
-      "time": "05/08 às 08:49",
-      "dt_iso": "2026-08-05T11:49:37+00:00",
-      "summary": "Sell Agro inicia ciclo de expansão com primeira operação internacional e novo Centro de Distribuição &nbsp;&nbsp; Primeira Hora",
-      "category": "expansao",
+      "id": "f12d8418a9",
+      "headline": "DHL Express inaugura primeira loja em Maringá (PR) - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "07/08 às 13:51",
+      "dt_iso": "2026-08-07T16:51:08+00:00",
+      "summary": "DHL Express inaugura primeira loja em Maringá (PR) &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
       "keywords": [
-        "centro de distribuição",
-        "expansão"
+        "dhl",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -224,30 +224,11 @@
       ]
     },
     {
-      "id": "f12d8418a9",
-      "headline": "DHL Express inaugura primeira loja em Maringá (PR) - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "07/08 às 13:51",
-      "dt_iso": "2026-08-07T16:51:08+00:00",
-      "summary": "DHL Express inaugura primeira loja em Maringá (PR) &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e80e89ff3a",
       "headline": "Maersk ressalta a crescente da rota Ásia-América Latina - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 09:15",
+      "time": "10/08 às 09:15",
       "dt_iso": "2026-08-10T12:15:00+00:00",
       "summary": "Maersk ressalta a crescente da rota Ásia-América Latina &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -320,12 +301,12 @@
     },
     {
       "id": "ac45776c5f",
-      "headline": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista - Revide",
+      "headline": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista - revide.com.br",
       "source": "Revide",
       "link": "https://www.revide.com.br",
-      "time": "hoje, 12:04",
+      "time": "ontem, 12:04",
       "dt_iso": "2026-08-11T15:04:17+00:00",
-      "summary": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista &nbsp;&nbsp; Revide",
+      "summary": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista &nbsp;&nbsp; revide.com.br",
       "category": "logistica",
       "keywords": [
         "natura",
@@ -338,11 +319,30 @@
       ]
     },
     {
+      "id": "2c6e906cf4",
+      "headline": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "hoje, 11:40",
+      "dt_iso": "2026-08-12T14:40:00+00:00",
+      "summary": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "568539ab61",
       "headline": "Expansão do e-commerce muda padrão dos galpões - Eletrolar News",
       "source": "Eletrolarnews",
       "link": "https://eletrolarnews.com.br",
-      "time": "hoje, 09:57",
+      "time": "ontem, 09:57",
       "dt_iso": "2026-08-11T12:57:01+00:00",
       "summary": "Expansão do e-commerce muda padrão dos galpões &nbsp;&nbsp; Eletrolar News",
       "category": "expansao",
@@ -392,6 +392,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "a4d2c94be7",
+      "headline": "Shopee cresce 28% em GMV, vende US$ 38 bilhões e diz que já é a líder no e-commerce brasileiro - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 21:34",
+      "dt_iso": "2026-08-12T00:34:00+00:00",
+      "summary": "Shopee cresce 28% em GMV, vende US$ 38 bilhões e diz que já é a líder no e-commerce brasileiro &nbsp;&nbsp; Times Brasil | CNBC",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -547,32 +566,32 @@
       ]
     },
     {
-      "id": "a21857fde1",
-      "headline": "Assaí Atacadista amplia linha de marca própria com lançamento de suco integral - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "05/08 às 13:04",
-      "dt_iso": "2026-08-05T16:04:29+00:00",
-      "summary": "Assaí Atacadista amplia linha de marca própria com lançamento de suco integral &nbsp;&nbsp; Mercado&amp;Consumo",
+      "id": "fe87eb1cde",
+      "headline": "Irmãos Muffato planejam ampliar participação e influência no Assaí - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "ontem, 14:41",
+      "dt_iso": "2026-08-10T17:41:26+00:00",
+      "summary": "Irmãos Muffato planejam ampliar participação e influência no Assaí &nbsp;&nbsp; Giro News",
       "category": "logistica",
       "keywords": [
         "assaí",
         "amplia"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
     },
     {
       "id": "3430ac93de",
-      "headline": "Expansão do Shopping Uberaba prioriza conforto e ventilação natural - folhauberaba.com.br",
+      "headline": "Expansão do Shopping Uberaba prioriza conforto e ventilação natural - Folha de Uberaba",
       "source": "Folhauberaba",
       "link": "https://www.folhauberaba.com.br",
       "time": "ontem, 21:05",
       "dt_iso": "2026-08-11T00:05:22+00:00",
-      "summary": "Expansão do Shopping Uberaba prioriza conforto e ventilação natural &nbsp;&nbsp; folhauberaba.com.br",
+      "summary": "Expansão do Shopping Uberaba prioriza conforto e ventilação natural &nbsp;&nbsp; Folha de Uberaba",
       "category": "expansao",
       "keywords": [
         "natura",
