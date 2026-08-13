@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/08/2026 às 06:52",
-  "total": 33,
+  "gerado_em": "13/08/2026 às 13:54",
+  "total": 31,
   "noticias": [
     {
       "id": "7441f1213e",
@@ -69,12 +69,12 @@
     },
     {
       "id": "5326ff0056",
-      "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - Tecnologística",
+      "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "10/08 às 20:35",
       "dt_iso": "2026-08-10T23:35:10+00:00",
-      "summary": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil &nbsp;&nbsp; Tecnologística",
+      "summary": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -128,12 +128,12 @@
     },
     {
       "id": "4b40b0c919",
-      "headline": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC - rcnonline.com.br",
+      "headline": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC - Rede Catarinense de Noticias",
       "source": "Rcnonline",
       "link": "https://www.rcnonline.com.br",
       "time": "10/08 às 15:29",
       "dt_iso": "2026-08-10T18:29:00+00:00",
-      "summary": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC &nbsp;&nbsp; rcnonline.com.br",
+      "summary": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC &nbsp;&nbsp; Rede Catarinense de Noticias",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -167,12 +167,12 @@
     },
     {
       "id": "f12d8418a9",
-      "headline": "DHL Express inaugura primeira loja em Maringá (PR) - mundologistica.com.br",
+      "headline": "DHL Express inaugura primeira loja em Maringá (PR) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "07/08 às 13:51",
       "dt_iso": "2026-08-07T16:51:08+00:00",
-      "summary": "DHL Express inaugura primeira loja em Maringá (PR) &nbsp;&nbsp; mundologistica.com.br",
+      "summary": "DHL Express inaugura primeira loja em Maringá (PR) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -180,25 +180,6 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "14cb45abd6",
-      "headline": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "06/08 às 08:00",
-      "dt_iso": "2026-08-06T11:00:00+00:00",
-      "summary": "ID Logistics cresce 22,4% no segundo trimestre e inicia operação na Austrália &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "id logistics",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -261,30 +242,11 @@
       ]
     },
     {
-      "id": "97b6dadefc",
-      "headline": "TRXF11 amplia patrimônio com galpão em Recife por R$ 210 mi - ncnews.com.br",
-      "source": "Ncnews",
-      "link": "https://ncnews.com.br",
-      "time": "06/08 às 11:21",
-      "dt_iso": "2026-08-06T14:21:37+00:00",
-      "summary": "TRXF11 amplia patrimônio com galpão em Recife por R$ 210 mi &nbsp;&nbsp; ncnews.com.br",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Recife.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "ac45776c5f",
       "headline": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista - Revide",
       "source": "Revide",
       "link": "https://www.revide.com.br",
-      "time": "ontem, 12:04",
+      "time": "11/08 às 12:04",
       "dt_iso": "2026-08-11T15:04:17+00:00",
       "summary": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista &nbsp;&nbsp; Revide",
       "category": "logistica",
@@ -303,7 +265,7 @@
       "headline": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "hoje, 11:40",
+      "time": "ontem, 11:40",
       "dt_iso": "2026-08-12T14:40:00+00:00",
       "summary": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
@@ -319,12 +281,12 @@
     },
     {
       "id": "3d1aed4802",
-      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Diário Indústria & Comércio",
+      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - diarioinduscom.com.br",
       "source": "Diarioinduscom",
       "link": "https://www.diarioinduscom.com.br",
-      "time": "há 22 min",
+      "time": "hoje, 06:29",
       "dt_iso": "2026-08-13T09:29:00+00:00",
-      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Diário Indústria & Comércio",
+      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; diarioinduscom.com.br",
       "category": "logistica",
       "keywords": [
         "galpões",
@@ -337,11 +299,30 @@
       ]
     },
     {
+      "id": "7d3b676f9f",
+      "headline": "Megacondomínio logístico de 45 mil m² será construído em Florianópolis como meta de ousado plano de expansão - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "hoje, 08:39",
+      "dt_iso": "2026-08-13T11:39:32+00:00",
+      "summary": "Megacondomínio logístico de 45 mil m² será construído em Florianópolis como meta de ousado plano de expansão &nbsp;&nbsp; NSC Total",
+      "category": "expansao",
+      "keywords": [
+        "condomínio logístico",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "568539ab61",
       "headline": "Expansão do e-commerce muda padrão dos galpões - Eletrolar News",
       "source": "Eletrolarnews",
       "link": "https://eletrolarnews.com.br",
-      "time": "ontem, 09:57",
+      "time": "11/08 às 09:57",
       "dt_iso": "2026-08-11T12:57:01+00:00",
       "summary": "Expansão do e-commerce muda padrão dos galpões &nbsp;&nbsp; Eletrolar News",
       "category": "expansao",
@@ -351,25 +332,6 @@
       ],
       "score": 6,
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "67332af6ca",
-      "headline": "Lar capta R$ 60,3 milhões para expansão em avicultura e armazenagem - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "06/08 às 11:07",
-      "dt_iso": "2026-08-06T14:07:36+00:00",
-      "summary": "Lar capta R$ 60,3 milhões para expansão em avicultura e armazenagem &nbsp;&nbsp; CNN Brasil",
-      "category": "expansao",
-      "keywords": [
-        "armazenagem",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -398,7 +360,7 @@
       "headline": "Shopee abre trainee com rotação em cinco áreas e chance de intercâmbio internacional - Business Moment",
       "source": "Businessmoment",
       "link": "https://businessmoment.com.br",
-      "time": "hoje, 09:35",
+      "time": "ontem, 09:35",
       "dt_iso": "2026-08-12T12:35:48+00:00",
       "summary": "Shopee abre trainee com rotação em cinco áreas e chance de intercâmbio internacional &nbsp;&nbsp; Business Moment",
       "category": "ecommerce",
@@ -424,6 +386,25 @@
       "keywords": [
         "mercado livre",
         "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "560e6dc965",
+      "headline": "Shopee Turbo abre novo capítulo na guerra das entregas no Brasil - Money Report",
+      "source": "Money Report",
+      "link": "https://www.moneyreport.com.br",
+      "time": "hoje, 12:13",
+      "dt_iso": "2026-08-13T15:13:28+00:00",
+      "summary": "Shopee Turbo abre novo capítulo na guerra das entregas no Brasil &nbsp;&nbsp; Money Report",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -470,25 +451,6 @@
       ]
     },
     {
-      "id": "cd36c604d3",
-      "headline": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar - Economic News Brasil",
-      "source": "Economicnewsbrasil",
-      "link": "https://economicnewsbrasil.com.br",
-      "time": "07/08 às 12:53",
-      "dt_iso": "2026-08-07T15:53:00+00:00",
-      "summary": "Mercado Livre cresce 50%, mas Wall Street passa a cobrar quando o lucro vai acompanhar &nbsp;&nbsp; Economic News Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "ce50ad3f0b",
       "headline": "Magazine Luiza (MGLU3) 2T26: volume de vendas nas lojas físicas cresce e ganha representatividade, mas trimestre ainda fecha com prejuízo - InvesTalk",
       "source": "Investalk",
@@ -519,25 +481,6 @@
       "keywords": [
         "magalu",
         "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d20090ac08",
-      "headline": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões - Diario de Pernambuco",
-      "source": "Diariodepernambuco",
-      "link": "https://diariodepernambuco.com.br",
-      "time": "07/08 às 08:48",
-      "dt_iso": "2026-08-07T11:48:12+00:00",
-      "summary": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões &nbsp;&nbsp; Diario de Pernambuco",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "constrói"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -604,12 +547,12 @@
     },
     {
       "id": "4fad17c7de",
-      "headline": "Assaí Atacadista inaugura terceira unidade da Assaí Farma em São Paulo - Mercado&Consumo",
+      "headline": "Assaí Atacadista inaugura terceira unidade da Assaí Farma em São Paulo - mercadoeconsumo.com.br",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
       "time": "hoje, 15:02",
       "dt_iso": "2026-08-12T18:02:25+00:00",
-      "summary": "Assaí Atacadista inaugura terceira unidade da Assaí Farma em São Paulo &nbsp;&nbsp; Mercado&amp;Consumo",
+      "summary": "Assaí Atacadista inaugura terceira unidade da Assaí Farma em São Paulo &nbsp;&nbsp; mercadoeconsumo.com.br",
       "category": "logistica",
       "keywords": [
         "assaí",
@@ -617,6 +560,25 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "36f3c6d5de",
+      "headline": "Juros, canetas emagrecedoras e bets seguram crescimento de vendas, diz Assaí - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "07/08 às 08:32",
+      "dt_iso": "2026-08-07T11:32:19+00:00",
+      "summary": "Juros, canetas emagrecedoras e bets seguram crescimento de vendas, diz Assaí &nbsp;&nbsp; InfoMoney",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
