@@ -1,6 +1,6 @@
 {
-  "gerado_em": "14/08/2026 às 06:48",
-  "total": 30,
+  "gerado_em": "14/08/2026 às 13:49",
+  "total": 32,
   "noticias": [
     {
       "id": "08ad07720c",
@@ -19,6 +19,28 @@
       ],
       "score": 9,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "0da02417fb",
+      "headline": "Centro de distribuição da Shopee em Contagem é inaugurado. Veja - Portal UAI",
+      "source": "Mercadohoje",
+      "link": "https://mercadohoje.uai.com.br",
+      "time": "hoje, 12:29",
+      "dt_iso": "2026-08-14T15:29:36+00:00",
+      "summary": "Centro de distribuição da Shopee em Contagem é inaugurado. Veja &nbsp;&nbsp; Portal UAI",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição",
+        "inaugura",
+        "inaugurado"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Contagem.",
       "badges": [
         "Destaque",
         "E-commerce"
@@ -68,6 +90,27 @@
       ]
     },
     {
+      "id": "06961124dd",
+      "headline": "Veja como anda a construção do possível centro de distribuição do Mercado Livre em Ipatinga - vox97.com.br",
+      "source": "Vox97",
+      "link": "https://vox97.com.br",
+      "time": "hoje, 12:22",
+      "dt_iso": "2026-08-14T15:22:19+00:00",
+      "summary": "Veja como anda a construção do possível centro de distribuição do Mercado Livre em Ipatinga &nbsp;&nbsp; vox97.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição",
+        "construção"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "2f6957f50d",
       "headline": "Unifrango investe R$ 20 milhões em expansão de centro de distribuição - CNN Brasil",
       "source": "CNN Brasil",
@@ -88,26 +131,6 @@
       ]
     },
     {
-      "id": "055bab0234",
-      "headline": "SHEIN firma parceria com Jadlog para ampliar logística reversa no Brasil - mundologistica.com.br",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "11/08 às 17:33",
-      "dt_iso": "2026-08-11T20:33:09+00:00",
-      "summary": "SHEIN firma parceria com Jadlog para ampliar logística reversa no Brasil &nbsp;&nbsp; mundologistica.com.br",
-      "category": "logistica",
-      "keywords": [
-        "shein",
-        "jadlog",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "5326ff0056",
       "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - Tecnologística",
       "source": "Tecnologística",
@@ -125,6 +148,44 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "414986ae72",
+      "headline": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 11:50",
+      "dt_iso": "2026-08-14T14:50:47+00:00",
+      "summary": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "supply chain"
+      ],
+      "score": 7,
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "89f428600d",
+      "headline": "Mais de 660 produtos e um jet ski: PMSC estoura galpão do crime e recupera carga de R$ 400 mil do Mercado Livre - jornalrazao.com",
+      "source": "Jornalrazao",
+      "link": "https://jornalrazao.com",
+      "time": "hoje, 08:55",
+      "dt_iso": "2026-08-14T11:55:37+00:00",
+      "summary": "Mais de 660 produtos e um jet ski: PMSC estoura galpão do crime e recupera carga de R$ 400 mil do Mercado Livre &nbsp;&nbsp; jornalrazao.com",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -166,6 +227,25 @@
       ]
     },
     {
+      "id": "4522a96459",
+      "headline": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis - ND Mais",
+      "source": "ND Mais",
+      "link": "https://ndmais.com.br",
+      "time": "hoje, 09:05",
+      "dt_iso": "2026-08-14T12:05:57+00:00",
+      "summary": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis &nbsp;&nbsp; ND Mais",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "123d02cc17",
       "headline": "MGLU3: Por que as ações do Magazine Luiza estão em alta hoje? - Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "source": "Google News",
@@ -186,20 +266,20 @@
       ]
     },
     {
-      "id": "fa31028cd7",
-      "headline": "Vale a pena pagar pela versão paga de uma IA? A conta que poucos profissionais fazem",
-      "source": "Exame",
-      "link": "https://exame.com/inteligencia-artificial/vale-a-pena-pagar-pela-versao-paga-de-uma-ia-a-conta-que-poucos-profissionais-fazem/",
-      "time": "hoje, 03:03",
-      "dt_iso": "2026-08-14T06:03:12+00:00",
-      "summary": "Assinaturas de inteligência artificial podem ampliar limites, liberar recursos e acelerar tarefas, mas o custo só faz sentido quando o uso frequente gera ganho de produtividade",
+      "id": "f12d8418a9",
+      "headline": "DHL Express inaugura primeira loja em Maringá (PR) - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "07/08 às 13:51",
+      "dt_iso": "2026-08-07T16:51:08+00:00",
+      "summary": "DHL Express inaugura primeira loja em Maringá (PR) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
-        "natura",
-        "amplia"
+        "dhl",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -244,12 +324,12 @@
     },
     {
       "id": "78da079a80",
-      "headline": "Shopee vai se instalar em grande polo logístico de Ribeirão das Neves - ribeiraodasneves.net",
+      "headline": "Shopee vai se instalar em grande polo logístico de Ribeirão das Neves - RibeiraoDasNeves.net",
       "source": "Ribeiraodasneves",
       "link": "https://ribeiraodasneves.net",
       "time": "11/08 às 15:48",
       "dt_iso": "2026-08-11T18:48:27+00:00",
-      "summary": "Shopee vai se instalar em grande polo logístico de Ribeirão das Neves &nbsp;&nbsp; ribeiraodasneves.net",
+      "summary": "Shopee vai se instalar em grande polo logístico de Ribeirão das Neves &nbsp;&nbsp; RibeiraoDasNeves.net",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -262,30 +342,11 @@
       ]
     },
     {
-      "id": "ac45776c5f",
-      "headline": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista - Revide",
-      "source": "Revide",
-      "link": "https://www.revide.com.br",
-      "time": "11/08 às 12:04",
-      "dt_iso": "2026-08-11T15:04:17+00:00",
-      "summary": "Necta inaugura Centro de Excelência Operacional em Ribeirão Preto para monitorar a distribuição de gás natural na região Noroeste paulista &nbsp;&nbsp; Revide",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "2c6e906cf4",
       "headline": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "ontem, 11:40",
+      "time": "12/08 às 11:40",
       "dt_iso": "2026-08-12T14:40:00+00:00",
       "summary": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
@@ -339,12 +400,12 @@
     },
     {
       "id": "568539ab61",
-      "headline": "Expansão do e-commerce muda padrão dos galpões - Eletrolar News",
+      "headline": "Expansão do e-commerce muda padrão dos galpões - eletrolarnews.com.br",
       "source": "Eletrolarnews",
       "link": "https://eletrolarnews.com.br",
       "time": "11/08 às 09:57",
       "dt_iso": "2026-08-11T12:57:01+00:00",
-      "summary": "Expansão do e-commerce muda padrão dos galpões &nbsp;&nbsp; Eletrolar News",
+      "summary": "Expansão do e-commerce muda padrão dos galpões &nbsp;&nbsp; eletrolarnews.com.br",
       "category": "expansao",
       "keywords": [
         "galpões",
@@ -357,13 +418,32 @@
       ]
     },
     {
+      "id": "3a9cf9ca69",
+      "headline": "Log amplia aposta em SC com novo condomínio logístico de 45 mil m² - Economia SC",
+      "source": "Economiasc",
+      "link": "https://economiasc.com",
+      "time": "hoje, 07:43",
+      "dt_iso": "2026-08-14T10:43:03+00:00",
+      "summary": "Log amplia aposta em SC com novo condomínio logístico de 45 mil m² &nbsp;&nbsp; Economia SC",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a9cea38a01",
-      "headline": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira - matogrosso.canalrural.com.br",
+      "headline": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira - Canal Rural Mato Grosso",
       "source": "Matogrosso",
       "link": "https://matogrosso.canalrural.com.br",
       "time": "ontem, 14:25",
       "dt_iso": "2026-08-12T17:25:53+00:00",
-      "summary": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira &nbsp;&nbsp; matogrosso.canalrural.com.br",
+      "summary": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira &nbsp;&nbsp; Canal Rural Mato Grosso",
       "category": "expansao",
       "keywords": [
         "armazenagem",
@@ -380,7 +460,7 @@
       "headline": "Megacondomínio logístico de 45 mil m² será construído na Grande Florianópolis como meta de ousado plano de expansão - NSC Total",
       "source": "NSC Total",
       "link": "https://www.nsctotal.com.br",
-      "time": "hoje, 08:39",
+      "time": "ontem, 08:39",
       "dt_iso": "2026-08-13T11:39:32+00:00",
       "summary": "Megacondomínio logístico de 45 mil m² será construído na Grande Florianópolis como meta de ousado plano de expansão &nbsp;&nbsp; NSC Total",
       "category": "expansao",
@@ -399,7 +479,7 @@
       "headline": "Shopee Turbo abre novo capítulo na guerra das entregas no Brasil - Money Report",
       "source": "Money Report",
       "link": "https://www.moneyreport.com.br",
-      "time": "hoje, 12:13",
+      "time": "ontem, 12:13",
       "dt_iso": "2026-08-13T15:13:28+00:00",
       "summary": "Shopee Turbo abre novo capítulo na guerra das entregas no Brasil &nbsp;&nbsp; Money Report",
       "category": "ecommerce",
@@ -471,25 +551,6 @@
       ]
     },
     {
-      "id": "d20090ac08",
-      "headline": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões - diariodepernambuco.com.br",
-      "source": "Diariodepernambuco",
-      "link": "https://diariodepernambuco.com.br",
-      "time": "07/08 às 08:48",
-      "dt_iso": "2026-08-07T11:48:12+00:00",
-      "summary": "Enquanto dono da Havan constrói império, Magazine Luiza toma prejuízo de R$ 72 milhões &nbsp;&nbsp; diariodepernambuco.com.br",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "constrói"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "5d0fa2ccd6",
       "headline": "Rotas opostas no varejo: Magalu triplica prejuízo enquanto Havan abre 15 megalojas - Portal do Holanda",
       "source": "Portaldoholanda",
@@ -542,25 +603,6 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "36f3c6d5de",
-      "headline": "Juros, canetas emagrecedoras e bets seguram crescimento de vendas, diz Assaí - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "07/08 às 08:32",
-      "dt_iso": "2026-08-07T11:32:19+00:00",
-      "summary": "Juros, canetas emagrecedoras e bets seguram crescimento de vendas, diz Assaí &nbsp;&nbsp; InfoMoney",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
