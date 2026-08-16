@@ -1,15 +1,15 @@
 {
-  "gerado_em": "16/08/2026 às 06:14",
-  "total": 27,
+  "gerado_em": "16/08/2026 às 13:20",
+  "total": 28,
   "noticias": [
     {
       "id": "08ad07720c",
-      "headline": "Shopee aluga galpão em Ribeirão das Neves com investimento de R$ 1,1 bilhão - BPMoney",
+      "headline": "Shopee aluga galpão em Ribeirão das Neves com investimento de R$ 1,1 bilhão - bpmoney.com.br",
       "source": "Bpmoney",
       "link": "https://bpmoney.com.br",
       "time": "10/08 às 14:54",
       "dt_iso": "2026-08-10T17:54:45+00:00",
-      "summary": "Shopee aluga galpão em Ribeirão das Neves com investimento de R$ 1,1 bilhão &nbsp;&nbsp; BPMoney",
+      "summary": "Shopee aluga galpão em Ribeirão das Neves com investimento de R$ 1,1 bilhão &nbsp;&nbsp; bpmoney.com.br",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -29,7 +29,7 @@
       "headline": "Centro de distribuição da Shopee em Contagem é inaugurado. Veja - Portal UAI",
       "source": "Mercadohoje",
       "link": "https://mercadohoje.uai.com.br",
-      "time": "ontem, 12:29",
+      "time": "14/08 às 12:29",
       "dt_iso": "2026-08-14T15:29:44+00:00",
       "summary": "Centro de distribuição da Shopee em Contagem é inaugurado. Veja &nbsp;&nbsp; Portal UAI",
       "category": "ecommerce",
@@ -94,7 +94,7 @@
       "headline": "Veja como anda a construção do possível centro de distribuição do Mercado Livre em Ipatinga - vox97.com.br",
       "source": "Vox97",
       "link": "https://vox97.com.br",
-      "time": "ontem, 12:22",
+      "time": "14/08 às 12:22",
       "dt_iso": "2026-08-14T15:22:19+00:00",
       "summary": "Veja como anda a construção do possível centro de distribuição do Mercado Livre em Ipatinga &nbsp;&nbsp; vox97.com.br",
       "category": "ecommerce",
@@ -152,12 +152,12 @@
     },
     {
       "id": "5326ff0056",
-      "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - tecnologistica.com.br",
+      "headline": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "10/08 às 20:35",
       "dt_iso": "2026-08-10T23:35:10+00:00",
-      "summary": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "Cubbo inaugura centro de distribuição em Extrema e amplia operação no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -171,11 +171,30 @@
       ]
     },
     {
+      "id": "414986ae72",
+      "headline": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "14/08 às 11:50",
+      "dt_iso": "2026-08-14T14:50:47+00:00",
+      "summary": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "supply chain"
+      ],
+      "score": 7,
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "89f428600d",
       "headline": "Mais de 660 produtos e um jet ski: PMSC estoura galpão do crime e recupera carga de R$ 400 mil do Mercado Livre - jornalrazao.com",
       "source": "Jornalrazao",
       "link": "https://jornalrazao.com",
-      "time": "ontem, 08:55",
+      "time": "14/08 às 08:55",
       "dt_iso": "2026-08-14T11:55:37+00:00",
       "summary": "Mais de 660 produtos e um jet ski: PMSC estoura galpão do crime e recupera carga de R$ 400 mil do Mercado Livre &nbsp;&nbsp; jornalrazao.com",
       "category": "investimento",
@@ -210,12 +229,12 @@
     },
     {
       "id": "4522a96459",
-      "headline": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis - ND Mais",
+      "headline": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis - ndmais.com.br",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "ontem, 09:05",
+      "time": "14/08 às 09:05",
       "dt_iso": "2026-08-14T12:05:57+00:00",
-      "summary": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis &nbsp;&nbsp; ND Mais",
+      "summary": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis &nbsp;&nbsp; ndmais.com.br",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -248,22 +267,22 @@
       ]
     },
     {
-      "id": "4b5ab7743b",
-      "headline": "‘O Brasil vai ser o salvador da fome do mundo’, diz Júnior Friboi",
+      "id": "ff7248c343",
+      "headline": "Depois da recuperação, Riachuelo tenta transformar a marca em nova alavanca de crescimento",
       "source": "Exame",
-      "link": "https://exame.com/negocios/o-brasil-vai-ser-o-salvador-da-fome-do-mundo-diz-junior-friboi/",
-      "time": "hoje, 01:16",
-      "dt_iso": "2026-08-16T04:16:16+00:00",
-      "summary": "Depois de participar da expansão internacional da JBS, empresário não descarta repetir esse caminho com a sua empresa JBJ Agropecuária",
-      "category": "expansao",
+      "link": "https://exame.com/marketing/depois-da-recuperacao-riachuelo-tenta-transformar-a-marca-em-nova-alavanca-de-crescimento/",
+      "time": "hoje, 09:38",
+      "dt_iso": "2026-08-16T12:38:23+00:00",
+      "summary": "Mais do que renovar a identidade, a empresa precisa transformar sua origem e seus ativos em vantagem competitiva",
+      "category": "logistica",
       "keywords": [
-        "jbs",
-        "expansão"
+        "riachuelo",
+        "crescimento"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Salvador.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -309,7 +328,7 @@
       "headline": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "ontem, 07:03",
+      "time": "14/08 às 07:03",
       "dt_iso": "2026-08-14T10:03:58+00:00",
       "summary": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo &nbsp;&nbsp; Exame",
       "category": "expansao",
@@ -362,25 +381,6 @@
       ]
     },
     {
-      "id": "3d1aed4802",
-      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Diário Indústria & Comércio",
-      "source": "Diarioinduscom",
-      "link": "https://www.diarioinduscom.com.br",
-      "time": "13/08 às 06:29",
-      "dt_iso": "2026-08-13T09:29:00+00:00",
-      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Diário Indústria & Comércio",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "novos galpões"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "568539ab61",
       "headline": "Expansão do e-commerce muda padrão dos galpões - Eletrolar News",
       "source": "Eletrolarnews",
@@ -395,44 +395,6 @@
       ],
       "score": 6,
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "3a9cf9ca69",
-      "headline": "Log amplia aposta em SC com novo condomínio logístico de 45 mil m² - Economia SC",
-      "source": "Economiasc",
-      "link": "https://economiasc.com",
-      "time": "ontem, 07:43",
-      "dt_iso": "2026-08-14T10:43:03+00:00",
-      "summary": "Log amplia aposta em SC com novo condomínio logístico de 45 mil m² &nbsp;&nbsp; Economia SC",
-      "category": "logistica",
-      "keywords": [
-        "condomínio logístico",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "a9cea38a01",
-      "headline": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira - Canal Rural Mato Grosso",
-      "source": "Matogrosso",
-      "link": "https://matogrosso.canalrural.com.br",
-      "time": "12/08 às 14:25",
-      "dt_iso": "2026-08-12T17:25:53+00:00",
-      "summary": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira &nbsp;&nbsp; Canal Rural Mato Grosso",
-      "category": "expansao",
-      "keywords": [
-        "armazenagem",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -457,6 +419,44 @@
       ]
     },
     {
+      "id": "a9cea38a01",
+      "headline": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira - Canal Rural Mato Grosso",
+      "source": "Matogrosso",
+      "link": "https://matogrosso.canalrural.com.br",
+      "time": "12/08 às 14:25",
+      "dt_iso": "2026-08-12T17:25:53+00:00",
+      "summary": "Déficit de armazenagem e gargalos em irrigação ameaçam expansão da agricultura brasileira &nbsp;&nbsp; Canal Rural Mato Grosso",
+      "category": "expansao",
+      "keywords": [
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "b50a0d9125",
+      "headline": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis - Portogente",
+      "source": "Portogente",
+      "link": "https://portogente.com.br",
+      "time": "ontem, 23:58",
+      "dt_iso": "2026-08-15T02:58:47+00:00",
+      "summary": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis &nbsp;&nbsp; Portogente",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "560e6dc965",
       "headline": "Shopee Turbo abre novo capítulo na guerra das entregas no Brasil - Money Report",
       "source": "Money Report",
@@ -477,12 +477,12 @@
     },
     {
       "id": "23ac0c5146",
-      "headline": "Anvisa revoga restrições e abre caminho para entrega de medicamentos por iFood e Mercado Livre - francesnews.com.br",
+      "headline": "Anvisa revoga restrições e abre caminho para entrega de medicamentos por iFood e Mercado Livre - Francês News",
       "source": "Francesnews",
       "link": "https://francesnews.com.br",
       "time": "10/08 às 16:45",
       "dt_iso": "2026-08-10T19:45:00+00:00",
-      "summary": "Anvisa revoga restrições e abre caminho para entrega de medicamentos por iFood e Mercado Livre &nbsp;&nbsp; francesnews.com.br",
+      "summary": "Anvisa revoga restrições e abre caminho para entrega de medicamentos por iFood e Mercado Livre &nbsp;&nbsp; Francês News",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -524,6 +524,25 @@
       "category": "expansao",
       "keywords": [
         "natura",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "39d9db7d40",
+      "headline": "Embraer considera terceira linha de montagem do C-390 Millennium, nos EUA, em possível expansão global - aeroin.net",
+      "source": "Aeroin",
+      "link": "https://aeroin.net",
+      "time": "hoje, 00:53",
+      "dt_iso": "2026-08-16T03:53:02+00:00",
+      "summary": "Embraer considera terceira linha de montagem do C-390 Millennium, nos EUA, em possível expansão global &nbsp;&nbsp; aeroin.net",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
         "expansão"
       ],
       "score": 6,
