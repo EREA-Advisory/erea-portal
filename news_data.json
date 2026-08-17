@@ -1,6 +1,6 @@
 {
-  "gerado_em": "17/08/2026 às 06:27",
-  "total": 26,
+  "gerado_em": "17/08/2026 às 13:23",
+  "total": 28,
   "noticias": [
     {
       "id": "08ad07720c",
@@ -210,12 +210,12 @@
     },
     {
       "id": "4b40b0c919",
-      "headline": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC - rcnonline.com.br",
+      "headline": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC - Rede Catarinense de Noticias",
       "source": "Rcnonline",
       "link": "https://www.rcnonline.com.br",
       "time": "10/08 às 15:29",
       "dt_iso": "2026-08-10T18:29:00+00:00",
-      "summary": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC &nbsp;&nbsp; rcnonline.com.br",
+      "summary": "Mercado Livre anuncia mais de 2 mil vagas em novo centro de distribuição em SC &nbsp;&nbsp; Rede Catarinense de Noticias",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -229,12 +229,12 @@
     },
     {
       "id": "4522a96459",
-      "headline": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis - ND Mais",
+      "headline": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis - ndmais.com.br",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
       "time": "14/08 às 09:05",
       "dt_iso": "2026-08-14T12:05:57+00:00",
-      "summary": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis &nbsp;&nbsp; ND Mais",
+      "summary": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis &nbsp;&nbsp; ndmais.com.br",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -267,20 +267,20 @@
       ]
     },
     {
-      "id": "e80e89ff3a",
-      "headline": "Maersk ressalta a crescente da rota Ásia-América Latina - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "10/08 às 09:15",
-      "dt_iso": "2026-08-10T12:15:00+00:00",
-      "summary": "Maersk ressalta a crescente da rota Ásia-América Latina &nbsp;&nbsp; Modais em Foco",
+      "id": "b50a0d9125",
+      "headline": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 08:00",
+      "dt_iso": "2026-08-17T11:00:00+00:00",
+      "summary": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
-        "maersk",
-        "cresce"
+        "condomínio logístico",
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -400,22 +400,60 @@
       ]
     },
     {
-      "id": "b50a0d9125",
-      "headline": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis - Portogente",
-      "source": "Portogente",
-      "link": "https://portogente.com.br",
-      "time": "14/08 às 23:58",
-      "dt_iso": "2026-08-15T02:58:47+00:00",
-      "summary": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis &nbsp;&nbsp; Portogente",
+      "id": "a9108d7f93",
+      "headline": "Investimento em imóveis comerciais deve chegar a US 144 bilhões em 2026 e galpões industriais e logísticos são os mais procurados - bra1.com.br",
+      "source": "Bra1",
+      "link": "https://www.bra1.com.br",
+      "time": "hoje, 09:34",
+      "dt_iso": "2026-08-17T12:34:00+00:00",
+      "summary": "Investimento em imóveis comerciais deve chegar a US 144 bilhões em 2026 e galpões industriais e logísticos são os mais procurados &nbsp;&nbsp; bra1.com.br",
       "category": "logistica",
       "keywords": [
-        "condomínio logístico",
+        "galpões",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c0714bb933",
+      "headline": "Master Cargas amplia operação logística em Betim - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "hoje, 12:22",
+      "dt_iso": "2026-08-17T15:22:16+00:00",
+      "summary": "Master Cargas amplia operação logística em Betim &nbsp;&nbsp; Transporte Moderno",
+      "category": "logistica",
+      "keywords": [
+        "operação logística",
         "amplia"
       ],
       "score": 6,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Betim.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "7e5d7e1a77",
+      "headline": "Mercado Livre confirma investimento de R$ 400 milhões em São Sebastião da Bela Vista - Portal da Cidade - Pouso Alegre / MG",
+      "source": "Pousoalegre",
+      "link": "https://pousoalegre.portaldacidade.com",
+      "time": "14/08 às 15:55",
+      "dt_iso": "2026-08-14T18:55:00+00:00",
+      "summary": "Mercado Livre confirma investimento de R$ 400 milhões em São Sebastião da Bela Vista &nbsp;&nbsp; Portal da Cidade - Pouso Alegre / MG",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -435,6 +473,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "3d1aed4802",
+      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Diário Indústria & Comércio",
+      "source": "Diarioinduscom",
+      "link": "https://www.diarioinduscom.com.br",
+      "time": "13/08 às 06:29",
+      "dt_iso": "2026-08-13T09:29:00+00:00",
+      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Diário Indústria & Comércio",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -486,25 +543,6 @@
       "category": "expansao",
       "keywords": [
         "natura",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "39d9db7d40",
-      "headline": "Embraer considera terceira linha de montagem do C-390 Millennium, nos EUA, em possível expansão global - AEROIN",
-      "source": "Aeroin",
-      "link": "https://aeroin.net",
-      "time": "ontem, 00:53",
-      "dt_iso": "2026-08-16T03:53:02+00:00",
-      "summary": "Embraer considera terceira linha de montagem do C-390 Millennium, nos EUA, em possível expansão global &nbsp;&nbsp; AEROIN",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
         "expansão"
       ],
       "score": 6,
