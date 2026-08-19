@@ -1,6 +1,6 @@
 {
-  "gerado_em": "19/08/2026 às 06:20",
-  "total": 29,
+  "gerado_em": "19/08/2026 às 13:28",
+  "total": 28,
   "noticias": [
     {
       "id": "50c2908d10",
@@ -95,7 +95,7 @@
       "headline": "BRCO11 Aluga Galpão na Rodovia Dutra para o Mercado Livre por Cinco Anos - Forbes Brasil",
       "source": "Forbes",
       "link": "https://forbes.com.br",
-      "time": "hoje, 11:18",
+      "time": "ontem, 11:18",
       "dt_iso": "2026-08-18T14:18:40+00:00",
       "summary": "BRCO11 Aluga Galpão na Rodovia Dutra para o Mercado Livre por Cinco Anos &nbsp;&nbsp; Forbes Brasil",
       "category": "ecommerce",
@@ -173,13 +173,13 @@
       ]
     },
     {
-      "id": "414986ae72",
-      "headline": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde - Tecnologística",
+      "id": "57b221bded",
+      "headline": "DHL Supply Chain adota embalagens térmicas retornáveis para transporte de produtos de saúde - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "14/08 às 11:50",
-      "dt_iso": "2026-08-14T14:50:47+00:00",
-      "summary": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde &nbsp;&nbsp; Tecnologística",
+      "time": "hoje, 04:44",
+      "dt_iso": "2026-08-19T07:44:34+00:00",
+      "summary": "DHL Supply Chain adota embalagens térmicas retornáveis para transporte de produtos de saúde &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -230,30 +230,11 @@
       ]
     },
     {
-      "id": "3a75ee4aea",
-      "headline": "Ultragaz abre 1ª estação própria de biometano para abastecer até 200 caminhões por dia",
-      "source": "Exame",
-      "link": "https://exame.com/esg/ultragaz-abre-1a-estacao-propria-de-biometano-para-abastecer-ate-200-caminhoes-por-dia/",
-      "time": "hoje, 02:40",
-      "dt_iso": "2026-08-19T05:40:52+00:00",
-      "summary": "Unidade tem capacidade para fornecer 20 mil m³ diários do combustível renovável e começa pela operação logística de GLP no interior paulista",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "b50a0d9125",
       "headline": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 08:00",
+      "time": "17/08 às 08:00",
       "dt_iso": "2026-08-17T11:00:00+00:00",
       "summary": "Log amplia presença em Santa Catarina com novo condomínio logístico em Florianópolis &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -268,11 +249,30 @@
       ]
     },
     {
+      "id": "3729e3b2a0",
+      "headline": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 06:37",
+      "dt_iso": "2026-08-19T09:37:28+00:00",
+      "summary": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "condomínios logísticos",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "89b06ca337",
       "headline": "Mercado Livre inaugura maior centro de Ultra Sortation da América Latina em Franco da Rocha - Conexão Juquery",
       "source": "Conexaojuquery",
       "link": "https://conexaojuquery.com.br",
-      "time": "ontem, 12:00",
+      "time": "17/08 às 12:00",
       "dt_iso": "2026-08-17T15:00:00+00:00",
       "summary": "Mercado Livre inaugura maior centro de Ultra Sortation da América Latina em Franco da Rocha &nbsp;&nbsp; Conexão Juquery",
       "category": "ecommerce",
@@ -288,12 +288,12 @@
     },
     {
       "id": "24656adc6a",
-      "headline": "Grupo Zaffari se prepara para inaugurar 3 empreendimentos em São Paulo - samais.com.br",
+      "headline": "Grupo Zaffari se prepara para inaugurar 3 empreendimentos em São Paulo - SA+ Ecossistema de Varejo",
       "source": "Samais",
       "link": "https://samais.com.br",
       "time": "ontem, 14:38",
       "dt_iso": "2026-08-17T17:38:39+00:00",
-      "summary": "Grupo Zaffari se prepara para inaugurar 3 empreendimentos em São Paulo &nbsp;&nbsp; samais.com.br",
+      "summary": "Grupo Zaffari se prepara para inaugurar 3 empreendimentos em São Paulo &nbsp;&nbsp; SA+ Ecossistema de Varejo",
       "category": "logistica",
       "keywords": [
         "grupo zaffari",
@@ -307,12 +307,12 @@
     },
     {
       "id": "d67a4c78b2",
-      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Abradilan",
+      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - abradilan.com.br",
       "source": "Abradilan",
       "link": "https://abradilan.com.br",
-      "time": "hoje, 10:40",
+      "time": "ontem, 10:40",
       "dt_iso": "2026-08-18T13:40:50+00:00",
-      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Abradilan",
+      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; abradilan.com.br",
       "category": "logistica",
       "keywords": [
         "armazenagem",
@@ -326,12 +326,12 @@
     },
     {
       "id": "cf69e2cb4a",
-      "headline": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo - Exame",
+      "headline": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo - exame.com",
       "source": "Exame",
       "link": "https://exame.com",
       "time": "14/08 às 07:03",
       "dt_iso": "2026-08-14T10:03:58+00:00",
-      "summary": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo &nbsp;&nbsp; Exame",
+      "summary": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo &nbsp;&nbsp; exame.com",
       "category": "expansao",
       "keywords": [
         "grupo zaffari",
@@ -341,25 +341,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "2c6e906cf4",
-      "headline": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "12/08 às 11:40",
-      "dt_iso": "2026-08-12T14:40:00+00:00",
-      "summary": "Shopee registra crescimento de 50% nas vendas de eletrônicos no 8.8 &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -386,7 +367,7 @@
       "headline": "Patrus Transportes triplica capacidade em Ribeirão Preto e mira expansão no Sul - Diário do Comércio",
       "source": "Diariodocomercio",
       "link": "https://diariodocomercio.com.br",
-      "time": "há 39 min",
+      "time": "hoje, 05:40",
       "dt_iso": "2026-08-19T08:40:00+00:00",
       "summary": "Patrus Transportes triplica capacidade em Ribeirão Preto e mira expansão no Sul &nbsp;&nbsp; Diário do Comércio",
       "category": "expansao",
@@ -401,11 +382,30 @@
       ]
     },
     {
+      "id": "7b2d78b068",
+      "headline": "Shopee quer ampliar presença em Minas, segundo maior mercado de vendedores da plataforma - Diário do Comércio",
+      "source": "Diariodocomercio",
+      "link": "https://diariodocomercio.com.br",
+      "time": "hoje, 11:42",
+      "dt_iso": "2026-08-19T14:42:00+00:00",
+      "summary": "Shopee quer ampliar presença em Minas, segundo maior mercado de vendedores da plataforma &nbsp;&nbsp; Diário do Comércio",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "a9108d7f93",
       "headline": "Investimento em imóveis comerciais deve chegar a US 144 bilhões em 2026 e galpões industriais e logísticos são os mais procurados - bra1.com.br",
       "source": "Bra1",
       "link": "https://www.bra1.com.br",
-      "time": "ontem, 09:34",
+      "time": "17/08 às 09:34",
       "dt_iso": "2026-08-17T12:34:00+00:00",
       "summary": "Investimento em imóveis comerciais deve chegar a US 144 bilhões em 2026 e galpões industriais e logísticos são os mais procurados &nbsp;&nbsp; bra1.com.br",
       "category": "logistica",
@@ -424,7 +424,7 @@
       "headline": "Master Cargas amplia operação logística em Betim - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "ontem, 12:22",
+      "time": "17/08 às 12:22",
       "dt_iso": "2026-08-17T15:22:16+00:00",
       "summary": "Master Cargas amplia operação logística em Betim &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
@@ -455,25 +455,6 @@
       "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "ae9b966103",
-      "headline": "Lula assina decreto que abre mercado livre de energia para consumidores residenciais e pequenos estabelecimentos - G1",
-      "source": "G1",
-      "link": "https://g1.globo.com",
-      "time": "12/08 às 19:05",
-      "dt_iso": "2026-08-12T22:05:51+00:00",
-      "summary": "Lula assina decreto que abre mercado livre de energia para consumidores residenciais e pequenos estabelecimentos &nbsp;&nbsp; G1",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
