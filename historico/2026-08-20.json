@@ -1,6 +1,6 @@
 {
-  "gerado_em": "20/08/2026 às 06:21",
-  "total": 30,
+  "gerado_em": "20/08/2026 às 13:31",
+  "total": 31,
   "noticias": [
     {
       "id": "50c2908d10",
@@ -91,11 +91,32 @@
       ]
     },
     {
+      "id": "4196f51676",
+      "headline": "Casas Bahia atrasa aluguel de galpão em Contagem e pode enfrentar ação de despejo - Diário do Comércio",
+      "source": "Diariodocomercio",
+      "link": "https://diariodocomercio.com.br",
+      "time": "hoje, 11:42",
+      "dt_iso": "2026-08-20T14:42:00+00:00",
+      "summary": "Casas Bahia atrasa aluguel de galpão em Contagem e pode enfrentar ação de despejo &nbsp;&nbsp; Diário do Comércio",
+      "category": "logistica",
+      "keywords": [
+        "casas bahia",
+        "galpão",
+        "aluguel"
+      ],
+      "score": 8,
+      "relevance": "Região(ões) mencionada(s): Contagem.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
       "id": "b1ab99f9a4",
       "headline": "BRCO11 Aluga Galpão na Rodovia Dutra para o Mercado Livre por Cinco Anos - Forbes Brasil",
       "source": "Forbes",
       "link": "https://forbes.com.br",
-      "time": "ontem, 11:18",
+      "time": "18/08 às 11:18",
       "dt_iso": "2026-08-18T14:18:40+00:00",
       "summary": "BRCO11 Aluga Galpão na Rodovia Dutra para o Mercado Livre por Cinco Anos &nbsp;&nbsp; Forbes Brasil",
       "category": "ecommerce",
@@ -109,6 +130,27 @@
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "ace90eb961",
+      "headline": "Escalando 5x: serviços de fulfillment apoiam o crescimento da EasyTech no Brasil - DHL",
+      "source": "Dhl",
+      "link": "https://www.dhl.com",
+      "time": "hoje, 11:36",
+      "dt_iso": "2026-08-20T14:36:36+00:00",
+      "summary": "Escalando 5x: serviços de fulfillment apoiam o crescimento da EasyTech no Brasil &nbsp;&nbsp; DHL",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "fulfillment",
+        "crescimento"
+      ],
+      "score": 8,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Destaque",
+        "Logística"
       ]
     },
     {
@@ -253,7 +295,7 @@
       "headline": "Assaí inaugura quarta unidade da Assaí Farma e amplia presença na Zona Leste de São Paulo - SuperVarejo",
       "source": "Supervarejo",
       "link": "https://www.supervarejo.com.br",
-      "time": "hoje, 12:32",
+      "time": "ontem, 12:32",
       "dt_iso": "2026-08-19T15:32:19+00:00",
       "summary": "Assaí inaugura quarta unidade da Assaí Farma e amplia presença na Zona Leste de São Paulo &nbsp;&nbsp; SuperVarejo",
       "category": "logistica",
@@ -292,8 +334,8 @@
       "headline": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 06:37",
-      "dt_iso": "2026-08-19T09:37:28+00:00",
+      "time": "ontem, 07:46",
+      "dt_iso": "2026-08-19T10:46:14+00:00",
       "summary": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
@@ -321,6 +363,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "10b2874d8b",
+      "headline": "Impala Terminals abre galpão de 8 mil m² para concentrados minerais em Arica - Data Portuaria",
+      "source": "Dataportuaria",
+      "link": "https://dataportuaria.com",
+      "time": "hoje, 14:03",
+      "dt_iso": "2026-08-19T17:03:36+00:00",
+      "summary": "Impala Terminals abre galpão de 8 mil m² para concentrados minerais em Arica &nbsp;&nbsp; Data Portuaria",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -387,7 +448,7 @@
       "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Abradilan",
       "source": "Abradilan",
       "link": "https://abradilan.com.br",
-      "time": "ontem, 10:40",
+      "time": "18/08 às 10:40",
       "dt_iso": "2026-08-18T13:40:50+00:00",
       "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Abradilan",
       "category": "logistica",
@@ -421,41 +482,22 @@
       ]
     },
     {
-      "id": "f8aa279de1",
-      "headline": "Maersk eleva projeção financeira para 2026 após trimestre sólido e reforça expansão terrestre e porta a porta no Brasil - Portogente",
-      "source": "Portogente",
-      "link": "https://portogente.com.br",
-      "time": "13/08 às 17:30",
-      "dt_iso": "2026-08-13T20:30:16+00:00",
-      "summary": "Maersk eleva projeção financeira para 2026 após trimestre sólido e reforça expansão terrestre e porta a porta no Brasil &nbsp;&nbsp; Portogente",
-      "category": "expansao",
+      "id": "7d8ab1e8f1",
+      "headline": "Um impulso ao crescimento: transformando a logística de uma empresa internacional de bem-estar - DHL",
+      "source": "Dhl",
+      "link": "https://www.dhl.com",
+      "time": "hoje, 11:36",
+      "dt_iso": "2026-08-20T14:36:36+00:00",
+      "summary": "Um impulso ao crescimento: transformando a logística de uma empresa internacional de bem-estar &nbsp;&nbsp; DHL",
+      "category": "logistica",
       "keywords": [
-        "maersk",
-        "expansão"
+        "dhl",
+        "crescimento"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "03ba7de9d0",
-      "headline": "Megacondomínio logístico de 45 mil m² será construído na Grande Florianópolis como meta de ousado plano de expansão - NSC Total",
-      "source": "NSC Total",
-      "link": "https://www.nsctotal.com.br",
-      "time": "13/08 às 08:39",
-      "dt_iso": "2026-08-13T11:39:32+00:00",
-      "summary": "Megacondomínio logístico de 45 mil m² será construído na Grande Florianópolis como meta de ousado plano de expansão &nbsp;&nbsp; NSC Total",
-      "category": "expansao",
-      "keywords": [
-        "condomínio logístico",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -475,6 +517,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "7b2d78b068",
+      "headline": "Shopee quer ampliar presença em Minas, segundo maior mercado de vendedores da plataforma - Diário do Comércio",
+      "source": "Diariodocomercio",
+      "link": "https://diariodocomercio.com.br",
+      "time": "ontem, 11:42",
+      "dt_iso": "2026-08-19T14:42:00+00:00",
+      "summary": "Shopee quer ampliar presença em Minas, segundo maior mercado de vendedores da plataforma &nbsp;&nbsp; Diário do Comércio",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -516,58 +577,20 @@
       ]
     },
     {
-      "id": "7e5d7e1a77",
-      "headline": "Mercado Livre confirma investimento de R$ 400 milhões em São Sebastião da Bela Vista - Portal da Cidade - Pouso Alegre / MG",
-      "source": "Pousoalegre",
-      "link": "https://pousoalegre.portaldacidade.com",
-      "time": "14/08 às 15:55",
-      "dt_iso": "2026-08-14T18:55:00+00:00",
-      "summary": "Mercado Livre confirma investimento de R$ 400 milhões em São Sebastião da Bela Vista &nbsp;&nbsp; Portal da Cidade - Pouso Alegre / MG",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "560e6dc965",
-      "headline": "Shopee Turbo abre novo capítulo na guerra das entregas no Brasil - Money Report",
-      "source": "Money Report",
-      "link": "https://www.moneyreport.com.br",
-      "time": "13/08 às 12:13",
-      "dt_iso": "2026-08-13T15:13:28+00:00",
-      "summary": "Shopee Turbo abre novo capítulo na guerra das entregas no Brasil &nbsp;&nbsp; Money Report",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "3d1aed4802",
-      "headline": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística - Diário Indústria & Comércio",
-      "source": "Diarioinduscom",
-      "link": "https://www.diarioinduscom.com.br",
-      "time": "13/08 às 06:29",
-      "dt_iso": "2026-08-13T09:29:00+00:00",
-      "summary": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística &nbsp;&nbsp; Diário Indústria & Comércio",
+      "id": "71e676acde",
+      "headline": "Prologis estima inaugurar primeiros galpões no antigo terreno da Ford em 2027 - Diário do Grande ABC",
+      "source": "Dgabc",
+      "link": "https://www.dgabc.com.br",
+      "time": "hoje, 08:00",
+      "dt_iso": "2026-08-20T11:00:00+00:00",
+      "summary": "Prologis estima inaugurar primeiros galpões no antigo terreno da Ford em 2027 &nbsp;&nbsp; Diário do Grande ABC",
       "category": "logistica",
       "keywords": [
         "galpões",
-        "novos galpões"
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -577,7 +600,7 @@
       "headline": "Até 85% de desconto: em crise, Casas Bahia abre novo leilão de geladeiras, fogões e celular por R$ 200 - NSC Total",
       "source": "NSC Total",
       "link": "https://www.nsctotal.com.br",
-      "time": "ontem, 13:30",
+      "time": "18/08 às 13:30",
       "dt_iso": "2026-08-18T16:30:08+00:00",
       "summary": "Até 85% de desconto: em crise, Casas Bahia abre novo leilão de geladeiras, fogões e celular por R$ 200 &nbsp;&nbsp; NSC Total",
       "category": "investimento",
