@@ -1,6 +1,6 @@
 {
-  "gerado_em": "21/08/2026 às 06:23",
-  "total": 27,
+  "gerado_em": "21/08/2026 às 13:29",
+  "total": 28,
   "noticias": [
     {
       "id": "50c2908d10",
@@ -22,28 +22,6 @@
       "badges": [
         "Destaque",
         "Investimento"
-      ]
-    },
-    {
-      "id": "0da02417fb",
-      "headline": "Centro de distribuição da Shopee em Contagem é inaugurado. Veja - Portal UAI",
-      "source": "Mercadohoje",
-      "link": "https://mercadohoje.uai.com.br",
-      "time": "14/08 às 12:29",
-      "dt_iso": "2026-08-14T15:29:44+00:00",
-      "summary": "Centro de distribuição da Shopee em Contagem é inaugurado. Veja &nbsp;&nbsp; Portal UAI",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centro de distribuição",
-        "inaugura",
-        "inaugurado"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Contagem.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
       ]
     },
     {
@@ -72,7 +50,7 @@
       "headline": "Escalando 5x: serviços de fulfillment apoiam o crescimento da EasyTech no Brasil - DHL",
       "source": "Dhl",
       "link": "https://www.dhl.com",
-      "time": "hoje, 11:36",
+      "time": "ontem, 11:36",
       "dt_iso": "2026-08-20T14:36:36+00:00",
       "summary": "Escalando 5x: serviços de fulfillment apoiam o crescimento da EasyTech no Brasil &nbsp;&nbsp; DHL",
       "category": "logistica",
@@ -110,6 +88,26 @@
       ]
     },
     {
+      "id": "69ecccd216",
+      "headline": "Havan define prazo para inaugurar expansão de R$ 250 milhões com sistema autoportante no maior centro de distribuição da América Latina - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "hoje, 11:15",
+      "dt_iso": "2026-08-21T14:15:09+00:00",
+      "summary": "Havan define prazo para inaugurar expansão de R$ 250 milhões com sistema autoportante no maior centro de distribuição da América Latina &nbsp;&nbsp; NSC Total",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "c33410ad9c",
       "headline": "Mercado Livre investirá mais de R$ 400 milhões em centro de distribuição no Sul de Minas - Diário do Comércio",
       "source": "Diariodocomercio",
@@ -129,25 +127,6 @@
       ]
     },
     {
-      "id": "414986ae72",
-      "headline": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "14/08 às 11:50",
-      "dt_iso": "2026-08-14T14:50:47+00:00",
-      "summary": "DHL Supply Chain passa a usar embalagens térmicas retornáveis no transporte de saúde &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "supply chain"
-      ],
-      "score": 7,
-      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "cc31a24beb",
       "headline": "Casas Bahia enfrenta ações de despejo de lojas e galpões logísticos - Folha de S.Paulo",
       "source": "UOL",
@@ -164,25 +143,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "89f428600d",
-      "headline": "Mais de 660 produtos e um jet ski: PMSC estoura galpão do crime e recupera carga de R$ 400 mil do Mercado Livre - jornalrazao.com",
-      "source": "Jornalrazao",
-      "link": "https://jornalrazao.com",
-      "time": "14/08 às 08:55",
-      "dt_iso": "2026-08-14T11:55:37+00:00",
-      "summary": "Mais de 660 produtos e um jet ski: PMSC estoura galpão do crime e recupera carga de R$ 400 mil do Mercado Livre &nbsp;&nbsp; jornalrazao.com",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "galpão"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -206,13 +166,13 @@
       ]
     },
     {
-      "id": "4522a96459",
-      "headline": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis - ND Mais",
-      "source": "ND Mais",
-      "link": "https://ndmais.com.br",
-      "time": "14/08 às 09:05",
-      "dt_iso": "2026-08-14T12:05:57+00:00",
-      "summary": "PM recupera carga de R$ 400 mil furtada de galpão do Mercado Livre e prende dois suspeitos na Grande Florianópolis &nbsp;&nbsp; ND Mais",
+      "id": "be0da26e75",
+      "headline": "PM prende dois suspeitos e recupera carga furtada de galpão do Mercado Livre em SC - OCP News",
+      "source": "Ocp",
+      "link": "https://ocp.news",
+      "time": "19/08 às 08:54",
+      "dt_iso": "2026-08-19T11:54:46+00:00",
+      "summary": "PM prende dois suspeitos e recupera carga furtada de galpão do Mercado Livre em SC &nbsp;&nbsp; OCP News",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -225,11 +185,31 @@
       ]
     },
     {
+      "id": "7ad0a9e8fc",
+      "headline": "Empresa de investimentos compra 13,2% de grupo dono da Tok&Stok - BOL",
+      "source": "UOL",
+      "link": "https://www.bol.uol.com.br",
+      "time": "hoje, 07:19",
+      "dt_iso": "2026-08-21T10:19:28+00:00",
+      "summary": "Empresa de investimentos compra 13,2% de grupo dono da Tok&amp;Stok &nbsp;&nbsp; BOL",
+      "category": "logistica",
+      "keywords": [
+        "tok&stok",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "365db95e91",
       "headline": "Assaí inaugura quarta unidade da Assaí Farma e amplia presença na Zona Leste de São Paulo - SuperVarejo",
       "source": "Supervarejo",
       "link": "https://www.supervarejo.com.br",
-      "time": "ontem, 12:32",
+      "time": "19/08 às 12:32",
       "dt_iso": "2026-08-19T15:32:19+00:00",
       "summary": "Assaí inaugura quarta unidade da Assaí Farma e amplia presença na Zona Leste de São Paulo &nbsp;&nbsp; SuperVarejo",
       "category": "logistica",
@@ -240,6 +220,25 @@
       ],
       "score": 7,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "f87f629b5f",
+      "headline": "Covabra amplia capacidade do Centro de Distribuição em São Paulo - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "hoje, 09:45",
+      "dt_iso": "2026-08-21T12:45:00+00:00",
+      "summary": "Covabra amplia capacidade do Centro de Distribuição em São Paulo &nbsp;&nbsp; Giro News",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -268,7 +267,7 @@
       "headline": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 07:46",
+      "time": "19/08 às 07:46",
       "dt_iso": "2026-08-19T10:46:14+00:00",
       "summary": "Fulwood anuncia aporte de R$ 240 milhões para expandir condomínios logísticos em MG &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -278,6 +277,25 @@
       ],
       "score": 6,
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "b76a296619",
+      "headline": "Maersk e The Ocean Cleanup ampliam colaboração para remover plásticos dos oceanos - Portos e Navios",
+      "source": "Portos e Navios",
+      "link": "https://www.portosenavios.com.br",
+      "time": "hoje, 19:36",
+      "dt_iso": "2026-08-20T22:36:41+00:00",
+      "summary": "Maersk e The Ocean Cleanup ampliam colaboração para remover plásticos dos oceanos &nbsp;&nbsp; Portos e Navios",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -378,22 +396,22 @@
       ]
     },
     {
-      "id": "cf69e2cb4a",
-      "headline": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "14/08 às 07:03",
-      "dt_iso": "2026-08-14T10:03:58+00:00",
-      "summary": "Hipermercado, atacarejo e expansão de shopping: o plano do bilionário Grupo Zaffari para São Paulo &nbsp;&nbsp; Exame",
-      "category": "expansao",
+      "id": "737dd06251",
+      "headline": "DP World abre novo armazém logístico em Johor, Malásia - Data Portuaria",
+      "source": "Dataportuaria",
+      "link": "https://dataportuaria.com",
+      "time": "hoje, 22:21",
+      "dt_iso": "2026-08-21T01:21:05+00:00",
+      "summary": "DP World abre novo armazém logístico em Johor, Malásia &nbsp;&nbsp; Data Portuaria",
+      "category": "logistica",
       "keywords": [
-        "grupo zaffari",
-        "expansão"
+        "armazém",
+        "abre"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -401,7 +419,7 @@
       "headline": "Um impulso ao crescimento: transformando a logística de uma empresa internacional de bem-estar - DHL",
       "source": "Dhl",
       "link": "https://www.dhl.com",
-      "time": "hoje, 11:36",
+      "time": "ontem, 11:36",
       "dt_iso": "2026-08-20T14:36:36+00:00",
       "summary": "Um impulso ao crescimento: transformando a logística de uma empresa internacional de bem-estar &nbsp;&nbsp; DHL",
       "category": "logistica",
@@ -439,7 +457,7 @@
       "headline": "Shopee quer ampliar presença em Minas, segundo maior mercado de vendedores da plataforma - Diário do Comércio",
       "source": "Diariodocomercio",
       "link": "https://diariodocomercio.com.br",
-      "time": "ontem, 11:42",
+      "time": "19/08 às 11:42",
       "dt_iso": "2026-08-19T14:42:00+00:00",
       "summary": "Shopee quer ampliar presença em Minas, segundo maior mercado de vendedores da plataforma &nbsp;&nbsp; Diário do Comércio",
       "category": "ecommerce",
@@ -473,30 +491,11 @@
       ]
     },
     {
-      "id": "c0714bb933",
-      "headline": "Master Cargas amplia operação logística em Betim - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "17/08 às 12:22",
-      "dt_iso": "2026-08-17T15:22:16+00:00",
-      "summary": "Master Cargas amplia operação logística em Betim &nbsp;&nbsp; Transporte Moderno",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Betim.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "71e676acde",
       "headline": "Prologis estima inaugurar primeiros galpões no antigo terreno da Ford em 2027 - Diário do Grande ABC",
       "source": "Dgabc",
       "link": "https://www.dgabc.com.br",
-      "time": "hoje, 08:00",
+      "time": "ontem, 08:00",
       "dt_iso": "2026-08-20T11:00:00+00:00",
       "summary": "Prologis estima inaugurar primeiros galpões no antigo terreno da Ford em 2027 &nbsp;&nbsp; Diário do Grande ABC",
       "category": "logistica",
@@ -506,6 +505,25 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "f806a92bc4",
+      "headline": "Assaí amplia marca própria e entra no segmento de limpeza com linha Bloom - SA+ Ecossistema de Varejo",
+      "source": "Samais",
+      "link": "https://samais.com.br",
+      "time": "19/08 às 09:50",
+      "dt_iso": "2026-08-19T12:50:00+00:00",
+      "summary": "Assaí amplia marca própria e entra no segmento de limpeza com linha Bloom &nbsp;&nbsp; SA+ Ecossistema de Varejo",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
