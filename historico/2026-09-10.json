@@ -1,29 +1,7 @@
 {
-  "gerado_em": "10/09/2026 às 10:10",
-  "total": 29,
+  "gerado_em": "10/09/2026 às 15:56",
+  "total": 30,
   "noticias": [
-    {
-      "id": "615769d53a",
-      "headline": "Amazon e DHL Supply Chain inauguram centro de distribuição no Espírito Santo - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "hoje, 23:07",
-      "dt_iso": "2026-09-10T02:07:57+00:00",
-      "summary": "Amazon e DHL Supply Chain inauguram centro de distribuição no Espírito Santo &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "centro de distribuição",
-        "supply chain",
-        "inaugura"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "a22335f313",
       "headline": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) - Mundo Logística",
@@ -90,11 +68,32 @@
       ]
     },
     {
+      "id": "2c4a2f86f1",
+      "headline": "Amazon e ID Logistics inauguram centro de distribuição no Paraná - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "04/09 às 12:35",
+      "dt_iso": "2026-09-04T15:35:28+00:00",
+      "summary": "Amazon e ID Logistics inauguram centro de distribuição no Paraná &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "id logistics",
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
       "id": "36a6eecf83",
       "headline": "Mercado Livre x Shopee: quase 900 mil m² de novas locações na corrida por galpões no 2T - Revista Buildings",
       "source": "Buildings",
       "link": "https://revista.buildings.com.br",
-      "time": "hoje, 15:32",
+      "time": "ontem, 15:32",
       "dt_iso": "2026-09-09T18:32:21+00:00",
       "summary": "Mercado Livre x Shopee: quase 900 mil m² de novas locações na corrida por galpões no 2T &nbsp;&nbsp; Revista Buildings",
       "category": "ecommerce",
@@ -108,6 +107,27 @@
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "0efcfb430a",
+      "headline": "Amazon acelera entregas no Espírito Santo com novo centro de distribuição em parceria com a DHL Supply Chain em Cariacica – Portal e TV Fator Brasil - Fator Brasil",
+      "source": "Revistafatorbrasil",
+      "link": "https://www.revistafatorbrasil.com.br",
+      "time": "hoje, 14:12",
+      "dt_iso": "2026-09-10T17:12:13+00:00",
+      "summary": "Amazon acelera entregas no Espírito Santo com novo centro de distribuição em parceria com a DHL Supply Chain em Cariacica – Portal e TV Fator Brasil &nbsp;&nbsp; Fator Brasil",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "centro de distribuição",
+        "supply chain"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Destaque",
+        "Logística"
       ]
     },
     {
@@ -178,7 +198,7 @@
       "headline": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&A e Riachuelo - EuQueroInvestir",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
-      "time": "hoje, 11:48",
+      "time": "ontem, 11:48",
       "dt_iso": "2026-09-09T14:48:13+00:00",
       "summary": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&amp;A e Riachuelo &nbsp;&nbsp; EuQueroInvestir",
       "category": "logistica",
@@ -371,32 +391,52 @@
       ]
     },
     {
-      "id": "f6ebb70bbd",
-      "headline": "MWM amplia em 29% capacidade de armazenagem do CD de peças em Jundiaí - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 08:15",
-      "dt_iso": "2026-09-10T11:15:00+00:00",
-      "summary": "MWM amplia em 29% capacidade de armazenagem do CD de peças em Jundiaí &nbsp;&nbsp; Tecnologística",
+      "id": "68def3f01e",
+      "headline": "Magalu Cloud cresceu 10x desde 2025 - Baguete",
+      "source": "Baguete",
+      "link": "https://www.baguete.com.br",
+      "time": "hoje, 10:08",
+      "dt_iso": "2026-09-10T13:08:00+00:00",
+      "summary": "Magalu Cloud cresceu 10x desde 2025 &nbsp;&nbsp; Baguete",
       "category": "logistica",
       "keywords": [
-        "armazenagem",
-        "amplia"
+        "magalu",
+        "cresce",
+        "cresceu"
       ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Jundiaí.",
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
     },
     {
+      "id": "637d41420d",
+      "headline": "Ambev cria instituto para ampliar rede de empresas em torno da inclusão produtiva",
+      "source": "Exame",
+      "link": "https://exame.com/esg/ambev-cria-instituto-para-ampliar-rede-de-empresas-em-torno-da-inclusao-produtiva/",
+      "time": "hoje, 12:45",
+      "dt_iso": "2026-09-10T15:45:51+00:00",
+      "summary": "Nova organização nasce de uma rede com 120 membros e prevê recursos privados para apoiar negócios sociais e entidades sem fins lucrativos",
+      "category": "investimento",
+      "keywords": [
+        "ambev",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "f8a3103eb1",
-      "headline": "Growth Supplements expande centro de distribuição para Minas Gerais com apetite além do e-commerce - ND Mais",
+      "headline": "Growth Supplements expande centro de distribuição para Minas Gerais com apetite além do e-commerce - ndmais.com.br",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
       "time": "07/09 às 19:30",
       "dt_iso": "2026-09-07T22:30:21+00:00",
-      "summary": "Growth Supplements expande centro de distribuição para Minas Gerais com apetite além do e-commerce &nbsp;&nbsp; ND Mais",
+      "summary": "Growth Supplements expande centro de distribuição para Minas Gerais com apetite além do e-commerce &nbsp;&nbsp; ndmais.com.br",
       "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
@@ -404,25 +444,6 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "ef5d168048",
-      "headline": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "03/09 às 14:48",
-      "dt_iso": "2026-09-03T17:48:20+00:00",
-      "summary": "Amazon abre 1° centro de distribuição no PR para entregas no mesmo dia &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "centro de distribuição",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
       ]
@@ -447,6 +468,25 @@
       ]
     },
     {
+      "id": "f6ebb70bbd",
+      "headline": "MWM amplia em 29% capacidade de armazenagem do CD de peças em Jundiaí - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 08:15",
+      "dt_iso": "2026-09-10T11:15:00+00:00",
+      "summary": "MWM amplia em 29% capacidade de armazenagem do CD de peças em Jundiaí &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Jundiaí.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "75dcf57379",
       "headline": "Growth Supplements instala centro de distribuição em Extrema (MG) - Giro News",
       "source": "Gironews",
@@ -466,11 +506,30 @@
       ]
     },
     {
+      "id": "1cf4e113a1",
+      "headline": "Amazon abre 1º centro de distribuição no ES com previsão de entregas no mesmo dia - Folha Vitória",
+      "source": "Folhavitoria",
+      "link": "https://www.folhavitoria.com.br",
+      "time": "hoje, 10:29",
+      "dt_iso": "2026-09-10T13:29:41+00:00",
+      "summary": "Amazon abre 1º centro de distribuição no ES com previsão de entregas no mesmo dia &nbsp;&nbsp; Folha Vitória",
+      "category": "ecommerce",
+      "keywords": [
+        "centro de distribuição",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "238469fe9a",
       "headline": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos - Expresso das Ilhas",
       "source": "Expressodasilhas",
       "link": "https://expressodasilhas.cv",
-      "time": "hoje, 13:13",
+      "time": "ontem, 13:13",
       "dt_iso": "2026-09-09T16:13:00+00:00",
       "summary": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos &nbsp;&nbsp; Expresso das Ilhas",
       "category": "logistica",
@@ -504,32 +563,13 @@
       ]
     },
     {
-      "id": "4eb1727795",
-      "headline": "Magazine Luiza ganha novo fôlego; BofA vê nova fase para a varejista - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "03/09 às 14:46",
-      "dt_iso": "2026-09-03T17:46:00+00:00",
-      "summary": "Magazine Luiza ganha novo fôlego; BofA vê nova fase para a varejista &nbsp;&nbsp; Estadão",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "nova fase"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "71d42551ee",
-      "headline": "Com DNA digital, loja física entra na estratégia de expansão da Netshoes - bol.uol.com.br",
+      "headline": "Com DNA digital, loja física entra na estratégia de expansão da Netshoes - BOL",
       "source": "UOL",
       "link": "https://www.bol.uol.com.br",
       "time": "07/09 às 14:00",
       "dt_iso": "2026-09-07T17:00:00+00:00",
-      "summary": "Com DNA digital, loja física entra na estratégia de expansão da Netshoes &nbsp;&nbsp; bol.uol.com.br",
+      "summary": "Com DNA digital, loja física entra na estratégia de expansão da Netshoes &nbsp;&nbsp; BOL",
       "category": "expansao",
       "keywords": [
         "netshoes",
@@ -543,12 +583,12 @@
     },
     {
       "id": "461c7bf9e8",
-      "headline": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum - itforum.com.br",
+      "headline": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum - IT Forum",
       "source": "Itforum",
       "link": "https://itforum.com.br",
       "time": "04/09 às 00:11",
       "dt_iso": "2026-09-04T03:11:31+00:00",
-      "summary": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum &nbsp;&nbsp; itforum.com.br",
+      "summary": "B2W Digital abre inscrições para programa de trainee e recruta talentos em TI - IT Forum &nbsp;&nbsp; IT Forum",
       "category": "investimento",
       "keywords": [
         "b2w",
@@ -558,25 +598,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "9b1ddfcbb8",
-      "headline": "Amazon inaugura CD no Paraná em parceria com a ID Logistics - mercadoeconsumo.com.br",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "03/09 às 14:14",
-      "dt_iso": "2026-09-03T17:14:00+00:00",
-      "summary": "Amazon inaugura CD no Paraná em parceria com a ID Logistics &nbsp;&nbsp; mercadoeconsumo.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "id logistics",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "E-commerce"
       ]
     }
   ]
