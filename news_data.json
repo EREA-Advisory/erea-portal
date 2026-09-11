@@ -1,5 +1,5 @@
 {
-  "gerado_em": "11/09/2026 às 10:04",
+  "gerado_em": "11/09/2026 às 15:58",
   "total": 29,
   "noticias": [
     {
@@ -25,67 +25,25 @@
       ]
     },
     {
-      "id": "a22335f313",
-      "headline": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "04/09 às 11:40",
-      "dt_iso": "2026-09-04T14:40:28+00:00",
-      "summary": "DHL Supply Chain amplia operação logística da Bristol Myers Squibb em Extrema (MG) &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "operação logística",
-        "supply chain",
-        "amplia"
-      ],
-      "score": 9,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "faeedc8d02",
-      "headline": "Mercado Livre terá a maior locação de galpão do Brasil - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "04/09 às 10:29",
-      "dt_iso": "2026-09-04T13:29:35+00:00",
-      "summary": "Mercado Livre terá a maior locação de galpão do Brasil &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
+      "id": "26b4d32987",
+      "headline": "Mercado Livre supera Shopee e terá a maior locação de galpão do Brasil - Cushman & Wakefield",
+      "source": "Cushmanwakefield",
+      "link": "https://www.cushmanwakefield.com",
+      "time": "ontem, 12:03",
+      "dt_iso": "2026-09-10T15:03:22+00:00",
+      "summary": "Mercado Livre supera Shopee e terá a maior locação de galpão do Brasil &nbsp;&nbsp; Cushman & Wakefield",
+      "category": "ecommerce",
       "keywords": [
         "mercado livre",
+        "shopee",
         "galpão",
         "locação"
       ],
-      "score": 8,
+      "score": 9,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "2c4a2f86f1",
-      "headline": "Amazon e ID Logistics inauguram centro de distribuição no Paraná - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "04/09 às 12:35",
-      "dt_iso": "2026-09-04T15:35:28+00:00",
-      "summary": "Amazon e ID Logistics inauguram centro de distribuição no Paraná &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "id logistics",
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Destaque",
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -93,7 +51,7 @@
       "headline": "Mercado Livre x Shopee: quase 900 mil m² de novas locações na corrida por galpões no 2T - Revista Buildings",
       "source": "Buildings",
       "link": "https://revista.buildings.com.br",
-      "time": "ontem, 15:32",
+      "time": "09/09 às 15:32",
       "dt_iso": "2026-09-09T18:32:21+00:00",
       "summary": "Mercado Livre x Shopee: quase 900 mil m² de novas locações na corrida por galpões no 2T &nbsp;&nbsp; Revista Buildings",
       "category": "ecommerce",
@@ -111,12 +69,12 @@
     },
     {
       "id": "9194ccc0a1",
-      "headline": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado - Maracaju Speed",
-      "source": "Maracajuspeed",
-      "link": "https://www.maracajuspeed.com.br",
-      "time": "ontem, 18:02",
-      "dt_iso": "2026-09-09T21:02:48+00:00",
-      "summary": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado &nbsp;&nbsp; Maracaju Speed",
+      "headline": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado - Jornal Panorama Minas",
+      "source": "Jornalpanoramaminas",
+      "link": "https://jornalpanoramaminas.com.br",
+      "time": "ontem, 16:07",
+      "dt_iso": "2026-09-09T19:07:38+00:00",
+      "summary": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado &nbsp;&nbsp; Jornal Panorama Minas",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -131,24 +89,24 @@
       ]
     },
     {
-      "id": "bab7c491f9",
-      "headline": "FII BTLG11 paga quase R$ 1 bilhão para ter 3 galpões alugados para Amazon e Mercado Livre - Investidor10",
-      "source": "Investidor10",
-      "link": "https://investidor10.com.br",
-      "time": "04/09 às 15:46",
-      "dt_iso": "2026-09-04T18:46:00+00:00",
-      "summary": "FII BTLG11 paga quase R$ 1 bilhão para ter 3 galpões alugados para Amazon e Mercado Livre &nbsp;&nbsp; Investidor10",
-      "category": "ecommerce",
+      "id": "d9bfd036bc",
+      "headline": "DHL Supply Chain fortalece operação logística da Bristol Myers Squibb em Extrema (MG) - Fator Brasil",
+      "source": "Revistafatorbrasil",
+      "link": "https://www.revistafatorbrasil.com.br",
+      "time": "ontem, 14:11",
+      "dt_iso": "2026-09-10T17:11:29+00:00",
+      "summary": "DHL Supply Chain fortalece operação logística da Bristol Myers Squibb em Extrema (MG) &nbsp;&nbsp; Fator Brasil",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "galpões",
-        "aluga"
+        "dhl",
+        "operação logística",
+        "supply chain"
       ],
       "score": 8,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "relevance": "Região(ões) mencionada(s): Extrema.",
       "badges": [
         "Destaque",
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -156,7 +114,7 @@
       "headline": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&A e Riachuelo - EuQueroInvestir",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
-      "time": "ontem, 11:48",
+      "time": "09/09 às 11:48",
       "dt_iso": "2026-09-09T14:48:13+00:00",
       "summary": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&amp;A e Riachuelo &nbsp;&nbsp; EuQueroInvestir",
       "category": "logistica",
@@ -212,25 +170,6 @@
       ]
     },
     {
-      "id": "649edf8f49",
-      "headline": "BTLG11 vai às compras e coloca galpões ocupados por Mercado Livre e Amazon no carrinho; veja detalhes da transação de R$ 959 milhões - Seu Dinheiro",
-      "source": "Seudinheiro",
-      "link": "https://www.seudinheiro.com",
-      "time": "04/09 às 15:47",
-      "dt_iso": "2026-09-04T18:47:43+00:00",
-      "summary": "BTLG11 vai às compras e coloca galpões ocupados por Mercado Livre e Amazon no carrinho; veja detalhes da transação de R$ 959 milhões &nbsp;&nbsp; Seu Dinheiro",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "galpões"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "a96bc58779",
       "headline": "FedEx anuncia investimentos em sua operação no Brasil - Mirian Gasparin",
       "source": "Miriangasparin",
@@ -271,21 +210,59 @@
       ]
     },
     {
-      "id": "c3acc58be2",
-      "headline": "FedEx investe R$ 75 milhões para ampliar logística e entregas no Brasil - bra1.com.br",
-      "source": "Bra1",
-      "link": "https://www.bra1.com.br",
-      "time": "hoje, 15:55",
-      "dt_iso": "2026-09-10T18:55:00+00:00",
-      "summary": "FedEx investe R$ 75 milhões para ampliar logística e entregas no Brasil &nbsp;&nbsp; bra1.com.br",
-      "category": "logistica",
+      "id": "28f9ebc003",
+      "headline": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante - G1",
+      "source": "G1",
+      "link": "https://g1.globo.com",
+      "time": "05/09 às 06:00",
+      "dt_iso": "2026-09-05T09:00:01+00:00",
+      "summary": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante &nbsp;&nbsp; G1",
+      "category": "ecommerce",
       "keywords": [
-        "fedex",
-        "amplia",
-        "investe"
+        "mercado livre",
+        "centro de distribuição"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "92ce03e638",
+      "headline": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora - Portal 14B",
+      "source": "Portal14B",
+      "link": "https://portal14b.com.br",
+      "time": "hoje, 10:48",
+      "dt_iso": "2026-09-11T13:48:00+00:00",
+      "summary": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; Portal 14B",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "bc71496e1d",
+      "headline": "Magalu é um Rojão?! Confira esta Análise Técnica da Ação MGLU3 - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "07/09 às 09:17",
+      "dt_iso": "2026-09-07T12:17:00+00:00",
+      "summary": "Magalu é um Rojão?! Confira esta Análise Técnica da Ação MGLU3 &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -311,42 +288,23 @@
       ]
     },
     {
-      "id": "28f9ebc003",
-      "headline": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante - G1",
-      "source": "G1",
-      "link": "https://g1.globo.com",
-      "time": "05/09 às 06:00",
-      "dt_iso": "2026-09-05T09:00:01+00:00",
-      "summary": "Você Viu? Centro de distribuição do Mercado Livre, show de Ana Castela barrado pela Justiça e recorde com doce de leite gigante &nbsp;&nbsp; G1",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "505c7c84d5",
-      "headline": "Magalu Cloud amplia oferta de IA e mira crescimento ambicioso - ecommercebrasil.com.br",
+      "headline": "Magalu Cloud amplia oferta de IA e mira crescimento ambicioso - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
       "time": "ontem, 17:00",
       "dt_iso": "2026-09-09T20:00:00+00:00",
-      "summary": "Magalu Cloud amplia oferta de IA e mira crescimento ambicioso &nbsp;&nbsp; ecommercebrasil.com.br",
-      "category": "logistica",
+      "summary": "Magalu Cloud amplia oferta de IA e mira crescimento ambicioso &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "ecommerce",
       "keywords": [
         "magalu",
         "amplia",
         "crescimento"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -354,7 +312,7 @@
       "headline": "Magalu Cloud cresceu 10x desde 2025 - Baguete",
       "source": "Baguete",
       "link": "https://www.baguete.com.br",
-      "time": "hoje, 10:08",
+      "time": "ontem, 10:08",
       "dt_iso": "2026-09-10T13:08:00+00:00",
       "summary": "Magalu Cloud cresceu 10x desde 2025 &nbsp;&nbsp; Baguete",
       "category": "logistica",
@@ -389,30 +347,11 @@
       ]
     },
     {
-      "id": "801893cf8d",
-      "headline": "Tecon Santos 10 abre nova rota para atuação do Cade em concessões",
-      "source": "Exame",
-      "link": "https://exame.com/exame-in/tecon-santos-10-abre-nova-rota-para-atuacao-do-cade-em-concessoes/",
-      "time": "hoje, 04:15",
-      "dt_iso": "2026-09-11T07:15:58+00:00",
-      "summary": "Medida pode obrigar MSC e Maersk a uma nova análise concorrencial caso uma delas vença o leilão",
-      "category": "logistica",
-      "keywords": [
-        "maersk",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "31529d05cf",
       "headline": "Luciano Hang conhece na Europa torre robotizada de 40 metros em viagem para inspirar expansão do Centro de Distribuição da Havan - NSC Total",
       "source": "NSC Total",
       "link": "https://www.nsctotal.com.br",
-      "time": "hoje, 15:52",
+      "time": "ontem, 15:52",
       "dt_iso": "2026-09-10T18:52:58+00:00",
       "summary": "Luciano Hang conhece na Europa torre robotizada de 40 metros em viagem para inspirar expansão do Centro de Distribuição da Havan &nbsp;&nbsp; NSC Total",
       "category": "expansao",
@@ -446,32 +385,51 @@
       ]
     },
     {
-      "id": "1cf4e113a1",
-      "headline": "Amazon abre 1º centro de distribuição no ES com previsão de entregas no mesmo dia - Folha do ES",
-      "source": "Folhadoes",
-      "link": "https://folhadoes.com",
-      "time": "hoje, 23:47",
-      "dt_iso": "2026-09-11T02:47:35+00:00",
-      "summary": "Amazon abre 1º centro de distribuição no ES com previsão de entregas no mesmo dia &nbsp;&nbsp; Folha do ES",
+      "id": "89ab448744",
+      "headline": "Amazon inaugura 1º centro de distribuição no ES - ES Brasil",
+      "source": "Esbrasil",
+      "link": "https://esbrasil.com.br",
+      "time": "hoje, 18:24",
+      "dt_iso": "2026-09-10T21:24:18+00:00",
+      "summary": "Amazon inaugura 1º centro de distribuição no ES &nbsp;&nbsp; ES Brasil",
       "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
-        "abre"
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "E-commerce"
       ]
     },
     {
+      "id": "24f46e6410",
+      "headline": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história - Banda B",
+      "source": "Bandab",
+      "link": "https://www.bandab.com.br",
+      "time": "hoje, 13:43",
+      "dt_iso": "2026-09-11T16:43:00+00:00",
+      "summary": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história &nbsp;&nbsp; Banda B",
+      "category": "logistica",
+      "keywords": [
+        "armazém",
+        "construiu"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "238469fe9a",
-      "headline": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos - Expresso das Ilhas",
+      "headline": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos - expressodasilhas.cv",
       "source": "Expressodasilhas",
       "link": "https://expressodasilhas.cv",
-      "time": "ontem, 13:13",
+      "time": "09/09 às 13:13",
       "dt_iso": "2026-09-09T16:13:00+00:00",
-      "summary": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos &nbsp;&nbsp; Expresso das Ilhas",
+      "summary": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos &nbsp;&nbsp; expressodasilhas.cv",
       "category": "logistica",
       "keywords": [
         "armazém",
@@ -485,12 +443,12 @@
     },
     {
       "id": "b389d7e21f",
-      "headline": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior - Estadão",
+      "headline": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior - estadao.com.br",
       "source": "Estadão",
       "link": "https://www.estadao.com.br",
       "time": "08/09 às 21:57",
       "dt_iso": "2026-09-09T00:57:00+00:00",
-      "summary": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior &nbsp;&nbsp; Estadão",
+      "summary": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior &nbsp;&nbsp; estadao.com.br",
       "category": "logistica",
       "keywords": [
         "galpões",
@@ -503,11 +461,30 @@
       ]
     },
     {
+      "id": "4a9ee4d868",
+      "headline": "Shopee amplia rede em 60% e chega a 5 mil pontos de coleta e retirada no Brasil - Paraíba Business",
+      "source": "Paraibabusiness",
+      "link": "https://paraibabusiness.com.br",
+      "time": "hoje, 13:30",
+      "dt_iso": "2026-09-11T16:30:00+00:00",
+      "summary": "Shopee amplia rede em 60% e chega a 5 mil pontos de coleta e retirada no Brasil &nbsp;&nbsp; Paraíba Business",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "f56b93015b",
       "headline": "Mercado Livre (MELI34) busca US$ 1 bilhão no exterior e mira expansão; veja - Investidor10",
       "source": "Investidor10",
       "link": "https://investidor10.com.br",
-      "time": "hoje, 10:10",
+      "time": "ontem, 10:10",
       "dt_iso": "2026-09-10T13:10:47+00:00",
       "summary": "Mercado Livre (MELI34) busca US$ 1 bilhão no exterior e mira expansão; veja &nbsp;&nbsp; Investidor10",
       "category": "expansao",
@@ -519,6 +496,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "63354e21b1",
+      "headline": "Após encerrar entregas nacionais, FedEx investe R$ 75 milhões - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "hoje, 16:24",
+      "dt_iso": "2026-09-10T19:24:44+00:00",
+      "summary": "Após encerrar entregas nacionais, FedEx investe R$ 75 milhões &nbsp;&nbsp; Transporte Moderno",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -542,12 +538,12 @@
     },
     {
       "id": "ae7734dadd",
-      "headline": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas - aquinoticias.com",
+      "headline": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas - Aqui Notícias",
       "source": "Aquinoticias",
       "link": "https://aquinoticias.com",
       "time": "hoje, 17:00",
       "dt_iso": "2026-09-10T20:00:53+00:00",
-      "summary": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas &nbsp;&nbsp; aquinoticias.com",
+      "summary": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas &nbsp;&nbsp; Aqui Notícias",
       "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
