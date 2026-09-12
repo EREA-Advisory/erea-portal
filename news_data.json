@@ -1,5 +1,5 @@
 {
-  "gerado_em": "12/09/2026 às 09:27",
+  "gerado_em": "12/09/2026 às 15:04",
   "total": 30,
   "noticias": [
     {
@@ -29,7 +29,7 @@
       "headline": "Mercado Livre supera Shopee e terá a maior locação de galpão do Brasil - Cushman & Wakefield",
       "source": "Cushmanwakefield",
       "link": "https://www.cushmanwakefield.com",
-      "time": "ontem, 12:03",
+      "time": "10/09 às 12:03",
       "dt_iso": "2026-09-10T15:03:22+00:00",
       "summary": "Mercado Livre supera Shopee e terá a maior locação de galpão do Brasil &nbsp;&nbsp; Cushman & Wakefield",
       "category": "ecommerce",
@@ -93,7 +93,7 @@
       "headline": "DHL Supply Chain fortalece operação logística da Bristol Myers Squibb em Extrema (MG) - Fator Brasil",
       "source": "Revistafatorbrasil",
       "link": "https://www.revistafatorbrasil.com.br",
-      "time": "ontem, 14:11",
+      "time": "10/09 às 14:11",
       "dt_iso": "2026-09-10T17:11:29+00:00",
       "summary": "DHL Supply Chain fortalece operação logística da Bristol Myers Squibb em Extrema (MG) &nbsp;&nbsp; Fator Brasil",
       "category": "logistica",
@@ -110,13 +110,34 @@
       ]
     },
     {
+      "id": "40aca2081e",
+      "headline": "FedEx anuncia mais de R$ 75 milhões em investimentos e amplia operação no Brasil - Portal N10",
+      "source": "Portaln10",
+      "link": "https://portaln10.com.br",
+      "time": "ontem, 18:58",
+      "dt_iso": "2026-09-10T21:58:18+00:00",
+      "summary": "FedEx anuncia mais de R$ 75 milhões em investimentos e amplia operação no Brasil &nbsp;&nbsp; Portal N10",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "amplia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "6b677df9a6",
-      "headline": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&A e Riachuelo - euqueroinvestir.com",
+      "headline": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&A e Riachuelo - EuQueroInvestir",
       "source": "Euqueroinvestir",
       "link": "https://euqueroinvestir.com",
       "time": "09/09 às 11:48",
       "dt_iso": "2026-09-09T14:48:13+00:00",
-      "summary": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&amp;A e Riachuelo &nbsp;&nbsp; euqueroinvestir.com",
+      "summary": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&amp;A e Riachuelo &nbsp;&nbsp; EuQueroInvestir",
       "category": "logistica",
       "keywords": [
         "renner",
@@ -132,12 +153,12 @@
     },
     {
       "id": "6080a0f074",
-      "headline": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste - diariodocomercio.com.br",
+      "headline": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste - Diário do Comércio",
       "source": "Diariodocomercio",
       "link": "https://diariodocomercio.com.br",
       "time": "06/09 às 05:02",
       "dt_iso": "2026-09-06T08:02:00+00:00",
-      "summary": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste &nbsp;&nbsp; diariodocomercio.com.br",
+      "summary": "Growth Supplements inaugura centro de distribuição em Minas para acelerar expansão no Sudeste &nbsp;&nbsp; Diário do Comércio",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -148,26 +169,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "a96bc58779",
-      "headline": "FedEx anuncia investimentos em sua operação no Brasil - Mirian Gasparin",
-      "source": "Miriangasparin",
-      "link": "https://miriangasparin.com.br",
-      "time": "ontem, 22:21",
-      "dt_iso": "2026-09-11T01:21:36+00:00",
-      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; Mirian Gasparin",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -192,12 +193,12 @@
     },
     {
       "id": "a41a67a959",
-      "headline": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais - moneytimes.com.br",
+      "headline": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
       "time": "09/09 às 16:55",
       "dt_iso": "2026-09-09T19:55:00+00:00",
-      "summary": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais &nbsp;&nbsp; moneytimes.com.br",
+      "summary": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais &nbsp;&nbsp; Money Times",
       "category": "expansao",
       "keywords": [
         "shein",
@@ -234,7 +235,7 @@
       "headline": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora - Portal 14B",
       "source": "Portal14B",
       "link": "https://portal14b.com.br",
-      "time": "hoje, 10:48",
+      "time": "ontem, 10:48",
       "dt_iso": "2026-09-11T13:48:00+00:00",
       "summary": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; Portal 14B",
       "category": "ecommerce",
@@ -293,7 +294,7 @@
       "headline": "Magalu Cloud cresceu 10x desde 2025 - Baguete",
       "source": "Baguete",
       "link": "https://www.baguete.com.br",
-      "time": "ontem, 10:08",
+      "time": "10/09 às 10:08",
       "dt_iso": "2026-09-10T13:08:00+00:00",
       "summary": "Magalu Cloud cresceu 10x desde 2025 &nbsp;&nbsp; Baguete",
       "category": "logistica",
@@ -329,12 +330,12 @@
     },
     {
       "id": "31529d05cf",
-      "headline": "Luciano Hang conhece na Europa torre robotizada de 40 metros em viagem para inspirar expansão do Centro de Distribuição da Havan - nsctotal.com.br",
+      "headline": "Luciano Hang conhece na Europa torre robotizada de 40 metros em viagem para inspirar expansão do Centro de Distribuição da Havan - NSC Total",
       "source": "NSC Total",
       "link": "https://www.nsctotal.com.br",
       "time": "ontem, 15:52",
       "dt_iso": "2026-09-10T18:52:58+00:00",
-      "summary": "Luciano Hang conhece na Europa torre robotizada de 40 metros em viagem para inspirar expansão do Centro de Distribuição da Havan &nbsp;&nbsp; nsctotal.com.br",
+      "summary": "Luciano Hang conhece na Europa torre robotizada de 40 metros em viagem para inspirar expansão do Centro de Distribuição da Havan &nbsp;&nbsp; NSC Total",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -367,12 +368,12 @@
     },
     {
       "id": "89ab448744",
-      "headline": "Amazon inaugura 1º centro de distribuição no ES - esbrasil.com.br",
+      "headline": "Amazon inaugura 1º centro de distribuição no ES - ES Brasil",
       "source": "Esbrasil",
       "link": "https://esbrasil.com.br",
       "time": "ontem, 18:24",
       "dt_iso": "2026-09-10T21:24:18+00:00",
-      "summary": "Amazon inaugura 1º centro de distribuição no ES &nbsp;&nbsp; esbrasil.com.br",
+      "summary": "Amazon inaugura 1º centro de distribuição no ES &nbsp;&nbsp; ES Brasil",
       "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
@@ -427,7 +428,7 @@
       "headline": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história - Banda B",
       "source": "Bandab",
       "link": "https://www.bandab.com.br",
-      "time": "hoje, 13:43",
+      "time": "ontem, 13:43",
       "dt_iso": "2026-09-11T16:43:00+00:00",
       "summary": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história &nbsp;&nbsp; Banda B",
       "category": "logistica",
@@ -465,7 +466,7 @@
       "headline": "Shopee amplia rede em 60% e chega a 5 mil pontos de coleta e retirada no Brasil - Paraíba Business",
       "source": "Paraibabusiness",
       "link": "https://paraibabusiness.com.br",
-      "time": "hoje, 13:30",
+      "time": "ontem, 13:30",
       "dt_iso": "2026-09-11T16:30:00+00:00",
       "summary": "Shopee amplia rede em 60% e chega a 5 mil pontos de coleta e retirada no Brasil &nbsp;&nbsp; Paraíba Business",
       "category": "ecommerce",
@@ -481,12 +482,12 @@
     },
     {
       "id": "b389d7e21f",
-      "headline": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior - Estadão",
+      "headline": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior - estadao.com.br",
       "source": "Estadão",
       "link": "https://www.estadao.com.br",
       "time": "08/09 às 21:57",
       "dt_iso": "2026-09-09T00:57:00+00:00",
-      "summary": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior &nbsp;&nbsp; Estadão",
+      "summary": "Falta de terrenos em SP ajuda a ampliar projetos de galpões ao interior &nbsp;&nbsp; estadao.com.br",
       "category": "logistica",
       "keywords": [
         "galpões",
@@ -503,7 +504,7 @@
       "headline": "Mercado Livre (MELI34) busca US$ 1 bilhão no exterior e mira expansão; veja - Investidor10",
       "source": "Investidor10",
       "link": "https://investidor10.com.br",
-      "time": "ontem, 10:10",
+      "time": "10/09 às 10:10",
       "dt_iso": "2026-09-10T13:10:47+00:00",
       "summary": "Mercado Livre (MELI34) busca US$ 1 bilhão no exterior e mira expansão; veja &nbsp;&nbsp; Investidor10",
       "category": "expansao",
@@ -557,12 +558,12 @@
     },
     {
       "id": "ae7734dadd",
-      "headline": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas - Aqui Notícias",
+      "headline": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas - aquinoticias.com",
       "source": "Aquinoticias",
       "link": "https://aquinoticias.com",
       "time": "ontem, 17:00",
       "dt_iso": "2026-09-10T20:00:53+00:00",
-      "summary": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas &nbsp;&nbsp; Aqui Notícias",
+      "summary": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas &nbsp;&nbsp; aquinoticias.com",
       "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
