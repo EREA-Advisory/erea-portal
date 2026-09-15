@@ -1,5 +1,5 @@
 {
-  "gerado_em": "15/09/2026 às 10:55",
+  "gerado_em": "15/09/2026 às 16:31",
   "total": 33,
   "noticias": [
     {
@@ -42,27 +42,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
-        "Expansão"
-      ]
-    },
-    {
-      "id": "36fa575cd0",
-      "headline": "De olho no aftermarket, Tupy investe na ampliação do centro de distribuição - NSC Total",
-      "source": "NSC Total",
-      "link": "https://www.nsctotal.com.br",
-      "time": "11/09 às 18:07",
-      "dt_iso": "2026-09-11T21:07:16+00:00",
-      "summary": "De olho no aftermarket, Tupy investe na ampliação do centro de distribuição &nbsp;&nbsp; NSC Total",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "amplia",
-        "ampliação",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
         "Expansão"
       ]
     },
@@ -192,13 +171,33 @@
       ]
     },
     {
+      "id": "c8f8b94c4d",
+      "headline": "FedEx amplia rede logística com novas unidades - Gazeta do Povo",
+      "source": "Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br",
+      "time": "hoje, 12:43",
+      "dt_iso": "2026-09-15T15:43:00+00:00",
+      "summary": "FedEx amplia rede logística com novas unidades &nbsp;&nbsp; Gazeta do Povo",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "amplia",
+        "novas unidades"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "92ce03e638",
-      "headline": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora - portal14b.com.br",
+      "headline": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora - Portal 14B",
       "source": "Portal14B",
       "link": "https://portal14b.com.br",
       "time": "11/09 às 10:48",
       "dt_iso": "2026-09-11T13:48:00+00:00",
-      "summary": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; portal14b.com.br",
+      "summary": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; Portal 14B",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -212,12 +211,12 @@
     },
     {
       "id": "a41a67a959",
-      "headline": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais - Money Times",
+      "headline": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais - moneytimes.com.br",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
       "time": "09/09 às 16:55",
       "dt_iso": "2026-09-09T19:55:00+00:00",
-      "summary": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais &nbsp;&nbsp; Money Times",
+      "summary": "Shein amplia vantagem de preço no Brasil, e Zara retoma expansão; concorrência estrangeira aperta varejistas locais &nbsp;&nbsp; moneytimes.com.br",
       "category": "expansao",
       "keywords": [
         "shein",
@@ -232,12 +231,12 @@
     },
     {
       "id": "68def3f01e",
-      "headline": "Magalu Cloud cresceu 10x desde 2025 - baguete.com.br",
+      "headline": "Magalu Cloud cresceu 10x desde 2025 - Baguete",
       "source": "Baguete",
       "link": "https://www.baguete.com.br",
       "time": "10/09 às 10:08",
       "dt_iso": "2026-09-10T13:08:00+00:00",
-      "summary": "Magalu Cloud cresceu 10x desde 2025 &nbsp;&nbsp; baguete.com.br",
+      "summary": "Magalu Cloud cresceu 10x desde 2025 &nbsp;&nbsp; Baguete",
       "category": "logistica",
       "keywords": [
         "magalu",
@@ -270,30 +269,11 @@
       ]
     },
     {
-      "id": "34c0bcd1c6",
-      "headline": "São Paulo concentra mais da metade dos galpões alugados na América Latina",
-      "source": "Exame",
-      "link": "https://exame.com/mercado-imobiliario/sao-paulo-concentra-mais-da-metade-dos-galpoes-alugados-na-america-latina/",
-      "time": "hoje, 07:35",
-      "dt_iso": "2026-09-15T10:35:26+00:00",
-      "summary": "Mercado paulista respondeu por 56% da absorção logística na região; e-commerce impulsiona ocupação",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "aluga"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "1318f01f70",
       "headline": "FedEx investe R$ 75 milhões para expandir operações no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 12:55",
+      "time": "ontem, 12:55",
       "dt_iso": "2026-09-14T15:55:32+00:00",
       "summary": "FedEx investe R$ 75 milhões para expandir operações no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -303,6 +283,25 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "347d73f470",
+      "headline": "Shopee amplia rede de agências em 60% e chega a 5 mil pontos no Brasil - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 14:47",
+      "dt_iso": "2026-09-15T17:47:06+00:00",
+      "summary": "Shopee amplia rede de agências em 60% e chega a 5 mil pontos no Brasil &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -403,32 +402,13 @@
       ]
     },
     {
-      "id": "24f46e6410",
-      "headline": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história - Banda B",
-      "source": "Bandab",
-      "link": "https://www.bandab.com.br",
-      "time": "11/09 às 13:43",
-      "dt_iso": "2026-09-11T16:43:00+00:00",
-      "summary": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história &nbsp;&nbsp; Banda B",
-      "category": "logistica",
-      "keywords": [
-        "armazém",
-        "construiu"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "62188285eb",
-      "headline": "DHL amplia capacidade de triagem do centro de encomendas de Colônia-Eifeltor - Notícias e Estatísticas - indexbox.io",
+      "headline": "DHL amplia capacidade de triagem do centro de encomendas de Colônia-Eifeltor - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
       "time": "11/09 às 16:10",
       "dt_iso": "2026-09-11T19:10:40+00:00",
-      "summary": "DHL amplia capacidade de triagem do centro de encomendas de Colônia-Eifeltor - Notícias e Estatísticas &nbsp;&nbsp; indexbox.io",
+      "summary": "DHL amplia capacidade de triagem do centro de encomendas de Colônia-Eifeltor - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -442,12 +422,12 @@
     },
     {
       "id": "238469fe9a",
-      "headline": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos - expressodasilhas.cv",
+      "headline": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos - Expresso das Ilhas",
       "source": "Expressodasilhas",
       "link": "https://expressodasilhas.cv",
       "time": "09/09 às 13:13",
       "dt_iso": "2026-09-09T16:13:00+00:00",
-      "summary": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos &nbsp;&nbsp; expressodasilhas.cv",
+      "summary": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos &nbsp;&nbsp; Expresso das Ilhas",
       "category": "logistica",
       "keywords": [
         "armazém",
@@ -455,6 +435,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3b89c175a8",
+      "headline": "Guarulhos vive boom de galpões logísticos: o que explica o crescimento e quais são as tendências para os próximos meses? - Click Guarulhos",
+      "source": "Clickguarulhos",
+      "link": "https://www.clickguarulhos.com.br",
+      "time": "hoje, 09:05",
+      "dt_iso": "2026-09-15T12:05:54+00:00",
+      "summary": "Guarulhos vive boom de galpões logísticos: o que explica o crescimento e quais são as tendências para os próximos meses? &nbsp;&nbsp; Click Guarulhos",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Região(ões) mencionada(s): Guarulhos.",
       "badges": [
         "Logística"
       ]
@@ -540,7 +539,7 @@
       "headline": "Agências Shopee crescem mais de 60% em um ano no Brasil - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "hoje, 15:44",
+      "time": "ontem, 15:44",
       "dt_iso": "2026-09-14T18:44:45+00:00",
       "summary": "Agências Shopee crescem mais de 60% em um ano no Brasil &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
@@ -555,36 +554,17 @@
       ]
     },
     {
-      "id": "a1f4d4a338",
-      "headline": "Gigante da entregas vai abrir nova unidade logística em Curitiba - Tribuna do Paraná",
-      "source": "Tribunapr",
-      "link": "https://www.tribunapr.com.br",
-      "time": "há 55 min",
-      "dt_iso": "2026-09-15T12:59:00+00:00",
-      "summary": "Gigante da entregas vai abrir nova unidade logística em Curitiba &nbsp;&nbsp; Tribuna do Paraná",
-      "category": "expansao",
-      "keywords": [
-        "unidade logística",
-        "nova unidade"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Região(ões) mencionada(s): Curitiba.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "778833205c",
-      "headline": "Shopee expande estrutura logística e chega a 5 mil pontos parceiros no país - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "há 56 min",
-      "dt_iso": "2026-09-15T12:57:42+00:00",
-      "summary": "Shopee expande estrutura logística e chega a 5 mil pontos parceiros no país &nbsp;&nbsp; Giro News",
+      "id": "6d4cd796d4",
+      "headline": "Beiersdorf e ID Logistics ampliam parceria após 10 anos para atender mais clientes no Brasil - bra1.com.br",
+      "source": "Bra1",
+      "link": "https://www.bra1.com.br",
+      "time": "hoje, 12:29",
+      "dt_iso": "2026-09-15T15:29:00+00:00",
+      "summary": "Beiersdorf e ID Logistics ampliam parceria após 10 anos para atender mais clientes no Brasil &nbsp;&nbsp; bra1.com.br",
       "category": "logistica",
       "keywords": [
-        "shopee",
-        "expande"
+        "id logistics",
+        "amplia"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -594,16 +574,35 @@
     },
     {
       "id": "15b009a7bf",
-      "headline": "Desabamento de galpão em construção deixa quatro mortos e dois feridos na Bahia - Bnews",
+      "headline": "Desabamento de galpão em construção deixa quatro mortos e dois feridos na Bahia - bnews.com.br",
       "source": "Bnews",
       "link": "https://www.bnews.com.br",
       "time": "11/09 às 07:03",
       "dt_iso": "2026-09-11T10:03:00+00:00",
-      "summary": "Desabamento de galpão em construção deixa quatro mortos e dois feridos na Bahia &nbsp;&nbsp; Bnews",
+      "summary": "Desabamento de galpão em construção deixa quatro mortos e dois feridos na Bahia &nbsp;&nbsp; bnews.com.br",
       "category": "logistica",
       "keywords": [
         "galpão",
         "construção"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "ac64c4dcad",
+      "headline": "Receita da Total Express cresce, mas lucro recua - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "hoje, 11:11",
+      "dt_iso": "2026-09-15T14:11:00+00:00",
+      "summary": "Receita da Total Express cresce, mas lucro recua &nbsp;&nbsp; Transporte Moderno",
+      "category": "logistica",
+      "keywords": [
+        "total express",
+        "cresce"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
