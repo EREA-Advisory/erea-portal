@@ -1,6 +1,6 @@
 {
-  "gerado_em": "16/09/2026 às 10:48",
-  "total": 35,
+  "gerado_em": "16/09/2026 às 16:22",
+  "total": 33,
   "noticias": [
     {
       "id": "615769d53a",
@@ -46,13 +46,34 @@
       ]
     },
     {
-      "id": "36a6eecf83",
-      "headline": "Mercado Livre x Shopee: quase 900 mil m² de novas locações na corrida por galpões no 2T - revista.buildings.com.br",
+      "id": "36fa575cd0",
+      "headline": "De olho no aftermarket, Tupy investe na ampliação do centro de distribuição - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "11/09 às 18:07",
+      "dt_iso": "2026-09-11T21:07:16+00:00",
+      "summary": "De olho no aftermarket, Tupy investe na ampliação do centro de distribuição &nbsp;&nbsp; NSC Total",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "amplia",
+        "ampliação",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "b92d63ece1",
+      "headline": "Mercado Livre x Shopee: mais de 1,1 milhão de m² de novas locações na corrida por galpões no 2T - Revista Buildings",
       "source": "Buildings",
       "link": "https://revista.buildings.com.br",
-      "time": "09/09 às 15:32",
-      "dt_iso": "2026-09-09T18:32:21+00:00",
-      "summary": "Mercado Livre x Shopee: quase 900 mil m² de novas locações na corrida por galpões no 2T &nbsp;&nbsp; revista.buildings.com.br",
+      "time": "09/09 às 23:31",
+      "dt_iso": "2026-09-10T02:31:26+00:00",
+      "summary": "Mercado Livre x Shopee: mais de 1,1 milhão de m² de novas locações na corrida por galpões no 2T &nbsp;&nbsp; Revista Buildings",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -64,27 +85,6 @@
       "badges": [
         "Destaque",
         "E-commerce"
-      ]
-    },
-    {
-      "id": "9194ccc0a1",
-      "headline": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado - jornalpanoramaminas.com.br",
-      "source": "Jornalpanoramaminas",
-      "link": "https://jornalpanoramaminas.com.br",
-      "time": "09/09 às 16:07",
-      "dt_iso": "2026-09-09T19:07:38+00:00",
-      "summary": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado &nbsp;&nbsp; jornalpanoramaminas.com.br",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "operação logística",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
       ]
     },
     {
@@ -103,6 +103,27 @@
       ],
       "score": 8,
       "relevance": "Região(ões) mencionada(s): Extrema.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "9194ccc0a1",
+      "headline": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado - Maracaju Speed",
+      "source": "Maracajuspeed",
+      "link": "https://www.maracajuspeed.com.br",
+      "time": "09/09 às 18:02",
+      "dt_iso": "2026-09-09T21:02:48+00:00",
+      "summary": "Mercado Livre movimenta R$ 29 bilhões em Minas e amplia operação logística no Estado &nbsp;&nbsp; Maracaju Speed",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "operação logística",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -130,27 +151,6 @@
       ]
     },
     {
-      "id": "6b677df9a6",
-      "headline": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&A e Riachuelo - EuQueroInvestir",
-      "source": "Euqueroinvestir",
-      "link": "https://euqueroinvestir.com",
-      "time": "09/09 às 11:48",
-      "dt_iso": "2026-09-09T14:48:13+00:00",
-      "summary": "Zara volta a abrir lojas no Brasil e amplia pressão sobre Renner, C&amp;A e Riachuelo &nbsp;&nbsp; EuQueroInvestir",
-      "category": "logistica",
-      "keywords": [
-        "renner",
-        "riachuelo",
-        "c&a",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e38969b12c",
       "headline": "Iveco Group inaugura centro de distribuição de peças em Pouso Alegre com investimento de R$ 93 milhões - Tecnologística",
       "source": "Tecnologística",
@@ -171,11 +171,31 @@
       ]
     },
     {
+      "id": "60454d054a",
+      "headline": "Inauguração da maior câmara fria do Estado em PG reforça papel do Paraná como hub logístico - aRede - arede.info",
+      "source": "Arede",
+      "link": "https://arede.info",
+      "time": "hoje, 10:49",
+      "dt_iso": "2026-09-16T13:49:29+00:00",
+      "summary": "Inauguração da maior câmara fria do Estado em PG reforça papel do Paraná como hub logístico - aRede &nbsp;&nbsp; arede.info",
+      "category": "expansao",
+      "keywords": [
+        "hub logístico",
+        "inaugura",
+        "inauguração"
+      ],
+      "score": 7,
+      "relevance": "Demanda de imóvel frigorífico — mercado especializado com poucos ativos disponíveis. Expansão de hub/cross-docking — imóvel com alto fluxo de docas. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "c8f8b94c4d",
       "headline": "FedEx amplia rede logística com novas unidades - Gazeta do Povo",
       "source": "Gazeta do Povo",
       "link": "https://www.gazetadopovo.com.br",
-      "time": "hoje, 12:43",
+      "time": "ontem, 12:43",
       "dt_iso": "2026-09-15T15:43:00+00:00",
       "summary": "FedEx amplia rede logística com novas unidades &nbsp;&nbsp; Gazeta do Povo",
       "category": "logistica",
@@ -192,12 +212,12 @@
     },
     {
       "id": "92ce03e638",
-      "headline": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora - portal14b.com.br",
+      "headline": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora - Portal 14B",
       "source": "Portal14B",
       "link": "https://portal14b.com.br",
       "time": "11/09 às 10:48",
       "dt_iso": "2026-09-11T13:48:00+00:00",
-      "summary": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; portal14b.com.br",
+      "summary": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; Portal 14B",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -230,33 +250,13 @@
       ]
     },
     {
-      "id": "505c7c84d5",
-      "headline": "Magalu Cloud amplia oferta de IA e mira crescimento ambicioso - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "09/09 às 17:00",
-      "dt_iso": "2026-09-09T20:00:00+00:00",
-      "summary": "Magalu Cloud amplia oferta de IA e mira crescimento ambicioso &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "magalu",
-        "amplia",
-        "crescimento"
-      ],
-      "score": 7,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "68def3f01e",
-      "headline": "Magalu Cloud cresceu 10x desde 2025 - Baguete",
+      "headline": "Magalu Cloud cresceu 10x desde 2025 - Baguete.com.br",
       "source": "Baguete",
       "link": "https://www.baguete.com.br",
       "time": "10/09 às 10:08",
       "dt_iso": "2026-09-10T13:08:00+00:00",
-      "summary": "Magalu Cloud cresceu 10x desde 2025 &nbsp;&nbsp; Baguete",
+      "summary": "Magalu Cloud cresceu 10x desde 2025 &nbsp;&nbsp; Baguete.com.br",
       "category": "logistica",
       "keywords": [
         "magalu",
@@ -270,30 +270,11 @@
       ]
     },
     {
-      "id": "87fd41120b",
-      "headline": "Rio tem o galpão mais barato da América Latina. Santos ajuda a explicar por quê",
-      "source": "Exame",
-      "link": "https://exame.com/mercado-imobiliario/rio-tem-o-galpao-mais-barato-da-america-latina-santos-ajuda-a-explicar-por-que/",
-      "time": "hoje, 07:14",
-      "dt_iso": "2026-09-16T10:14:31+00:00",
-      "summary": "Mercado carioca tem aluguel médio de US$ 4,7 por metro quadrado e, mesmo assim, a vacância chega a 12,2%",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "1318f01f70",
       "headline": "FedEx investe R$ 75 milhões para expandir operações no Brasil - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 12:55",
+      "time": "14/09 às 12:55",
       "dt_iso": "2026-09-14T15:55:32+00:00",
       "summary": "FedEx investe R$ 75 milhões para expandir operações no Brasil &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -312,7 +293,7 @@
       "headline": "Shopee amplia rede de agências em 60% e chega a 5 mil pontos no Brasil - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 14:47",
+      "time": "ontem, 14:47",
       "dt_iso": "2026-09-15T17:47:06+00:00",
       "summary": "Shopee amplia rede de agências em 60% e chega a 5 mil pontos no Brasil &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -460,25 +441,6 @@
       ]
     },
     {
-      "id": "238469fe9a",
-      "headline": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos - Expresso das Ilhas",
-      "source": "Expressodasilhas",
-      "link": "https://expressodasilhas.cv",
-      "time": "09/09 às 13:13",
-      "dt_iso": "2026-09-09T16:13:00+00:00",
-      "summary": "​São Vicente: Armazém da FICASE reabre depois de obras de 29 mil contos &nbsp;&nbsp; Expresso das Ilhas",
-      "category": "logistica",
-      "keywords": [
-        "armazém",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "11dd738a91",
       "headline": "Iveco Expande Centro de Distribuição de Peças na América Latina - Portal Hortolândia",
       "source": "Portalhortolandia",
@@ -502,7 +464,7 @@
       "headline": "Agências Shopee crescem mais de 60% em um ano no Brasil - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "ontem, 15:44",
+      "time": "14/09 às 15:44",
       "dt_iso": "2026-09-14T18:44:45+00:00",
       "summary": "Agências Shopee crescem mais de 60% em um ano no Brasil &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
@@ -597,7 +559,7 @@
       "headline": "Beiersdorf e ID Logistics ampliam parceria após 10 anos para atender mais clientes no Brasil - bra1.com.br",
       "source": "Bra1",
       "link": "https://www.bra1.com.br",
-      "time": "hoje, 12:29",
+      "time": "ontem, 12:29",
       "dt_iso": "2026-09-15T15:29:00+00:00",
       "summary": "Beiersdorf e ID Logistics ampliam parceria após 10 anos para atender mais clientes no Brasil &nbsp;&nbsp; bra1.com.br",
       "category": "logistica",
@@ -635,7 +597,7 @@
       "headline": "Receita da Total Express cresce, mas lucro recua - Transporte Moderno",
       "source": "Transportemoderno",
       "link": "https://transportemoderno.com.br",
-      "time": "hoje, 11:11",
+      "time": "ontem, 11:11",
       "dt_iso": "2026-09-15T14:11:00+00:00",
       "summary": "Receita da Total Express cresce, mas lucro recua &nbsp;&nbsp; Transporte Moderno",
       "category": "logistica",
@@ -651,12 +613,12 @@
     },
     {
       "id": "ae7734dadd",
-      "headline": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas - aquinoticias.com",
+      "headline": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas - Aqui Notícias",
       "source": "Aquinoticias",
       "link": "https://aquinoticias.com",
       "time": "10/09 às 17:00",
       "dt_iso": "2026-09-10T20:00:53+00:00",
-      "summary": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas &nbsp;&nbsp; aquinoticias.com",
+      "summary": "Amazon inaugura primeiro centro de distribuição no Espírito Santo e promete entregas em até 24 horas &nbsp;&nbsp; Aqui Notícias",
       "category": "ecommerce",
       "keywords": [
         "centro de distribuição",
