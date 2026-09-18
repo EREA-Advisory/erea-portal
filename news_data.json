@@ -1,6 +1,6 @@
 {
-  "gerado_em": "18/09/2026 às 10:12",
-  "total": 27,
+  "gerado_em": "18/09/2026 às 15:51",
+  "total": 24,
   "noticias": [
     {
       "id": "9dad9b5502",
@@ -29,7 +29,7 @@
       "headline": "Shopee deve instalar novo centro de distribuição e ampliar operação logística no Sul de Minas - G1",
       "source": "G1",
       "link": "https://g1.globo.com",
-      "time": "há 37 min",
+      "time": "hoje, 09:34",
       "dt_iso": "2026-09-18T12:34:28+00:00",
       "summary": "Shopee deve instalar novo centro de distribuição e ampliar operação logística no Sul de Minas &nbsp;&nbsp; G1",
       "category": "logistica",
@@ -48,24 +48,25 @@
       ]
     },
     {
-      "id": "faac5cc896",
-      "headline": "Grupo Muffato planeja novo centro de distribuição para apoiar expansão - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "14/09 às 10:06",
-      "dt_iso": "2026-09-14T13:06:35+00:00",
-      "summary": "Grupo Muffato planeja novo centro de distribuição para apoiar expansão &nbsp;&nbsp; Giro News",
-      "category": "expansao",
+      "id": "fcfadaffb6",
+      "headline": "FedEx investe R$ 75 milhões na expansão de logística e supply chain no Brasil - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "15/09 às 17:49",
+      "dt_iso": "2026-09-15T20:49:32+00:00",
+      "summary": "FedEx investe R$ 75 milhões na expansão de logística e supply chain no Brasil &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "logistica",
       "keywords": [
-        "grupo muffato",
-        "centro de distribuição",
-        "expansão"
+        "fedex",
+        "supply chain",
+        "expansão",
+        "investe"
       ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "score": 9,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Destaque",
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -152,12 +153,12 @@
     },
     {
       "id": "c8f8b94c4d",
-      "headline": "FedEx amplia rede logística com novas unidades - gazetadopovo.com.br",
+      "headline": "FedEx amplia rede logística com novas unidades - Gazeta do Povo",
       "source": "Gazeta do Povo",
       "link": "https://www.gazetadopovo.com.br",
       "time": "15/09 às 12:43",
       "dt_iso": "2026-09-15T15:43:00+00:00",
-      "summary": "FedEx amplia rede logística com novas unidades &nbsp;&nbsp; gazetadopovo.com.br",
+      "summary": "FedEx amplia rede logística com novas unidades &nbsp;&nbsp; Gazeta do Povo",
       "category": "logistica",
       "keywords": [
         "fedex",
@@ -172,12 +173,12 @@
     },
     {
       "id": "a96bc58779",
-      "headline": "FedEx anuncia investimentos em sua operação no Brasil - Jornal do Brás",
-      "source": "Jornaldobras",
-      "link": "https://jornaldobras.com.br",
-      "time": "15/09 às 15:26",
-      "dt_iso": "2026-09-15T18:26:08+00:00",
-      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; Jornal do Brás",
+      "headline": "FedEx anuncia investimentos em sua operação no Brasil - gazetadasemana.com.br",
+      "source": "Gazetadasemana",
+      "link": "https://gazetadasemana.com.br",
+      "time": "ontem, 01:50",
+      "dt_iso": "2026-09-17T04:50:37+00:00",
+      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; gazetadasemana.com.br",
       "category": "logistica",
       "keywords": [
         "fedex",
@@ -191,51 +192,32 @@
       ]
     },
     {
-      "id": "92ce03e638",
-      "headline": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora - Portal 14B",
-      "source": "Portal14B",
-      "link": "https://portal14b.com.br",
-      "time": "11/09 às 10:48",
-      "dt_iso": "2026-09-11T13:48:00+00:00",
-      "summary": "Mercado Livre oferece salário de até R$ 2.400 e benefícios em novo Centro de Distribuição em Juiz de Fora &nbsp;&nbsp; Portal 14B",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "c4a23feacf",
-      "headline": "Shopee ocupou andares que eram do Master em prédio da Baleia na Faria Lima",
+      "id": "d78639df3e",
+      "headline": "De reciclagem a agrofloresta: como a Heineken faturou R$ 560 milhões com negócios de impacto",
       "source": "Exame",
-      "link": "https://exame.com/mercado-imobiliario/shopee-ocupou-andares-que-eram-do-master-em-predio-da-baleia-na-faria-lima/",
-      "time": "hoje, 06:30",
-      "dt_iso": "2026-09-18T09:30:28+00:00",
-      "summary": "Expansão da varejista chinesa no B32 ocorreu após devolução de cinco andares pelo banco. Assista em 'Por trás do Tijolo'",
-      "category": "expansao",
+      "link": "https://exame.com/esg/de-reciclagem-a-agrofloresta-como-a-heineken-faturou-r-560-milhoes-com-negocios-de-impacto/",
+      "time": "hoje, 11:00",
+      "dt_iso": "2026-09-18T14:00:48+00:00",
+      "summary": "Criado há dois anos com investimento inicial de R$ 150 milhões, ecossistema reúne marcas, energia renovável e circularidade. “É uma operação financeiramente sustentável”, diz VP à EXAME",
+      "category": "investimento",
       "keywords": [
-        "shopee",
-        "expansão"
+        "heineken",
+        "investimento"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Expansão"
+        "Investimento"
       ]
     },
     {
-      "id": "1318f01f70",
-      "headline": "FedEx investe R$ 75 milhões para expandir operações no Brasil - Mundo Logística",
+      "id": "b47cae02cf",
+      "headline": "FedEx investe R$ 75 mi para expandir operações no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "14/09 às 12:55",
       "dt_iso": "2026-09-14T15:55:32+00:00",
-      "summary": "FedEx investe R$ 75 milhões para expandir operações no Brasil &nbsp;&nbsp; Mundo Logística",
+      "summary": "FedEx investe R$ 75 mi para expandir operações no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "fedex",
@@ -300,25 +282,6 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "24f46e6410",
-      "headline": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história - Banda B",
-      "source": "Bandab",
-      "link": "https://www.bandab.com.br",
-      "time": "11/09 às 13:43",
-      "dt_iso": "2026-09-11T16:43:00+00:00",
-      "summary": "Do armazém no Boqueirão a 20 lojas: conheça a trajetória de como o Jacomar construiu 60 anos de história &nbsp;&nbsp; Banda B",
-      "category": "logistica",
-      "keywords": [
-        "armazém",
-        "construiu"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -400,20 +363,20 @@
       ]
     },
     {
-      "id": "3b89c175a8",
-      "headline": "Guarulhos vive boom de galpões logísticos: o que explica o crescimento e quais são as tendências para os próximos meses? - Click Guarulhos",
-      "source": "Clickguarulhos",
-      "link": "https://www.clickguarulhos.com.br",
-      "time": "15/09 às 09:05",
-      "dt_iso": "2026-09-15T12:05:54+00:00",
-      "summary": "Guarulhos vive boom de galpões logísticos: o que explica o crescimento e quais são as tendências para os próximos meses? &nbsp;&nbsp; Click Guarulhos",
+      "id": "f5fa07da12",
+      "headline": "DHL Global Forwarding expande parceria com SkyCell para logística farmacêutica na América do Sul - Fator Brasil",
+      "source": "Revistafatorbrasil",
+      "link": "https://www.revistafatorbrasil.com.br",
+      "time": "hoje, 05:30",
+      "dt_iso": "2026-09-18T08:30:39+00:00",
+      "summary": "DHL Global Forwarding expande parceria com SkyCell para logística farmacêutica na América do Sul &nbsp;&nbsp; Fator Brasil",
       "category": "logistica",
       "keywords": [
-        "galpões",
-        "crescimento"
+        "dhl",
+        "expande"
       ],
       "score": 6,
-      "relevance": "Região(ões) mencionada(s): Guarulhos.",
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -476,39 +439,20 @@
       ]
     },
     {
-      "id": "e89f79b465",
-      "headline": "Com carteira de R$ 8 bilhões, Shopee avança em crédito e amplia disputa dos marketplaces - NeoFeed",
-      "source": "Neofeed",
-      "link": "https://neofeed.com.br",
-      "time": "hoje, 12:35",
-      "dt_iso": "2026-09-17T15:35:00+00:00",
-      "summary": "Com carteira de R$ 8 bilhões, Shopee avança em crédito e amplia disputa dos marketplaces &nbsp;&nbsp; NeoFeed",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "fd557cd603",
-      "headline": "Mercado Livre lidera crescimento nas menções durante Black Friday 2026 - boca.com.br",
-      "source": "Boca",
-      "link": "https://boca.com.br",
-      "time": "hoje, 17:58",
-      "dt_iso": "2026-09-17T20:58:28+00:00",
-      "summary": "Mercado Livre lidera crescimento nas menções durante Black Friday 2026 &nbsp;&nbsp; boca.com.br",
+      "id": "fbc54db86c",
+      "headline": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "hoje, 19:30",
+      "dt_iso": "2026-09-17T22:30:00+00:00",
+      "summary": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo &nbsp;&nbsp; Estadão",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "crescimento"
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
       ]
