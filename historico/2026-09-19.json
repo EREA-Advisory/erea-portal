@@ -1,6 +1,6 @@
 {
-  "gerado_em": "19/09/2026 às 09:44",
-  "total": 22,
+  "gerado_em": "19/09/2026 às 15:24",
+  "total": 24,
   "noticias": [
     {
       "id": "9dad9b5502",
@@ -114,12 +114,12 @@
     },
     {
       "id": "9d3e7ed0cd",
-      "headline": "Mercado Livre, Shopee e indústrias: investimentos vão abrir mais de mil empregos em São Mateus - Folha Vitória",
+      "headline": "Mercado Livre, Shopee e indústrias: investimentos vão abrir mais de mil empregos em São Mateus - folhavitoria.com.br",
       "source": "Folhavitoria",
       "link": "https://www.folhavitoria.com.br",
       "time": "hoje, 08:00",
       "dt_iso": "2026-09-19T11:00:00+00:00",
-      "summary": "Mercado Livre, Shopee e indústrias: investimentos vão abrir mais de mil empregos em São Mateus &nbsp;&nbsp; Folha Vitória",
+      "summary": "Mercado Livre, Shopee e indústrias: investimentos vão abrir mais de mil empregos em São Mateus &nbsp;&nbsp; folhavitoria.com.br",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -176,12 +176,12 @@
     },
     {
       "id": "d7eccf4bca",
-      "headline": "Renner amplia atuação em Brasília e inaugura loja no Partage Lago Sul Shopping - Visite Brasília",
+      "headline": "Renner amplia atuação em Brasília e inaugura loja no Partage Lago Sul Shopping - visitebrasilia.com.br",
       "source": "Visitebrasilia",
       "link": "https://visitebrasilia.com.br",
       "time": "ontem, 19:53",
       "dt_iso": "2026-09-17T22:53:52+00:00",
-      "summary": "Renner amplia atuação em Brasília e inaugura loja no Partage Lago Sul Shopping &nbsp;&nbsp; Visite Brasília",
+      "summary": "Renner amplia atuação em Brasília e inaugura loja no Partage Lago Sul Shopping &nbsp;&nbsp; visitebrasilia.com.br",
       "category": "logistica",
       "keywords": [
         "renner",
@@ -192,26 +192,6 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "60454d054a",
-      "headline": "Inauguração da maior câmara fria do Estado em PG reforça papel do Paraná como hub logístico - aRede - aRede",
-      "source": "Arede",
-      "link": "https://arede.info",
-      "time": "16/09 às 10:49",
-      "dt_iso": "2026-09-16T13:49:29+00:00",
-      "summary": "Inauguração da maior câmara fria do Estado em PG reforça papel do Paraná como hub logístico - aRede &nbsp;&nbsp; aRede",
-      "category": "expansao",
-      "keywords": [
-        "hub logístico",
-        "inaugura",
-        "inauguração"
-      ],
-      "score": 7,
-      "relevance": "Demanda de imóvel frigorífico — mercado especializado com poucos ativos disponíveis. Expansão de hub/cross-docking — imóvel com alto fluxo de docas. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -235,36 +215,17 @@
       ]
     },
     {
-      "id": "e587212acc",
-      "headline": "El Niño aquece os planos da Vulp Air: R$ 130 milhões para crescer em assinaturas de ar-condicionado",
+      "id": "f98f7c5673",
+      "headline": "A história das duas letras que dão nome à C&A há quase dois séculos",
       "source": "Exame",
-      "link": "https://exame.com/exame-in/de-olho-no-el-nino-vulp-air-eleva-investimentos-em-climatizacao-para-r-130-milhoes/",
-      "time": "hoje, 05:00",
-      "dt_iso": "2026-09-19T08:00:37+00:00",
-      "summary": "Empresa captou R$ 30 milhões adicionais para renovar a frota, contratar funcionários e investir em tecnologia diante da expectativa de maior demanda com as ondas de calor",
+      "link": "https://exame.com/invest/mercados/a-historia-das-duas-letras-que-dao-nome-a-ca-ha-quase-dois-seculos/",
+      "time": "hoje, 08:00",
+      "dt_iso": "2026-09-19T11:00:50+00:00",
+      "summary": "Fundada na Holanda em 1841, C&#038;A levou 135 anos para chegar ao Brasil e abriu capital em 2019",
       "category": "logistica",
       "keywords": [
-        "natura",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ea2c2cc9f9",
-      "headline": "Cientistas descobrem molécula natural no olho que pode retardar perda de visão",
-      "source": "Exame",
-      "link": "https://exame.com/ciencia/cientistas-descobrem-molecula-natural-no-olho-que-pode-retardar-perda-de-visao/",
-      "time": "hoje, 05:00",
-      "dt_iso": "2026-09-19T08:00:32+00:00",
-      "summary": "Descoberta abre caminho para investigar novas estratégias contra doenças que provocam degeneração progressiva da retina",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "abre"
+        "c&a",
+        "abriu"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -325,6 +286,44 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "a3cff59810",
+      "headline": "Gigante do agro no Paraná investe R$ 20 mi e triplica Centro de Distribuição - tribunapr.com.br",
+      "source": "Tribunapr",
+      "link": "https://www.tribunapr.com.br",
+      "time": "hoje, 09:34",
+      "dt_iso": "2026-09-19T12:34:00+00:00",
+      "summary": "Gigante do agro no Paraná investe R$ 20 mi e triplica Centro de Distribuição &nbsp;&nbsp; tribunapr.com.br",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "be33bee64f",
+      "headline": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana - O Maringá",
+      "source": "Omaringa",
+      "link": "https://omaringa.com.br",
+      "time": "17/09 às 10:00",
+      "dt_iso": "2026-09-17T13:00:52+00:00",
+      "summary": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana &nbsp;&nbsp; O Maringá",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -391,8 +390,8 @@
       "headline": "Grupo LC investe R$ 70 milhões para construir mega condomínio logístico em Limeira - Diário de Justiça",
       "source": "Diariodejustica",
       "link": "https://diariodejustica.com.br",
-      "time": "ontem, 17:53",
-      "dt_iso": "2026-09-17T20:53:00+00:00",
+      "time": "ontem, 18:13",
+      "dt_iso": "2026-09-17T21:13:11+00:00",
       "summary": "Grupo LC investe R$ 70 milhões para construir mega condomínio logístico em Limeira &nbsp;&nbsp; Diário de Justiça",
       "category": "logistica",
       "keywords": [
@@ -425,11 +424,30 @@
       ]
     },
     {
+      "id": "fbc54db86c",
+      "headline": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "ontem, 19:30",
+      "dt_iso": "2026-09-17T22:30:00+00:00",
+      "summary": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo &nbsp;&nbsp; Estadão",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "e89f79b465",
       "headline": "Com carteira de R$ 8 bilhões, Shopee avança em crédito e amplia disputa dos marketplaces - NeoFeed",
       "source": "Neofeed",
       "link": "https://neofeed.com.br",
-      "time": "ontem, 12:35",
+      "time": "17/09 às 12:35",
       "dt_iso": "2026-09-17T15:35:00+00:00",
       "summary": "Com carteira de R$ 8 bilhões, Shopee avança em crédito e amplia disputa dos marketplaces &nbsp;&nbsp; NeoFeed",
       "category": "ecommerce",
@@ -441,6 +459,25 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "fff1dd3535",
+      "headline": "Assaí amplia oferta de suplementos em 15 lojas no Ceará - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "14/09 às 10:06",
+      "dt_iso": "2026-09-14T13:06:35+00:00",
+      "summary": "Assaí amplia oferta de suplementos em 15 lojas no Ceará &nbsp;&nbsp; Giro News",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     }
   ]
