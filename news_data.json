@@ -1,6 +1,6 @@
 {
-  "gerado_em": "21/09/2026 às 12:23",
-  "total": 24,
+  "gerado_em": "21/09/2026 às 17:16",
+  "total": 25,
   "noticias": [
     {
       "id": "9dad9b5502",
@@ -174,13 +174,33 @@
       ]
     },
     {
+      "id": "c8f8b94c4d",
+      "headline": "FedEx amplia rede logística com novas unidades - Gazeta do Povo",
+      "source": "Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br",
+      "time": "15/09 às 12:43",
+      "dt_iso": "2026-09-15T15:43:00+00:00",
+      "summary": "FedEx amplia rede logística com novas unidades &nbsp;&nbsp; Gazeta do Povo",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "amplia",
+        "novas unidades"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a96bc58779",
-      "headline": "FedEx anuncia investimentos em sua operação no Brasil - Jornal do Brás",
+      "headline": "FedEx anuncia investimentos em sua operação no Brasil - jornaldobras.com.br",
       "source": "Jornaldobras",
       "link": "https://jornaldobras.com.br",
       "time": "15/09 às 15:26",
       "dt_iso": "2026-09-15T18:26:08+00:00",
-      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; Jornal do Brás",
+      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; jornaldobras.com.br",
       "category": "logistica",
       "keywords": [
         "fedex",
@@ -189,25 +209,6 @@
       ],
       "score": 7,
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "b47cae02cf",
-      "headline": "FedEx investe R$ 75 mi para expandir operações no Brasil - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "14/09 às 12:55",
-      "dt_iso": "2026-09-14T15:55:32+00:00",
-      "summary": "FedEx investe R$ 75 mi para expandir operações no Brasil &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -289,6 +290,25 @@
       ]
     },
     {
+      "id": "0cf5449bc1",
+      "headline": "Ypê chega ao RS com investimento de R$ 161 milhões em centro de distribuição - Jornal do Comércio",
+      "source": "Jornaldocomercio",
+      "link": "https://www.jornaldocomercio.com",
+      "time": "hoje, 14:11",
+      "dt_iso": "2026-09-21T17:11:51+00:00",
+      "summary": "Ypê chega ao RS com investimento de R$ 161 milhões em centro de distribuição &nbsp;&nbsp; Jornal do Comércio",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "a3cff59810",
       "headline": "Gigante do agro no Paraná investe R$ 20 mi e triplica Centro de Distribuição - Tribuna do Paraná",
       "source": "Tribunapr",
@@ -309,12 +329,12 @@
     },
     {
       "id": "be33bee64f",
-      "headline": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana - O Maringá",
+      "headline": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana - omaringa.com.br",
       "source": "Omaringa",
       "link": "https://omaringa.com.br",
       "time": "17/09 às 10:00",
       "dt_iso": "2026-09-17T13:00:52+00:00",
-      "summary": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana &nbsp;&nbsp; O Maringá",
+      "summary": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana &nbsp;&nbsp; omaringa.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -343,25 +363,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Hortolândia.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "6c9351f7d5",
-      "headline": "Agências Shopee crescem mais de 60% em um ano no Brasil - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "14/09 às 15:44",
-      "dt_iso": "2026-09-14T18:44:45+00:00",
-      "summary": "Agências Shopee crescem mais de 60% em um ano no Brasil &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -455,6 +456,25 @@
       ],
       "score": 6,
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "fd557cd603",
+      "headline": "Mercado Livre lidera crescimento nas menções durante Black Friday 2026 - boca.com.br",
+      "source": "Boca",
+      "link": "https://boca.com.br",
+      "time": "17/09 às 17:58",
+      "dt_iso": "2026-09-17T20:58:28+00:00",
+      "summary": "Mercado Livre lidera crescimento nas menções durante Black Friday 2026 &nbsp;&nbsp; boca.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
       ]
