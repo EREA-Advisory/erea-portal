@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/09/2026 às 10:43",
-  "total": 30,
+  "gerado_em": "22/09/2026 às 16:33",
+  "total": 28,
   "noticias": [
     {
       "id": "9dad9b5502",
@@ -113,6 +113,25 @@
       ]
     },
     {
+      "id": "192a0467f7",
+      "headline": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 12:56",
+      "dt_iso": "2026-09-22T15:56:47+00:00",
+      "summary": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "e38969b12c",
       "headline": "Iveco Group inaugura centro de distribuição de peças em Pouso Alegre com investimento de R$ 93 milhões - Tecnologística",
       "source": "Tecnologística",
@@ -130,25 +149,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "c1ac5ee160",
-      "headline": "Shopee terá novo centro de distribuição de 14 mil metros em Pouso Alegre - Rede Moinho 24",
-      "source": "Redemoinho24",
-      "link": "https://redemoinho24.com",
-      "time": "17/09 às 18:37",
-      "dt_iso": "2026-09-17T21:37:43+00:00",
-      "summary": "Shopee terá novo centro de distribuição de 14 mil metros em Pouso Alegre &nbsp;&nbsp; Rede Moinho 24",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -172,33 +172,13 @@
       ]
     },
     {
-      "id": "c8f8b94c4d",
-      "headline": "FedEx amplia rede logística com novas unidades - Gazeta do Povo",
-      "source": "Gazeta do Povo",
-      "link": "https://www.gazetadopovo.com.br",
-      "time": "15/09 às 12:43",
-      "dt_iso": "2026-09-15T15:43:00+00:00",
-      "summary": "FedEx amplia rede logística com novas unidades &nbsp;&nbsp; Gazeta do Povo",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "amplia",
-        "novas unidades"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "a96bc58779",
-      "headline": "FedEx anuncia investimentos em sua operação no Brasil - Jornal do Brás",
-      "source": "Jornaldobras",
-      "link": "https://jornaldobras.com.br",
-      "time": "15/09 às 15:26",
-      "dt_iso": "2026-09-15T18:26:08+00:00",
-      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; Jornal do Brás",
+      "headline": "FedEx anuncia investimentos em sua operação no Brasil - al1.com.br",
+      "source": "Al1",
+      "link": "https://al1.com.br",
+      "time": "há 59 min",
+      "dt_iso": "2026-09-22T18:33:15+00:00",
+      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; al1.com.br",
       "category": "logistica",
       "keywords": [
         "fedex",
@@ -207,25 +187,6 @@
       ],
       "score": 7,
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "347d73f470",
-      "headline": "Shopee amplia rede de agências em 60% e chega a 5 mil pontos no Brasil - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "15/09 às 14:47",
-      "dt_iso": "2026-09-15T17:47:06+00:00",
-      "summary": "Shopee amplia rede de agências em 60% e chega a 5 mil pontos no Brasil &nbsp;&nbsp; MundoLogística",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -269,6 +230,25 @@
       ]
     },
     {
+      "id": "f51adcbe2a",
+      "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 12:45",
+      "dt_iso": "2026-09-22T15:45:32+00:00",
+      "summary": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "36e048ff42",
       "headline": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais - Tecnologística",
       "source": "Tecnologística",
@@ -289,12 +269,12 @@
     },
     {
       "id": "c492da2902",
-      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 - archdaily.com",
+      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 - ArchDaily",
       "source": "Archdaily",
       "link": "https://www.archdaily.com",
       "time": "19/09 às 05:21",
       "dt_iso": "2026-09-19T08:21:39+00:00",
-      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 &nbsp;&nbsp; archdaily.com",
+      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 &nbsp;&nbsp; ArchDaily",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -311,7 +291,7 @@
       "headline": "Ypê chega ao RS com investimento de R$ 161 milhões em centro de distribuição - Jornal do Comércio",
       "source": "Jornaldocomercio",
       "link": "https://www.jornaldocomercio.com",
-      "time": "hoje, 14:11",
+      "time": "ontem, 14:11",
       "dt_iso": "2026-09-21T17:11:51+00:00",
       "summary": "Ypê chega ao RS com investimento de R$ 161 milhões em centro de distribuição &nbsp;&nbsp; Jornal do Comércio",
       "category": "logistica",
@@ -346,12 +326,12 @@
     },
     {
       "id": "50f14d8a42",
-      "headline": "Loro Piana reforça a cadeia de abastecimento e inaugura no Piemonte um centro de excelência dedicado às peças de malha - pt.fashionnetwork.com",
+      "headline": "Loro Piana reforça a cadeia de abastecimento e inaugura no Piemonte um centro de excelência dedicado às peças de malha - FashionNetwork Portugal",
       "source": "Google News",
       "link": "https://pt.fashionnetwork.com",
       "time": "hoje, 06:28",
       "dt_iso": "2026-09-22T09:28:00+00:00",
-      "summary": "Loro Piana reforça a cadeia de abastecimento e inaugura no Piemonte um centro de excelência dedicado às peças de malha &nbsp;&nbsp; pt.fashionnetwork.com",
+      "summary": "Loro Piana reforça a cadeia de abastecimento e inaugura no Piemonte um centro de excelência dedicado às peças de malha &nbsp;&nbsp; FashionNetwork Portugal",
       "category": "logistica",
       "keywords": [
         "cadeia de abastecimento",
@@ -402,25 +382,6 @@
       ]
     },
     {
-      "id": "6d4cd796d4",
-      "headline": "Beiersdorf e ID Logistics ampliam parceria após 10 anos para atender mais clientes no Brasil - bra1.com.br",
-      "source": "Bra1",
-      "link": "https://www.bra1.com.br",
-      "time": "15/09 às 12:29",
-      "dt_iso": "2026-09-15T15:29:00+00:00",
-      "summary": "Beiersdorf e ID Logistics ampliam parceria após 10 anos para atender mais clientes no Brasil &nbsp;&nbsp; bra1.com.br",
-      "category": "logistica",
-      "keywords": [
-        "id logistics",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "127d496629",
       "headline": "Falta de armazenagem expõe gargalo da expansão agrícola brasileira - O Presente Rural",
       "source": "Opresenterural",
@@ -460,12 +421,12 @@
     },
     {
       "id": "fbc54db86c",
-      "headline": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo - Estadão",
+      "headline": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo - estadao.com.br",
       "source": "Estadão",
       "link": "https://www.estadao.com.br",
       "time": "17/09 às 19:30",
       "dt_iso": "2026-09-17T22:30:00+00:00",
-      "summary": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo &nbsp;&nbsp; Estadão",
+      "summary": "Mercado Livre e Amazon querem expansão no Brasil - Hoje no TecMundo &nbsp;&nbsp; estadao.com.br",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
