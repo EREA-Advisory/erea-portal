@@ -1,6 +1,6 @@
 {
-  "gerado_em": "23/09/2026 às 10:54",
-  "total": 28,
+  "gerado_em": "23/09/2026 às 16:26",
+  "total": 29,
   "noticias": [
     {
       "id": "9dad9b5502",
@@ -25,13 +25,13 @@
       ]
     },
     {
-      "id": "a38f8a42da",
-      "headline": "Shopee deve instalar novo centro de distribuição e ampliar operação logística no Sul de Minas - G1",
+      "id": "2ae98bba70",
+      "headline": "Shopee deve instalar novo centro de distribuição e ampliar operação logística no Sul de Minas - g1.globo.com",
       "source": "G1",
       "link": "https://g1.globo.com",
       "time": "18/09 às 09:34",
       "dt_iso": "2026-09-18T12:34:28+00:00",
-      "summary": "Shopee deve instalar novo centro de distribuição e ampliar operação logística no Sul de Minas &nbsp;&nbsp; G1",
+      "summary": "Shopee deve instalar novo centro de distribuição e ampliar operação logística no Sul de Minas &nbsp;&nbsp; g1.globo.com",
       "category": "logistica",
       "keywords": [
         "shopee",
@@ -91,35 +91,14 @@
       ]
     },
     {
-      "id": "b28b7a9f8a",
-      "headline": "MGLU3: Confira aqui a Análise Técnica Semanal da Ação do Magazine Luiza (Magalu) - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Google News",
-      "link": "https://br.investing.com",
-      "time": "21/09 às 10:24",
-      "dt_iso": "2026-09-21T13:24:00+00:00",
-      "summary": "MGLU3: Confira aqui a Análise Técnica Semanal da Ação do Magazine Luiza (Magalu) &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "magalu",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 8,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "192a0467f7",
-      "headline": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) - mundologistica.com.br",
+      "headline": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 12:56",
+      "time": "ontem, 12:56",
       "dt_iso": "2026-09-22T15:56:47+00:00",
-      "summary": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) &nbsp;&nbsp; mundologistica.com.br",
-      "category": "ecommerce",
+      "summary": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
       "keywords": [
         "shopee",
         "centro de distribuição"
@@ -127,7 +106,7 @@
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -155,7 +134,7 @@
       "headline": "FedEx anuncia investimentos em sua operação no Brasil - al1.com.br",
       "source": "Al1",
       "link": "https://al1.com.br",
-      "time": "hoje, 15:33",
+      "time": "ontem, 15:33",
       "dt_iso": "2026-09-22T18:33:15+00:00",
       "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; al1.com.br",
       "category": "logistica",
@@ -191,22 +170,42 @@
       ]
     },
     {
-      "id": "cbc364564a",
-      "headline": "Grupo L'Oréal no Brasil lança Projeto Diamante e amplia portas de entrada para talentos negros",
-      "source": "Exame",
-      "link": "https://exame.com/carreira/grupo-loreal-no-brasil-lanca-projeto-diamante-e-amplia-portas-de-entrada-para-talentos-negros/",
-      "time": "hoje, 07:05",
-      "dt_iso": "2026-09-23T10:05:23+00:00",
-      "summary": "Em parceria com o Na Prática, novo programa de estágio afirmativo não exige experiência prévia para focar no desenvolvimento de carreiras nas áreas de negócios, marketing e digital. As inscrições entram na reta final e terminam amanhã, quarta-feira (23)",
-      "category": "investimento",
+      "id": "7336db2049",
+      "headline": "MGLU3: Magalu sobe contra o mercado com Anvisa e reforça movimento de recuperação - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "hoje, 14:30",
+      "dt_iso": "2026-09-23T17:30:00+00:00",
+      "summary": "MGLU3: Magalu sobe contra o mercado com Anvisa e reforça movimento de recuperação &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "logistica",
       "keywords": [
-        "l'oréal",
+        "magalu",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "70e79b7945",
+      "headline": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 11:12",
+      "dt_iso": "2026-09-23T14:12:17+00:00",
+      "summary": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "dsv",
         "amplia"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Investimento"
+        "Logística"
       ]
     },
     {
@@ -248,30 +247,11 @@
       ]
     },
     {
-      "id": "125d7e4a8f",
-      "headline": "Autotrac amplia oferta de conectividade via Starlink para operações logísticas - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "17/09 às 08:00",
-      "dt_iso": "2026-09-17T11:00:00+00:00",
-      "summary": "Autotrac amplia oferta de conectividade via Starlink para operações logísticas &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "operações logísticas",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "f51adcbe2a",
       "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 12:45",
+      "time": "ontem, 12:45",
       "dt_iso": "2026-09-22T15:45:32+00:00",
       "summary": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -325,12 +305,12 @@
     },
     {
       "id": "c492da2902",
-      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 - archdaily.com",
+      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 - ArchDaily",
       "source": "Archdaily",
       "link": "https://www.archdaily.com",
       "time": "19/09 às 05:21",
       "dt_iso": "2026-09-19T08:21:39+00:00",
-      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 &nbsp;&nbsp; archdaily.com",
+      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 &nbsp;&nbsp; ArchDaily",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -359,6 +339,25 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "30b4d5ff10",
+      "headline": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes - Sincovaga Notícias",
+      "source": "Sincovaganoticias",
+      "link": "https://www.sincovaganoticias.com.br",
+      "time": "hoje, 15:24",
+      "dt_iso": "2026-09-23T18:24:00+00:00",
+      "summary": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes &nbsp;&nbsp; Sincovaga Notícias",
+      "category": "expansao",
+      "keywords": [
+        "grupo zaffari",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -401,12 +400,12 @@
     },
     {
       "id": "127d496629",
-      "headline": "Falta de armazenagem expõe gargalo da expansão agrícola brasileira - opresenterural.com.br",
+      "headline": "Falta de armazenagem expõe gargalo da expansão agrícola brasileira - O Presente Rural",
       "source": "Opresenterural",
       "link": "https://opresenterural.com.br",
       "time": "ontem, 17:18",
       "dt_iso": "2026-09-21T20:18:31+00:00",
-      "summary": "Falta de armazenagem expõe gargalo da expansão agrícola brasileira &nbsp;&nbsp; opresenterural.com.br",
+      "summary": "Falta de armazenagem expõe gargalo da expansão agrícola brasileira &nbsp;&nbsp; O Presente Rural",
       "category": "expansao",
       "keywords": [
         "armazenagem",
@@ -420,12 +419,12 @@
     },
     {
       "id": "85976a02d4",
-      "headline": "Grupo LC investe R$ 70 milhões para construir mega condomínio logístico em Limeira - Diário de Justiça",
+      "headline": "Grupo LC investe R$ 70 milhões para construir mega condomínio logístico em Limeira - diariodejustica.com.br",
       "source": "Diariodejustica",
       "link": "https://diariodejustica.com.br",
       "time": "17/09 às 17:53",
       "dt_iso": "2026-09-17T20:53:00+00:00",
-      "summary": "Grupo LC investe R$ 70 milhões para construir mega condomínio logístico em Limeira &nbsp;&nbsp; Diário de Justiça",
+      "summary": "Grupo LC investe R$ 70 milhões para construir mega condomínio logístico em Limeira &nbsp;&nbsp; diariodejustica.com.br",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
@@ -476,13 +475,32 @@
       ]
     },
     {
+      "id": "fd557cd603",
+      "headline": "Mercado Livre lidera crescimento nas menções durante Black Friday 2026 - boca.com.br",
+      "source": "Boca",
+      "link": "https://boca.com.br",
+      "time": "17/09 às 17:58",
+      "dt_iso": "2026-09-17T20:58:28+00:00",
+      "summary": "Mercado Livre lidera crescimento nas menções durante Black Friday 2026 &nbsp;&nbsp; boca.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "b284fffcc0",
-      "headline": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados - seletronic.com.br",
+      "headline": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados - Seletronic",
       "source": "Seletronic",
       "link": "https://seletronic.com.br",
       "time": "ontem, 00:02",
       "dt_iso": "2026-09-22T03:02:17+00:00",
-      "summary": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados &nbsp;&nbsp; seletronic.com.br",
+      "summary": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados &nbsp;&nbsp; Seletronic",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
