@@ -1,15 +1,15 @@
 {
-  "gerado_em": "24/09/2026 às 10:51",
-  "total": 27,
+  "gerado_em": "24/09/2026 às 16:52",
+  "total": 31,
   "noticias": [
     {
       "id": "9dad9b5502",
-      "headline": "DHL Supply Chain adquire Open Market e amplia operações logísticas na Colômbia - Tecnologística",
+      "headline": "DHL Supply Chain adquire Open Market e amplia operações logísticas na Colômbia - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "18/09 às 05:31",
       "dt_iso": "2026-09-18T08:31:57+00:00",
-      "summary": "DHL Supply Chain adquire Open Market e amplia operações logísticas na Colômbia &nbsp;&nbsp; Tecnologística",
+      "summary": "DHL Supply Chain adquire Open Market e amplia operações logísticas na Colômbia &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -70,6 +70,27 @@
       ]
     },
     {
+      "id": "93ee9e298a",
+      "headline": "Mercado Livre e Shopee lideram corrida por galpões logísticos - tecnologistica.com.br",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 13:00",
+      "dt_iso": "2026-09-24T16:00:36+00:00",
+      "summary": "Mercado Livre e Shopee lideram corrida por galpões logísticos &nbsp;&nbsp; tecnologistica.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "9d3e7ed0cd",
       "headline": "Mercado Livre, Shopee e indústrias: investimentos vão abrir mais de mil empregos em São Mateus - Folha Vitória",
       "source": "Folhavitoria",
@@ -95,7 +116,7 @@
       "headline": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 12:56",
+      "time": "22/09 às 12:56",
       "dt_iso": "2026-09-22T15:56:47+00:00",
       "summary": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -107,6 +128,25 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "ba7bdf0cae",
+      "headline": "São Sebastião da Bela Vista terá condomínio empresarial ao lado do mega centro de distribuição do Mercado Livre. (20/09/26) - Conexão TV Web",
+      "source": "Conexaotvweb",
+      "link": "https://www.conexaotvweb.com.br",
+      "time": "22/09 às 14:37",
+      "dt_iso": "2026-09-22T17:37:00+00:00",
+      "summary": "São Sebastião da Bela Vista terá condomínio empresarial ao lado do mega centro de distribuição do Mercado Livre. (20/09/26) &nbsp;&nbsp; Conexão TV Web",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -134,7 +174,7 @@
       "headline": "Shein amplia operação no Brasil e abre 850 vagas até dezembro - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "hoje, 13:11",
+      "time": "ontem, 13:11",
       "dt_iso": "2026-09-23T16:11:28+00:00",
       "summary": "Shein amplia operação no Brasil e abre 850 vagas até dezembro &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
@@ -154,7 +194,7 @@
       "headline": "FedEx anuncia investimentos em sua operação no Brasil - al1.com.br",
       "source": "Al1",
       "link": "https://al1.com.br",
-      "time": "ontem, 15:33",
+      "time": "22/09 às 15:33",
       "dt_iso": "2026-09-22T18:33:15+00:00",
       "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; al1.com.br",
       "category": "logistica",
@@ -171,12 +211,12 @@
     },
     {
       "id": "a1b60aa6f8",
-      "headline": "Mercado Livre, Amazon ou Shopee? IA, custos e competição pressionam margens; veja em quem investir - Valor Investe",
+      "headline": "Mercado Livre, Amazon ou Shopee? IA, custos e competição pressionam margens; veja em quem investir - valorinveste.globo.com",
       "source": "Valorinveste",
       "link": "https://valorinveste.globo.com",
       "time": "ontem, 06:10",
       "dt_iso": "2026-09-23T09:10:01+00:00",
-      "summary": "Mercado Livre, Amazon ou Shopee? IA, custos e competição pressionam margens; veja em quem investir &nbsp;&nbsp; Valor Investe",
+      "summary": "Mercado Livre, Amazon ou Shopee? IA, custos e competição pressionam margens; veja em quem investir &nbsp;&nbsp; valorinveste.globo.com",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -194,7 +234,7 @@
       "headline": "MGLU3: Magalu sobe contra o mercado com Anvisa e reforça movimento de recuperação - Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "source": "Google News",
       "link": "https://br.investing.com",
-      "time": "hoje, 14:30",
+      "time": "ontem, 14:30",
       "dt_iso": "2026-09-23T17:30:00+00:00",
       "summary": "MGLU3: Magalu sobe contra o mercado com Anvisa e reforça movimento de recuperação &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "category": "logistica",
@@ -210,11 +250,30 @@
       ]
     },
     {
+      "id": "2bf3618b01",
+      "headline": "Mercado Livre vai vender medicamento com receita — incluindo Ozempic",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/mercado-livre-vai-vender-medicamento-com-receita-incluindo-ozempic/",
+      "time": "hoje, 12:26",
+      "dt_iso": "2026-09-24T15:26:03+00:00",
+      "summary": "Após comprar farmácia no Jabaquara e testar operação própria em São Paulo, empresa vai integrar redes parceiras ao marketplace e ampliar catálogo de medicamentos",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "70e79b7945",
       "headline": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 11:12",
+      "time": "ontem, 11:12",
       "dt_iso": "2026-09-23T14:12:17+00:00",
       "summary": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -230,12 +289,12 @@
     },
     {
       "id": "2fb7c98274",
-      "headline": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² - Tecnologística",
+      "headline": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "ontem, 21:49",
       "dt_iso": "2026-09-23T00:49:04+00:00",
-      "summary": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² &nbsp;&nbsp; Tecnologística",
+      "summary": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "id logistics",
@@ -249,12 +308,12 @@
     },
     {
       "id": "df259d23e1",
-      "headline": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul - Tecnologística",
+      "headline": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "21/09 às 09:45",
       "dt_iso": "2026-09-21T12:45:04+00:00",
-      "summary": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul &nbsp;&nbsp; Tecnologística",
+      "summary": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -268,12 +327,12 @@
     },
     {
       "id": "f51adcbe2a",
-      "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - Tecnologística",
+      "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 12:45",
+      "time": "22/09 às 12:45",
       "dt_iso": "2026-09-22T15:45:32+00:00",
-      "summary": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí &nbsp;&nbsp; Tecnologística",
+      "summary": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -287,12 +346,12 @@
     },
     {
       "id": "36e048ff42",
-      "headline": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais - Tecnologística",
+      "headline": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais - tecnologistica.com.br",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "21/09 às 23:52",
       "dt_iso": "2026-09-22T02:52:15+00:00",
-      "summary": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais &nbsp;&nbsp; Tecnologística",
+      "summary": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais &nbsp;&nbsp; tecnologistica.com.br",
       "category": "logistica",
       "keywords": [
         "jadlog",
@@ -306,12 +365,12 @@
     },
     {
       "id": "b63f17d567",
-      "headline": "Iveco Group inaugura centro de distribuição em Pouso Alegre - modaisemfoco.com.br",
+      "headline": "Iveco Group inaugura centro de distribuição em Pouso Alegre - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
       "time": "19/09 às 10:58",
       "dt_iso": "2026-09-19T13:58:00+00:00",
-      "summary": "Iveco Group inaugura centro de distribuição em Pouso Alegre &nbsp;&nbsp; modaisemfoco.com.br",
+      "summary": "Iveco Group inaugura centro de distribuição em Pouso Alegre &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -344,12 +403,12 @@
     },
     {
       "id": "c492da2902",
-      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 - ArchDaily",
+      "headline": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 - archdaily.com",
       "source": "Archdaily",
       "link": "https://www.archdaily.com",
       "time": "19/09 às 05:21",
       "dt_iso": "2026-09-19T08:21:39+00:00",
-      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 &nbsp;&nbsp; ArchDaily",
+      "summary": "Galeria de Novo Galpão Centro Logístico de Mayoral / System Arquitectura - 17 &nbsp;&nbsp; archdaily.com",
       "category": "expansao",
       "keywords": [
         "galpão",
@@ -382,12 +441,12 @@
     },
     {
       "id": "a3cff59810",
-      "headline": "Gigante do agro no Paraná investe R$ 20 mi e triplica Centro de Distribuição - tribunapr.com.br",
+      "headline": "Gigante do agro no Paraná investe R$ 20 mi e triplica Centro de Distribuição - Tribuna do Paraná",
       "source": "Tribunapr",
       "link": "https://www.tribunapr.com.br",
       "time": "19/09 às 09:34",
       "dt_iso": "2026-09-19T12:34:00+00:00",
-      "summary": "Gigante do agro no Paraná investe R$ 20 mi e triplica Centro de Distribuição &nbsp;&nbsp; tribunapr.com.br",
+      "summary": "Gigante do agro no Paraná investe R$ 20 mi e triplica Centro de Distribuição &nbsp;&nbsp; Tribuna do Paraná",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -404,7 +463,7 @@
       "headline": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes - Sincovaga Notícias",
       "source": "Sincovaganoticias",
       "link": "https://www.sincovaganoticias.com.br",
-      "time": "hoje, 15:24",
+      "time": "ontem, 15:24",
       "dt_iso": "2026-09-23T18:24:00+00:00",
       "summary": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes &nbsp;&nbsp; Sincovaga Notícias",
       "category": "expansao",
@@ -414,6 +473,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "bed85aaa80",
+      "headline": "Riachuelo prevê investir até R$ 4 bilhões em expansão e reforma de lojas - BPMoney",
+      "source": "Bpmoney",
+      "link": "https://bpmoney.com.br",
+      "time": "hoje, 15:07",
+      "dt_iso": "2026-09-24T18:07:33+00:00",
+      "summary": "Riachuelo prevê investir até R$ 4 bilhões em expansão e reforma de lojas &nbsp;&nbsp; BPMoney",
+      "category": "expansao",
+      "keywords": [
+        "riachuelo",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -457,25 +535,6 @@
       ]
     },
     {
-      "id": "e89f79b465",
-      "headline": "Com carteira de R$ 8 bilhões, Shopee avança em crédito e amplia disputa dos marketplaces - NeoFeed",
-      "source": "Neofeed",
-      "link": "https://neofeed.com.br",
-      "time": "17/09 às 12:35",
-      "dt_iso": "2026-09-17T15:35:00+00:00",
-      "summary": "Com carteira de R$ 8 bilhões, Shopee avança em crédito e amplia disputa dos marketplaces &nbsp;&nbsp; NeoFeed",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "b284fffcc0",
       "headline": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados - Seletronic",
       "source": "Seletronic",
@@ -509,6 +568,25 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6ff1b84c99",
+      "headline": "Embraer amplia ofensiva no Oriente Médio após acordo de até 20 C-390 com os Emirados - O Mundo Diplomático",
+      "source": "Omundodiplomatico",
+      "link": "https://omundodiplomatico.com.br",
+      "time": "hoje, 09:36",
+      "dt_iso": "2026-09-24T12:36:16+00:00",
+      "summary": "Embraer amplia ofensiva no Oriente Médio após acordo de até 20 C-390 com os Emirados &nbsp;&nbsp; O Mundo Diplomático",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
