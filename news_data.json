@@ -1,15 +1,15 @@
 {
-  "gerado_em": "27/09/2026 às 11:21",
+  "gerado_em": "27/09/2026 às 16:31",
   "total": 24,
   "noticias": [
     {
       "id": "93ee9e298a",
-      "headline": "Mercado Livre e Shopee lideram corrida por galpões logísticos - tecnologistica.com.br",
+      "headline": "Mercado Livre e Shopee lideram corrida por galpões logísticos - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "24/09 às 16:43",
       "dt_iso": "2026-09-24T19:43:52+00:00",
-      "summary": "Mercado Livre e Shopee lideram corrida por galpões logísticos &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "Mercado Livre e Shopee lideram corrida por galpões logísticos &nbsp;&nbsp; Tecnologística",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -25,13 +25,13 @@
     },
     {
       "id": "192a0467f7",
-      "headline": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) - mundologistica.com.br",
+      "headline": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "22/09 às 12:56",
       "dt_iso": "2026-09-22T15:56:47+00:00",
-      "summary": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) &nbsp;&nbsp; mundologistica.com.br",
-      "category": "ecommerce",
+      "summary": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
       "keywords": [
         "shopee",
         "centro de distribuição"
@@ -39,7 +39,7 @@
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "headline": "Mercado Livre acelera entrega e logística: corrida por galpões ganha novo capítulo - Revista Buildings",
       "source": "Buildings",
       "link": "https://revista.buildings.com.br",
-      "time": "ontem, 14:10",
+      "time": "25/09 às 14:10",
       "dt_iso": "2026-09-25T17:10:26+00:00",
       "summary": "Mercado Livre acelera entrega e logística: corrida por galpões ganha novo capítulo &nbsp;&nbsp; Revista Buildings",
       "category": "logistica",
@@ -142,32 +142,13 @@
       ]
     },
     {
-      "id": "2787e4fd4d",
-      "headline": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 11:54",
-      "dt_iso": "2026-09-26T14:54:00+00:00",
-      "summary": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "70e79b7945",
-      "headline": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul - mundologistica.com.br",
+      "headline": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "23/09 às 11:12",
       "dt_iso": "2026-09-23T14:12:17+00:00",
-      "summary": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul &nbsp;&nbsp; mundologistica.com.br",
+      "summary": "DSV amplia estratégia rodoviária no Brasil com soluções integradas e conexões na América do Sul &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "dsv",
@@ -181,12 +162,12 @@
     },
     {
       "id": "2fb7c98274",
-      "headline": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² - tecnologistica.com.br",
+      "headline": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "22/09 às 21:49",
-      "dt_iso": "2026-09-23T00:49:04+00:00",
-      "summary": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² &nbsp;&nbsp; tecnologistica.com.br",
+      "time": "23/09 às 00:06",
+      "dt_iso": "2026-09-23T03:06:50+00:00",
+      "summary": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "id logistics",
@@ -200,12 +181,12 @@
     },
     {
       "id": "f51adcbe2a",
-      "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - tecnologistica.com.br",
+      "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "22/09 às 20:20",
       "dt_iso": "2026-09-22T23:20:21+00:00",
-      "summary": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -219,12 +200,12 @@
     },
     {
       "id": "df259d23e1",
-      "headline": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul - tecnologistica.com.br",
+      "headline": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "21/09 às 09:45",
       "dt_iso": "2026-09-21T12:45:04+00:00",
-      "summary": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "DHL Global Forwarding amplia parceria com SkyCell para logística farmacêutica na América do Sul &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "dhl",
@@ -238,12 +219,12 @@
     },
     {
       "id": "36e048ff42",
-      "headline": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais - tecnologistica.com.br",
+      "headline": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "21/09 às 23:52",
       "dt_iso": "2026-09-22T02:52:15+00:00",
-      "summary": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "Jadlog amplia automação da triagem de encomendas no Rio de Janeiro e em Minas Gerais &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "jadlog",
@@ -251,6 +232,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d16b1ce849",
+      "headline": "Correios inauguram quatro Pontos de Coleta em Santarém - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 10:11",
+      "dt_iso": "2026-09-27T13:11:00+00:00",
+      "summary": "Correios inauguram quatro Pontos de Coleta em Santarém &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -336,7 +336,7 @@
       "headline": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos - OpiniãoCE",
       "source": "Opiniaoce",
       "link": "https://www.opiniaoce.com.br",
-      "time": "ontem, 15:10",
+      "time": "25/09 às 15:10",
       "dt_iso": "2026-09-25T18:10:53+00:00",
       "summary": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos &nbsp;&nbsp; OpiniãoCE",
       "category": "ecommerce",
@@ -365,6 +365,25 @@
       ],
       "score": 6,
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "2787e4fd4d",
+      "headline": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "ontem, 11:54",
+      "dt_iso": "2026-09-26T14:54:00+00:00",
+      "summary": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -408,32 +427,13 @@
       ]
     },
     {
-      "id": "b284fffcc0",
-      "headline": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados - Seletronic",
-      "source": "Seletronic",
-      "link": "https://seletronic.com.br",
-      "time": "22/09 às 00:02",
-      "dt_iso": "2026-09-22T03:02:17+00:00",
-      "summary": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados &nbsp;&nbsp; Seletronic",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "bb15d6ef14",
-      "headline": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural - O GLOBO",
+      "headline": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural - oglobo.globo.com",
       "source": "O Globo",
       "link": "https://oglobo.globo.com",
       "time": "22/09 às 09:00",
       "dt_iso": "2026-09-22T12:00:09+00:00",
-      "summary": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural &nbsp;&nbsp; O GLOBO",
+      "summary": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural &nbsp;&nbsp; oglobo.globo.com",
       "category": "logistica",
       "keywords": [
         "natura",
