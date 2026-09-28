@@ -1,5 +1,5 @@
 {
-  "gerado_em": "28/09/2026 às 14:05",
+  "gerado_em": "28/09/2026 às 18:34",
   "total": 28,
   "noticias": [
     {
@@ -25,12 +25,12 @@
     },
     {
       "id": "d1375177bf",
-      "headline": "SHEIN expande operação logística no Brasil - E-Commerce Brasil",
+      "headline": "SHEIN expande operação logística no Brasil - ecommercebrasil.com.br",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
       "time": "hoje, 10:15",
       "dt_iso": "2026-09-28T13:15:00+00:00",
-      "summary": "SHEIN expande operação logística no Brasil &nbsp;&nbsp; E-Commerce Brasil",
+      "summary": "SHEIN expande operação logística no Brasil &nbsp;&nbsp; ecommercebrasil.com.br",
       "category": "logistica",
       "keywords": [
         "shein",
@@ -38,7 +38,7 @@
         "expande"
       ],
       "score": 8,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -124,12 +124,12 @@
     },
     {
       "id": "4901028544",
-      "headline": "Shein amplia operação no Brasil e abre 850 vagas até dezembro - mercadoeconsumo.com.br",
+      "headline": "Shein amplia operação no Brasil e abre 850 vagas até dezembro - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
       "time": "23/09 às 13:11",
       "dt_iso": "2026-09-23T16:11:28+00:00",
-      "summary": "Shein amplia operação no Brasil e abre 850 vagas até dezembro &nbsp;&nbsp; mercadoeconsumo.com.br",
+      "summary": "Shein amplia operação no Brasil e abre 850 vagas até dezembro &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "logistica",
       "keywords": [
         "shein",
@@ -138,26 +138,6 @@
       ],
       "score": 7,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "a96bc58779",
-      "headline": "FedEx anuncia investimentos em sua operação no Brasil - al1.com.br",
-      "source": "Al1",
-      "link": "https://al1.com.br",
-      "time": "22/09 às 15:33",
-      "dt_iso": "2026-09-22T18:33:15+00:00",
-      "summary": "FedEx anuncia investimentos em sua operação no Brasil &nbsp;&nbsp; al1.com.br",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -203,20 +183,21 @@
       ]
     },
     {
-      "id": "2787e4fd4d",
-      "headline": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão - clickpetroleoegas.com.br",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "26/09 às 11:54",
-      "dt_iso": "2026-09-26T14:54:00+00:00",
-      "summary": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão &nbsp;&nbsp; clickpetroleoegas.com.br",
+      "id": "a8ea313a55",
+      "headline": "Riachuelo inaugura loja na Oscar Freire e aposta em novo conceito para avançar na expansão da rede - FashionNetwork Brasil",
+      "source": "Google News",
+      "link": "https://br.fashionnetwork.com",
+      "time": "hoje, 15:17",
+      "dt_iso": "2026-09-28T18:17:59+00:00",
+      "summary": "Riachuelo inaugura loja na Oscar Freire e aposta em novo conceito para avançar na expansão da rede &nbsp;&nbsp; FashionNetwork Brasil",
       "category": "expansao",
       "keywords": [
-        "centro de distribuição",
+        "riachuelo",
+        "inaugura",
         "expansão"
       ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -241,6 +222,25 @@
       ]
     },
     {
+      "id": "2fb7c98274",
+      "headline": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "23/09 às 00:06",
+      "dt_iso": "2026-09-23T03:06:50+00:00",
+      "summary": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "id logistics",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "f51adcbe2a",
       "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - Tecnologística",
       "source": "Tecnologística",
@@ -255,25 +255,6 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "2fb7c98274",
-      "headline": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "22/09 às 21:49",
-      "dt_iso": "2026-09-23T00:49:04+00:00",
-      "summary": "ID Logistics amplia CD da Beiersdorf em Extrema (MG) para 20 mil m² &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "id logistics",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
       "badges": [
         "Logística"
       ]
@@ -337,12 +318,12 @@
     },
     {
       "id": "30b4d5ff10",
-      "headline": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes - Sincovaga Notícias",
+      "headline": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes - sincovaganoticias.com.br",
       "source": "Sincovaganoticias",
       "link": "https://www.sincovaganoticias.com.br",
       "time": "23/09 às 15:24",
       "dt_iso": "2026-09-23T18:24:00+00:00",
-      "summary": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes &nbsp;&nbsp; Sincovaga Notícias",
+      "summary": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes &nbsp;&nbsp; sincovaganoticias.com.br",
       "category": "expansao",
       "keywords": [
         "grupo zaffari",
@@ -374,25 +355,6 @@
       ]
     },
     {
-      "id": "352f658ccc",
-      "headline": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "24/09 às 16:40",
-      "dt_iso": "2026-09-24T19:40:00+00:00",
-      "summary": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "cc094776dd",
       "headline": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos - OpiniãoCE",
       "source": "Opiniaoce",
@@ -403,6 +365,25 @@
       "category": "ecommerce",
       "keywords": [
         "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "352f658ccc",
+      "headline": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos - ecommercebrasil.com.br",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "24/09 às 16:40",
+      "dt_iso": "2026-09-24T19:40:00+00:00",
+      "summary": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos &nbsp;&nbsp; ecommercebrasil.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
         "amplia"
       ],
       "score": 6,
@@ -426,6 +407,25 @@
       ],
       "score": 6,
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "2787e4fd4d",
+      "headline": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão - clickpetroleoegas.com.br",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "26/09 às 11:54",
+      "dt_iso": "2026-09-26T14:54:00+00:00",
+      "summary": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão &nbsp;&nbsp; clickpetroleoegas.com.br",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -488,32 +488,32 @@
       ]
     },
     {
-      "id": "aa901e0fb9",
-      "headline": "Assaí Farma inaugura sétima unidade na zona Oeste de São Paulo - SuperVarejo",
-      "source": "Supervarejo",
-      "link": "https://www.supervarejo.com.br",
-      "time": "21/09 às 17:47",
-      "dt_iso": "2026-09-21T20:47:21+00:00",
-      "summary": "Assaí Farma inaugura sétima unidade na zona Oeste de São Paulo &nbsp;&nbsp; SuperVarejo",
-      "category": "logistica",
+      "id": "b284fffcc0",
+      "headline": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados - Seletronic",
+      "source": "Seletronic",
+      "link": "https://seletronic.com.br",
+      "time": "22/09 às 00:02",
+      "dt_iso": "2026-09-22T03:02:17+00:00",
+      "summary": "Mercado Livre abre a terça-feira com novo cupom de 10% OFF para produtos selecionados &nbsp;&nbsp; Seletronic",
+      "category": "ecommerce",
       "keywords": [
-        "assaí",
-        "inaugura"
+        "mercado livre",
+        "abre"
       ],
       "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
       "id": "bb15d6ef14",
-      "headline": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural - O GLOBO",
+      "headline": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural - oglobo.globo.com",
       "source": "O Globo",
       "link": "https://oglobo.globo.com",
       "time": "22/09 às 09:00",
       "dt_iso": "2026-09-22T12:00:09+00:00",
-      "summary": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural &nbsp;&nbsp; O GLOBO",
+      "summary": "Shopping na Zona Sudoeste aumenta espaço pet em 100m² e investe em circuito agility e grama natural &nbsp;&nbsp; oglobo.globo.com",
       "category": "logistica",
       "keywords": [
         "natura",
