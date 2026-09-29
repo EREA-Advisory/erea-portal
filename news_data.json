@@ -1,7 +1,29 @@
 {
-  "gerado_em": "29/09/2026 às 12:10",
+  "gerado_em": "29/09/2026 às 17:26",
   "total": 27,
   "noticias": [
+    {
+      "id": "62e798c65c",
+      "headline": "Indícios de que a Shopee alugou galpão de 220 mil m² em Guarulhos. Vamos deixar de trazer indústrias e virar um país de galpões? - T7news",
+      "source": "T7News",
+      "link": "https://t7news.com.br",
+      "time": "hoje, 13:47",
+      "dt_iso": "2026-09-29T16:47:00+00:00",
+      "summary": "Indícios de que a Shopee alugou galpão de 220 mil m² em Guarulhos. Vamos deixar de trazer indústrias e virar um país de galpões? &nbsp;&nbsp; T7news",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "galpão",
+        "galpões",
+        "alugou"
+      ],
+      "score": 9,
+      "relevance": "Região(ões) mencionada(s): Guarulhos.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
     {
       "id": "93ee9e298a",
       "headline": "Mercado Livre e Shopee lideram corrida por galpões logísticos - Tecnologística",
@@ -25,12 +47,12 @@
     },
     {
       "id": "d1375177bf",
-      "headline": "SHEIN expande operação logística no Brasil - ecommercebrasil.com.br",
+      "headline": "SHEIN expande operação logística no Brasil - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
       "time": "ontem, 10:15",
       "dt_iso": "2026-09-28T13:15:00+00:00",
-      "summary": "SHEIN expande operação logística no Brasil &nbsp;&nbsp; ecommercebrasil.com.br",
+      "summary": "SHEIN expande operação logística no Brasil &nbsp;&nbsp; E-Commerce Brasil",
       "category": "logistica",
       "keywords": [
         "shein",
@@ -38,7 +60,7 @@
         "expande"
       ],
       "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -46,12 +68,12 @@
     },
     {
       "id": "71189abab5",
-      "headline": "C&A abre vagas de emprego para seu Centro de Distribuição Raposo Tavares - visaooeste.com.br",
+      "headline": "C&A abre vagas de emprego para seu Centro de Distribuição Raposo Tavares - Visão Oeste",
       "source": "Visaooeste",
       "link": "https://visaooeste.com.br",
       "time": "ontem, 12:01",
       "dt_iso": "2026-09-28T15:01:22+00:00",
-      "summary": "C&amp;A abre vagas de emprego para seu Centro de Distribuição Raposo Tavares &nbsp;&nbsp; visaooeste.com.br",
+      "summary": "C&amp;A abre vagas de emprego para seu Centro de Distribuição Raposo Tavares &nbsp;&nbsp; Visão Oeste",
       "category": "logistica",
       "keywords": [
         "c&a",
@@ -66,30 +88,11 @@
       ]
     },
     {
-      "id": "192a0467f7",
-      "headline": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "22/09 às 12:56",
-      "dt_iso": "2026-09-22T15:56:47+00:00",
-      "summary": "Shopee deve abrir centro de distribuição de 14 mil m² em Pouso Alegre (MG) &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "56c005de5c",
       "headline": "MBRF reduz em 73% taxa de acidentes na operação logística - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 12:15",
+      "time": "ontem, 12:15",
       "dt_iso": "2026-09-28T15:15:00+00:00",
       "summary": "MBRF reduz em 73% taxa de acidentes na operação logística &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -163,31 +166,11 @@
       ]
     },
     {
-      "id": "44439e2d46",
-      "headline": "MBRF prepara emissão de títulos para refinanciar dívidas, segundo fontes | Setembro 2026 - XP Investimentos",
-      "source": "Conteudos",
-      "link": "https://conteudos.xpi.com.br",
-      "time": "hoje, 10:36",
-      "dt_iso": "2026-09-29T13:36:10+00:00",
-      "summary": "MBRF prepara emissão de títulos para refinanciar dívidas, segundo fontes | Setembro 2026 &nbsp;&nbsp; XP Investimentos",
-      "category": "investimento",
-      "keywords": [
-        "brf",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "a8ea313a55",
       "headline": "Riachuelo inaugura loja na Oscar Freire e aposta em novo conceito para avançar na expansão da rede - FashionNetwork Brasil",
       "source": "Google News",
       "link": "https://br.fashionnetwork.com",
-      "time": "hoje, 15:17",
+      "time": "ontem, 15:17",
       "dt_iso": "2026-09-28T18:17:59+00:00",
       "summary": "Riachuelo inaugura loja na Oscar Freire e aposta em novo conceito para avançar na expansão da rede &nbsp;&nbsp; FashionNetwork Brasil",
       "category": "expansao",
@@ -203,22 +186,22 @@
       ]
     },
     {
-      "id": "2787e4fd4d",
-      "headline": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "26/09 às 11:54",
-      "dt_iso": "2026-09-26T14:54:00+00:00",
-      "summary": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "expansao",
+      "id": "f885c61484",
+      "headline": "Edições CNBB inaugura novo centro de distribuição - PublishNews",
+      "source": "Publishnews",
+      "link": "https://www.publishnews.com.br",
+      "time": "hoje, 13:00",
+      "dt_iso": "2026-09-29T16:00:15+00:00",
+      "summary": "Edições CNBB inaugura novo centro de distribuição &nbsp;&nbsp; PublishNews",
+      "category": "logistica",
       "keywords": [
         "centro de distribuição",
-        "expansão"
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -236,25 +219,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "f51adcbe2a",
-      "headline": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "22/09 às 20:20",
-      "dt_iso": "2026-09-22T23:20:21+00:00",
-      "summary": "Kothe investe R$ 40 milhões em centro de distribuição no Piauí &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -336,6 +300,25 @@
       ]
     },
     {
+      "id": "6f40c5e916",
+      "headline": "MWM amplia centro de distribuição de peças em Jundiaí - Grupo AMANHÃ",
+      "source": "Amanha",
+      "link": "https://amanha.com.br",
+      "time": "ontem, 02:33",
+      "dt_iso": "2026-09-28T05:33:00+00:00",
+      "summary": "MWM amplia centro de distribuição de peças em Jundiaí &nbsp;&nbsp; Grupo AMANHÃ",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Jundiaí.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "30b4d5ff10",
       "headline": "Grupo Zaffari: a trajetória do balcão em família à expansão em diferentes frentes - Sincovaga Notícias",
       "source": "Sincovaganoticias",
@@ -355,39 +338,20 @@
       ]
     },
     {
-      "id": "6f40c5e916",
-      "headline": "MWM amplia centro de distribuição de peças em Jundiaí - amanha.com.br",
-      "source": "Amanha",
-      "link": "https://amanha.com.br",
-      "time": "ontem, 02:33",
-      "dt_iso": "2026-09-28T05:33:00+00:00",
-      "summary": "MWM amplia centro de distribuição de peças em Jundiaí &nbsp;&nbsp; amanha.com.br",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Jundiaí.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "352f658ccc",
-      "headline": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos - ecommercebrasil.com.br",
+      "headline": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
       "time": "24/09 às 16:40",
       "dt_iso": "2026-09-24T19:40:00+00:00",
-      "summary": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos &nbsp;&nbsp; ecommercebrasil.com.br",
+      "summary": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos &nbsp;&nbsp; E-Commerce Brasil",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
         "amplia"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
       ]
@@ -416,7 +380,7 @@
       "headline": "Mercado Livre amplia serviços e transforma marketplace em infraestrutura para pequenos negócios - Sincovaga Notícias",
       "source": "Sincovaganoticias",
       "link": "https://www.sincovaganoticias.com.br",
-      "time": "hoje, 13:29",
+      "time": "ontem, 13:29",
       "dt_iso": "2026-09-28T16:29:00+00:00",
       "summary": "Mercado Livre amplia serviços e transforma marketplace em infraestrutura para pequenos negócios &nbsp;&nbsp; Sincovaga Notícias",
       "category": "ecommerce",
@@ -428,6 +392,25 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "2787e4fd4d",
+      "headline": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "26/09 às 11:54",
+      "dt_iso": "2026-09-26T14:54:00+00:00",
+      "summary": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -447,6 +430,25 @@
       "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "f14279e2fa",
+      "headline": "Mercado Livre manterá atual centro logístico mesmo com duas novas operações no RS, garante diretor do complexo - GZH",
+      "source": "Gauchazh",
+      "link": "https://gauchazh.clicrbs.com.br",
+      "time": "hoje, 12:51",
+      "dt_iso": "2026-09-29T15:51:00+00:00",
+      "summary": "Mercado Livre manterá atual centro logístico mesmo com duas novas operações no RS, garante diretor do complexo &nbsp;&nbsp; GZH",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "novas operações"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -473,7 +475,7 @@
       "headline": "Mercado Livre mira expansão do mercado de medicamentos e pode mudar disputa com grandes farmácias - Estadão",
       "source": "Estadão",
       "link": "https://www.estadao.com.br",
-      "time": "hoje, 16:35",
+      "time": "ontem, 16:35",
       "dt_iso": "2026-09-28T19:35:59+00:00",
       "summary": "Mercado Livre mira expansão do mercado de medicamentos e pode mudar disputa com grandes farmácias &nbsp;&nbsp; Estadão",
       "category": "expansao",
