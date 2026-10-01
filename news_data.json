@@ -1,13 +1,13 @@
 {
-  "gerado_em": "01/10/2026 às 12:46",
-  "total": 22,
+  "gerado_em": "01/10/2026 às 17:47",
+  "total": 25,
   "noticias": [
     {
       "id": "62e798c65c",
       "headline": "Indícios de que a Shopee alugou galpão de 220 mil m² em Guarulhos. Vamos deixar de trazer indústrias e virar um país de galpões? - T7news",
       "source": "T7News",
       "link": "https://t7news.com.br",
-      "time": "ontem, 13:47",
+      "time": "29/09 às 13:47",
       "dt_iso": "2026-09-29T16:47:00+00:00",
       "summary": "Indícios de que a Shopee alugou galpão de 220 mil m² em Guarulhos. Vamos deixar de trazer indústrias e virar um país de galpões? &nbsp;&nbsp; T7news",
       "category": "ecommerce",
@@ -26,12 +26,12 @@
     },
     {
       "id": "93ee9e298a",
-      "headline": "Mercado Livre e Shopee lideram corrida por galpões logísticos - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "24/09 às 16:43",
-      "dt_iso": "2026-09-24T19:43:52+00:00",
-      "summary": "Mercado Livre e Shopee lideram corrida por galpões logísticos &nbsp;&nbsp; Tecnologística",
+      "headline": "Mercado Livre e Shopee lideram corrida por galpões logísticos - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "25/09 às 11:00",
+      "dt_iso": "2026-09-25T14:00:00+00:00",
+      "summary": "Mercado Livre e Shopee lideram corrida por galpões logísticos &nbsp;&nbsp; Modais em Foco",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -109,6 +109,27 @@
       ]
     },
     {
+      "id": "268efaba1c",
+      "headline": "Fundo imobiliário vende galpões e reinveste recursos em projeto para o Mercado Livre; IFIX recua - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "25/09 às 07:54",
+      "dt_iso": "2026-09-25T10:54:00+00:00",
+      "summary": "Fundo imobiliário vende galpões e reinveste recursos em projeto para o Mercado Livre; IFIX recua &nbsp;&nbsp; Money Times",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "galpões",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Destaque",
+        "Investimento"
+      ]
+    },
+    {
       "id": "95858d9204",
       "headline": "Unifrango vai investir R$ 20 milhões na ampliação de centro de distribuição - Grupo AMANHÃ",
       "source": "Amanha",
@@ -148,6 +169,26 @@
       ]
     },
     {
+      "id": "3128983de8",
+      "headline": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul - tecnologistica.com.br",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 15:55",
+      "dt_iso": "2026-10-01T18:55:48+00:00",
+      "summary": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; tecnologistica.com.br",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "amplia",
+        "investe"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "b8199995db",
       "headline": "Mercado Livre acelera entrega e logística: corrida por galpões ganha novo capítulo - Revista Buildings",
       "source": "Buildings",
@@ -168,12 +209,12 @@
     },
     {
       "id": "b01e4a57b6",
-      "headline": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress - Saulo Vale",
+      "headline": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress - saulovale.com.br",
       "source": "Saulovale",
       "link": "https://saulovale.com.br",
-      "time": "há 27 min",
+      "time": "hoje, 12:18",
       "dt_iso": "2026-10-01T15:18:00+00:00",
-      "summary": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress &nbsp;&nbsp; Saulo Vale",
+      "summary": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress &nbsp;&nbsp; saulovale.com.br",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -208,12 +249,12 @@
     },
     {
       "id": "eea65a227c",
-      "headline": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool - Forbes Brasil",
+      "headline": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool - forbes.com.br",
       "source": "Forbes",
       "link": "https://forbes.com.br",
-      "time": "há 33 min",
+      "time": "hoje, 12:12",
       "dt_iso": "2026-10-01T15:12:06+00:00",
-      "summary": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool &nbsp;&nbsp; Forbes Brasil",
+      "summary": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool &nbsp;&nbsp; forbes.com.br",
       "category": "logistica",
       "keywords": [
         "ambev",
@@ -231,7 +272,7 @@
       "headline": "Edições CNBB inaugura novo centro de distribuição - publishnews.com.br",
       "source": "Publishnews",
       "link": "https://www.publishnews.com.br",
-      "time": "ontem, 13:00",
+      "time": "29/09 às 13:00",
       "dt_iso": "2026-09-29T16:00:15+00:00",
       "summary": "Edições CNBB inaugura novo centro de distribuição &nbsp;&nbsp; publishnews.com.br",
       "category": "logistica",
@@ -246,13 +287,51 @@
       ]
     },
     {
+      "id": "032ec2613d",
+      "headline": "VP da FedEx explica investimento de R$ 75 milhões no Brasil - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 15:32",
+      "dt_iso": "2026-10-01T18:32:49+00:00",
+      "summary": "VP da FedEx explica investimento de R$ 75 milhões no Brasil &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d4d1de4769",
+      "headline": "Galpões que mudam de lugar fazem empresa ampliar operação em Contagem - Moon BH",
+      "source": "Moonbh",
+      "link": "https://moonbh.com.br",
+      "time": "28/09 às 15:13",
+      "dt_iso": "2026-09-28T18:13:54+00:00",
+      "summary": "Galpões que mudam de lugar fazem empresa ampliar operação em Contagem &nbsp;&nbsp; Moon BH",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Contagem.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "19f91b692a",
-      "headline": "Mercado Livre abre 300 vagas de auxiliar de logística em São Bernardo - reporterdiario.com.br",
+      "headline": "Mercado Livre abre 300 vagas de auxiliar de logística em São Bernardo - Repórter Diário",
       "source": "Reporterdiario",
       "link": "https://www.reporterdiario.com.br",
       "time": "28/09 às 21:18",
       "dt_iso": "2026-09-29T00:18:54+00:00",
-      "summary": "Mercado Livre abre 300 vagas de auxiliar de logística em São Bernardo &nbsp;&nbsp; reporterdiario.com.br",
+      "summary": "Mercado Livre abre 300 vagas de auxiliar de logística em São Bernardo &nbsp;&nbsp; Repórter Diário",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -266,12 +345,12 @@
     },
     {
       "id": "cc094776dd",
-      "headline": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos - OpiniãoCE",
+      "headline": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos - opiniaoce.com.br",
       "source": "Opiniaoce",
       "link": "https://www.opiniaoce.com.br",
       "time": "25/09 às 15:10",
       "dt_iso": "2026-09-25T18:10:53+00:00",
-      "summary": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos &nbsp;&nbsp; OpiniãoCE",
+      "summary": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos &nbsp;&nbsp; opiniaoce.com.br",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -279,25 +358,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "352f658ccc",
-      "headline": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "24/09 às 16:40",
-      "dt_iso": "2026-09-24T19:40:00+00:00",
-      "summary": "Mercado Livre lança entregas em até 1 hora e amplia venda de medicamentos &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
       ]
