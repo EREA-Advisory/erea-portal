@@ -1,5 +1,5 @@
 {
-  "gerado_em": "02/10/2026 às 12:08",
+  "gerado_em": "02/10/2026 às 17:20",
   "total": 26,
   "noticias": [
     {
@@ -131,7 +131,7 @@
       "headline": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 17:03",
+      "time": "ontem, 17:03",
       "dt_iso": "2026-10-01T20:03:47+00:00",
       "summary": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -147,22 +147,22 @@
       ]
     },
     {
-      "id": "b8199995db",
-      "headline": "Mercado Livre acelera entrega e logística: corrida por galpões ganha novo capítulo - Revista Buildings",
-      "source": "Buildings",
-      "link": "https://revista.buildings.com.br",
-      "time": "25/09 às 14:10",
-      "dt_iso": "2026-09-25T17:10:26+00:00",
-      "summary": "Mercado Livre acelera entrega e logística: corrida por galpões ganha novo capítulo &nbsp;&nbsp; Revista Buildings",
-      "category": "logistica",
+      "id": "d15d3f2a07",
+      "headline": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "hoje, 13:36",
+      "dt_iso": "2026-10-02T16:36:05+00:00",
+      "summary": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários &nbsp;&nbsp; InfoMoney",
+      "category": "investimento",
       "keywords": [
-        "mercado livre",
-        "galpões"
+        "shopee",
+        "galpão"
       ],
       "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
-        "Logística"
+        "Investimento"
       ]
     },
     {
@@ -170,7 +170,7 @@
       "headline": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress - Saulo Vale",
       "source": "Saulovale",
       "link": "https://saulovale.com.br",
-      "time": "hoje, 12:18",
+      "time": "ontem, 12:18",
       "dt_iso": "2026-10-01T15:18:00+00:00",
       "summary": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress &nbsp;&nbsp; Saulo Vale",
       "category": "ecommerce",
@@ -230,7 +230,7 @@
       "headline": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool - Forbes Brasil",
       "source": "Forbes",
       "link": "https://forbes.com.br",
-      "time": "hoje, 12:12",
+      "time": "ontem, 12:12",
       "dt_iso": "2026-10-01T15:12:06+00:00",
       "summary": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool &nbsp;&nbsp; Forbes Brasil",
       "category": "logistica",
@@ -246,13 +246,13 @@
       ]
     },
     {
-      "id": "bf9a34d2af",
-      "headline": "Após alerta dos EUA, Austrália também fecha embaixada em Brasília nesta sexta",
+      "id": "7a33dbfd6a",
+      "headline": "PF realiza busca e apreensão em SP e DF contra suspeitos de ameaçar Embaixada e consulados dos EUA",
       "source": "Exame",
-      "link": "https://exame.com/mundo/apos-alerta-dos-eua-australia-tambem-fecha-embaixada-em-brasilia-nesta-sexta/",
-      "time": "hoje, 07:23",
-      "dt_iso": "2026-10-02T10:23:33+00:00",
-      "summary": "Representação australiana informou que ficará fechada em 2 de outubro por “preocupações com a segurança”; país também orientou cidadãos a evitarem instalações diplomáticas americanas no Brasil",
+      "link": "https://exame.com/brasil/pf-realiza-busca-e-apreensao-em-sp-e-df-contra-suspeitos-de-ameacar-embaixada-e-consulados-dos-eua/",
+      "time": "hoje, 14:03",
+      "dt_iso": "2026-10-02T17:03:36+00:00",
+      "summary": "Não foram encontradas até o momento provas sobre riscos efetivos às instalações consulares americanas no Brasil",
       "category": "logistica",
       "keywords": [
         "americanas",
@@ -288,7 +288,7 @@
       "headline": "VP da FedEx explica investimento de R$ 75 milhões no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 15:32",
+      "time": "ontem, 15:32",
       "dt_iso": "2026-10-01T18:32:14+00:00",
       "summary": "VP da FedEx explica investimento de R$ 75 milhões no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -303,32 +303,32 @@
       ]
     },
     {
-      "id": "19f91b692a",
-      "headline": "Mercado Livre abre 300 vagas de auxiliar de logística em São Bernardo - Repórter Diário",
-      "source": "Reporterdiario",
-      "link": "https://www.reporterdiario.com.br",
-      "time": "28/09 às 21:18",
-      "dt_iso": "2026-09-29T00:18:54+00:00",
-      "summary": "Mercado Livre abre 300 vagas de auxiliar de logística em São Bernardo &nbsp;&nbsp; Repórter Diário",
-      "category": "logistica",
+      "id": "ec08535eee",
+      "headline": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo - Diário do Grande ABC",
+      "source": "Dgabc",
+      "link": "https://www.dgabc.com.br",
+      "time": "hoje, 14:30",
+      "dt_iso": "2026-10-02T17:30:00+00:00",
+      "summary": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo &nbsp;&nbsp; Diário do Grande ABC",
+      "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "abre"
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Região(ões) mencionada(s): São Bernardo.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): São Bernardo.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
-      "id": "57e10b2fe6",
-      "headline": "NOVA UNIDADE DO MERCADO LIVRE EM SÃO BERNARDO VAI GERAR 1.500 EMPREGOS - TV São Bernardo",
-      "source": "Tvsaobernardo",
-      "link": "https://tvsaobernardo.com",
-      "time": "hoje, 23:00",
-      "dt_iso": "2026-10-02T02:00:49+00:00",
-      "summary": "NOVA UNIDADE DO MERCADO LIVRE EM SÃO BERNARDO VAI GERAR 1.500 EMPREGOS &nbsp;&nbsp; TV São Bernardo",
+      "id": "d43dd6992f",
+      "headline": "São Bernardo: Nova unidade do Mercado Livre vai gerar 1.500 empregos - ABC em OFF",
+      "source": "Abcemoff",
+      "link": "https://abcemoff.com.br",
+      "time": "hoje, 08:48",
+      "dt_iso": "2026-10-02T11:48:00+00:00",
+      "summary": "São Bernardo: Nova unidade do Mercado Livre vai gerar 1.500 empregos &nbsp;&nbsp; ABC em OFF",
       "category": "expansao",
       "keywords": [
         "mercado livre",
@@ -345,7 +345,7 @@
       "headline": "DHL investe R$ 270 milhões para dobrar rede no Brasil e já entrega nos EUA em 48 horas - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "há 10 min",
+      "time": "hoje, 11:57",
       "dt_iso": "2026-10-02T14:57:07+00:00",
       "summary": "DHL investe R$ 270 milhões para dobrar rede no Brasil e já entrega nos EUA em 48 horas &nbsp;&nbsp; Exame",
       "category": "logistica",
@@ -357,25 +357,6 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "cc094776dd",
-      "headline": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos - OpiniãoCE",
-      "source": "Opiniaoce",
-      "link": "https://www.opiniaoce.com.br",
-      "time": "25/09 às 15:10",
-      "dt_iso": "2026-09-25T18:10:53+00:00",
-      "summary": "Shopee amplia em 135% rede de Agências no Ceará e soma mais de 90 pontos &nbsp;&nbsp; OpiniãoCE",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -395,6 +376,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "fae6cf6317",
+      "headline": "Agências Shopee crescem mais de 115% em Minas; Uberlândia está entre principais polos de vendedores - Regionalzão",
+      "source": "Regionalzao",
+      "link": "https://regionalzao.com.br",
+      "time": "29/09 às 05:00",
+      "dt_iso": "2026-09-29T08:00:00+00:00",
+      "summary": "Agências Shopee crescem mais de 115% em Minas; Uberlândia está entre principais polos de vendedores &nbsp;&nbsp; Regionalzão",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
