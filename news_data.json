@@ -1,6 +1,6 @@
 {
-  "gerado_em": "03/10/2026 às 10:59",
-  "total": 25,
+  "gerado_em": "03/10/2026 às 15:59",
+  "total": 23,
   "noticias": [
     {
       "id": "62e798c65c",
@@ -40,27 +40,6 @@
       ],
       "score": 8,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "d1375177bf",
-      "headline": "SHEIN expande operação logística no Brasil - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "28/09 às 10:15",
-      "dt_iso": "2026-09-28T13:15:00+00:00",
-      "summary": "SHEIN expande operação logística no Brasil &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "logistica",
-      "keywords": [
-        "shein",
-        "operação logística",
-        "expande"
-      ],
-      "score": 8,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -149,12 +128,12 @@
     },
     {
       "id": "3128983de8",
-      "headline": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul - tecnologistica.com.br",
+      "headline": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
       "time": "ontem, 17:03",
       "dt_iso": "2026-10-01T20:03:47+00:00",
-      "summary": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; tecnologistica.com.br",
+      "summary": "Madesa investe mais de R$4 milhões e amplia a capacidade de seu centro de distribuição no Rio Grande do Sul &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -168,11 +147,31 @@
       ]
     },
     {
+      "id": "2a16f9b416",
+      "headline": "SHEIN expande operação no Brasil com a abertura de 850 vagas - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 09:40",
+      "dt_iso": "2026-10-03T12:40:00+00:00",
+      "summary": "SHEIN expande operação no Brasil com a abertura de 850 vagas &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "shein",
+        "expande",
+        "abertura"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d15d3f2a07",
       "headline": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 13:36",
+      "time": "ontem, 13:36",
       "dt_iso": "2026-10-02T16:36:05+00:00",
       "summary": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
@@ -188,12 +187,12 @@
     },
     {
       "id": "b01e4a57b6",
-      "headline": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress - Saulo Vale",
+      "headline": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress - saulovale.com.br",
       "source": "Saulovale",
       "link": "https://saulovale.com.br",
-      "time": "ontem, 12:18",
+      "time": "01/10 às 12:18",
       "dt_iso": "2026-10-01T15:18:00+00:00",
-      "summary": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress &nbsp;&nbsp; Saulo Vale",
+      "summary": "Jr. Rebouças inaugura Complexo Logístico com operações da JBS, Shopee e AliExpress &nbsp;&nbsp; saulovale.com.br",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -251,7 +250,7 @@
       "headline": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool - Forbes Brasil",
       "source": "Forbes",
       "link": "https://forbes.com.br",
-      "time": "ontem, 12:12",
+      "time": "01/10 às 12:12",
       "dt_iso": "2026-10-01T15:12:06+00:00",
       "summary": "Heineken Aposta na Amstel para Ampliar Disputa com Ambev por Cerveja sem Álcool &nbsp;&nbsp; Forbes Brasil",
       "category": "logistica",
@@ -268,12 +267,12 @@
     },
     {
       "id": "f885c61484",
-      "headline": "Edições CNBB inaugura novo centro de distribuição - PublishNews",
+      "headline": "Edições CNBB inaugura novo centro de distribuição - publishnews.com.br",
       "source": "Publishnews",
       "link": "https://www.publishnews.com.br",
       "time": "29/09 às 13:00",
       "dt_iso": "2026-09-29T16:00:15+00:00",
-      "summary": "Edições CNBB inaugura novo centro de distribuição &nbsp;&nbsp; PublishNews",
+      "summary": "Edições CNBB inaugura novo centro de distribuição &nbsp;&nbsp; publishnews.com.br",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
@@ -290,7 +289,7 @@
       "headline": "VP da FedEx explica investimento de R$ 75 milhões no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 15:32",
+      "time": "01/10 às 15:32",
       "dt_iso": "2026-10-01T18:32:14+00:00",
       "summary": "VP da FedEx explica investimento de R$ 75 milhões no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -328,7 +327,7 @@
       "headline": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo - Diário do Grande ABC",
       "source": "Dgabc",
       "link": "https://www.dgabc.com.br",
-      "time": "hoje, 14:30",
+      "time": "ontem, 14:30",
       "dt_iso": "2026-10-02T17:30:00+00:00",
       "summary": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo &nbsp;&nbsp; Diário do Grande ABC",
       "category": "ecommerce",
@@ -366,7 +365,7 @@
       "headline": "DHL investe R$ 270 milhões para dobrar rede no Brasil e já entrega nos EUA em 48 horas - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "hoje, 11:57",
+      "time": "ontem, 11:57",
       "dt_iso": "2026-10-02T14:57:07+00:00",
       "summary": "DHL investe R$ 270 milhões para dobrar rede no Brasil e já entrega nos EUA em 48 horas &nbsp;&nbsp; Exame",
       "category": "logistica",
@@ -400,44 +399,6 @@
       ]
     },
     {
-      "id": "2787e4fd4d",
-      "headline": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "26/09 às 11:54",
-      "dt_iso": "2026-09-26T14:54:00+00:00",
-      "summary": "Foton aumenta estoque de 7 mil para mais de 165 mil peças no Brasil, reduz tempo de veículos nas oficinas em 60% e prepara centro de distribuição para nova expansão &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "6e8ce34284",
-      "headline": "Shopee abre caminho para pequenos vendedores brasileiros exportarem para a Argentina e México - bra1.com.br",
-      "source": "Bra1",
-      "link": "https://www.bra1.com.br",
-      "time": "30/09 às 07:06",
-      "dt_iso": "2026-09-30T10:06:00+00:00",
-      "summary": "Shopee abre caminho para pequenos vendedores brasileiros exportarem para a Argentina e México &nbsp;&nbsp; bra1.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "63a677cba9",
       "headline": "Galpões logísticos de alto padrão atingem 94,5% de ocupação e impulsionam expansão em Santa Catarina - Mobilidade Floripa",
       "source": "Mobilidadefloripa",
@@ -458,12 +419,12 @@
     },
     {
       "id": "40e00c4c18",
-      "headline": "LOG estuda quarto condomínio logístico em Gravataí após investimento superior a R$ 250 milhões no LOG III - Giro de Gravataí",
+      "headline": "LOG estuda quarto condomínio logístico em Gravataí após investimento superior a R$ 250 milhões no LOG III - girodegravatai.com.br",
       "source": "Girodegravatai",
       "link": "https://girodegravatai.com.br",
       "time": "28/09 às 11:51",
       "dt_iso": "2026-09-28T14:51:07+00:00",
-      "summary": "LOG estuda quarto condomínio logístico em Gravataí após investimento superior a R$ 250 milhões no LOG III &nbsp;&nbsp; Giro de Gravataí",
+      "summary": "LOG estuda quarto condomínio logístico em Gravataí após investimento superior a R$ 250 milhões no LOG III &nbsp;&nbsp; girodegravatai.com.br",
       "category": "logistica",
       "keywords": [
         "condomínio logístico",
