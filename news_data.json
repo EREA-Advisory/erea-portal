@@ -1,6 +1,6 @@
 {
-  "gerado_em": "05/10/2026 às 14:29",
-  "total": 17,
+  "gerado_em": "05/10/2026 às 19:19",
+  "total": 18,
   "noticias": [
     {
       "id": "d54fafa660",
@@ -20,6 +20,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "e64a411eb8",
+      "headline": "FedEx conclui venda da FedEx Supply Chain para CMA CGM por US$ 1,4 bilhão - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 14:43",
+      "dt_iso": "2026-10-05T17:43:12+00:00",
+      "summary": "FedEx conclui venda da FedEx Supply Chain para CMA CGM por US$ 1,4 bilhão &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "supply chain"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
         "Logística"
       ]
     },
@@ -143,25 +162,6 @@
       ]
     },
     {
-      "id": "9583d3c41f",
-      "headline": "FII GARE11 compra complexo logístico frigorificado por R$ 155,9 milhões no RS",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/onde-investir/fii-gare11-compra-complexo-logistico-frigorificado-por-r-1559-milhoes-no-rs/",
-      "time": "há 31 min",
-      "dt_iso": "2026-10-05T16:57:09+00:00",
-      "summary": "O negócio amplia a presença do fundo no segmento logístico e adiciona à carteira um ativo especializado em armazenagem frigorificada  \n The post  FII GARE11 compra complexo logístico frigorificado por R$ 155,9 milhões no RS  appeared first on  InfoMoney .",
-      "category": "investimento",
-      "keywords": [
-        "armazenagem",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "f885c61484",
       "headline": "Edições CNBB inaugura novo centro de distribuição - PublishNews",
       "source": "Publishnews",
@@ -220,12 +220,12 @@
     },
     {
       "id": "ec08535eee",
-      "headline": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo - Diário do Grande ABC",
+      "headline": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo - dgabc.com.br",
       "source": "Dgabc",
       "link": "https://www.dgabc.com.br",
       "time": "02/10 às 14:30",
       "dt_iso": "2026-10-02T17:30:00+00:00",
-      "summary": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo &nbsp;&nbsp; Diário do Grande ABC",
+      "summary": "Mercado Livre inaugura centro logístico com 600 vagas em São Bernardo &nbsp;&nbsp; dgabc.com.br",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -309,6 +309,25 @@
       ],
       "score": 6,
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "fae6cf6317",
+      "headline": "Agências Shopee crescem mais de 115% em Minas; Uberlândia está entre principais polos de vendedores - regionalzao.com.br",
+      "source": "Regionalzao",
+      "link": "https://regionalzao.com.br",
+      "time": "29/09 às 05:00",
+      "dt_iso": "2026-09-29T08:00:00+00:00",
+      "summary": "Agências Shopee crescem mais de 115% em Minas; Uberlândia está entre principais polos de vendedores &nbsp;&nbsp; regionalzao.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
       ]
