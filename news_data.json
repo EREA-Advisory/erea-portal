@@ -1,6 +1,6 @@
 {
-  "gerado_em": "06/10/2026 às 12:30",
-  "total": 18,
+  "gerado_em": "06/10/2026 às 17:47",
+  "total": 17,
   "noticias": [
     {
       "id": "d54fafa660",
@@ -28,7 +28,7 @@
       "headline": "FedEx conclui venda da FedEx Supply Chain para CMA CGM por US$ 1,4 bilhão - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 14:43",
+      "time": "ontem, 14:43",
       "dt_iso": "2026-10-05T17:43:12+00:00",
       "summary": "FedEx conclui venda da FedEx Supply Chain para CMA CGM por US$ 1,4 bilhão &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -84,12 +84,12 @@
     },
     {
       "id": "d15d3f2a07",
-      "headline": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários - infomoney.com.br",
+      "headline": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
       "time": "02/10 às 13:36",
       "dt_iso": "2026-10-02T16:36:05+00:00",
-      "summary": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários &nbsp;&nbsp; infomoney.com.br",
+      "summary": "FII da Vinci adiciona galpão de R$ 140 mi à carteira; Shopee está entre locatários &nbsp;&nbsp; InfoMoney",
       "category": "investimento",
       "keywords": [
         "shopee",
@@ -119,6 +119,26 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "ef952d8fff",
+      "headline": "Mercado Livre abre nova unidade em São Bernardo e gera 600 empregos - Repórter Diário",
+      "source": "Reporterdiario",
+      "link": "https://www.reporterdiario.com.br",
+      "time": "02/10 às 15:37",
+      "dt_iso": "2026-10-02T18:37:28+00:00",
+      "summary": "Mercado Livre abre nova unidade em São Bernardo e gera 600 empregos &nbsp;&nbsp; Repórter Diário",
+      "category": "expansao",
+      "keywords": [
+        "mercado livre",
+        "abre",
+        "nova unidade"
+      ],
+      "score": 7,
+      "relevance": "Região(ões) mencionada(s): São Bernardo.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -162,25 +182,6 @@
       ]
     },
     {
-      "id": "f885c61484",
-      "headline": "Edições CNBB inaugura novo centro de distribuição - PublishNews",
-      "source": "Publishnews",
-      "link": "https://www.publishnews.com.br",
-      "time": "29/09 às 13:00",
-      "dt_iso": "2026-09-29T16:00:15+00:00",
-      "summary": "Edições CNBB inaugura novo centro de distribuição &nbsp;&nbsp; PublishNews",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "032ec2613d",
       "headline": "VP da FedEx explica investimento de R$ 75 milhões no Brasil - Mundo Logística",
       "source": "Mundo Logística",
@@ -197,25 +198,6 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "57e10b2fe6",
-      "headline": "Nova unidade do Mercado Livre em São Bernardo vai gerar 1.500 empregos - ABCD Jornal",
-      "source": "Abcdjornal",
-      "link": "https://abcdjornal.com.br",
-      "time": "03/10 às 13:12",
-      "dt_iso": "2026-10-03T16:12:53+00:00",
-      "summary": "Nova unidade do Mercado Livre em São Bernardo vai gerar 1.500 empregos &nbsp;&nbsp; ABCD Jornal",
-      "category": "expansao",
-      "keywords": [
-        "mercado livre",
-        "nova unidade"
-      ],
-      "score": 6,
-      "relevance": "Região(ões) mencionada(s): São Bernardo.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -280,7 +262,7 @@
       "headline": "Iron Mountain nomeia Valdemir Marques de Morais como novo diretor-geral no Brasil para acelerar expansão digital - Brasil Inovador",
       "source": "Brasilinovador",
       "link": "https://brasilinovador.com.br",
-      "time": "hoje, 13:41",
+      "time": "ontem, 13:41",
       "dt_iso": "2026-10-05T16:41:54+00:00",
       "summary": "Iron Mountain nomeia Valdemir Marques de Morais como novo diretor-geral no Brasil para acelerar expansão digital &nbsp;&nbsp; Brasil Inovador",
       "category": "expansao",
