@@ -1,6 +1,6 @@
 {
-  "gerado_em": "12/10/2026 às 15:17",
-  "total": 17,
+  "gerado_em": "12/10/2026 às 19:43",
+  "total": 18,
   "noticias": [
     {
       "id": "879526b9f4",
@@ -238,6 +238,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Investimento"
+      ]
+    },
+    {
+      "id": "eda7d0c62b",
+      "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
+      "source": "Bandab",
+      "link": "https://www.bandab.com.br",
+      "time": "hoje, 18:29",
+      "dt_iso": "2026-10-12T21:29:00+00:00",
+      "summary": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia &nbsp;&nbsp; Banda B",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
       ]
     },
     {
