@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/10/2026 às 13:31",
-  "total": 21,
+  "gerado_em": "13/10/2026 às 17:58",
+  "total": 22,
   "noticias": [
     {
       "id": "879526b9f4",
@@ -45,46 +45,6 @@
       ]
     },
     {
-      "id": "7129f96741",
-      "headline": "Mercado Livre e Shopee movimentam R$ 2,2 bilhões em galpões - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "06/10 às 15:51",
-      "dt_iso": "2026-10-06T18:51:33+00:00",
-      "summary": "Mercado Livre e Shopee movimentam R$ 2,2 bilhões em galpões &nbsp;&nbsp; Mundo Logística",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "shopee",
-        "galpões"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "e64a411eb8",
-      "headline": "FedEx conclui venda da FedEx Supply Chain para CMA CGM por US$ 1,4 bilhão - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "06/10 às 15:52",
-      "dt_iso": "2026-10-06T18:52:50+00:00",
-      "summary": "FedEx conclui venda da FedEx Supply Chain para CMA CGM por US$ 1,4 bilhão &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "supply chain"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "b286e98800",
       "headline": "Liv Up inaugura dark store em João Pessoa e amplia operação no Nordeste - Mercado&Consumo",
       "source": "Mercadoeconsumo",
@@ -120,6 +80,26 @@
       ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "2d640f76c3",
+      "headline": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "hoje, 15:02",
+      "dt_iso": "2026-10-13T18:02:17+00:00",
+      "summary": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil &nbsp;&nbsp; melhorinvestimento.net",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "amplia",
+        "investimento"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -170,7 +150,7 @@
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "hoje, 11:30",
-      "dt_iso": "2026-10-13T14:30:44+00:00",
+      "dt_iso": "2026-10-13T14:30:14+00:00",
       "summary": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) &nbsp;&nbsp; Mundo Logística",
       "category": "expansao",
       "keywords": [
@@ -260,25 +240,6 @@
       ]
     },
     {
-      "id": "53bf292475",
-      "headline": "Jadlog amplia automação da triagem de encomendas no RJ e MG - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://modaisemfoco.com.br",
-      "time": "hoje, 04:28",
-      "dt_iso": "2026-10-13T07:28:10+00:00",
-      "summary": "Jadlog amplia automação da triagem de encomendas no RJ e MG &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "jadlog",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "bfb28b2db2",
       "headline": "Maersk abre inscrições para o Programa Formare 2027 em Santos - Portos e Navios",
       "source": "Portos e Navios",
@@ -290,6 +251,25 @@
       "keywords": [
         "maersk",
         "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "74ad931fd5",
+      "headline": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex - Portal Tempo Novo",
+      "source": "Portaltemponovo",
+      "link": "https://www.portaltemponovo.com.br",
+      "time": "hoje, 16:11",
+      "dt_iso": "2026-10-13T19:11:00+00:00",
+      "summary": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex &nbsp;&nbsp; Portal Tempo Novo",
+      "category": "investimento",
+      "keywords": [
+        "galpão",
+        "aluguel"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -355,6 +335,25 @@
       ]
     },
     {
+      "id": "45da3c7e03",
+      "headline": "JBS investe R$ 15,2 milhões para modernizar operações no Porto de Itajaí - Brasil 247",
+      "source": "Brasil247",
+      "link": "https://www.brasil247.com",
+      "time": "hoje, 14:40",
+      "dt_iso": "2026-10-13T17:40:00+00:00",
+      "summary": "JBS investe R$ 15,2 milhões para modernizar operações no Porto de Itajaí &nbsp;&nbsp; Brasil 247",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "054738fc45",
       "headline": "Com SoftBank como sócio, MadeiraMadeira expande operação logística após dobrar receita - Bloomberg Línea Brasil",
       "source": "Bloomberglinea",
@@ -378,8 +377,8 @@
       "headline": "Tok&Stok abre feirão com descontos de 70% para liquidar estoques após fechar lojas - Portal Tempo Novo",
       "source": "Portaltemponovo",
       "link": "https://www.portaltemponovo.com.br",
-      "time": "ontem, 09:59",
-      "dt_iso": "2026-10-12T12:59:00+00:00",
+      "time": "ontem, 04:00",
+      "dt_iso": "2026-10-12T07:00:00+00:00",
       "summary": "Tok&amp;Stok abre feirão com descontos de 70% para liquidar estoques após fechar lojas &nbsp;&nbsp; Portal Tempo Novo",
       "category": "logistica",
       "keywords": [
@@ -409,6 +408,25 @@
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
         "Investimento"
+      ]
+    },
+    {
+      "id": "63f9803ca0",
+      "headline": "Grupo Petz Cobasi amplia oferta de suplementos - AgroRevenda",
+      "source": "Agrorevenda",
+      "link": "https://agrorevenda.com.br",
+      "time": "hoje, 16:49",
+      "dt_iso": "2026-10-13T19:49:22+00:00",
+      "summary": "Grupo Petz Cobasi amplia oferta de suplementos &nbsp;&nbsp; AgroRevenda",
+      "category": "logistica",
+      "keywords": [
+        "petz",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     }
   ]
