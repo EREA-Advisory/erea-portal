@@ -1,6 +1,6 @@
 {
-  "gerado_em": "14/10/2026 às 11:07",
-  "total": 26,
+  "gerado_em": "14/10/2026 às 16:58",
+  "total": 28,
   "noticias": [
     {
       "id": "879526b9f4",
@@ -131,7 +131,7 @@
       "headline": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 15:02",
+      "time": "ontem, 15:02",
       "dt_iso": "2026-10-13T18:02:17+00:00",
       "summary": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil &nbsp;&nbsp; melhorinvestimento.net",
       "category": "logistica",
@@ -191,7 +191,7 @@
       "headline": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 11:30",
+      "time": "ontem, 11:30",
       "dt_iso": "2026-10-13T14:30:14+00:00",
       "summary": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) &nbsp;&nbsp; Mundo Logística",
       "category": "expansao",
@@ -320,11 +320,30 @@
       ]
     },
     {
+      "id": "d612425250",
+      "headline": "Justiça blinda galpão Apex, mas aluguel é de banco - ES HOJE - Jornal ES HOJE",
+      "source": "Eshoje",
+      "link": "https://eshoje.com.br",
+      "time": "hoje, 15:47",
+      "dt_iso": "2026-10-14T18:47:51+00:00",
+      "summary": "Justiça blinda galpão Apex, mas aluguel é de banco - ES HOJE &nbsp;&nbsp; Jornal ES HOJE",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "74ad931fd5",
       "headline": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex - Portal Tempo Novo",
       "source": "Portaltemponovo",
       "link": "https://www.portaltemponovo.com.br",
-      "time": "hoje, 16:11",
+      "time": "ontem, 16:11",
       "dt_iso": "2026-10-13T19:11:00+00:00",
       "summary": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex &nbsp;&nbsp; Portal Tempo Novo",
       "category": "investimento",
@@ -400,7 +419,7 @@
       "headline": "JBS investe R$ 15,2 milhões para modernizar operações no Porto de Itajaí - Brasil 247",
       "source": "Brasil247",
       "link": "https://www.brasil247.com",
-      "time": "hoje, 14:40",
+      "time": "ontem, 14:40",
       "dt_iso": "2026-10-13T17:40:00+00:00",
       "summary": "JBS investe R$ 15,2 milhões para modernizar operações no Porto de Itajaí &nbsp;&nbsp; Brasil 247",
       "category": "logistica",
@@ -472,6 +491,25 @@
       ]
     },
     {
+      "id": "683780975d",
+      "headline": "Suzano traça objetivos para crescer no mercado de bens de consumo - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "há 58 min",
+      "dt_iso": "2026-10-14T18:59:00+00:00",
+      "summary": "Suzano traça objetivos para crescer no mercado de bens de consumo &nbsp;&nbsp; CNN Brasil",
+      "category": "logistica",
+      "keywords": [
+        "suzano",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "0e6c2bf587",
       "headline": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões - Revista Oeste",
       "source": "Revistaoeste",
@@ -495,7 +533,7 @@
       "headline": "Grupo Petz Cobasi amplia oferta de suplementos - AgroRevenda",
       "source": "Agrorevenda",
       "link": "https://agrorevenda.com.br",
-      "time": "hoje, 16:49",
+      "time": "ontem, 16:49",
       "dt_iso": "2026-10-13T19:49:22+00:00",
       "summary": "Grupo Petz Cobasi amplia oferta de suplementos &nbsp;&nbsp; AgroRevenda",
       "category": "logistica",
