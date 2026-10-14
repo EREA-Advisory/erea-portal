@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/10/2026 às 17:58",
-  "total": 22,
+  "gerado_em": "14/10/2026 às 11:07",
+  "total": 26,
   "noticias": [
     {
       "id": "879526b9f4",
@@ -18,6 +18,27 @@
       ],
       "score": 8,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "1d5b562e1a",
+      "headline": "Mercado Livre abre centro de distribuição e gera 700 empregos em Gravataí - oreporter.net",
+      "source": "Oreporter",
+      "link": "https://www.oreporter.net",
+      "time": "hoje, 18:38",
+      "dt_iso": "2026-10-13T21:38:51+00:00",
+      "summary": "Mercado Livre abre centro de distribuição e gera 700 empregos em Gravataí &nbsp;&nbsp; oreporter.net",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição",
+        "abre"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Destaque",
         "E-commerce"
@@ -45,6 +66,27 @@
       ]
     },
     {
+      "id": "6d21e1af94",
+      "headline": "MBRF Pet inicia exportação aos EUA e investe R$ 13,6 milhões na ampliação de fábrica no Paraguai - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "hoje, 18:30",
+      "dt_iso": "2026-10-13T21:30:00+00:00",
+      "summary": "MBRF Pet inicia exportação aos EUA e investe R$ 13,6 milhões na ampliação de fábrica no Paraguai &nbsp;&nbsp; Estadão",
+      "category": "expansao",
+      "keywords": [
+        "brf",
+        "amplia",
+        "ampliação",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "b286e98800",
       "headline": "Liv Up inaugura dark store em João Pessoa e amplia operação no Nordeste - Mercado&Consumo",
       "source": "Mercadoeconsumo",
@@ -65,21 +107,21 @@
       ]
     },
     {
-      "id": "76eeccff41",
-      "headline": "Grupo Edmil vai instalar centro de distribuição em Varginha com investimento de R$ 54,4 milhões - Varginha Online",
-      "source": "Varginhaonline",
-      "link": "https://www.varginhaonline.com.br",
-      "time": "06/10 às 18:07",
-      "dt_iso": "2026-10-06T21:07:30+00:00",
-      "summary": "Grupo Edmil vai instalar centro de distribuição em Varginha com investimento de R$ 54,4 milhões &nbsp;&nbsp; Varginha Online",
+      "id": "7745da4b65",
+      "headline": "Ferraz terá mês de aniversário com shows e oito inaugurações - Diario de Suzano",
+      "source": "Diariodesuzano",
+      "link": "https://www.diariodesuzano.com.br",
+      "time": "hoje, 06:00",
+      "dt_iso": "2026-10-14T09:00:00+00:00",
+      "summary": "Ferraz terá mês de aniversário com shows e oito inaugurações &nbsp;&nbsp; Diario de Suzano",
       "category": "logistica",
       "keywords": [
-        "centro de distribuição",
-        "investimento",
-        "instala"
+        "suzano",
+        "inaugura",
+        "inaugurações"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -105,23 +147,23 @@
       ]
     },
     {
-      "id": "b476679bb7",
-      "headline": "Estudo com 88 mil unidades consumidoras de energia solar por assinatura registrou inadimplência média de 17% e alerta para riscos da abertura do mercado livre no Brasil - CPG Click Petróleo e Gás",
+      "id": "5a55163961",
+      "headline": "Empresa investe R$ 140 milhões para ampliar condomínio logístico em 40 mil m² às margens da Fernão Dias e prevê 860 empregos - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 09:31",
-      "dt_iso": "2026-10-13T12:31:00+00:00",
-      "summary": "Estudo com 88 mil unidades consumidoras de energia solar por assinatura registrou inadimplência média de 17% e alerta para riscos da abertura do mercado livre no Brasil &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
+      "time": "hoje, 23:33",
+      "dt_iso": "2026-10-14T02:33:00+00:00",
+      "summary": "Empresa investe R$ 140 milhões para ampliar condomínio logístico em 40 mil m² às margens da Fernão Dias e prevê 860 empregos &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "natura",
-        "abertura"
+        "condomínio logístico",
+        "amplia",
+        "investe"
       ],
       "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -240,6 +282,25 @@
       ]
     },
     {
+      "id": "53bf292475",
+      "headline": "Jadlog amplia automação da triagem de encomendas no RJ e MG - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://modaisemfoco.com.br",
+      "time": "ontem, 04:28",
+      "dt_iso": "2026-10-13T07:28:10+00:00",
+      "summary": "Jadlog amplia automação da triagem de encomendas no RJ e MG &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "jadlog",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "bfb28b2db2",
       "headline": "Maersk abre inscrições para o Programa Formare 2027 em Santos - Portos e Navios",
       "source": "Portos e Navios",
@@ -282,7 +343,7 @@
       "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
       "source": "Bandab",
       "link": "https://www.bandab.com.br",
-      "time": "hoje, 18:29",
+      "time": "ontem, 18:29",
       "dt_iso": "2026-10-12T21:29:00+00:00",
       "summary": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia &nbsp;&nbsp; Banda B",
       "category": "logistica",
@@ -294,25 +355,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "8710e6f193",
-      "headline": "Shopee reduz prazo médio de entrega no Brasil com expansão de modalidades logísticas - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "07/10 às 03:04",
-      "dt_iso": "2026-10-07T06:04:24+00:00",
-      "summary": "Shopee reduz prazo médio de entrega no Brasil com expansão de modalidades logísticas &nbsp;&nbsp; Mercado&amp;Consumo",
-      "category": "expansao",
-      "keywords": [
-        "shopee",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -332,6 +374,25 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "fd8fcef742",
+      "headline": "Expansão da Shopee libera vendas de 150 mil PMEs brasileiras para México e Argentina - MundoBA",
+      "source": "Mundoba",
+      "link": "https://mundoba.com.br",
+      "time": "hoje, 17:12",
+      "dt_iso": "2026-10-13T20:12:00+00:00",
+      "summary": "Expansão da Shopee libera vendas de 150 mil PMEs brasileiras para México e Argentina &nbsp;&nbsp; MundoBA",
+      "category": "expansao",
+      "keywords": [
+        "shopee",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -358,7 +419,7 @@
       "headline": "Com SoftBank como sócio, MadeiraMadeira expande operação logística após dobrar receita - Bloomberg Línea Brasil",
       "source": "Bloomberglinea",
       "link": "https://www.bloomberglinea.com.br",
-      "time": "hoje, 06:00",
+      "time": "ontem, 06:00",
       "dt_iso": "2026-10-13T09:00:01+00:00",
       "summary": "Com SoftBank como sócio, MadeiraMadeira expande operação logística após dobrar receita &nbsp;&nbsp; Bloomberg Línea Brasil",
       "category": "logistica",
@@ -377,8 +438,8 @@
       "headline": "Tok&Stok abre feirão com descontos de 70% para liquidar estoques após fechar lojas - Portal Tempo Novo",
       "source": "Portaltemponovo",
       "link": "https://www.portaltemponovo.com.br",
-      "time": "ontem, 04:00",
-      "dt_iso": "2026-10-12T07:00:00+00:00",
+      "time": "12/10 às 09:59",
+      "dt_iso": "2026-10-12T12:59:00+00:00",
       "summary": "Tok&amp;Stok abre feirão com descontos de 70% para liquidar estoques após fechar lojas &nbsp;&nbsp; Portal Tempo Novo",
       "category": "logistica",
       "keywords": [
@@ -392,13 +453,13 @@
       ]
     },
     {
-      "id": "58bcf5da01",
-      "headline": "FII HSLG11 cai forte após Casas Bahia deixar aluguel de R$ 4,3 milhões em aberto - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "hoje, 12:18",
-      "dt_iso": "2026-10-13T15:18:19+00:00",
-      "summary": "FII HSLG11 cai forte após Casas Bahia deixar aluguel de R$ 4,3 milhões em aberto &nbsp;&nbsp; InfoMoney",
+      "id": "76272978d3",
+      "headline": "FII pede despejo da Casas Bahia após calote de R$ 4,3 mi em aluguel - InvestNews",
+      "source": "InvestNews",
+      "link": "https://investnews.com.br",
+      "time": "hoje, 18:42",
+      "dt_iso": "2026-10-13T21:42:44+00:00",
+      "summary": "FII pede despejo da Casas Bahia após calote de R$ 4,3 mi em aluguel &nbsp;&nbsp; InvestNews",
       "category": "investimento",
       "keywords": [
         "casas bahia",
@@ -408,6 +469,25 @@
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
         "Investimento"
+      ]
+    },
+    {
+      "id": "0e6c2bf587",
+      "headline": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões - Revista Oeste",
+      "source": "Revistaoeste",
+      "link": "https://revistaoeste.com",
+      "time": "11/10 às 08:27",
+      "dt_iso": "2026-10-11T11:27:30+00:00",
+      "summary": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões &nbsp;&nbsp; Revista Oeste",
+      "category": "logistica",
+      "keywords": [
+        "casas bahia",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
       ]
     },
     {
