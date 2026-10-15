@@ -1,15 +1,15 @@
 {
-  "gerado_em": "15/10/2026 às 10:44",
-  "total": 31,
+  "gerado_em": "15/10/2026 às 16:41",
+  "total": 34,
   "noticias": [
     {
-      "id": "556a0abded",
-      "headline": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba - Repórter Guaibense",
-      "source": "Reporterguaibense",
-      "link": "https://www.reporterguaibense.com.br",
-      "time": "hoje, 17:48",
-      "dt_iso": "2026-10-14T20:48:00+00:00",
-      "summary": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba &nbsp;&nbsp; Repórter Guaibense",
+      "id": "013b4b5f5d",
+      "headline": "Governador participa da inauguração de centro de distribuição do Mercado Livre em Guaíba - Portal do Estado do Rio Grande do Sul",
+      "source": "Estado",
+      "link": "https://www.estado.rs.gov.br",
+      "time": "hoje, 17:35",
+      "dt_iso": "2026-10-14T20:35:02+00:00",
+      "summary": "Governador participa da inauguração de centro de distribuição do Mercado Livre em Guaíba &nbsp;&nbsp; Portal do Estado do Rio Grande do Sul",
       "category": "expansao",
       "keywords": [
         "mercado livre",
@@ -195,7 +195,7 @@
       "headline": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "ontem, 15:02",
+      "time": "13/10 às 15:02",
       "dt_iso": "2026-10-13T18:02:17+00:00",
       "summary": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil &nbsp;&nbsp; melhorinvestimento.net",
       "category": "logistica",
@@ -231,11 +231,51 @@
       ]
     },
     {
+      "id": "f65adc1251",
+      "headline": "Magalu passa a vender produtos na Shopee para ampliar alcance digital - Money Report",
+      "source": "Money Report",
+      "link": "https://www.moneyreport.com.br",
+      "time": "há 27 min",
+      "dt_iso": "2026-10-15T19:13:43+00:00",
+      "summary": "Magalu passa a vender produtos na Shopee para ampliar alcance digital &nbsp;&nbsp; Money Report",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "magalu",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "25a9157efa",
+      "headline": "Magazine Luiza faz parceria com Shopee para ampliar vendas de estoque próprio - Terra",
+      "source": "Terra",
+      "link": "https://www.terra.com.br",
+      "time": "hoje, 14:26",
+      "dt_iso": "2026-10-15T17:26:00+00:00",
+      "summary": "Magazine Luiza faz parceria com Shopee para ampliar vendas de estoque próprio &nbsp;&nbsp; Terra",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "magazine luiza",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "4b23273b47",
       "headline": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 11:30",
+      "time": "13/10 às 11:30",
       "dt_iso": "2026-10-13T14:30:14+00:00",
       "summary": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) &nbsp;&nbsp; Mundo Logística",
       "category": "expansao",
@@ -288,25 +328,6 @@
       ]
     },
     {
-      "id": "6b3a60790e",
-      "headline": "Total Express amplia cobertura para 5.165 municípios e reforça rede de pontos de retirada - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "08/10 às 13:06",
-      "dt_iso": "2026-10-08T16:06:20+00:00",
-      "summary": "Total Express amplia cobertura para 5.165 municípios e reforça rede de pontos de retirada &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "total express",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "6d284984d2",
       "headline": "J&T Express inaugura CD de R$ 75 milhões em Guarulhos com sorter para 2 milhões de encomendas por dia - Tecnologística",
       "source": "Tecnologística",
@@ -321,6 +342,25 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3e703b9237",
+      "headline": "Correios inaugura novo equipamento de triagem - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 07:34",
+      "dt_iso": "2026-10-15T10:34:00+00:00",
+      "summary": "Correios inaugura novo equipamento de triagem &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -387,7 +427,7 @@
       "headline": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex - Portal Tempo Novo",
       "source": "Portaltemponovo",
       "link": "https://www.portaltemponovo.com.br",
-      "time": "ontem, 16:11",
+      "time": "13/10 às 16:11",
       "dt_iso": "2026-10-13T19:11:00+00:00",
       "summary": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex &nbsp;&nbsp; Portal Tempo Novo",
       "category": "investimento",
@@ -440,6 +480,25 @@
       ]
     },
     {
+      "id": "ada5a15cb1",
+      "headline": "Mercado Livre ampliará rede logística em 39% em 2026 - Maringá Post",
+      "source": "Maringapost",
+      "link": "https://maringapost.com.br",
+      "time": "há 40 min",
+      "dt_iso": "2026-10-15T19:00:00+00:00",
+      "summary": "Mercado Livre ampliará rede logística em 39% em 2026 &nbsp;&nbsp; Maringá Post",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "c5da8b390a",
       "headline": "Correios mantêm acordo com AliExpress enquanto gigantes do e-commerce ampliam redes logísticas - Economic News Brasil",
       "source": "Economicnewsbrasil",
@@ -463,7 +522,7 @@
       "headline": "JBS investe R$ 15,2 milhões para modernizar operações no Porto de Itajaí - Brasil 247",
       "source": "Brasil247",
       "link": "https://www.brasil247.com",
-      "time": "ontem, 14:40",
+      "time": "13/10 às 14:40",
       "dt_iso": "2026-10-13T17:40:00+00:00",
       "summary": "JBS investe R$ 15,2 milhões para modernizar operações no Porto de Itajaí &nbsp;&nbsp; Brasil 247",
       "category": "logistica",
@@ -558,7 +617,7 @@
       "headline": "Suzano traça objetivos para crescer no mercado de bens de consumo - CNN Brasil",
       "source": "CNN Brasil",
       "link": "https://www.cnnbrasil.com.br",
-      "time": "hoje, 15:59",
+      "time": "ontem, 15:59",
       "dt_iso": "2026-10-14T18:59:00+00:00",
       "summary": "Suzano traça objetivos para crescer no mercado de bens de consumo &nbsp;&nbsp; CNN Brasil",
       "category": "logistica",
