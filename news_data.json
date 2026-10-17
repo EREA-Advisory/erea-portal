@@ -1,13 +1,13 @@
 {
-  "gerado_em": "16/10/2026 às 16:17",
-  "total": 32,
+  "gerado_em": "17/10/2026 às 09:31",
+  "total": 39,
   "noticias": [
     {
       "id": "34bd9a71f8",
       "headline": "Mercado Livre inaugura centro de distribuição em Guaíba - Grupo AMANHÃ",
       "source": "Amanha",
       "link": "https://amanha.com.br",
-      "time": "ontem, 08:46",
+      "time": "15/10 às 08:46",
       "dt_iso": "2026-10-15T11:46:00+00:00",
       "summary": "Mercado Livre inaugura centro de distribuição em Guaíba &nbsp;&nbsp; Grupo AMANHÃ",
       "category": "ecommerce",
@@ -49,7 +49,7 @@
       "headline": "J&T Express investe R$ 75 milhões em centro de distribuição automatizado - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 19:51",
+      "time": "14/10 às 19:51",
       "dt_iso": "2026-10-14T22:51:51+00:00",
       "summary": "J&amp;T Express investe R$ 75 milhões em centro de distribuição automatizado &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -66,24 +66,44 @@
       ]
     },
     {
-      "id": "0cccc745a4",
-      "headline": "Mercado Livre inaugura centro de distribuição no RS com promessa de até 700 empregos; veja onde fica - Portal de Camaquã",
-      "source": "Portaldecamaqua",
-      "link": "https://www.portaldecamaqua.com.br",
-      "time": "ontem, 00:01",
-      "dt_iso": "2026-10-15T03:01:24+00:00",
-      "summary": "Mercado Livre inaugura centro de distribuição no RS com promessa de até 700 empregos; veja onde fica &nbsp;&nbsp; Portal de Camaquã",
-      "category": "ecommerce",
+      "id": "10a11048fc",
+      "headline": "J&T Express investe R$ 75 milhões em Guarulhos, instala 4,1 km de esteiras e abre mais de 1.200 vagas em novo centro logístico - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "ontem, 04:27",
+      "dt_iso": "2026-10-16T07:27:00+00:00",
+      "summary": "J&amp;T Express investe R$ 75 milhões em Guarulhos, instala 4,1 km de esteiras e abre mais de 1.200 vagas em novo centro logístico &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura"
+        "j&t express",
+        "abre",
+        "investe",
+        "instala"
       ],
       "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
-        "Destaque",
-        "E-commerce"
+        "Logística"
+      ]
+    },
+    {
+      "id": "13f9cf4d40",
+      "headline": "Quanto eu teria hoje se tivesse investido R$ 10 mil em ações do Magazine Luiza há um ano?",
+      "source": "Exame",
+      "link": "https://exame.com/invest/minhas-financas/quanto-eu-teria-hoje-se-tivesse-investido-r-10-mil-em-acoes-do-magazine-luiza-ha-um-ano/",
+      "time": "hoje, 05:00",
+      "dt_iso": "2026-10-17T08:00:48+00:00",
+      "summary": "Expansão do comércio eletrônico impulsionou o Magalu há uma década, ao mesmo tempo que as taxas de juros elevadas em períodos mais recentes pressionaram os papéis",
+      "category": "expansao",
+      "keywords": [
+        "magazine luiza",
+        "magalu",
+        "expansão"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -147,6 +167,26 @@
       ]
     },
     {
+      "id": "cfd624a01b",
+      "headline": "Magalu estreia na Shopee para ampliar vendas on-line - O GLOBO",
+      "source": "O Globo",
+      "link": "https://oglobo.globo.com",
+      "time": "hoje, 14:50",
+      "dt_iso": "2026-10-16T17:50:50+00:00",
+      "summary": "Magalu estreia na Shopee para ampliar vendas on-line &nbsp;&nbsp; O GLOBO",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "magalu",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "f65adc1251",
       "headline": "Magalu passa a vender produtos na Shopee para ampliar alcance digital - Money Report",
       "source": "Money Report",
@@ -167,13 +207,33 @@
       ]
     },
     {
-      "id": "25a9157efa",
-      "headline": "Magazine Luiza faz parceria com Shopee para ampliar vendas de estoque próprio - Terra",
-      "source": "Terra",
-      "link": "https://www.terra.com.br",
-      "time": "ontem, 14:26",
-      "dt_iso": "2026-10-15T17:26:00+00:00",
-      "summary": "Magazine Luiza faz parceria com Shopee para ampliar vendas de estoque próprio &nbsp;&nbsp; Terra",
+      "id": "8ed0fe1665",
+      "headline": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "hoje, 17:15",
+      "dt_iso": "2026-10-16T20:15:04+00:00",
+      "summary": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "magazine luiza",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d50bd66fa8",
+      "headline": "Magazine Luiza (MGLU3) fecha parceria com Shopee para ampliar vendas - BPMoney",
+      "source": "Bpmoney",
+      "link": "https://bpmoney.com.br",
+      "time": "ontem, 14:43",
+      "dt_iso": "2026-10-15T17:43:12+00:00",
+      "summary": "Magazine Luiza (MGLU3) fecha parceria com Shopee para ampliar vendas &nbsp;&nbsp; BPMoney",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -269,7 +329,7 @@
       "headline": "J&T Express inaugura CD de R$ 75 milhões em Guarulhos com sorter para 2 milhões de encomendas por dia - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 07:37",
+      "time": "15/10 às 07:37",
       "dt_iso": "2026-10-15T10:37:23+00:00",
       "summary": "J&amp;T Express inaugura CD de R$ 75 milhões em Guarulhos com sorter para 2 milhões de encomendas por dia &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -303,11 +363,30 @@
       ]
     },
     {
+      "id": "b63f17d567",
+      "headline": "Iveco Group inaugura centro de distribuição em Pouso Alegre - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://modaisemfoco.com.br",
+      "time": "hoje, 03:00",
+      "dt_iso": "2026-10-17T06:00:55+00:00",
+      "summary": "Iveco Group inaugura centro de distribuição em Pouso Alegre &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "3e703b9237",
       "headline": "Correios inaugura novo equipamento de triagem - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 07:34",
+      "time": "15/10 às 07:34",
       "dt_iso": "2026-10-15T10:34:00+00:00",
       "summary": "Correios inaugura novo equipamento de triagem &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -383,7 +462,7 @@
       "headline": "Nova unidade do Mercado Livre gera empregos no RS - PSD - Partido Social Democrático",
       "source": "Psd",
       "link": "https://psd.org.br",
-      "time": "hoje, 17:52",
+      "time": "ontem, 17:52",
       "dt_iso": "2026-10-15T20:52:12+00:00",
       "summary": "Nova unidade do Mercado Livre gera empregos no RS &nbsp;&nbsp; PSD - Partido Social Democrático",
       "category": "expansao",
@@ -402,7 +481,7 @@
       "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
       "source": "Bandab",
       "link": "https://www.bandab.com.br",
-      "time": "ontem, 04:00",
+      "time": "15/10 às 04:00",
       "dt_iso": "2026-10-15T07:00:00+00:00",
       "summary": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia &nbsp;&nbsp; Banda B",
       "category": "logistica",
@@ -446,6 +525,25 @@
       "category": "expansao",
       "keywords": [
         "grupo dpsp",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "3415ce5dec",
+      "headline": "Amazon anuncia uma parceria global com a HYROX, maior série de corridas fitness do mundo, em meio à rápida expansão da modalidade no Brasil - About Amazon Brasil",
+      "source": "Aboutamazon",
+      "link": "https://www.aboutamazon.com.br",
+      "time": "hoje, 17:00",
+      "dt_iso": "2026-10-16T20:00:05+00:00",
+      "summary": "Amazon anuncia uma parceria global com a HYROX, maior série de corridas fitness do mundo, em meio à rápida expansão da modalidade no Brasil &nbsp;&nbsp; About Amazon Brasil",
+      "category": "expansao",
+      "keywords": [
+        "amazon brasil",
         "expansão"
       ],
       "score": 6,
@@ -516,7 +614,7 @@
       "headline": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "hoje, 07:41",
+      "time": "ontem, 07:41",
       "dt_iso": "2026-10-16T10:41:00+00:00",
       "summary": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe &nbsp;&nbsp; Money Times",
       "category": "investimento",
@@ -588,6 +686,25 @@
       ]
     },
     {
+      "id": "61193c6070",
+      "headline": "Mercado Livre abre o sábado com novo cupom de 20% OFF em produtos com envio Full - Seletronic",
+      "source": "Seletronic",
+      "link": "https://seletronic.com.br",
+      "time": "hoje, 00:01",
+      "dt_iso": "2026-10-17T03:01:11+00:00",
+      "summary": "Mercado Livre abre o sábado com novo cupom de 20% OFF em produtos com envio Full &nbsp;&nbsp; Seletronic",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "134182c95d",
       "headline": "MBRF Pet inicia exportação aos EUA e investe R$ 13,6 milhões em fábrica no Paraguai - InfoMoney",
       "source": "InfoMoney",
@@ -617,6 +734,25 @@
       "category": "logistica",
       "keywords": [
         "petlove",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "63f9803ca0",
+      "headline": "Grupo Petz Cobasi amplia oferta de suplementos - AgroRevenda",
+      "source": "Agrorevenda",
+      "link": "https://agrorevenda.com.br",
+      "time": "13/10 às 16:49",
+      "dt_iso": "2026-10-13T19:49:22+00:00",
+      "summary": "Grupo Petz Cobasi amplia oferta de suplementos &nbsp;&nbsp; AgroRevenda",
+      "category": "logistica",
+      "keywords": [
+        "petz",
         "amplia"
       ],
       "score": 6,
