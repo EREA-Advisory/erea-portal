@@ -1,13 +1,13 @@
 {
-  "gerado_em": "19/10/2026 às 12:55",
-  "total": 39,
+  "gerado_em": "19/10/2026 às 17:52",
+  "total": 41,
   "noticias": [
     {
       "id": "6a10605e27",
       "headline": "Prefeito vistoria obras de ampliação do centro logístico instalado na Vila Figueira - Diario de Suzano",
       "source": "Diariodesuzano",
       "link": "https://www.diariodesuzano.com.br",
-      "time": "ontem, 13:57",
+      "time": "17/10 às 13:57",
       "dt_iso": "2026-10-17T16:57:00+00:00",
       "summary": "Prefeito vistoria obras de ampliação do centro logístico instalado na Vila Figueira &nbsp;&nbsp; Diario de Suzano",
       "category": "expansao",
@@ -28,8 +28,8 @@
       "headline": "Mercado Livre inaugura centro de distribuição em Guaíba - Grupo AMANHÃ",
       "source": "Amanha",
       "link": "https://amanha.com.br",
-      "time": "15/10 às 08:46",
-      "dt_iso": "2026-10-15T11:46:00+00:00",
+      "time": "15/10 às 13:24",
+      "dt_iso": "2026-10-15T16:24:46+00:00",
       "summary": "Mercado Livre inaugura centro de distribuição em Guaíba &nbsp;&nbsp; Grupo AMANHÃ",
       "category": "ecommerce",
       "keywords": [
@@ -70,7 +70,7 @@
       "headline": "TRXF11 compra participação em galpão do Mercado Livre - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "há 47 min",
+      "time": "hoje, 12:07",
       "dt_iso": "2026-10-19T15:07:50+00:00",
       "summary": "TRXF11 compra participação em galpão do Mercado Livre &nbsp;&nbsp; melhorinvestimento.net",
       "category": "ecommerce",
@@ -108,24 +108,24 @@
       ]
     },
     {
-      "id": "0cccc745a4",
-      "headline": "Mercado Livre inaugura centro de distribuição no RS com promessa de até 700 empregos; veja onde fica - Portal de Camaquã",
-      "source": "Portaldecamaqua",
-      "link": "https://www.portaldecamaqua.com.br",
-      "time": "15/10 às 00:01",
-      "dt_iso": "2026-10-15T03:01:24+00:00",
-      "summary": "Mercado Livre inaugura centro de distribuição no RS com promessa de até 700 empregos; veja onde fica &nbsp;&nbsp; Portal de Camaquã",
-      "category": "ecommerce",
+      "id": "d04e1f5f8e",
+      "headline": "Novos galpões avançam, mas custo de construção pressiona expansão logística - SiiLA Brasil",
+      "source": "Siila",
+      "link": "https://siila.com.br",
+      "time": "13/10 às 10:58",
+      "dt_iso": "2026-10-13T13:58:14+00:00",
+      "summary": "Novos galpões avançam, mas custo de construção pressiona expansão logística &nbsp;&nbsp; SiiLA Brasil",
+      "category": "expansao",
       "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura"
+        "galpões",
+        "expansão",
+        "novos galpões",
+        "construção"
       ],
       "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Destaque",
-        "E-commerce"
+        "Expansão"
       ]
     },
     {
@@ -270,26 +270,6 @@
       ]
     },
     {
-      "id": "8ed0fe1665",
-      "headline": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza - Suno - Investimentos Inteligentes",
-      "source": "Suno",
-      "link": "https://www.suno.com.br",
-      "time": "16/10 às 17:15",
-      "dt_iso": "2026-10-16T20:15:04+00:00",
-      "summary": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza &nbsp;&nbsp; Suno - Investimentos Inteligentes",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "f65adc1251",
       "headline": "Magalu passa a vender produtos na Shopee para ampliar alcance digital - Money Report",
       "source": "Money Report",
@@ -330,6 +310,26 @@
       ]
     },
     {
+      "id": "8ed0fe1665",
+      "headline": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "16/10 às 17:15",
+      "dt_iso": "2026-10-16T20:15:04+00:00",
+      "summary": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "magazine luiza",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "cfd624a01b",
       "headline": "Magalu estreia na Shopee para ampliar vendas on-line - O GLOBO",
       "source": "O Globo",
@@ -350,22 +350,22 @@
       ]
     },
     {
-      "id": "e638c7b591",
-      "headline": "Galpões estão acabando no Brasil — só Meli ocupa quase 4 milhões de metros quadrados",
-      "source": "Exame",
-      "link": "https://exame.com/mercado-imobiliario/galpoes-estao-acabando-no-brasil-so-meli-ocupa-quase-4-milhoes-de-metros-quadrados/",
-      "time": "hoje, 08:00",
-      "dt_iso": "2026-10-19T11:00:12+00:00",
-      "summary": "Demanda por logística supera novas entregas, enquanto São Paulo vê aluguel subir 32% e escritórios têm dinâmica oposta",
-      "category": "logistica",
+      "id": "4b23273b47",
+      "headline": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "13/10 às 11:30",
+      "dt_iso": "2026-10-13T14:30:14+00:00",
+      "summary": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) &nbsp;&nbsp; MundoLogística",
+      "category": "expansao",
       "keywords": [
-        "galpões",
-        "aluguel"
+        "condomínio logístico",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -385,25 +385,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "4b23273b47",
-      "headline": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "13/10 às 11:30",
-      "dt_iso": "2026-10-13T14:30:14+00:00",
-      "summary": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) &nbsp;&nbsp; Mundo Logística",
-      "category": "expansao",
-      "keywords": [
-        "condomínio logístico",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -597,6 +578,25 @@
       ]
     },
     {
+      "id": "f3b832e511",
+      "headline": "Shopee amplia carteira de crédito para R$ 8,4 bi e leva disputa do e-commerce para nova frente - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 11:27",
+      "dt_iso": "2026-10-19T14:27:28+00:00",
+      "summary": "Shopee amplia carteira de crédito para R$ 8,4 bi e leva disputa do e-commerce para nova frente &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "3415ce5dec",
       "headline": "Amazon anuncia uma parceria global com a HYROX, maior série de corridas fitness do mundo, em meio à rápida expansão da modalidade no Brasil - About Amazon Brasil",
       "source": "Aboutamazon",
@@ -635,22 +635,41 @@
       ]
     },
     {
-      "id": "e316871e85",
-      "headline": "3corações instala centro de distribuição no RN e prevê 300 empregos - Agora RN",
-      "source": "Agorarn",
-      "link": "https://agorarn.com.br",
-      "time": "ontem, 13:00",
-      "dt_iso": "2026-10-17T16:00:00+00:00",
-      "summary": "3corações instala centro de distribuição no RN e prevê 300 empregos &nbsp;&nbsp; Agora RN",
+      "id": "d8fbb794db",
+      "headline": "Fim de incentivos fiscais não impede investimento de até R$ 440 milhões em galpões logísticos de Extrema - SiiLA Brasil",
+      "source": "Siila",
+      "link": "https://siila.com.br",
+      "time": "15/10 às 08:13",
+      "dt_iso": "2026-10-15T11:13:26+00:00",
+      "summary": "Fim de incentivos fiscais não impede investimento de até R$ 440 milhões em galpões logísticos de Extrema &nbsp;&nbsp; SiiLA Brasil",
       "category": "logistica",
       "keywords": [
-        "centro de distribuição",
-        "instala"
+        "galpões",
+        "investimento"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "74ad931fd5",
+      "headline": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex - Portal Tempo Novo",
+      "source": "Portaltemponovo",
+      "link": "https://www.portaltemponovo.com.br",
+      "time": "14/10 às 12:28",
+      "dt_iso": "2026-10-14T15:28:00+00:00",
+      "summary": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex &nbsp;&nbsp; Portal Tempo Novo",
+      "category": "investimento",
+      "keywords": [
+        "galpão",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -668,6 +687,25 @@
       ],
       "score": 6,
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "64c27e491f",
+      "headline": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo - Seu Dinheiro",
+      "source": "Seudinheiro",
+      "link": "https://www.seudinheiro.com",
+      "time": "16/10 às 10:38",
+      "dt_iso": "2026-10-16T13:38:53+00:00",
+      "summary": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo &nbsp;&nbsp; Seu Dinheiro",
+      "category": "investimento",
+      "keywords": [
+        "casas bahia",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
         "Investimento"
       ]
@@ -711,22 +749,22 @@
       ]
     },
     {
-      "id": "58bcf5da01",
-      "headline": "FII HSLG11 cai forte após Casas Bahia deixar aluguel de R$ 4,3 milhões em aberto - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "13/10 às 12:18",
-      "dt_iso": "2026-10-13T15:18:19+00:00",
-      "summary": "FII HSLG11 cai forte após Casas Bahia deixar aluguel de R$ 4,3 milhões em aberto &nbsp;&nbsp; InfoMoney",
-      "category": "investimento",
+      "id": "9127db93cc",
+      "headline": "Cliente vai vender no Mercado Livre, na Amazon ou no TikTok Shop: o que o contador precisa definir na abertura do CNPJ - Contadores.cnt.br",
+      "source": "Contadores",
+      "link": "https://www.contadores.cnt.br",
+      "time": "hoje, 10:18",
+      "dt_iso": "2026-10-19T13:18:00+00:00",
+      "summary": "Cliente vai vender no Mercado Livre, na Amazon ou no TikTok Shop: o que o contador precisa definir na abertura do CNPJ &nbsp;&nbsp; Contadores.cnt.br",
+      "category": "ecommerce",
       "keywords": [
-        "casas bahia",
-        "aluguel"
+        "mercado livre",
+        "abertura"
       ],
       "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Investimento"
+        "E-commerce"
       ]
     },
     {
