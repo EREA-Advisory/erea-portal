@@ -1,6 +1,6 @@
 {
-  "gerado_em": "20/10/2026 às 10:55",
-  "total": 38,
+  "gerado_em": "20/10/2026 às 16:49",
+  "total": 39,
   "noticias": [
     {
       "id": "6a10605e27",
@@ -70,7 +70,7 @@
       "headline": "TRXF11 compra participação em galpão do Mercado Livre - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 12:06",
+      "time": "ontem, 12:06",
       "dt_iso": "2026-10-19T15:06:36+00:00",
       "summary": "TRXF11 compra participação em galpão do Mercado Livre &nbsp;&nbsp; melhorinvestimento.net",
       "category": "ecommerce",
@@ -129,24 +129,24 @@
       ]
     },
     {
-      "id": "d04e1f5f8e",
-      "headline": "Novos galpões avançam, mas custo de construção pressiona expansão logística - SiiLA Brasil",
-      "source": "Siila",
-      "link": "https://siila.com.br",
-      "time": "13/10 às 10:58",
-      "dt_iso": "2026-10-13T13:58:14+00:00",
-      "summary": "Novos galpões avançam, mas custo de construção pressiona expansão logística &nbsp;&nbsp; SiiLA Brasil",
-      "category": "expansao",
+      "id": "9681653a9c",
+      "headline": "Incêndio atinge galpão industrial em Suzano - G1",
+      "source": "G1",
+      "link": "https://g1.globo.com",
+      "time": "hoje, 14:27",
+      "dt_iso": "2026-10-20T17:27:26+00:00",
+      "summary": "Incêndio atinge galpão industrial em Suzano &nbsp;&nbsp; G1",
+      "category": "industrial",
       "keywords": [
-        "galpões",
-        "expansão",
-        "novos galpões",
-        "construção"
+        "suzano",
+        "galpão",
+        "galpão industrial"
       ],
       "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Expansão"
+        "Destaque",
+        "Industrial"
       ]
     },
     {
@@ -233,21 +233,21 @@
       ]
     },
     {
-      "id": "2d640f76c3",
-      "headline": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "13/10 às 15:02",
-      "dt_iso": "2026-10-13T18:02:17+00:00",
-      "summary": "Shopee amplia aposta em produtos mais caros e reforça logística no Brasil &nbsp;&nbsp; melhorinvestimento.net",
+      "id": "2404b86570",
+      "headline": "Blips investe R$ 3 mi em centro de distribuição em Cabreúva (SP) - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 10:56",
+      "dt_iso": "2026-10-20T13:56:00+00:00",
+      "summary": "Blips investe R$ 3 mi em centro de distribuição em Cabreúva (SP) &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
-        "shopee",
-        "amplia",
-        "investimento"
+        "centro de distribuição",
+        "abre",
+        "investe"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -332,13 +332,13 @@
       ]
     },
     {
-      "id": "4bad9305cf",
-      "headline": "Magalu fecha parceria com Shopee para ampliar canais de venda - Portal Nosso Meio",
-      "source": "Nossomeio",
-      "link": "https://nossomeio.com.br",
-      "time": "16/10 às 10:41",
-      "dt_iso": "2026-10-16T13:41:00+00:00",
-      "summary": "Magalu fecha parceria com Shopee para ampliar canais de venda &nbsp;&nbsp; Portal Nosso Meio",
+      "id": "f65adc1251",
+      "headline": "Magalu passa a vender produtos na Shopee para ampliar alcance digital - Money Report",
+      "source": "Money Report",
+      "link": "https://www.moneyreport.com.br",
+      "time": "15/10 às 16:13",
+      "dt_iso": "2026-10-15T19:13:43+00:00",
+      "summary": "Magalu passa a vender produtos na Shopee para ampliar alcance digital &nbsp;&nbsp; Money Report",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -352,17 +352,17 @@
       ]
     },
     {
-      "id": "f65adc1251",
-      "headline": "Magalu passa a vender produtos na Shopee para ampliar alcance digital - Money Report",
-      "source": "Money Report",
-      "link": "https://www.moneyreport.com.br",
-      "time": "15/10 às 16:13",
-      "dt_iso": "2026-10-15T19:13:43+00:00",
-      "summary": "Magalu passa a vender produtos na Shopee para ampliar alcance digital &nbsp;&nbsp; Money Report",
+      "id": "d50bd66fa8",
+      "headline": "Magazine Luiza (MGLU3) fecha parceria com Shopee para ampliar vendas - BPMoney",
+      "source": "Bpmoney",
+      "link": "https://bpmoney.com.br",
+      "time": "15/10 às 14:43",
+      "dt_iso": "2026-10-15T17:43:12+00:00",
+      "summary": "Magazine Luiza (MGLU3) fecha parceria com Shopee para ampliar vendas &nbsp;&nbsp; BPMoney",
       "category": "ecommerce",
       "keywords": [
         "shopee",
-        "magalu",
+        "magazine luiza",
         "amplia"
       ],
       "score": 7,
@@ -396,7 +396,7 @@
       "headline": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado de panela elétrica em SC - ND Mais",
       "source": "ND Mais",
       "link": "https://ndmais.com.br",
-      "time": "hoje, 11:04",
+      "time": "ontem, 11:04",
       "dt_iso": "2026-10-19T14:04:13+00:00",
       "summary": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado de panela elétrica em SC &nbsp;&nbsp; ND Mais",
       "category": "logistica",
@@ -411,30 +411,11 @@
       ]
     },
     {
-      "id": "4b23273b47",
-      "headline": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "13/10 às 11:30",
-      "dt_iso": "2026-10-13T14:30:14+00:00",
-      "summary": "Fulwood anuncia expansão de condomínio logístico em Extrema (MG) &nbsp;&nbsp; MundoLogística",
-      "category": "expansao",
-      "keywords": [
-        "condomínio logístico",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "25651a9685",
       "headline": "Renner conquista certificação ISO 14001 para o CD de Cabreúva - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 11:15",
+      "time": "ontem, 11:15",
       "dt_iso": "2026-10-19T14:15:28+00:00",
       "summary": "Renner conquista certificação ISO 14001 para o CD de Cabreúva &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -468,6 +449,25 @@
       ]
     },
     {
+      "id": "ec97fdc35c",
+      "headline": "Fulwood amplia condomínio logístico em Extrema (MG) - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "14/10 às 10:32",
+      "dt_iso": "2026-10-14T13:32:38+00:00",
+      "summary": "Fulwood amplia condomínio logístico em Extrema (MG) &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "condomínio logístico",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Interesse em condomínio logístico — cliente potencial para ativos triple-A. Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Extrema.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "6d284984d2",
       "headline": "J&T Express inaugura CD de R$ 75 milhões em Guarulhos com sorter para 2 milhões de encomendas por dia - Tecnologística",
       "source": "Tecnologística",
@@ -484,6 +484,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "d5eeced4e9",
+      "headline": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "16/10 às 07:41",
+      "dt_iso": "2026-10-16T10:41:00+00:00",
+      "summary": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe &nbsp;&nbsp; Money Times",
+      "category": "investimento",
+      "keywords": [
+        "casas bahia",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -567,7 +586,7 @@
       "headline": "Shopee amplia carteira de crédito para R$ 8,4 bi e leva disputa do e-commerce para nova frente - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "hoje, 11:27",
+      "time": "ontem, 11:27",
       "dt_iso": "2026-10-19T14:27:28+00:00",
       "summary": "Shopee amplia carteira de crédito para R$ 8,4 bi e leva disputa do e-commerce para nova frente &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "ecommerce",
@@ -601,25 +620,6 @@
       ]
     },
     {
-      "id": "4f2c3ad105",
-      "headline": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "16/10 às 10:02",
-      "dt_iso": "2026-10-16T13:02:00+00:00",
-      "summary": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e316871e85",
       "headline": "3corações instala centro de distribuição no RN e prevê 300 empregos - Agora RN",
       "source": "Agorarn",
@@ -639,12 +639,31 @@
       ]
     },
     {
+      "id": "4f2c3ad105",
+      "headline": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "16/10 às 10:02",
+      "dt_iso": "2026-10-16T13:02:00+00:00",
+      "summary": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "74ad931fd5",
       "headline": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex - Portal Tempo Novo",
       "source": "Portaltemponovo",
       "link": "https://www.portaltemponovo.com.br",
-      "time": "14/10 às 12:28",
-      "dt_iso": "2026-10-14T15:28:00+00:00",
+      "time": "17/10 às 12:01",
+      "dt_iso": "2026-10-17T15:01:00+00:00",
       "summary": "Aluguel de R$ 1 milhão por mês de mega-galpão na Serra virou pivô da crise da Apex &nbsp;&nbsp; Portal Tempo Novo",
       "category": "investimento",
       "keywords": [
@@ -662,7 +681,7 @@
       "headline": "TRXF11 investe R$ 250 milhões em imóvel do Mercado Livre - Clube FII News",
       "source": "Clubefiinews",
       "link": "https://www.clubefiinews.com.br",
-      "time": "hoje, 11:08",
+      "time": "ontem, 11:08",
       "dt_iso": "2026-10-19T14:08:47+00:00",
       "summary": "TRXF11 investe R$ 250 milhões em imóvel do Mercado Livre &nbsp;&nbsp; Clube FII News",
       "category": "investimento",
@@ -677,13 +696,13 @@
       ]
     },
     {
-      "id": "d5eeced4e9",
-      "headline": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "16/10 às 07:41",
-      "dt_iso": "2026-10-16T10:41:00+00:00",
-      "summary": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe &nbsp;&nbsp; Money Times",
+      "id": "64c27e491f",
+      "headline": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo - Seu Dinheiro",
+      "source": "Seudinheiro",
+      "link": "https://www.seudinheiro.com",
+      "time": "16/10 às 10:38",
+      "dt_iso": "2026-10-16T13:38:53+00:00",
+      "summary": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo &nbsp;&nbsp; Seu Dinheiro",
       "category": "investimento",
       "keywords": [
         "casas bahia",
