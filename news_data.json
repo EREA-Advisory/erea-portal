@@ -1,6 +1,6 @@
 {
-  "gerado_em": "19/10/2026 às 17:52",
-  "total": 41,
+  "gerado_em": "20/10/2026 às 10:55",
+  "total": 38,
   "noticias": [
     {
       "id": "6a10605e27",
@@ -28,8 +28,8 @@
       "headline": "Mercado Livre inaugura centro de distribuição em Guaíba - Grupo AMANHÃ",
       "source": "Amanha",
       "link": "https://amanha.com.br",
-      "time": "15/10 às 13:24",
-      "dt_iso": "2026-10-15T16:24:46+00:00",
+      "time": "15/10 às 08:46",
+      "dt_iso": "2026-10-15T11:46:00+00:00",
       "summary": "Mercado Livre inaugura centro de distribuição em Guaíba &nbsp;&nbsp; Grupo AMANHÃ",
       "category": "ecommerce",
       "keywords": [
@@ -70,8 +70,8 @@
       "headline": "TRXF11 compra participação em galpão do Mercado Livre - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 12:07",
-      "dt_iso": "2026-10-19T15:07:50+00:00",
+      "time": "hoje, 12:06",
+      "dt_iso": "2026-10-19T15:06:36+00:00",
       "summary": "TRXF11 compra participação em galpão do Mercado Livre &nbsp;&nbsp; melhorinvestimento.net",
       "category": "ecommerce",
       "keywords": [
@@ -108,6 +108,27 @@
       ]
     },
     {
+      "id": "365fc453a9",
+      "headline": "Pouso Alegre atrai fábricas e centros de distribuição com projeto de R$ 1,8 bilhão do Boticário e expansão de gigantes industriais - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 09:10",
+      "dt_iso": "2026-10-20T12:10:00+00:00",
+      "summary": "Pouso Alegre atrai fábricas e centros de distribuição com projeto de R$ 1,8 bilhão do Boticário e expansão de gigantes industriais &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "boticário",
+        "centros de distribuição",
+        "expansão"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
+    {
       "id": "d04e1f5f8e",
       "headline": "Novos galpões avançam, mas custo de construção pressiona expansão logística - SiiLA Brasil",
       "source": "Siila",
@@ -129,11 +150,32 @@
       ]
     },
     {
+      "id": "68371eaaff",
+      "headline": "Mercado Livre e Shopee aceleram corrida por galpões no Brasil, fazem espaços disponíveis desaparecerem do mercado e colocam indústrias diante de um problema que pode custar muito caro nos próximos meses - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 23:15",
+      "dt_iso": "2026-10-20T02:15:00+00:00",
+      "summary": "Mercado Livre e Shopee aceleram corrida por galpões no Brasil, fazem espaços disponíveis desaparecerem do mercado e colocam indústrias diante de um problema que pode custar muito caro nos próximos meses &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "4458a3f600",
       "headline": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "hoje, 08:35",
+      "time": "ontem, 08:35",
       "dt_iso": "2026-10-19T11:35:00+00:00",
       "summary": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) &nbsp;&nbsp; Money Times",
       "category": "investimento",
@@ -235,7 +277,7 @@
       "headline": "TRXF11 coloca maior centro de distribuição do Mercado Livre (MELI34) na carteira por R$ 250 milhões — mas volta atrás em outro negócio - Seu Dinheiro",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
-      "time": "hoje, 10:07",
+      "time": "ontem, 10:07",
       "dt_iso": "2026-10-19T13:07:52+00:00",
       "summary": "TRXF11 coloca maior centro de distribuição do Mercado Livre (MELI34) na carteira por R$ 250 milhões — mas volta atrás em outro negócio &nbsp;&nbsp; Seu Dinheiro",
       "category": "ecommerce",
@@ -247,6 +289,26 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "f4f6f600e9",
+      "headline": "Jadlog ganha espaço com a crise dos Correios e investe R$ 200 milhões antes da Black Friday - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "hoje, 05:02",
+      "dt_iso": "2026-10-20T08:02:48+00:00",
+      "summary": "Jadlog ganha espaço com a crise dos Correios e investe R$ 200 milhões antes da Black Friday &nbsp;&nbsp; Exame",
+      "category": "investimento",
+      "keywords": [
+        "correios",
+        "jadlog",
+        "investe"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -265,6 +327,26 @@
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "4bad9305cf",
+      "headline": "Magalu fecha parceria com Shopee para ampliar canais de venda - Portal Nosso Meio",
+      "source": "Nossomeio",
+      "link": "https://nossomeio.com.br",
+      "time": "16/10 às 10:41",
+      "dt_iso": "2026-10-16T13:41:00+00:00",
+      "summary": "Magalu fecha parceria com Shopee para ampliar canais de venda &nbsp;&nbsp; Portal Nosso Meio",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "magalu",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
       ]
@@ -290,46 +372,6 @@
       ]
     },
     {
-      "id": "d50bd66fa8",
-      "headline": "Magazine Luiza (MGLU3) fecha parceria com Shopee para ampliar vendas - BPMoney",
-      "source": "Bpmoney",
-      "link": "https://bpmoney.com.br",
-      "time": "15/10 às 14:43",
-      "dt_iso": "2026-10-15T17:43:12+00:00",
-      "summary": "Magazine Luiza (MGLU3) fecha parceria com Shopee para ampliar vendas &nbsp;&nbsp; BPMoney",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "magazine luiza",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "8ed0fe1665",
-      "headline": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza - Suno - Investimentos Inteligentes",
-      "source": "Suno",
-      "link": "https://www.suno.com.br",
-      "time": "16/10 às 17:15",
-      "dt_iso": "2026-10-16T20:15:04+00:00",
-      "summary": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza &nbsp;&nbsp; Suno - Investimentos Inteligentes",
-      "category": "logistica",
-      "keywords": [
-        "magazine luiza",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "cfd624a01b",
       "headline": "Magalu estreia na Shopee para ampliar vendas on-line - O GLOBO",
       "source": "O Globo",
@@ -347,6 +389,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "a9227d21ce",
+      "headline": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado de panela elétrica em SC - ND Mais",
+      "source": "ND Mais",
+      "link": "https://ndmais.com.br",
+      "time": "hoje, 11:04",
+      "dt_iso": "2026-10-19T14:04:13+00:00",
+      "summary": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado de panela elétrica em SC &nbsp;&nbsp; ND Mais",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -426,44 +487,6 @@
       ]
     },
     {
-      "id": "b63f17d567",
-      "headline": "Iveco Group inaugura centro de distribuição em Pouso Alegre - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://modaisemfoco.com.br",
-      "time": "17/10 às 03:00",
-      "dt_iso": "2026-10-17T06:00:55+00:00",
-      "summary": "Iveco Group inaugura centro de distribuição em Pouso Alegre &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "e453a502de",
-      "headline": "Casas Bahia paga aluguel em MG, mas dívida no PR persiste - SpaceMoney",
-      "source": "Spacemoney",
-      "link": "https://www.spacemoney.com.br",
-      "time": "16/10 às 14:43",
-      "dt_iso": "2026-10-16T17:43:45+00:00",
-      "summary": "Casas Bahia paga aluguel em MG, mas dívida no PR persiste &nbsp;&nbsp; SpaceMoney",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d612425250",
       "headline": "Justiça blinda galpão Apex, mas aluguel é de banco - Jornal ES HOJE",
       "source": "Eshoje",
@@ -483,58 +506,20 @@
       ]
     },
     {
-      "id": "4f2c3ad105",
-      "headline": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "16/10 às 10:02",
-      "dt_iso": "2026-10-16T13:02:00+00:00",
-      "summary": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "id": "d67a4c78b2",
+      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Guia da Farmácia",
+      "source": "Guiadafarmacia",
+      "link": "https://guiadafarmacia.com.br",
+      "time": "hoje, 09:15",
+      "dt_iso": "2026-10-20T12:15:51+00:00",
+      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Guia da Farmácia",
       "category": "logistica",
       "keywords": [
-        "galpões",
-        "amplia"
+        "armazenagem",
+        "investe"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "389461e5ce",
-      "headline": "Nova unidade do Mercado Livre gera empregos no RS - PSD - Partido Social Democrático",
-      "source": "Psd",
-      "link": "https://psd.org.br",
-      "time": "15/10 às 17:52",
-      "dt_iso": "2026-10-15T20:52:12+00:00",
-      "summary": "Nova unidade do Mercado Livre gera empregos no RS &nbsp;&nbsp; PSD - Partido Social Democrático",
-      "category": "expansao",
-      "keywords": [
-        "mercado livre",
-        "nova unidade"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "eda7d0c62b",
-      "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
-      "source": "Bandab",
-      "link": "https://www.bandab.com.br",
-      "time": "12/10 às 18:31",
-      "dt_iso": "2026-10-12T21:31:34+00:00",
-      "summary": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia &nbsp;&nbsp; Banda B",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -544,7 +529,7 @@
       "headline": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana - O Maringá",
       "source": "Omaringa",
       "link": "https://omaringa.com.br",
-      "time": "ontem, 08:50",
+      "time": "18/10 às 08:50",
       "dt_iso": "2026-10-18T11:50:36+00:00",
       "summary": "Unifrango inaugura novo centro de distribuição nesta quinta em Apucarana &nbsp;&nbsp; O Maringá",
       "category": "logistica",
@@ -597,44 +582,6 @@
       ]
     },
     {
-      "id": "3415ce5dec",
-      "headline": "Amazon anuncia uma parceria global com a HYROX, maior série de corridas fitness do mundo, em meio à rápida expansão da modalidade no Brasil - About Amazon Brasil",
-      "source": "Aboutamazon",
-      "link": "https://www.aboutamazon.com.br",
-      "time": "16/10 às 17:00",
-      "dt_iso": "2026-10-16T20:00:05+00:00",
-      "summary": "Amazon anuncia uma parceria global com a HYROX, maior série de corridas fitness do mundo, em meio à rápida expansão da modalidade no Brasil &nbsp;&nbsp; About Amazon Brasil",
-      "category": "expansao",
-      "keywords": [
-        "amazon brasil",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "a4f1d7fa98",
-      "headline": "Jadlog amplia rede e chega a 5.500 pontos de atendimento no Brasil - Mobilidade Sampa",
-      "source": "Mobilidadesampa",
-      "link": "https://mobilidadesampa.com.br",
-      "time": "hoje, 23:25",
-      "dt_iso": "2026-10-19T02:25:58+00:00",
-      "summary": "Jadlog amplia rede e chega a 5.500 pontos de atendimento no Brasil &nbsp;&nbsp; Mobilidade Sampa",
-      "category": "logistica",
-      "keywords": [
-        "jadlog",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d8fbb794db",
       "headline": "Fim de incentivos fiscais não impede investimento de até R$ 440 milhões em galpões logísticos de Extrema - SiiLA Brasil",
       "source": "Siila",
@@ -649,6 +596,44 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "4f2c3ad105",
+      "headline": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "16/10 às 10:02",
+      "dt_iso": "2026-10-16T13:02:00+00:00",
+      "summary": "Brookfield compra 8 parques logísticos por R$ 1,4 bilhão, assume 560 mil m² de galpões e amplia portfólio no Brasil em 55% &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "e316871e85",
+      "headline": "3corações instala centro de distribuição no RN e prevê 300 empregos - Agora RN",
+      "source": "Agorarn",
+      "link": "https://agorarn.com.br",
+      "time": "17/10 às 13:00",
+      "dt_iso": "2026-10-17T16:00:00+00:00",
+      "summary": "3corações instala centro de distribuição no RN e prevê 300 empregos &nbsp;&nbsp; Agora RN",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "instala"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa.",
       "badges": [
         "Logística"
       ]
@@ -692,44 +677,6 @@
       ]
     },
     {
-      "id": "64c27e491f",
-      "headline": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo - Seu Dinheiro",
-      "source": "Seudinheiro",
-      "link": "https://www.seudinheiro.com",
-      "time": "16/10 às 10:38",
-      "dt_iso": "2026-10-16T13:38:53+00:00",
-      "summary": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo &nbsp;&nbsp; Seu Dinheiro",
-      "category": "investimento",
-      "keywords": [
-        "casas bahia",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "054738fc45",
-      "headline": "Com SoftBank como sócio, MadeiraMadeira expande operação logística após dobrar receita - Bloomberg Línea Brasil",
-      "source": "Bloomberglinea",
-      "link": "https://www.bloomberglinea.com.br",
-      "time": "13/10 às 06:00",
-      "dt_iso": "2026-10-13T09:00:01+00:00",
-      "summary": "Com SoftBank como sócio, MadeiraMadeira expande operação logística após dobrar receita &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "d5eeced4e9",
       "headline": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe - Money Times",
       "source": "Money Times",
@@ -753,7 +700,7 @@
       "headline": "Cliente vai vender no Mercado Livre, na Amazon ou no TikTok Shop: o que o contador precisa definir na abertura do CNPJ - Contadores.cnt.br",
       "source": "Contadores",
       "link": "https://www.contadores.cnt.br",
-      "time": "hoje, 10:18",
+      "time": "ontem, 10:18",
       "dt_iso": "2026-10-19T13:18:00+00:00",
       "summary": "Cliente vai vender no Mercado Livre, na Amazon ou no TikTok Shop: o que o contador precisa definir na abertura do CNPJ &nbsp;&nbsp; Contadores.cnt.br",
       "category": "ecommerce",
