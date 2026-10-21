@@ -1,7 +1,28 @@
 {
-  "gerado_em": "21/10/2026 às 11:11",
-  "total": 36,
+  "gerado_em": "21/10/2026 às 16:55",
+  "total": 33,
   "noticias": [
+    {
+      "id": "f1486ffa9b",
+      "headline": "J&T Express investe R$ 75 milhões em centro de distribuição automatizado - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "14/10 às 19:51",
+      "dt_iso": "2026-10-14T22:51:51+00:00",
+      "summary": "J&amp;T Express investe R$ 75 milhões em centro de distribuição automatizado &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "j&t express",
+        "centro de distribuição",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
     {
       "id": "6a10605e27",
       "headline": "Prefeito vistoria obras de ampliação do centro logístico instalado na Vila Figueira - Diario de Suzano",
@@ -45,32 +66,11 @@
       ]
     },
     {
-      "id": "f1486ffa9b",
-      "headline": "J&T Express investe R$ 75 milhões em centro de distribuição automatizado - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "14/10 às 19:51",
-      "dt_iso": "2026-10-14T22:51:51+00:00",
-      "summary": "J&amp;T Express investe R$ 75 milhões em centro de distribuição automatizado &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "j&t express",
-        "centro de distribuição",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
       "id": "cfdebffd2e",
       "headline": "TRXF11 compra participação em galpão do Mercado Livre - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "ontem, 12:06",
+      "time": "19/10 às 12:06",
       "dt_iso": "2026-10-19T15:06:36+00:00",
       "summary": "TRXF11 compra participação em galpão do Mercado Livre &nbsp;&nbsp; melhorinvestimento.net",
       "category": "ecommerce",
@@ -112,7 +112,7 @@
       "headline": "Incêndio atinge galpão industrial em Suzano - G1",
       "source": "G1",
       "link": "https://g1.globo.com",
-      "time": "hoje, 14:27",
+      "time": "ontem, 14:27",
       "dt_iso": "2026-10-20T17:27:26+00:00",
       "summary": "Incêndio atinge galpão industrial em Suzano &nbsp;&nbsp; G1",
       "category": "industrial",
@@ -191,12 +191,12 @@
     },
     {
       "id": "7c245b5ab6",
-      "headline": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato - Marechal News",
-      "source": "Marechalnews",
-      "link": "https://marechalnews.com.br",
-      "time": "há 48 min",
-      "dt_iso": "2026-10-21T13:22:00+00:00",
-      "summary": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato &nbsp;&nbsp; Marechal News",
+      "headline": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato - REDE BRASIL DE TELEVISÃO",
+      "source": "Rbtv",
+      "link": "https://rbtv.com.br",
+      "time": "hoje, 10:26",
+      "dt_iso": "2026-10-21T13:26:00+00:00",
+      "summary": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato &nbsp;&nbsp; REDE BRASIL DE TELEVISÃO",
       "category": "expansao",
       "keywords": [
         "grupo muffato",
@@ -373,7 +373,7 @@
       "headline": "Renner conquista certificação ISO 14001 para o CD de Cabreúva - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 11:15",
+      "time": "19/10 às 11:15",
       "dt_iso": "2026-10-19T14:15:28+00:00",
       "summary": "Renner conquista certificação ISO 14001 para o CD de Cabreúva &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
@@ -389,12 +389,12 @@
     },
     {
       "id": "be71955b83",
-      "headline": "JBS Terminais anuncia investimento de R$ 15,2 milhões no Porto de Itajaí - MundoLogística",
+      "headline": "JBS Terminais anuncia investimento de R$ 15,2 milhões no Porto de Itajaí - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "16/10 às 12:03",
       "dt_iso": "2026-10-16T15:03:00+00:00",
-      "summary": "JBS Terminais anuncia investimento de R$ 15,2 milhões no Porto de Itajaí &nbsp;&nbsp; MundoLogística",
+      "summary": "JBS Terminais anuncia investimento de R$ 15,2 milhões no Porto de Itajaí &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "jbs",
@@ -442,25 +442,6 @@
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "d612425250",
-      "headline": "Justiça blinda galpão Apex, mas aluguel é de banco - Jornal ES HOJE",
-      "source": "Eshoje",
-      "link": "https://eshoje.com.br",
-      "time": "14/10 às 15:47",
-      "dt_iso": "2026-10-14T18:47:51+00:00",
-      "summary": "Justiça blinda galpão Apex, mas aluguel é de banco &nbsp;&nbsp; Jornal ES HOJE",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -521,11 +502,30 @@
       ]
     },
     {
+      "id": "06267eba23",
+      "headline": "Multinacional DHL abre vagas em Salvador sem exigir experiência - Portal N1N",
+      "source": "N1N",
+      "link": "https://n1n.com.br",
+      "time": "hoje, 14:42",
+      "dt_iso": "2026-10-21T17:42:25+00:00",
+      "summary": "Multinacional DHL abre vagas em Salvador sem exigir experiência &nbsp;&nbsp; Portal N1N",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Região(ões) mencionada(s): Salvador.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "4a16df117b",
       "headline": "Grupo Muffato inaugura primeira loja totalmente autônoma com inteligência artificial em Curitiba - paranahoje.com.br",
       "source": "Paranahoje",
       "link": "https://paranahoje.com.br",
-      "time": "há 24 min",
+      "time": "hoje, 10:46",
       "dt_iso": "2026-10-21T13:46:26+00:00",
       "summary": "Grupo Muffato inaugura primeira loja totalmente autônoma com inteligência artificial em Curitiba &nbsp;&nbsp; paranahoje.com.br",
       "category": "logistica",
@@ -554,25 +554,6 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7e79f48f5f",
-      "headline": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan - Diario de Pernambuco",
-      "source": "Diariodepernambuco",
-      "link": "https://www.diariodepernambuco.com.br",
-      "time": "ontem, 18:44",
-      "dt_iso": "2026-10-19T21:44:00+00:00",
-      "summary": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan &nbsp;&nbsp; Diario de Pernambuco",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
       ]
@@ -670,44 +651,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "683780975d",
-      "headline": "Suzano traça objetivos para crescer no mercado de bens de consumo - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "14/10 às 15:59",
-      "dt_iso": "2026-10-14T18:59:00+00:00",
-      "summary": "Suzano traça objetivos para crescer no mercado de bens de consumo &nbsp;&nbsp; CNN Brasil",
-      "category": "logistica",
-      "keywords": [
-        "suzano",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "cae6fffc3b",
-      "headline": "MBRF Pet inicia exportações para os EUA e amplia fábrica no Paraguai - Vero Notícias",
-      "source": "Veronoticias",
-      "link": "https://veronoticias.com",
-      "time": "14/10 às 13:23",
-      "dt_iso": "2026-10-14T16:23:55+00:00",
-      "summary": "MBRF Pet inicia exportações para os EUA e amplia fábrica no Paraguai &nbsp;&nbsp; Vero Notícias",
-      "category": "logistica",
-      "keywords": [
-        "brf",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     }
   ]
