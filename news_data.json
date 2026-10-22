@@ -1,28 +1,7 @@
 {
-  "gerado_em": "21/10/2026 às 16:55",
-  "total": 33,
+  "gerado_em": "22/10/2026 às 11:09",
+  "total": 39,
   "noticias": [
-    {
-      "id": "f1486ffa9b",
-      "headline": "J&T Express investe R$ 75 milhões em centro de distribuição automatizado - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "14/10 às 19:51",
-      "dt_iso": "2026-10-14T22:51:51+00:00",
-      "summary": "J&amp;T Express investe R$ 75 milhões em centro de distribuição automatizado &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "j&t express",
-        "centro de distribuição",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "6a10605e27",
       "headline": "Prefeito vistoria obras de ampliação do centro logístico instalado na Vila Figueira - Diario de Suzano",
@@ -42,27 +21,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "34bd9a71f8",
-      "headline": "Mercado Livre inaugura centro de distribuição em Guaíba - Grupo AMANHÃ",
-      "source": "Amanha",
-      "link": "https://amanha.com.br",
-      "time": "15/10 às 08:46",
-      "dt_iso": "2026-10-15T11:46:00+00:00",
-      "summary": "Mercado Livre inaugura centro de distribuição em Guaíba &nbsp;&nbsp; Grupo AMANHÃ",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
       ]
     },
     {
@@ -87,24 +45,45 @@
       ]
     },
     {
-      "id": "68371eaaff",
-      "headline": "Mercado Livre e Shopee aceleram corrida por galpões no Brasil, fazem espaços disponíveis desaparecerem do mercado e colocam indústrias diante de um problema que pode custar muito caro nos próximos meses - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 23:15",
-      "dt_iso": "2026-10-20T02:15:00+00:00",
-      "summary": "Mercado Livre e Shopee aceleram corrida por galpões no Brasil, fazem espaços disponíveis desaparecerem do mercado e colocam indústrias diante de um problema que pode custar muito caro nos próximos meses &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "id": "e594e2305b",
+      "headline": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos - Rádio Real News",
+      "source": "Realnews",
+      "link": "https://realnews.com.br",
+      "time": "ontem, 15:20",
+      "dt_iso": "2026-10-20T18:20:20+00:00",
+      "summary": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos &nbsp;&nbsp; Rádio Real News",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "shopee",
-        "galpões"
+        "centro de distribuição",
+        "inaugura"
       ],
       "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "8b738e4632",
+      "headline": "Com R$ 3 milhões, \"casa do empreendedor\" amplia galpões em 150% e abre novo CD em SP - economiasp.com",
+      "source": "Economiasp",
+      "link": "https://economiasp.com",
+      "time": "hoje, 18:06",
+      "dt_iso": "2026-10-21T21:06:43+00:00",
+      "summary": "Com R$ 3 milhões, \"casa do empreendedor\" amplia galpões em 150% e abre novo CD em SP &nbsp;&nbsp; economiasp.com",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "amplia",
+        "abre",
+        "novo cd"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -129,6 +108,27 @@
       ]
     },
     {
+      "id": "68371eaaff",
+      "headline": "Mercado Livre e Shopee aceleram corrida por galpões no Brasil, fazem espaços disponíveis desaparecerem do mercado e colocam indústrias diante de um problema que pode custar muito caro nos próximos meses - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "19/10 às 23:15",
+      "dt_iso": "2026-10-20T02:15:00+00:00",
+      "summary": "Mercado Livre e Shopee aceleram corrida por galpões no Brasil, fazem espaços disponíveis desaparecerem do mercado e colocam indústrias diante de um problema que pode custar muito caro nos próximos meses &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "4458a3f600",
       "headline": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) - Money Times",
       "source": "Money Times",
@@ -147,6 +147,26 @@
       "badges": [
         "Destaque",
         "Investimento"
+      ]
+    },
+    {
+      "id": "be0ac6218a",
+      "headline": "Blips investe R$ 3 milhões em centro de distribuição em Cabreúva (SP) - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "19/10 às 13:20",
+      "dt_iso": "2026-10-19T16:20:09+00:00",
+      "summary": "Blips investe R$ 3 milhões em centro de distribuição em Cabreúva (SP) &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "abre",
+        "investe"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -170,33 +190,13 @@
       ]
     },
     {
-      "id": "2404b86570",
-      "headline": "Blips investe R$ 3 mi em centro de distribuição em Cabreúva (SP) - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 10:56",
-      "dt_iso": "2026-10-20T13:56:00+00:00",
-      "summary": "Blips investe R$ 3 mi em centro de distribuição em Cabreúva (SP) &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "abre",
-        "investe"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "7c245b5ab6",
-      "headline": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato - REDE BRASIL DE TELEVISÃO",
-      "source": "Rbtv",
-      "link": "https://rbtv.com.br",
-      "time": "hoje, 10:26",
-      "dt_iso": "2026-10-21T13:26:00+00:00",
-      "summary": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato &nbsp;&nbsp; REDE BRASIL DE TELEVISÃO",
+      "headline": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato - Coluna do Meio",
+      "source": "Colunadomeio",
+      "link": "https://www.colunadomeio.com.br",
+      "time": "hoje, 08:07",
+      "dt_iso": "2026-10-22T11:07:00+00:00",
+      "summary": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato &nbsp;&nbsp; Coluna do Meio",
       "category": "expansao",
       "keywords": [
         "grupo muffato",
@@ -233,7 +233,7 @@
       "headline": "Jadlog ganha espaço com a crise dos Correios e investe R$ 200 milhões antes da Black Friday - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "ontem, 05:02",
+      "time": "20/10 às 05:02",
       "dt_iso": "2026-10-20T08:02:48+00:00",
       "summary": "Jadlog ganha espaço com a crise dos Correios e investe R$ 200 milhões antes da Black Friday &nbsp;&nbsp; Exame",
       "category": "investimento",
@@ -349,6 +349,26 @@
       ]
     },
     {
+      "id": "25a9157efa",
+      "headline": "Magazine Luiza faz parceria com Shopee para ampliar vendas de estoque próprio - Terra",
+      "source": "Terra",
+      "link": "https://www.terra.com.br",
+      "time": "15/10 às 14:26",
+      "dt_iso": "2026-10-15T17:26:00+00:00",
+      "summary": "Magazine Luiza faz parceria com Shopee para ampliar vendas de estoque próprio &nbsp;&nbsp; Terra",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "magazine luiza",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "c6b695a767",
       "headline": "MGLU3 sobe com aposta em parcerias; BTG vê recuperação das vendas do Magalu - Investing.com Brasil - Finanças, Câmbio e Investimentos",
       "source": "Google News",
@@ -363,6 +383,25 @@
         "investimentos"
       ],
       "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "5d0957ebbc",
+      "headline": "J&T Express investe R$ 75 milhões em novo centro logístico - Jornal de Uberaba",
+      "source": "Jornaldeuberaba",
+      "link": "https://www.jornaldeuberaba.com.br",
+      "time": "ontem, 10:37",
+      "dt_iso": "2026-10-21T13:37:00+00:00",
+      "summary": "J&amp;T Express investe R$ 75 milhões em novo centro logístico &nbsp;&nbsp; Jornal de Uberaba",
+      "category": "logistica",
+      "keywords": [
+        "j&t express",
+        "investe"
+      ],
+      "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
@@ -407,41 +446,22 @@
       ]
     },
     {
-      "id": "6d284984d2",
-      "headline": "J&T Express inaugura CD de R$ 75 milhões em Guarulhos com sorter para 2 milhões de encomendas por dia - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "15/10 às 11:23",
-      "dt_iso": "2026-10-15T14:23:49+00:00",
-      "summary": "J&amp;T Express inaugura CD de R$ 75 milhões em Guarulhos com sorter para 2 milhões de encomendas por dia &nbsp;&nbsp; Tecnologística",
+      "id": "e453a502de",
+      "headline": "Casas Bahia paga aluguel em MG, mas dívida no PR persiste - SpaceMoney",
+      "source": "Spacemoney",
+      "link": "https://www.spacemoney.com.br",
+      "time": "16/10 às 14:43",
+      "dt_iso": "2026-10-16T17:43:45+00:00",
+      "summary": "Casas Bahia paga aluguel em MG, mas dívida no PR persiste &nbsp;&nbsp; SpaceMoney",
       "category": "logistica",
-      "keywords": [
-        "j&t express",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d5eeced4e9",
-      "headline": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "16/10 às 07:41",
-      "dt_iso": "2026-10-16T10:41:00+00:00",
-      "summary": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe &nbsp;&nbsp; Money Times",
-      "category": "investimento",
       "keywords": [
         "casas bahia",
         "aluguel"
       ],
       "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Investimento"
+        "Logística"
       ]
     },
     {
@@ -464,13 +484,32 @@
       ]
     },
     {
+      "id": "73d6b89e5e",
+      "headline": "J&T Express inaugura CD com capacidade de 2 milhões de pacotes por dia - Frota&Cia",
+      "source": "Frotacia",
+      "link": "https://frotacia.com.br",
+      "time": "15/10 às 18:44",
+      "dt_iso": "2026-10-15T21:44:12+00:00",
+      "summary": "J&amp;T Express inaugura CD com capacidade de 2 milhões de pacotes por dia &nbsp;&nbsp; Frota&amp;Cia",
+      "category": "logistica",
+      "keywords": [
+        "j&t express",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "d67a4c78b2",
-      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Guia da Farmácia",
-      "source": "Guiadafarmacia",
-      "link": "https://guiadafarmacia.com.br",
-      "time": "ontem, 09:15",
-      "dt_iso": "2026-10-20T12:15:51+00:00",
-      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Guia da Farmácia",
+      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Abradilan",
+      "source": "Abradilan",
+      "link": "https://abradilan.com.br",
+      "time": "ontem, 09:37",
+      "dt_iso": "2026-10-21T12:37:48+00:00",
+      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Abradilan",
       "category": "logistica",
       "keywords": [
         "armazenagem",
@@ -478,6 +517,44 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "b16e4faef4",
+      "headline": "Nuvemshop investe em centro de distribuição no Rio de Janeiro - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "há 45 min",
+      "dt_iso": "2026-10-22T13:23:27+00:00",
+      "summary": "Nuvemshop investe em centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Giro News",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "666d728d53",
+      "headline": "Grupo Muffato inaugura loja com inteligência artificial e sem caixas em Curitiba - jornaluniao.com.br",
+      "source": "Jornaluniao",
+      "link": "https://jornaluniao.com.br",
+      "time": "hoje, 08:48",
+      "dt_iso": "2026-10-22T11:48:48+00:00",
+      "summary": "Grupo Muffato inaugura loja com inteligência artificial e sem caixas em Curitiba &nbsp;&nbsp; jornaluniao.com.br",
+      "category": "logistica",
+      "keywords": [
+        "grupo muffato",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Curitiba.",
       "badges": [
         "Logística"
       ]
@@ -521,25 +598,6 @@
       ]
     },
     {
-      "id": "4a16df117b",
-      "headline": "Grupo Muffato inaugura primeira loja totalmente autônoma com inteligência artificial em Curitiba - paranahoje.com.br",
-      "source": "Paranahoje",
-      "link": "https://paranahoje.com.br",
-      "time": "hoje, 10:46",
-      "dt_iso": "2026-10-21T13:46:26+00:00",
-      "summary": "Grupo Muffato inaugura primeira loja totalmente autônoma com inteligência artificial em Curitiba &nbsp;&nbsp; paranahoje.com.br",
-      "category": "logistica",
-      "keywords": [
-        "grupo muffato",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Curitiba.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "ada5a15cb1",
       "headline": "Mercado Livre ampliará rede logística em 39% em 2026 - Maringá Post",
       "source": "Maringapost",
@@ -559,22 +617,22 @@
       ]
     },
     {
-      "id": "d8fbb794db",
-      "headline": "Fim de incentivos fiscais não impede investimento de até R$ 440 milhões em galpões logísticos de Extrema - SiiLA Brasil",
-      "source": "Siila",
-      "link": "https://siila.com.br",
-      "time": "15/10 às 08:13",
-      "dt_iso": "2026-10-15T11:13:26+00:00",
-      "summary": "Fim de incentivos fiscais não impede investimento de até R$ 440 milhões em galpões logísticos de Extrema &nbsp;&nbsp; SiiLA Brasil",
-      "category": "logistica",
+      "id": "cc1323f427",
+      "headline": "Fim de incentivo não impede investimento em galpões em Extrema - Clube FII News",
+      "source": "Clubefiinews",
+      "link": "https://www.clubefiinews.com.br",
+      "time": "hoje, 09:56",
+      "dt_iso": "2026-10-22T12:56:58+00:00",
+      "summary": "Fim de incentivo não impede investimento em galpões em Extrema &nbsp;&nbsp; Clube FII News",
+      "category": "investimento",
       "keywords": [
         "galpões",
         "investimento"
       ],
       "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
       "badges": [
-        "Logística"
+        "Investimento"
       ]
     },
     {
@@ -616,6 +674,25 @@
       ]
     },
     {
+      "id": "a0091cf802",
+      "headline": "TRXF11 investe R$ 250 milhões em imóvel do Mercado Livre - Clube FII News",
+      "source": "Clubefiinews",
+      "link": "https://www.clubefiinews.com.br",
+      "time": "19/10 às 11:08",
+      "dt_iso": "2026-10-19T14:08:47+00:00",
+      "summary": "TRXF11 investe R$ 250 milhões em imóvel do Mercado Livre &nbsp;&nbsp; Clube FII News",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "64c27e491f",
       "headline": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo - Seu Dinheiro",
       "source": "Seudinheiro",
@@ -623,6 +700,25 @@
       "time": "16/10 às 10:38",
       "dt_iso": "2026-10-16T13:38:53+00:00",
       "summary": "Casas Bahia (BHIA3) paga aluguel ao HSLG11, mas segue devendo ao FII; entenda como fica a ação de despejo &nbsp;&nbsp; Seu Dinheiro",
+      "category": "investimento",
+      "keywords": [
+        "casas bahia",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "d5eeced4e9",
+      "headline": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "16/10 às 07:41",
+      "dt_iso": "2026-10-16T10:41:00+00:00",
+      "summary": "Casas Bahia (BHIA3) paga aluguel a fundo imobiliário, mas segue inadimplente com outro imóvel; IFIX sobe &nbsp;&nbsp; Money Times",
       "category": "investimento",
       "keywords": [
         "casas bahia",
@@ -646,6 +742,25 @@
       "keywords": [
         "mercado livre",
         "abertura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "61193c6070",
+      "headline": "Mercado Livre abre o sábado com novo cupom de 20% OFF em produtos com envio Full - Seletronic",
+      "source": "Seletronic",
+      "link": "https://seletronic.com.br",
+      "time": "17/10 às 00:01",
+      "dt_iso": "2026-10-17T03:01:11+00:00",
+      "summary": "Mercado Livre abre o sábado com novo cupom de 20% OFF em produtos com envio Full &nbsp;&nbsp; Seletronic",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
