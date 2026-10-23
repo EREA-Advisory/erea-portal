@@ -1,6 +1,6 @@
 {
-  "gerado_em": "23/10/2026 às 10:53",
-  "total": 41,
+  "gerado_em": "23/10/2026 às 16:46",
+  "total": 40,
   "noticias": [
     {
       "id": "2020268fe9",
@@ -29,7 +29,7 @@
       "headline": "Mercado Livre (MELI34) pode crescer 49%, enquanto Magalu (MGLU3) deve voltar ao prejuízo no 3T26 - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "hoje, 13:45",
+      "time": "ontem, 13:45",
       "dt_iso": "2026-10-22T16:45:07+00:00",
       "summary": "Mercado Livre (MELI34) pode crescer 49%, enquanto Magalu (MGLU3) deve voltar ao prejuízo no 3T26 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "ecommerce",
@@ -44,6 +44,27 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "fef22799db",
+      "headline": "DeepSeek atrai investimentos bilionários e amplia disputa com empresas americanas de IA",
+      "source": "Exame",
+      "link": "https://exame.com/tecnologia/deepseek-atrai-investimentos-bilionarios-e-amplia-disputa-com-empresas-americanas-de-ia/",
+      "time": "hoje, 12:03",
+      "dt_iso": "2026-10-23T15:03:43+00:00",
+      "summary": "Rodada de US$ 15 bilhões pode se tornar uma das maiores da história da China e terá participação de gigantes como Tencent e CATL; empresa busca ampliar disputa com rivais americanas",
+      "category": "logistica",
+      "keywords": [
+        "americanas",
+        "amplia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -93,7 +114,7 @@
       "headline": "DHL Supply Chain aposta em automação e orquestração de last mile para Peak Season; confira detalhes da estratégia da empresa - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 11:43",
+      "time": "ontem, 11:43",
       "dt_iso": "2026-10-22T14:43:01+00:00",
       "summary": "DHL Supply Chain aposta em automação e orquestração de last mile para Peak Season; confira detalhes da estratégia da empresa &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -107,6 +128,27 @@
       "badges": [
         "Destaque",
         "Logística"
+      ]
+    },
+    {
+      "id": "4458a3f600",
+      "headline": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "19/10 às 08:35",
+      "dt_iso": "2026-10-19T11:35:00+00:00",
+      "summary": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) &nbsp;&nbsp; Money Times",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "galpão",
+        "investe"
+      ],
+      "score": 8,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Destaque",
+        "Investimento"
       ]
     },
     {
@@ -132,12 +174,12 @@
     },
     {
       "id": "e594e2305b",
-      "headline": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos - Rádio Real News",
+      "headline": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos - realnews.com.br",
       "source": "Realnews",
       "link": "https://realnews.com.br",
       "time": "20/10 às 15:20",
       "dt_iso": "2026-10-20T18:20:20+00:00",
-      "summary": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos &nbsp;&nbsp; Rádio Real News",
+      "summary": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos &nbsp;&nbsp; realnews.com.br",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -173,6 +215,27 @@
       ]
     },
     {
+      "id": "c20ebc3f8b",
+      "headline": "Andreani ampliará capacidade de armazenagem refrigerada em 1.000 posições - Transporte Moderno",
+      "source": "Transportemoderno",
+      "link": "https://transportemoderno.com.br",
+      "time": "21/10 às 14:17",
+      "dt_iso": "2026-10-21T17:17:51+00:00",
+      "summary": "Andreani ampliará capacidade de armazenagem refrigerada em 1.000 posições &nbsp;&nbsp; Transporte Moderno",
+      "category": "logistica",
+      "keywords": [
+        "andreani",
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
       "id": "9681653a9c",
       "headline": "Incêndio atinge galpão industrial em Suzano - G1",
       "source": "G1",
@@ -191,27 +254,6 @@
       "badges": [
         "Destaque",
         "Industrial"
-      ]
-    },
-    {
-      "id": "4458a3f600",
-      "headline": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "19/10 às 08:35",
-      "dt_iso": "2026-10-19T11:35:00+00:00",
-      "summary": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) &nbsp;&nbsp; Money Times",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "galpão",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Destaque",
-        "Investimento"
       ]
     },
     {
@@ -276,12 +318,12 @@
     },
     {
       "id": "7c245b5ab6",
-      "headline": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato - REDE BRASIL DE TELEVISÃO",
-      "source": "Rbtv",
-      "link": "https://rbtv.com.br",
-      "time": "21/10 às 10:26",
-      "dt_iso": "2026-10-21T13:26:00+00:00",
-      "summary": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato &nbsp;&nbsp; REDE BRASIL DE TELEVISÃO",
+      "headline": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato - Coluna do Meio",
+      "source": "Colunadomeio",
+      "link": "https://www.colunadomeio.com.br",
+      "time": "ontem, 08:07",
+      "dt_iso": "2026-10-22T11:07:00+00:00",
+      "summary": "Vice-governador Darci Piana participa da inauguração de loja 100% autônoma do Grupo Muffato &nbsp;&nbsp; Coluna do Meio",
       "category": "expansao",
       "keywords": [
         "grupo muffato",
@@ -353,46 +395,6 @@
       ]
     },
     {
-      "id": "2026d261b3",
-      "headline": "Magalu vai à Shopee para crescer, mas JPMorgan não muda visão cautelosa para ação - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "16/10 às 11:35",
-      "dt_iso": "2026-10-16T14:35:02+00:00",
-      "summary": "Magalu vai à Shopee para crescer, mas JPMorgan não muda visão cautelosa para ação &nbsp;&nbsp; InfoMoney",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "magalu",
-        "cresce"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "cfd624a01b",
-      "headline": "Magalu estreia na Shopee para ampliar vendas on-line - O GLOBO",
-      "source": "O Globo",
-      "link": "https://oglobo.globo.com",
-      "time": "16/10 às 14:50",
-      "dt_iso": "2026-10-16T17:50:50+00:00",
-      "summary": "Magalu estreia na Shopee para ampliar vendas on-line &nbsp;&nbsp; O GLOBO",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "magalu",
-        "amplia"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "8ed0fe1665",
       "headline": "MGLU3: de altas de 500% a tombos de 70%; veja a década do Magazine Luiza - Suno - Investimentos Inteligentes",
       "source": "Suno",
@@ -413,23 +415,23 @@
       ]
     },
     {
-      "id": "c6b695a767",
-      "headline": "MGLU3 sobe com aposta em parcerias; BTG vê recuperação das vendas do Magalu - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Google News",
-      "link": "https://br.investing.com",
-      "time": "16/10 às 12:13",
-      "dt_iso": "2026-10-16T15:13:00+00:00",
-      "summary": "MGLU3 sobe com aposta em parcerias; BTG vê recuperação das vendas do Magalu &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "category": "logistica",
+      "id": "cfd624a01b",
+      "headline": "Magalu estreia na Shopee para ampliar vendas on-line - Pequenas Empresas & Grandes Negócios",
+      "source": "Revistapegn",
+      "link": "https://revistapegn.globo.com",
+      "time": "16/10 às 18:25",
+      "dt_iso": "2026-10-16T21:25:49+00:00",
+      "summary": "Magalu estreia na Shopee para ampliar vendas on-line &nbsp;&nbsp; Pequenas Empresas & Grandes Negócios",
+      "category": "ecommerce",
       "keywords": [
+        "shopee",
         "magalu",
-        "investimento",
-        "investimentos"
+        "amplia"
       ],
       "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -457,7 +459,7 @@
       "headline": "Mercedes-Benz inaugura a expansão de seu Classic Center - Maxicar",
       "source": "Maxicar",
       "link": "https://www.maxicar.com.br",
-      "time": "hoje, 11:46",
+      "time": "ontem, 11:46",
       "dt_iso": "2026-10-22T14:46:37+00:00",
       "summary": "Mercedes-Benz inaugura a expansão de seu Classic Center &nbsp;&nbsp; Maxicar",
       "category": "expansao",
@@ -468,25 +470,6 @@
       ],
       "score": 7,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "e05b50ebd7",
-      "headline": "Os planos do CEO Fábio Barreto para a Farm Rio",
-      "source": "Exame",
-      "link": "https://exame.com/exame-in/os-planos-do-ceo-fabio-barreto-para-a-farm-rio/",
-      "time": "hoje, 07:29",
-      "dt_iso": "2026-10-23T10:29:40+00:00",
-      "summary": "O executivo detalha a estratégia traçada até 2032, enquanto Grupo Soma e Arezzo buscam comprador para o negócio: mercado internacional maior do que o brasileiro, expansão para a Ásia e foco em São Paulo",
-      "category": "expansao",
-      "keywords": [
-        "arezzo",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
       ]
@@ -530,39 +513,20 @@
       ]
     },
     {
-      "id": "be71955b83",
-      "headline": "JBS Terminais anuncia investimento de R$ 15,2 milhões no Porto de Itajaí - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "16/10 às 12:03",
-      "dt_iso": "2026-10-16T15:03:00+00:00",
-      "summary": "JBS Terminais anuncia investimento de R$ 15,2 milhões no Porto de Itajaí &nbsp;&nbsp; Mundo Logística",
+      "id": "2e9198fa94",
+      "headline": "JBS Terminais anuncia aporte de R$ 15,2 milhões no Porto de Itajaí - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "19/10 às 13:48",
+      "dt_iso": "2026-10-19T16:48:17+00:00",
+      "summary": "JBS Terminais anuncia aporte de R$ 15,2 milhões no Porto de Itajaí &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "jbs",
-        "investimento"
+        "aporte"
       ],
       "score": 6,
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "e453a502de",
-      "headline": "Casas Bahia paga aluguel em MG, mas dívida no PR persiste - SpaceMoney",
-      "source": "Spacemoney",
-      "link": "https://www.spacemoney.com.br",
-      "time": "16/10 às 14:43",
-      "dt_iso": "2026-10-16T17:43:45+00:00",
-      "summary": "Casas Bahia paga aluguel em MG, mas dívida no PR persiste &nbsp;&nbsp; SpaceMoney",
-      "category": "logistica",
-      "keywords": [
-        "casas bahia",
-        "aluguel"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -572,7 +536,7 @@
       "headline": "Nuvemshop investe em centro de distribuição no Rio de Janeiro - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "hoje, 11:26",
+      "time": "ontem, 11:26",
       "dt_iso": "2026-10-22T14:26:36+00:00",
       "summary": "Nuvemshop investe em centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Giro News",
       "category": "logistica",
@@ -625,25 +589,6 @@
       ]
     },
     {
-      "id": "06267eba23",
-      "headline": "Multinacional DHL abre vagas em Salvador sem exigir experiência - Portal N1N",
-      "source": "N1N",
-      "link": "https://n1n.com.br",
-      "time": "ontem, 14:42",
-      "dt_iso": "2026-10-21T17:42:25+00:00",
-      "summary": "Multinacional DHL abre vagas em Salvador sem exigir experiência &nbsp;&nbsp; Portal N1N",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Região(ões) mencionada(s): Salvador.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "7e79f48f5f",
       "headline": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan - Diario de Pernambuco",
       "source": "Diariodepernambuco",
@@ -686,7 +631,7 @@
       "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - REDE BRASIL DE TELEVISÃO",
       "source": "Rbtv",
       "link": "https://rbtv.com.br",
-      "time": "hoje, 12:52",
+      "time": "ontem, 12:52",
       "dt_iso": "2026-10-22T15:52:00+00:00",
       "summary": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana &nbsp;&nbsp; REDE BRASIL DE TELEVISÃO",
       "category": "logistica",
@@ -705,7 +650,7 @@
       "headline": "Rock de Galpão apresenta “De Boina, Alpargata e Bombacha” nesta sexta em Porto Alegre - Expansão",
       "source": "Expansao",
       "link": "https://expansao.co",
-      "time": "hoje, 11:48",
+      "time": "ontem, 11:48",
       "dt_iso": "2026-10-22T14:48:27+00:00",
       "summary": "Rock de Galpão apresenta “De Boina, Alpargata e Bombacha” nesta sexta em Porto Alegre &nbsp;&nbsp; Expansão",
       "category": "expansao",
@@ -739,6 +684,25 @@
       ]
     },
     {
+      "id": "76a11a6059",
+      "headline": "HSLG11: Casas Bahia Paga Aluguel de Contagem, Mas Despejo Segue - Forbes Brasil",
+      "source": "Forbes",
+      "link": "https://forbes.com.br",
+      "time": "16/10 às 18:19",
+      "dt_iso": "2026-10-16T21:19:27+00:00",
+      "summary": "HSLG11: Casas Bahia Paga Aluguel de Contagem, Mas Despejo Segue &nbsp;&nbsp; Forbes Brasil",
+      "category": "logistica",
+      "keywords": [
+        "casas bahia",
+        "aluguel"
+      ],
+      "score": 6,
+      "relevance": "Região(ões) mencionada(s): Contagem.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "9127db93cc",
       "headline": "Cliente vai vender no Mercado Livre, na Amazon ou no TikTok Shop: o que o contador precisa definir na abertura do CNPJ - Contadores.cnt.br",
       "source": "Contadores",
@@ -753,6 +717,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "b73a3b704d",
+      "headline": "Mercado Livre inaugura dois centros logísticos e prevê mais de 1.400 empregos no RS - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "ontem, 19:48",
+      "dt_iso": "2026-10-21T22:48:00+00:00",
+      "summary": "Mercado Livre inaugura dois centros logísticos e prevê mais de 1.400 empregos no RS &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa.",
       "badges": [
         "E-commerce"
       ]
@@ -796,13 +779,13 @@
       ]
     },
     {
-      "id": "0951a6e4f9",
-      "headline": "MBRF Pet entra nos EUA e investe R$ 13,6 mi no Paraguai - Portal Cães e Gatos",
+      "id": "bb3a675dc2",
+      "headline": "MBRF Pet entra no mercado dos EUA e investe R$ 13,6 milhões para expandir fábrica no Paraguai - Portal Cães e Gatos",
       "source": "Caesegatos",
       "link": "https://caesegatos.com.br",
       "time": "hoje, 09:30",
       "dt_iso": "2026-10-23T12:30:58+00:00",
-      "summary": "MBRF Pet entra nos EUA e investe R$ 13,6 mi no Paraguai &nbsp;&nbsp; Portal Cães e Gatos",
+      "summary": "MBRF Pet entra no mercado dos EUA e investe R$ 13,6 milhões para expandir fábrica no Paraguai &nbsp;&nbsp; Portal Cães e Gatos",
       "category": "logistica",
       "keywords": [
         "brf",
