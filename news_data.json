@@ -1,6 +1,6 @@
 {
-  "gerado_em": "24/10/2026 às 09:58",
-  "total": 33,
+  "gerado_em": "24/10/2026 às 15:34",
+  "total": 31,
   "noticias": [
     {
       "id": "2020268fe9",
@@ -29,7 +29,7 @@
       "headline": "Mercado Livre (MELI34) pode crescer 49%, enquanto Magalu (MGLU3) deve voltar ao prejuízo no 3T26 - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "ontem, 13:45",
+      "time": "22/10 às 13:45",
       "dt_iso": "2026-10-22T16:45:07+00:00",
       "summary": "Mercado Livre (MELI34) pode crescer 49%, enquanto Magalu (MGLU3) deve voltar ao prejuízo no 3T26 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "ecommerce",
@@ -68,32 +68,11 @@
       ]
     },
     {
-      "id": "6a10605e27",
-      "headline": "Prefeito vistoria obras de ampliação do centro logístico instalado na Vila Figueira - Diário de Suzano",
-      "source": "Diariodesuzano",
-      "link": "https://www.diariodesuzano.com.br",
-      "time": "17/10 às 13:57",
-      "dt_iso": "2026-10-17T16:57:00+00:00",
-      "summary": "Prefeito vistoria obras de ampliação do centro logístico instalado na Vila Figueira &nbsp;&nbsp; Diário de Suzano",
-      "category": "expansao",
-      "keywords": [
-        "suzano",
-        "amplia",
-        "ampliação",
-        "instala"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "844af0a3d2",
       "headline": "DHL Supply Chain aposta em automação e orquestração de last mile para Peak Season; confira detalhes da estratégia da empresa - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 11:43",
+      "time": "22/10 às 11:43",
       "dt_iso": "2026-10-22T14:43:01+00:00",
       "summary": "DHL Supply Chain aposta em automação e orquestração de last mile para Peak Season; confira detalhes da estratégia da empresa &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -358,7 +337,7 @@
       "headline": "Mercedes-Benz inaugura a expansão de seu Classic Center - Maxicar",
       "source": "Maxicar",
       "link": "https://www.maxicar.com.br",
-      "time": "ontem, 11:46",
+      "time": "22/10 às 11:46",
       "dt_iso": "2026-10-22T14:46:37+00:00",
       "summary": "Mercedes-Benz inaugura a expansão de seu Classic Center &nbsp;&nbsp; Maxicar",
       "category": "expansao",
@@ -374,22 +353,22 @@
       ]
     },
     {
-      "id": "b406b57bc9",
-      "headline": "“Startups brasileiras precisam aprender a vender”, diz Edson, da Astella",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/business/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/",
-      "time": "há 0 min",
-      "dt_iso": "2026-10-24T12:57:10+00:00",
-      "summary": "Prestes a lançar 6º fundo, Astella foca em empresas de IA; para o investidor, crescimento só vem com conhecimento sobre \"ciência das vendas\" \n The post  &#8220;Startups brasileiras precisam aprender a vender&#8221;, diz Edson, da Astella  appeared first on  InfoMoney .",
-      "category": "investimento",
+      "id": "342aac00d4",
+      "headline": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá - Sobral em Revista",
+      "source": "Sobralemrevista",
+      "link": "https://sobralemrevista.com.br",
+      "time": "hoje, 07:00",
+      "dt_iso": "2026-10-24T10:00:05+00:00",
+      "summary": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá &nbsp;&nbsp; Sobral em Revista",
+      "category": "expansao",
       "keywords": [
-        "ups brasil",
-        "crescimento"
+        "centro de distribuição",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Investimento"
+        "Expansão"
       ]
     },
     {
@@ -450,39 +429,20 @@
       ]
     },
     {
-      "id": "cc1323f427",
-      "headline": "Fim de incentivo não impede investimento em galpões em Extrema - Clube FII News",
-      "source": "Clubefiinews",
-      "link": "https://www.clubefiinews.com.br",
-      "time": "22/10 às 09:56",
-      "dt_iso": "2026-10-22T12:56:58+00:00",
-      "summary": "Fim de incentivo não impede investimento em galpões em Extrema &nbsp;&nbsp; Clube FII News",
-      "category": "investimento",
-      "keywords": [
-        "galpões",
-        "investimento"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "b16e4faef4",
-      "headline": "Nuvemshop investe em centro de distribuição no Rio de Janeiro - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "ontem, 11:26",
-      "dt_iso": "2026-10-22T14:26:36+00:00",
-      "summary": "Nuvemshop investe em centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Giro News",
+      "id": "d04ad610df",
+      "headline": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 11:05",
+      "dt_iso": "2026-10-24T14:05:00+00:00",
+      "summary": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "centro de distribuição",
-        "investe"
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -530,7 +490,7 @@
       "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - REDE BRASIL DE TELEVISÃO",
       "source": "Rbtv",
       "link": "https://rbtv.com.br",
-      "time": "ontem, 12:52",
+      "time": "22/10 às 12:52",
       "dt_iso": "2026-10-22T15:52:00+00:00",
       "summary": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana &nbsp;&nbsp; REDE BRASIL DE TELEVISÃO",
       "category": "logistica",
@@ -549,7 +509,7 @@
       "headline": "Rock de Galpão apresenta “De Boina, Alpargata e Bombacha” nesta sexta em Porto Alegre - Expansão",
       "source": "Expansao",
       "link": "https://expansao.co",
-      "time": "ontem, 11:48",
+      "time": "22/10 às 11:48",
       "dt_iso": "2026-10-22T14:48:27+00:00",
       "summary": "Rock de Galpão apresenta “De Boina, Alpargata e Bombacha” nesta sexta em Porto Alegre &nbsp;&nbsp; Expansão",
       "category": "expansao",
