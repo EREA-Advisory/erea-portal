@@ -1,6 +1,6 @@
 {
-  "gerado_em": "25/10/2026 às 15:43",
-  "total": 31,
+  "gerado_em": "26/10/2026 às 12:32",
+  "total": 29,
   "noticias": [
     {
       "id": "2020268fe9",
@@ -48,12 +48,12 @@
     },
     {
       "id": "7bbe9074ab",
-      "headline": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo - Real News",
-      "source": "Realnews",
-      "link": "https://realnews.com.br",
-      "time": "23/10 às 09:50",
-      "dt_iso": "2026-10-23T12:50:19+00:00",
-      "summary": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo &nbsp;&nbsp; Real News",
+      "headline": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo - Business Wire",
+      "source": "Businesswire",
+      "link": "https://www.businesswire.com",
+      "time": "23/10 às 09:45",
+      "dt_iso": "2026-10-23T12:45:00+00:00",
+      "summary": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo &nbsp;&nbsp; Business Wire",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -86,27 +86,6 @@
       "badges": [
         "Destaque",
         "Logística"
-      ]
-    },
-    {
-      "id": "4458a3f600",
-      "headline": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "19/10 às 08:35",
-      "dt_iso": "2026-10-19T11:35:00+00:00",
-      "summary": "Fundo imobiliário investe R$ 250 milhões em galpão do Mercado Livre (MELI34) e rescinde venda de imóveis do GPA (PCAR3) &nbsp;&nbsp; Money Times",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "galpão",
-        "investe"
-      ],
-      "score": 8,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Destaque",
-        "Investimento"
       ]
     },
     {
@@ -198,8 +177,8 @@
       "headline": "Blips investe R$ 3 milhões em centro de distribuição em Cabreúva (SP) - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "19/10 às 13:20",
-      "dt_iso": "2026-10-19T16:20:09+00:00",
+      "time": "19/10 às 13:30",
+      "dt_iso": "2026-10-19T16:30:21+00:00",
       "summary": "Blips investe R$ 3 milhões em centro de distribuição em Cabreúva (SP) &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
@@ -273,25 +252,6 @@
       ]
     },
     {
-      "id": "b2f79d7a10",
-      "headline": "TRXF11 coloca maior centro de distribuição do Mercado Livre (MELI34) na carteira por R$ 250 milhões — mas volta atrás em outro negócio - Seu Dinheiro",
-      "source": "Seudinheiro",
-      "link": "https://www.seudinheiro.com",
-      "time": "19/10 às 10:07",
-      "dt_iso": "2026-10-19T13:07:52+00:00",
-      "summary": "TRXF11 coloca maior centro de distribuição do Mercado Livre (MELI34) na carteira por R$ 250 milhões — mas volta atrás em outro negócio &nbsp;&nbsp; Seu Dinheiro",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "f4f6f600e9",
       "headline": "Jadlog ganha espaço com a crise dos Correios e investe R$ 200 milhões antes da Black Friday - Exame",
       "source": "Exame",
@@ -336,7 +296,7 @@
       "headline": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá - Sobral em Revista",
       "source": "Sobralemrevista",
       "link": "https://sobralemrevista.com.br",
-      "time": "ontem, 11:02",
+      "time": "24/10 às 11:02",
       "dt_iso": "2026-10-24T14:02:58+00:00",
       "summary": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá &nbsp;&nbsp; Sobral em Revista",
       "category": "expansao",
@@ -352,12 +312,12 @@
     },
     {
       "id": "5d0957ebbc",
-      "headline": "J&T Express investe R$ 75 milhões em novo centro logístico - Portal iG",
-      "source": "Lorena",
-      "link": "https://lorena.ig.com.br",
-      "time": "21/10 às 00:00",
-      "dt_iso": "2026-10-21T03:00:00+00:00",
-      "summary": "J&amp;T Express investe R$ 75 milhões em novo centro logístico &nbsp;&nbsp; Portal iG",
+      "headline": "J&T Express investe R$ 75 milhões em novo centro logístico - Portal Comunique-se",
+      "source": "Portal",
+      "link": "https://portal.comunique-se.com.br",
+      "time": "21/10 às 10:38",
+      "dt_iso": "2026-10-21T13:38:47+00:00",
+      "summary": "J&amp;T Express investe R$ 75 milhões em novo centro logístico &nbsp;&nbsp; Portal Comunique-se",
       "category": "logistica",
       "keywords": [
         "j&t express",
@@ -370,20 +330,20 @@
       ]
     },
     {
-      "id": "25651a9685",
-      "headline": "Renner conquista certificação ISO 14001 para o CD de Cabreúva - MundoLogística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "19/10 às 11:15",
-      "dt_iso": "2026-10-19T14:15:28+00:00",
-      "summary": "Renner conquista certificação ISO 14001 para o CD de Cabreúva &nbsp;&nbsp; MundoLogística",
+      "id": "c78324f1ab",
+      "headline": "Geek+ e Seal Sistemas firmam parceria para ampliar automação de armazéns no Brasil - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 09:42",
+      "dt_iso": "2026-10-26T12:42:32+00:00",
+      "summary": "Geek+ e Seal Sistemas firmam parceria para ampliar automação de armazéns no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
-        "renner",
-        "abre"
+        "armazéns",
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -412,7 +372,7 @@
       "headline": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 11:05",
+      "time": "24/10 às 11:05",
       "dt_iso": "2026-10-24T14:05:00+00:00",
       "summary": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -446,20 +406,20 @@
       ]
     },
     {
-      "id": "666d728d53",
-      "headline": "Grupo Muffato inaugura loja com inteligência artificial e sem caixas em Curitiba - jornaluniao.com.br",
-      "source": "Jornaluniao",
-      "link": "https://jornaluniao.com.br",
-      "time": "22/10 às 08:48",
-      "dt_iso": "2026-10-22T11:48:48+00:00",
-      "summary": "Grupo Muffato inaugura loja com inteligência artificial e sem caixas em Curitiba &nbsp;&nbsp; jornaluniao.com.br",
+      "id": "06267eba23",
+      "headline": "Multinacional DHL abre vagas em Salvador sem exigir experiência - Portal N1N",
+      "source": "N1N",
+      "link": "https://n1n.com.br",
+      "time": "21/10 às 14:42",
+      "dt_iso": "2026-10-21T17:42:25+00:00",
+      "summary": "Multinacional DHL abre vagas em Salvador sem exigir experiência &nbsp;&nbsp; Portal N1N",
       "category": "logistica",
       "keywords": [
-        "grupo muffato",
-        "inaugura"
+        "dhl",
+        "abre"
       ],
       "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Curitiba.",
+      "relevance": "Região(ões) mencionada(s): Salvador.",
       "badges": [
         "Logística"
       ]
@@ -484,44 +444,6 @@
       ]
     },
     {
-      "id": "f3b832e511",
-      "headline": "Shopee amplia carteira de crédito para R$ 8,4 bi e leva disputa do e-commerce para nova frente - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "19/10 às 11:27",
-      "dt_iso": "2026-10-19T14:27:28+00:00",
-      "summary": "Shopee amplia carteira de crédito para R$ 8,4 bi e leva disputa do e-commerce para nova frente &nbsp;&nbsp; Mercado&amp;Consumo",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "96592e5a91",
-      "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - REDE BRASIL DE TELEVISÃO",
-      "source": "Rbtv",
-      "link": "https://rbtv.com.br",
-      "time": "22/10 às 12:52",
-      "dt_iso": "2026-10-22T15:52:00+00:00",
-      "summary": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana &nbsp;&nbsp; REDE BRASIL DE TELEVISÃO",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "construção"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e3aeca9bb1",
       "headline": "Rock de Galpão apresenta “De Boina, Alpargata e Bombacha” nesta sexta em Porto Alegre - Expansão",
       "source": "Expansao",
@@ -541,41 +463,79 @@
       ]
     },
     {
-      "id": "a0091cf802",
-      "headline": "TRXF11 investe R$ 250 milhões em imóvel do Mercado Livre - Clube FII News",
-      "source": "Clubefiinews",
-      "link": "https://www.clubefiinews.com.br",
-      "time": "19/10 às 11:08",
-      "dt_iso": "2026-10-19T14:08:47+00:00",
-      "summary": "TRXF11 investe R$ 250 milhões em imóvel do Mercado Livre &nbsp;&nbsp; Clube FII News",
-      "category": "investimento",
+      "id": "df29356281",
+      "headline": "Idepi autoriza construção de galpão para laticínios em Paulistana - Hora Piaui",
+      "source": "Horapiaui",
+      "link": "https://horapiaui.com.br",
+      "time": "22/10 às 14:21",
+      "dt_iso": "2026-10-22T17:21:00+00:00",
+      "summary": "Idepi autoriza construção de galpão para laticínios em Paulistana &nbsp;&nbsp; Hora Piaui",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "9127db93cc",
-      "headline": "Cliente vai vender no Mercado Livre, na Amazon ou no TikTok Shop: o que o contador precisa definir na abertura do CNPJ - Contadores.cnt.br",
-      "source": "Contadores",
-      "link": "https://www.contadores.cnt.br",
-      "time": "19/10 às 10:18",
-      "dt_iso": "2026-10-19T13:18:00+00:00",
-      "summary": "Cliente vai vender no Mercado Livre, na Amazon ou no TikTok Shop: o que o contador precisa definir na abertura do CNPJ &nbsp;&nbsp; Contadores.cnt.br",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abertura"
+        "galpão",
+        "construção"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
+      ]
+    },
+    {
+      "id": "8820f960f4",
+      "headline": "Época Cosméticos inaugura primeiro outlet em megaloja do Magalu em SP - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 03:01",
+      "dt_iso": "2026-10-26T06:01:44+00:00",
+      "summary": "Época Cosméticos inaugura primeiro outlet em megaloja do Magalu em SP &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "b43522bee2",
+      "headline": "Assaí amplia atendimento remoto nos caixas e prepara operação para uso de IA - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 03:02",
+      "dt_iso": "2026-10-26T06:02:40+00:00",
+      "summary": "Assaí amplia atendimento remoto nos caixas e prepara operação para uso de IA &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "f361fe2c52",
+      "headline": "Com Amstel 0.0, Heineken amplia categoria zero álcool no Brasil - Engarrafador Moderno",
+      "source": "Engarrafadormoderno",
+      "link": "https://engarrafadormoderno.com.br",
+      "time": "hoje, 09:45",
+      "dt_iso": "2026-10-26T12:45:52+00:00",
+      "summary": "Com Amstel 0.0, Heineken amplia categoria zero álcool no Brasil &nbsp;&nbsp; Engarrafador Moderno",
+      "category": "logistica",
+      "keywords": [
+        "heineken",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
