@@ -1,5 +1,5 @@
 {
-  "gerado_em": "26/10/2026 às 12:32",
+  "gerado_em": "26/10/2026 às 17:53",
   "total": 29,
   "noticias": [
     {
@@ -173,26 +173,6 @@
       ]
     },
     {
-      "id": "be0ac6218a",
-      "headline": "Blips investe R$ 3 milhões em centro de distribuição em Cabreúva (SP) - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "19/10 às 13:30",
-      "dt_iso": "2026-10-19T16:30:21+00:00",
-      "summary": "Blips investe R$ 3 milhões em centro de distribuição em Cabreúva (SP) &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "abre",
-        "investe"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "6dab0aeb49",
       "headline": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição - Guarulhos Hoje",
       "source": "Guarulhoshoje",
@@ -233,17 +213,37 @@
       ]
     },
     {
-      "id": "0558a48c9e",
-      "headline": "TRXF11 Compra Fatia do Maior Galpão do Mercado Livre, Que Equivale a 30% do Parque Ibirapuera - Forbes Brasil",
-      "source": "Forbes",
-      "link": "https://forbes.com.br",
-      "time": "19/10 às 15:03",
-      "dt_iso": "2026-10-19T18:03:24+00:00",
-      "summary": "TRXF11 Compra Fatia do Maior Galpão do Mercado Livre, Que Equivale a 30% do Parque Ibirapuera &nbsp;&nbsp; Forbes Brasil",
+      "id": "0d28299916",
+      "headline": "Paulistana receberá investimento de R$ 458 mil para construção de galpão e estruturação de indústria de laticínios - Cidadesnanet.com",
+      "source": "Cidadesnanet",
+      "link": "https://cidadesnanet.com",
+      "time": "22/10 às 14:37",
+      "dt_iso": "2026-10-22T17:37:54+00:00",
+      "summary": "Paulistana receberá investimento de R$ 458 mil para construção de galpão e estruturação de indústria de laticínios &nbsp;&nbsp; Cidadesnanet.com",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "investimento",
+        "construção"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "5ec21d3234",
+      "headline": "Do Mercado Livre à GM e Ford: veja quem mais ocupou e esvaziou galpões logísticos no trimestre - SiiLA",
+      "source": "Siila",
+      "link": "https://siila.com.br",
+      "time": "23/10 às 11:30",
+      "dt_iso": "2026-10-23T14:30:00+00:00",
+      "summary": "Do Mercado Livre à GM e Ford: veja quem mais ocupou e esvaziou galpões logísticos no trimestre &nbsp;&nbsp; SiiLA",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "galpão"
+        "galpões"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -289,6 +289,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "cb52759176",
+      "headline": "Credores da Braskem dão mais prazo para acordo e pedem aporte de US$ 1,85 bilhão",
+      "source": "Exame",
+      "link": "https://exame.com/exame-in/credores-da-braskem-dao-mais-prazo-para-acordo-e-pedem-aporte-de-us-185-bilhao/",
+      "time": "hoje, 14:39",
+      "dt_iso": "2026-10-26T17:39:25+00:00",
+      "summary": "Grupo quer compromisso dos acionistas e conversão de dívida em ações; negociações foram prorrogadas até 30 de outubro",
+      "category": "investimento",
+      "keywords": [
+        "braskem",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
       ]
     },
     {
@@ -349,20 +368,20 @@
       ]
     },
     {
-      "id": "2e9198fa94",
-      "headline": "JBS Terminais anuncia aporte de R$ 15,2 milhões no Porto de Itajaí - Tecnologística",
+      "id": "aec54398dc",
+      "headline": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "19/10 às 13:48",
-      "dt_iso": "2026-10-19T16:48:17+00:00",
-      "summary": "JBS Terminais anuncia aporte de R$ 15,2 milhões no Porto de Itajaí &nbsp;&nbsp; Tecnologística",
+      "time": "hoje, 12:35",
+      "dt_iso": "2026-10-26T15:35:29+00:00",
+      "summary": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
-        "jbs",
-        "aporte"
+        "americanas",
+        "abre"
       ],
       "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -463,17 +482,17 @@
       ]
     },
     {
-      "id": "df29356281",
-      "headline": "Idepi autoriza construção de galpão para laticínios em Paulistana - Hora Piaui",
-      "source": "Horapiaui",
-      "link": "https://horapiaui.com.br",
-      "time": "22/10 às 14:21",
-      "dt_iso": "2026-10-22T17:21:00+00:00",
-      "summary": "Idepi autoriza construção de galpão para laticínios em Paulistana &nbsp;&nbsp; Hora Piaui",
+      "id": "175c7b2219",
+      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Notícia Já",
+      "source": "Noticiaja",
+      "link": "https://www.noticiaja.com",
+      "time": "hoje, 16:48",
+      "dt_iso": "2026-10-26T19:48:14+00:00",
+      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Notícia Já",
       "category": "logistica",
       "keywords": [
-        "galpão",
-        "construção"
+        "operação logística",
+        "abre"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -511,25 +530,6 @@
       "category": "logistica",
       "keywords": [
         "assaí",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "f361fe2c52",
-      "headline": "Com Amstel 0.0, Heineken amplia categoria zero álcool no Brasil - Engarrafador Moderno",
-      "source": "Engarrafadormoderno",
-      "link": "https://engarrafadormoderno.com.br",
-      "time": "hoje, 09:45",
-      "dt_iso": "2026-10-26T12:45:52+00:00",
-      "summary": "Com Amstel 0.0, Heineken amplia categoria zero álcool no Brasil &nbsp;&nbsp; Engarrafador Moderno",
-      "category": "logistica",
-      "keywords": [
-        "heineken",
         "amplia"
       ],
       "score": 6,
