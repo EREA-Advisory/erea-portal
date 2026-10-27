@@ -1,6 +1,6 @@
 {
-  "gerado_em": "27/10/2026 às 11:58",
-  "total": 23,
+  "gerado_em": "27/10/2026 às 17:24",
+  "total": 28,
   "noticias": [
     {
       "id": "2020268fe9",
@@ -68,6 +68,27 @@
       ]
     },
     {
+      "id": "2b6eace850",
+      "headline": "Shopee inaugura quatro centros de distribuição no Brasil - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "há 7 min",
+      "dt_iso": "2026-10-27T20:17:04+00:00",
+      "summary": "Shopee inaugura quatro centros de distribuição no Brasil &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centros de distribuição",
+        "inaugura"
+      ],
+      "score": 8,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
       "id": "844af0a3d2",
       "headline": "DHL Supply Chain aposta em automação e orquestração de last mile para Peak Season; confira detalhes da estratégia da empresa - Tecnologística",
       "source": "Tecnologística",
@@ -89,66 +110,65 @@
       ]
     },
     {
-      "id": "e594e2305b",
-      "headline": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos - realnews.com.br",
-      "source": "Realnews",
-      "link": "https://realnews.com.br",
-      "time": "20/10 às 15:20",
-      "dt_iso": "2026-10-20T18:20:20+00:00",
-      "summary": "Mercado Livre inaugura centro de distribuição em Gravataí com 720 empregos &nbsp;&nbsp; realnews.com.br",
+      "id": "d4d3f0bafe",
+      "headline": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "hoje, 15:00",
+      "dt_iso": "2026-10-27T18:00:00+00:00",
+      "summary": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
       "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura"
+        "shopee",
+        "centros de distribuição",
+        "abre"
       ],
       "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
         "E-commerce"
       ]
     },
     {
-      "id": "c20ebc3f8b",
-      "headline": "Andreani ampliará capacidade de armazenagem refrigerada em 1.000 posições - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "21/10 às 14:17",
-      "dt_iso": "2026-10-21T17:17:51+00:00",
-      "summary": "Andreani ampliará capacidade de armazenagem refrigerada em 1.000 posições &nbsp;&nbsp; Transporte Moderno",
+      "id": "7506441bd0",
+      "headline": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil - Startups",
+      "source": "Startups",
+      "link": "https://startups.com.br",
+      "time": "hoje, 15:04",
+      "dt_iso": "2026-10-27T18:04:02+00:00",
+      "summary": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil &nbsp;&nbsp; Startups",
       "category": "logistica",
       "keywords": [
-        "andreani",
-        "armazenagem",
-        "amplia"
+        "shopee",
+        "amplia",
+        "investe",
+        "cresce"
       ],
       "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Destaque",
         "Logística"
       ]
     },
     {
-      "id": "9681653a9c",
-      "headline": "Incêndio atinge galpão industrial em Suzano - G1",
-      "source": "G1",
-      "link": "https://g1.globo.com",
-      "time": "20/10 às 14:27",
-      "dt_iso": "2026-10-20T17:27:26+00:00",
-      "summary": "Incêndio atinge galpão industrial em Suzano &nbsp;&nbsp; G1",
-      "category": "industrial",
+      "id": "dd9ffccd02",
+      "headline": "O evento que reunirá 500 executivos em Miami para discutir o futuro da América Latina",
+      "source": "Exame",
+      "link": "https://exame.com/economia/o-evento-que-reunira-500-executivos-em-miami-para-discutir-o-futuro-da-america-latina/",
+      "time": "hoje, 12:23",
+      "dt_iso": "2026-10-27T15:23:18+00:00",
+      "summary": "No Simpósio do Conselho das Américas, líderes de empresas como Anthropic, Banco do Brasil, Rappi e Embraer debaterão inteligência artificial, investimentos e os rumos dos negócios na região",
+      "category": "logistica",
       "keywords": [
-        "suzano",
-        "galpão",
-        "galpão industrial"
+        "embraer",
+        "investimento",
+        "investimentos"
       ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Destaque",
-        "Industrial"
+        "Logística"
       ]
     },
     {
@@ -172,26 +192,6 @@
       ]
     },
     {
-      "id": "0d28299916",
-      "headline": "Paulistana receberá investimento de R$ 458 mil para construção de galpão e estruturação de indústria de laticínios - Cidadesnanet.com",
-      "source": "Cidadesnanet",
-      "link": "https://cidadesnanet.com",
-      "time": "22/10 às 14:37",
-      "dt_iso": "2026-10-22T17:37:54+00:00",
-      "summary": "Paulistana receberá investimento de R$ 458 mil para construção de galpão e estruturação de indústria de laticínios &nbsp;&nbsp; Cidadesnanet.com",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "investimento",
-        "construção"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "5ec21d3234",
       "headline": "Do Mercado Livre à GM e Ford: veja quem mais ocupou e esvaziou galpões logísticos no trimestre - SiiLA",
       "source": "Siila",
@@ -208,6 +208,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "83b703922f",
+      "headline": "De volta para o jogo: Americanas encerra recuperação judicial após desocupar 350 mil m² em galpões - SiiLA",
+      "source": "Siila",
+      "link": "https://siila.com.br",
+      "time": "21/10 às 08:38",
+      "dt_iso": "2026-10-21T11:38:54+00:00",
+      "summary": "De volta para o jogo: Americanas encerra recuperação judicial após desocupar 350 mil m² em galpões &nbsp;&nbsp; SiiLA",
+      "category": "alerta",
+      "keywords": [
+        "americanas",
+        "galpões"
+      ],
+      "score": 7,
+      "relevance": "⚠ Sinal negativo — empresa pode devolver imóveis logísticos. Monitorar rescisões de contrato.",
+      "badges": [
+        "Alerta"
       ]
     },
     {
@@ -228,6 +247,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "e3892411f4",
+      "headline": "Para o Citi, Mercado Livre ficou barato demais na bolsa — e agora é hora de comprar",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/para-o-citi-mercado-livre-ficou-barato-demais-na-bolsa-e-agora-e-hora-de-comprar/",
+      "time": "hoje, 12:00",
+      "dt_iso": "2026-10-27T15:00:04+00:00",
+      "summary": "Mesmo com preço-alvo menor, Citi vê oportunidade nas ações e aposta na expansão do e-commerce",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -269,6 +307,25 @@
       ]
     },
     {
+      "id": "d04ad610df",
+      "headline": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 11:43",
+      "dt_iso": "2026-10-27T14:43:29+00:00",
+      "summary": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "c78324f1ab",
       "headline": "Geek+ e Seal Sistemas firmam parceria para ampliar automação de armazéns no Brasil - Tecnologística",
       "source": "Tecnologística",
@@ -292,7 +349,7 @@
       "headline": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 12:35",
+      "time": "ontem, 12:35",
       "dt_iso": "2026-10-26T15:35:29+00:00",
       "summary": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -302,25 +359,6 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d04ad610df",
-      "headline": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "24/10 às 11:05",
-      "dt_iso": "2026-10-24T14:05:00+00:00",
-      "summary": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -345,20 +383,39 @@
       ]
     },
     {
-      "id": "d67a4c78b2",
-      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Abradilan",
-      "source": "Abradilan",
-      "link": "https://abradilan.com.br",
-      "time": "21/10 às 09:37",
-      "dt_iso": "2026-10-21T12:37:48+00:00",
-      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Abradilan",
+      "id": "eda7d0c62b",
+      "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
+      "source": "Bandab",
+      "link": "https://www.bandab.com.br",
+      "time": "24/10 às 04:00",
+      "dt_iso": "2026-10-24T07:00:00+00:00",
+      "summary": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia &nbsp;&nbsp; Banda B",
       "category": "logistica",
       "keywords": [
-        "armazenagem",
-        "investe"
+        "centro de distribuição",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "595d3f7b3d",
+      "headline": "Shopee expande logística no Brasil e espera regras da Anvisa para vender medicamentos - Studio Notícias",
+      "source": "Studio",
+      "link": "https://www.studio.tv.br",
+      "time": "há 17 min",
+      "dt_iso": "2026-10-27T20:06:58+00:00",
+      "summary": "Shopee expande logística no Brasil e espera regras da Anvisa para vender medicamentos &nbsp;&nbsp; Studio Notícias",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -383,11 +440,30 @@
       ]
     },
     {
+      "id": "96592e5a91",
+      "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - Diário GM",
+      "source": "Diariogm",
+      "link": "https://www.diariogm.com.br",
+      "time": "22/10 às 13:22",
+      "dt_iso": "2026-10-22T16:22:29+00:00",
+      "summary": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana &nbsp;&nbsp; Diário GM",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "construção"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "175c7b2219",
       "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Notícia Já",
       "source": "Noticiaja",
       "link": "https://www.noticiaja.com",
-      "time": "hoje, 16:48",
+      "time": "ontem, 16:48",
       "dt_iso": "2026-10-26T19:48:14+00:00",
       "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Notícia Já",
       "category": "logistica",
@@ -435,6 +511,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d67a4c78b2",
+      "headline": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País - Abradilan",
+      "source": "Abradilan",
+      "link": "https://abradilan.com.br",
+      "time": "21/10 às 09:37",
+      "dt_iso": "2026-10-21T12:37:48+00:00",
+      "summary": "Ativa Logística investe em Maringá para potencializar operações de transporte e armazenagem no Sul do País &nbsp;&nbsp; Abradilan",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
