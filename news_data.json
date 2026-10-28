@@ -1,7 +1,29 @@
 {
-  "gerado_em": "28/10/2026 às 12:33",
+  "gerado_em": "28/10/2026 às 17:46",
   "total": 27,
   "noticias": [
+    {
+      "id": "1cb7cf3fdb",
+      "headline": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país - Movimento Econômico",
+      "source": "Movimentoeconomico",
+      "link": "https://movimentoeconomico.com.br",
+      "time": "hoje, 14:39",
+      "dt_iso": "2026-10-28T17:39:43+00:00",
+      "summary": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país &nbsp;&nbsp; Movimento Econômico",
+      "category": "expansao",
+      "keywords": [
+        "shopee",
+        "galpões",
+        "expansão",
+        "novo cd"
+      ],
+      "score": 9,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Expansão"
+      ]
+    },
     {
       "id": "2020268fe9",
       "headline": "J&T Express inaugura centro de distribuição em Guarulhos com investimento de R$ 75 milhões - GRU Diário",
@@ -51,7 +73,7 @@
       "headline": "Shopee inaugura quatro centros de distribuição no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 17:17",
+      "time": "ontem, 17:17",
       "dt_iso": "2026-10-27T20:17:04+00:00",
       "summary": "Shopee inaugura quatro centros de distribuição no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -65,6 +87,27 @@
       "badges": [
         "Destaque",
         "Logística"
+      ]
+    },
+    {
+      "id": "7bbe9074ab",
+      "headline": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo - Business Wire",
+      "source": "Businesswire",
+      "link": "https://www.businesswire.com",
+      "time": "23/10 às 09:45",
+      "dt_iso": "2026-10-23T12:45:00+00:00",
+      "summary": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo &nbsp;&nbsp; Business Wire",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "inauguração",
+        "expansão"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -93,7 +136,7 @@
       "headline": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal - InfoMoney",
       "source": "InfoMoney",
       "link": "https://www.infomoney.com.br",
-      "time": "hoje, 15:00",
+      "time": "ontem, 15:00",
       "dt_iso": "2026-10-27T18:00:00+00:00",
       "summary": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal &nbsp;&nbsp; InfoMoney",
       "category": "ecommerce",
@@ -110,32 +153,11 @@
       ]
     },
     {
-      "id": "7bbe9074ab",
-      "headline": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo - Portal iG",
-      "source": "Lorena",
-      "link": "https://lorena.ig.com.br",
-      "time": "23/10 às 00:00",
-      "dt_iso": "2026-10-23T03:00:00+00:00",
-      "summary": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo &nbsp;&nbsp; Portal iG",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "inauguração",
-        "expansão"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "7506441bd0",
       "headline": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil - Startups",
       "source": "Startups",
       "link": "https://startups.com.br",
-      "time": "hoje, 15:04",
+      "time": "ontem, 15:04",
       "dt_iso": "2026-10-27T18:04:02+00:00",
       "summary": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil &nbsp;&nbsp; Startups",
       "category": "logistica",
@@ -147,47 +169,6 @@
       ],
       "score": 8,
       "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "c20ebc3f8b",
-      "headline": "Andreani ampliará capacidade de armazenagem refrigerada em 1.000 posições - Transporte Moderno",
-      "source": "Transportemoderno",
-      "link": "https://transportemoderno.com.br",
-      "time": "21/10 às 14:17",
-      "dt_iso": "2026-10-21T17:17:51+00:00",
-      "summary": "Andreani ampliará capacidade de armazenagem refrigerada em 1.000 posições &nbsp;&nbsp; Transporte Moderno",
-      "category": "logistica",
-      "keywords": [
-        "andreani",
-        "armazenagem",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "416fe62e55",
-      "headline": "Novo CEO afirma que Heineken precisa melhorar, mesmo com vendas superando previsões",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/business/novo-ceo-afirma-que-heineken-precisa-melhorar-mesmo-com-vendas-superando-previsoes/",
-      "time": "há 11 min",
-      "dt_iso": "2026-10-28T15:20:39+00:00",
-      "summary": "Rafael Oliveira afirma que empresa precisa acelerar o ritmo e ampliar a responsabilização para sustentar o crescimento \n The post  Novo CEO afirma que Heineken precisa melhorar, mesmo com vendas superando previsões  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "heineken",
-        "amplia",
-        "crescimento"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -252,6 +233,25 @@
       ]
     },
     {
+      "id": "342aac00d4",
+      "headline": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá - Sobral em Revista",
+      "source": "Sobralemrevista",
+      "link": "https://sobralemrevista.com.br",
+      "time": "24/10 às 11:02",
+      "dt_iso": "2026-10-24T14:02:58+00:00",
+      "summary": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá &nbsp;&nbsp; Sobral em Revista",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "d04ad610df",
       "headline": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro - Tecnologística",
       "source": "Tecnologística",
@@ -294,7 +294,7 @@
       "headline": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 12:35",
+      "time": "26/10 às 12:35",
       "dt_iso": "2026-10-26T15:35:29+00:00",
       "summary": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -332,7 +332,7 @@
       "headline": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&C na avenida Guarulhos - Click Guarulhos",
       "source": "Clickguarulhos",
       "link": "https://www.clickguarulhos.com.br",
-      "time": "há 39 min",
+      "time": "hoje, 11:53",
       "dt_iso": "2026-10-28T14:53:36+00:00",
       "summary": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&amp;C na avenida Guarulhos &nbsp;&nbsp; Click Guarulhos",
       "category": "logistica",
@@ -347,30 +347,11 @@
       ]
     },
     {
-      "id": "eda7d0c62b",
-      "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
-      "source": "Bandab",
-      "link": "https://www.bandab.com.br",
-      "time": "24/10 às 04:00",
-      "dt_iso": "2026-10-24T07:00:00+00:00",
-      "summary": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia &nbsp;&nbsp; Banda B",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "6260552d44",
       "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
       "source": "CNN Brasil",
       "link": "https://www.cnnbrasil.com.br",
-      "time": "hoje, 15:22",
+      "time": "ontem, 15:22",
       "dt_iso": "2026-10-27T18:22:45+00:00",
       "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
       "category": "ecommerce",
@@ -443,12 +424,12 @@
     },
     {
       "id": "175c7b2219",
-      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Notícia Já",
-      "source": "Noticiaja",
-      "link": "https://www.noticiaja.com",
-      "time": "ontem, 16:48",
-      "dt_iso": "2026-10-26T19:48:14+00:00",
-      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Notícia Já",
+      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Gazeta da Semana",
+      "source": "Gazetadasemana",
+      "link": "https://gazetadasemana.com.br",
+      "time": "26/10 às 15:26",
+      "dt_iso": "2026-10-26T18:26:33+00:00",
+      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Gazeta da Semana",
       "category": "logistica",
       "keywords": [
         "operação logística",
@@ -503,9 +484,28 @@
       "headline": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "há 25 min",
+      "time": "hoje, 12:07",
       "dt_iso": "2026-10-28T15:07:40+00:00",
       "summary": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos &nbsp;&nbsp; InvestNews",
+      "category": "logistica",
+      "keywords": [
+        "heineken",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "c85309997a",
+      "headline": "Heineken volta a crescer no mercado brasileiro - SpaceMoney",
+      "source": "Spacemoney",
+      "link": "https://www.spacemoney.com.br",
+      "time": "hoje, 12:59",
+      "dt_iso": "2026-10-28T15:59:23+00:00",
+      "summary": "Heineken volta a crescer no mercado brasileiro &nbsp;&nbsp; SpaceMoney",
       "category": "logistica",
       "keywords": [
         "heineken",
