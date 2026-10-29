@@ -1,6 +1,6 @@
 {
-  "gerado_em": "28/10/2026 às 17:46",
-  "total": 27,
+  "gerado_em": "29/10/2026 às 12:40",
+  "total": 24,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
@@ -69,6 +69,27 @@
       ]
     },
     {
+      "id": "d4d3f0bafe",
+      "headline": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "ontem, 15:00",
+      "dt_iso": "2026-10-27T18:00:00+00:00",
+      "summary": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal &nbsp;&nbsp; InfoMoney",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centros de distribuição",
+        "abre"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "2b6eace850",
       "headline": "Shopee inaugura quatro centros de distribuição no Brasil - Mundo Logística",
       "source": "Mundo Logística",
@@ -108,48 +129,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "844af0a3d2",
-      "headline": "DHL Supply Chain aposta em automação e orquestração de last mile para Peak Season; confira detalhes da estratégia da empresa - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "22/10 às 11:43",
-      "dt_iso": "2026-10-22T14:43:01+00:00",
-      "summary": "DHL Supply Chain aposta em automação e orquestração de last mile para Peak Season; confira detalhes da estratégia da empresa &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "last mile",
-        "supply chain"
-      ],
-      "score": 8,
-      "relevance": "Expansão de last mile — demanda por imóveis urbanos pequenos e ágeis.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "d4d3f0bafe",
-      "headline": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "ontem, 15:00",
-      "dt_iso": "2026-10-27T18:00:00+00:00",
-      "summary": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal &nbsp;&nbsp; InfoMoney",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centros de distribuição",
-        "abre"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
       ]
     },
     {
@@ -194,45 +173,6 @@
       ]
     },
     {
-      "id": "5ec21d3234",
-      "headline": "Do Mercado Livre à GM e Ford: veja quem mais ocupou e esvaziou galpões logísticos no trimestre - SiiLA",
-      "source": "Siila",
-      "link": "https://siila.com.br",
-      "time": "23/10 às 11:30",
-      "dt_iso": "2026-10-23T14:30:00+00:00",
-      "summary": "Do Mercado Livre à GM e Ford: veja quem mais ocupou e esvaziou galpões logísticos no trimestre &nbsp;&nbsp; SiiLA",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "galpões"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "906b5f7ace",
-      "headline": "Mercedes-Benz inaugura a expansão de seu Classic Center - Maxicar",
-      "source": "Maxicar",
-      "link": "https://www.maxicar.com.br",
-      "time": "22/10 às 11:46",
-      "dt_iso": "2026-10-22T14:46:37+00:00",
-      "summary": "Mercedes-Benz inaugura a expansão de seu Classic Center &nbsp;&nbsp; Maxicar",
-      "category": "expansao",
-      "keywords": [
-        "mercedes-benz",
-        "inaugura",
-        "expansão"
-      ],
-      "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "342aac00d4",
       "headline": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá - Sobral em Revista",
       "source": "Sobralemrevista",
@@ -256,7 +196,7 @@
       "headline": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 11:43",
+      "time": "27/10 às 11:43",
       "dt_iso": "2026-10-27T14:43:29+00:00",
       "summary": "Nuvemshop inaugura centro de distribuição no Rio de Janeiro &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -309,22 +249,22 @@
       ]
     },
     {
-      "id": "b73a3b704d",
-      "headline": "Mercado Livre inaugura dois centros logísticos e prevê mais de 1.400 empregos no RS - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "21/10 às 19:48",
-      "dt_iso": "2026-10-21T22:48:00+00:00",
-      "summary": "Mercado Livre inaugura dois centros logísticos e prevê mais de 1.400 empregos no RS &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
+      "id": "175c7b2219",
+      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Gazeta da Semana",
+      "source": "Gazetadasemana",
+      "link": "https://gazetadasemana.com.br",
+      "time": "26/10 às 15:26",
+      "dt_iso": "2026-10-26T18:26:33+00:00",
+      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Gazeta da Semana",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "inaugura"
+        "operação logística",
+        "abre"
       ],
       "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -332,7 +272,7 @@
       "headline": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&C na avenida Guarulhos - Click Guarulhos",
       "source": "Clickguarulhos",
       "link": "https://www.clickguarulhos.com.br",
-      "time": "hoje, 11:53",
+      "time": "ontem, 11:53",
       "dt_iso": "2026-10-28T14:53:36+00:00",
       "summary": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&amp;C na avenida Guarulhos &nbsp;&nbsp; Click Guarulhos",
       "category": "logistica",
@@ -366,25 +306,6 @@
       ]
     },
     {
-      "id": "e3aeca9bb1",
-      "headline": "Rock de Galpão apresenta “De Boina, Alpargata e Bombacha” nesta sexta em Porto Alegre - Expansão",
-      "source": "Expansao",
-      "link": "https://expansao.co",
-      "time": "22/10 às 11:48",
-      "dt_iso": "2026-10-22T14:48:27+00:00",
-      "summary": "Rock de Galpão apresenta “De Boina, Alpargata e Bombacha” nesta sexta em Porto Alegre &nbsp;&nbsp; Expansão",
-      "category": "expansao",
-      "keywords": [
-        "galpão",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Região(ões) mencionada(s): Porto Alegre.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "96592e5a91",
       "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - Mural da Vila",
       "source": "Muraldavila",
@@ -408,7 +329,7 @@
       "headline": "Galpões logísticos crescem no Paraná com avanço do e-commerce - Paranashop",
       "source": "Paranashop",
       "link": "https://www.paranashop.com.br",
-      "time": "hoje, 03:00",
+      "time": "ontem, 03:00",
       "dt_iso": "2026-10-28T06:00:00+00:00",
       "summary": "Galpões logísticos crescem no Paraná com avanço do e-commerce &nbsp;&nbsp; Paranashop",
       "category": "ecommerce",
@@ -423,22 +344,22 @@
       ]
     },
     {
-      "id": "175c7b2219",
-      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Gazeta da Semana",
-      "source": "Gazetadasemana",
-      "link": "https://gazetadasemana.com.br",
-      "time": "26/10 às 15:26",
-      "dt_iso": "2026-10-26T18:26:33+00:00",
-      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Gazeta da Semana",
-      "category": "logistica",
+      "id": "262e1f8d98",
+      "headline": "Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "27/10 às 11:16",
+      "dt_iso": "2026-10-27T14:16:00+00:00",
+      "summary": "Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo &nbsp;&nbsp; Money Times",
+      "category": "ecommerce",
       "keywords": [
-        "operação logística",
-        "abre"
+        "mercado livre",
+        "abriu"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -484,12 +405,31 @@
       "headline": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "hoje, 12:07",
+      "time": "ontem, 12:07",
       "dt_iso": "2026-10-28T15:07:40+00:00",
       "summary": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos &nbsp;&nbsp; InvestNews",
       "category": "logistica",
       "keywords": [
         "heineken",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "9e0b625f02",
+      "headline": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% - Guia da Cerveja",
+      "source": "Guiadacervejabr",
+      "link": "https://guiadacervejabr.com",
+      "time": "hoje, 10:23",
+      "dt_iso": "2026-10-29T13:23:20+00:00",
+      "summary": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% &nbsp;&nbsp; Guia da Cerveja",
+      "category": "logistica",
+      "keywords": [
+        "ambev",
         "cresce"
       ],
       "score": 6,
