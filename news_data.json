@@ -1,13 +1,13 @@
 {
-  "gerado_em": "29/10/2026 às 12:40",
-  "total": 24,
+  "gerado_em": "29/10/2026 às 17:51",
+  "total": 23,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
       "headline": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país - Movimento Econômico",
       "source": "Movimentoeconomico",
       "link": "https://movimentoeconomico.com.br",
-      "time": "hoje, 14:39",
+      "time": "ontem, 14:39",
       "dt_iso": "2026-10-28T17:39:43+00:00",
       "summary": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país &nbsp;&nbsp; Movimento Econômico",
       "category": "expansao",
@@ -47,54 +47,11 @@
       ]
     },
     {
-      "id": "a543a54614",
-      "headline": "Mercado Livre (MELI34) pode crescer 49%, enquanto Magalu (MGLU3) deve voltar ao prejuízo no 3T26 - Suno - Investimentos Inteligentes",
-      "source": "Suno",
-      "link": "https://www.suno.com.br",
-      "time": "22/10 às 13:45",
-      "dt_iso": "2026-10-22T16:45:07+00:00",
-      "summary": "Mercado Livre (MELI34) pode crescer 49%, enquanto Magalu (MGLU3) deve voltar ao prejuízo no 3T26 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "magalu",
-        "investimento",
-        "investimentos",
-        "cresce"
-      ],
-      "score": 9,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "d4d3f0bafe",
-      "headline": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal - InfoMoney",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br",
-      "time": "ontem, 15:00",
-      "dt_iso": "2026-10-27T18:00:00+00:00",
-      "summary": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal &nbsp;&nbsp; InfoMoney",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centros de distribuição",
-        "abre"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
       "id": "2b6eace850",
       "headline": "Shopee inaugura quatro centros de distribuição no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 17:17",
+      "time": "27/10 às 17:17",
       "dt_iso": "2026-10-27T20:17:04+00:00",
       "summary": "Shopee inaugura quatro centros de distribuição no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -132,11 +89,32 @@
       ]
     },
     {
+      "id": "d4d3f0bafe",
+      "headline": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br",
+      "time": "27/10 às 15:00",
+      "dt_iso": "2026-10-27T18:00:00+00:00",
+      "summary": "Shopee abre 4 centros de distribuição com foco em 11.11, Black Friday e Natal &nbsp;&nbsp; InfoMoney",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centros de distribuição",
+        "abre"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "7506441bd0",
       "headline": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil - Startups",
       "source": "Startups",
       "link": "https://startups.com.br",
-      "time": "ontem, 15:04",
+      "time": "27/10 às 15:04",
       "dt_iso": "2026-10-27T18:04:02+00:00",
       "summary": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil &nbsp;&nbsp; Startups",
       "category": "logistica",
@@ -150,6 +128,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "7b4462d962",
+      "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - NE9",
+      "source": "Ne9",
+      "link": "https://ne9.com.br",
+      "time": "hoje, 07:13",
+      "dt_iso": "2026-10-29T10:13:48+00:00",
+      "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; NE9",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -291,7 +288,7 @@
       "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
       "source": "CNN Brasil",
       "link": "https://www.cnnbrasil.com.br",
-      "time": "ontem, 15:22",
+      "time": "27/10 às 15:22",
       "dt_iso": "2026-10-27T18:22:45+00:00",
       "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
       "category": "ecommerce",
@@ -307,12 +304,12 @@
     },
     {
       "id": "96592e5a91",
-      "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - Mural da Vila",
-      "source": "Muraldavila",
-      "link": "https://www.muraldavila.com.br",
-      "time": "22/10 às 15:38",
-      "dt_iso": "2026-10-22T18:38:00+00:00",
-      "summary": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana &nbsp;&nbsp; Mural da Vila",
+      "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - Cidades em Foco",
+      "source": "Cidadesemfoco",
+      "link": "https://cidadesemfoco.com",
+      "time": "23/10 às 14:16",
+      "dt_iso": "2026-10-23T17:16:14+00:00",
+      "summary": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana &nbsp;&nbsp; Cidades em Foco",
       "category": "logistica",
       "keywords": [
         "galpão",
@@ -382,25 +379,6 @@
       ]
     },
     {
-      "id": "b43522bee2",
-      "headline": "Assaí amplia atendimento remoto nos caixas e prepara operação para uso de IA - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "26/10 às 03:02",
-      "dt_iso": "2026-10-26T06:02:40+00:00",
-      "summary": "Assaí amplia atendimento remoto nos caixas e prepara operação para uso de IA &nbsp;&nbsp; Mercado&amp;Consumo",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "eb3becd192",
       "headline": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos - InvestNews",
       "source": "InvestNews",
@@ -443,7 +421,7 @@
       "headline": "Heineken volta a crescer no mercado brasileiro - SpaceMoney",
       "source": "Spacemoney",
       "link": "https://www.spacemoney.com.br",
-      "time": "hoje, 12:59",
+      "time": "ontem, 12:59",
       "dt_iso": "2026-10-28T15:59:23+00:00",
       "summary": "Heineken volta a crescer no mercado brasileiro &nbsp;&nbsp; SpaceMoney",
       "category": "logistica",
