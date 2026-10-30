@@ -1,13 +1,13 @@
 {
-  "gerado_em": "30/10/2026 às 12:23",
-  "total": 22,
+  "gerado_em": "30/10/2026 às 17:22",
+  "total": 23,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
       "headline": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país - Movimento Econômico",
       "source": "Movimentoeconomico",
       "link": "https://movimentoeconomico.com.br",
-      "time": "ontem, 14:39",
+      "time": "28/10 às 14:39",
       "dt_iso": "2026-10-28T17:39:43+00:00",
       "summary": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país &nbsp;&nbsp; Movimento Econômico",
       "category": "expansao",
@@ -29,7 +29,7 @@
       "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
       "source": "Buildings",
       "link": "https://revista.buildings.com.br",
-      "time": "há 42 min",
+      "time": "hoje, 11:40",
       "dt_iso": "2026-10-30T14:40:47+00:00",
       "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
       "category": "expansao",
@@ -149,42 +149,81 @@
       ]
     },
     {
-      "id": "1adf127e9e",
-      "headline": "Novo supermercado será inaugurado no prédio da antiga C&C na Dutra em Guarulhos - GuarulhosWeb",
-      "source": "Guarulhosweb",
-      "link": "https://guarulhosweb.com.br",
-      "time": "27/10 às 17:34",
-      "dt_iso": "2026-10-27T20:34:43+00:00",
-      "summary": "Novo supermercado será inaugurado no prédio da antiga C&amp;C na Dutra em Guarulhos &nbsp;&nbsp; GuarulhosWeb",
-      "category": "logistica",
+      "id": "89163dc3e4",
+      "headline": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André - Repórter Diário",
+      "source": "Reporterdiario",
+      "link": "https://www.reporterdiario.com.br",
+      "time": "27/10 às 19:52",
+      "dt_iso": "2026-10-27T22:52:23+00:00",
+      "summary": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André &nbsp;&nbsp; Repórter Diário",
+      "category": "expansao",
       "keywords": [
-        "c&a",
+        "assaí",
         "inaugura",
-        "inaugurado"
+        "nova unidade"
       ],
       "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Santo André.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
-      "id": "e422e8ec0b",
-      "headline": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico - HiperNotícias - Você bem informado",
-      "source": "Hnt",
-      "link": "https://www.hnt.com.br",
-      "time": "hoje, 09:35",
-      "dt_iso": "2026-10-30T12:35:00+00:00",
-      "summary": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico &nbsp;&nbsp; HiperNotícias - Você bem informado",
+      "id": "a7eef6eb81",
+      "headline": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline - TNOnline",
+      "source": "UOL",
+      "link": "https://tnonline.uol.com.br",
+      "time": "hoje, 14:27",
+      "dt_iso": "2026-10-30T17:27:50+00:00",
+      "summary": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline &nbsp;&nbsp; TNOnline",
+      "category": "industrial",
+      "keywords": [
+        "galpão",
+        "galpão industrial",
+        "construção"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Industrial"
+      ]
+    },
+    {
+      "id": "fa6bc0caac",
+      "headline": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores - Olhar Direto",
+      "source": "Olhardireto",
+      "link": "https://www.olhardireto.com.br",
+      "time": "hoje, 09:29",
+      "dt_iso": "2026-10-30T12:29:00+00:00",
+      "summary": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores &nbsp;&nbsp; Olhar Direto",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "centro de distribuição"
+        "galpão"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "342aac00d4",
+      "headline": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá - Sobral em Revista",
+      "source": "Sobralemrevista",
+      "link": "https://sobralemrevista.com.br",
+      "time": "24/10 às 11:02",
+      "dt_iso": "2026-10-24T14:02:58+00:00",
+      "summary": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá &nbsp;&nbsp; Sobral em Revista",
+      "category": "expansao",
+      "keywords": [
+        "centro de distribuição",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -283,44 +322,6 @@
       ]
     },
     {
-      "id": "6260552d44",
-      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "27/10 às 15:22",
-      "dt_iso": "2026-10-27T18:22:45+00:00",
-      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "96592e5a91",
-      "headline": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana - Cidades em Foco",
-      "source": "Cidadesemfoco",
-      "link": "https://cidadesemfoco.com",
-      "time": "23/10 às 14:16",
-      "dt_iso": "2026-10-23T17:16:14+00:00",
-      "summary": "Idepi inicia construção de galpão e adequação de estrutura para Indústria de Laticínios em Paulistana &nbsp;&nbsp; Cidades em Foco",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "construção"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "01236b0d93",
       "headline": "Galpões logísticos crescem no Paraná com avanço do e-commerce - Paranashop",
       "source": "Paranashop",
@@ -354,6 +355,25 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "6260552d44",
+      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "27/10 às 15:22",
+      "dt_iso": "2026-10-27T18:22:45+00:00",
+      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
       ]
