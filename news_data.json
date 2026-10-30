@@ -1,6 +1,6 @@
 {
-  "gerado_em": "29/10/2026 às 17:51",
-  "total": 23,
+  "gerado_em": "30/10/2026 às 12:23",
+  "total": 22,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
@@ -25,25 +25,25 @@
       ]
     },
     {
-      "id": "2020268fe9",
-      "headline": "J&T Express inaugura centro de distribuição em Guarulhos com investimento de R$ 75 milhões - GRU Diário",
-      "source": "Grudiario",
-      "link": "https://grudiario.com.br",
-      "time": "22/10 às 22:49",
-      "dt_iso": "2026-10-23T01:49:00+00:00",
-      "summary": "J&amp;T Express inaugura centro de distribuição em Guarulhos com investimento de R$ 75 milhões &nbsp;&nbsp; GRU Diário",
-      "category": "logistica",
+      "id": "50e2551132",
+      "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
+      "source": "Buildings",
+      "link": "https://revista.buildings.com.br",
+      "time": "há 42 min",
+      "dt_iso": "2026-10-30T14:40:47+00:00",
+      "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
+      "category": "expansao",
       "keywords": [
-        "j&t express",
-        "centro de distribuição",
-        "inaugura",
-        "investimento"
+        "galpões",
+        "expansão",
+        "amplia",
+        "investimento",
+        "investimentos"
       ],
       "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Guarulhos.",
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
       "badges": [
-        "Destaque",
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -65,27 +65,6 @@
       "badges": [
         "Destaque",
         "Logística"
-      ]
-    },
-    {
-      "id": "7bbe9074ab",
-      "headline": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo - Business Wire",
-      "source": "Businesswire",
-      "link": "https://www.businesswire.com",
-      "time": "23/10 às 09:45",
-      "dt_iso": "2026-10-23T12:45:00+00:00",
-      "summary": "XPEL Anuncia Expansão no Brasil com Inauguração de Sede, Centro de Distribuição e Centro de Treinamento em São Paulo &nbsp;&nbsp; Business Wire",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura",
-        "inauguração",
-        "expansão"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -135,7 +114,7 @@
       "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - NE9",
       "source": "Ne9",
       "link": "https://ne9.com.br",
-      "time": "hoje, 07:13",
+      "time": "ontem, 07:13",
       "dt_iso": "2026-10-29T10:13:48+00:00",
       "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; NE9",
       "category": "ecommerce",
@@ -151,12 +130,12 @@
     },
     {
       "id": "6dab0aeb49",
-      "headline": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição - Guarulhos Hoje",
-      "source": "Guarulhoshoje",
-      "link": "https://www.guarulhoshoje.com.br",
-      "time": "22/10 às 18:00",
-      "dt_iso": "2026-10-22T21:00:42+00:00",
-      "summary": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição &nbsp;&nbsp; Guarulhos Hoje",
+      "headline": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição - Guarulhos em Destaque",
+      "source": "Guarulhosemdestaque",
+      "link": "https://guarulhosemdestaque.com.br",
+      "time": "25/10 às 14:51",
+      "dt_iso": "2026-10-25T17:51:28+00:00",
+      "summary": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição &nbsp;&nbsp; Guarulhos em Destaque",
       "category": "expansao",
       "keywords": [
         "centro de distribuição",
@@ -170,22 +149,42 @@
       ]
     },
     {
-      "id": "342aac00d4",
-      "headline": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá - Sobral em Revista",
-      "source": "Sobralemrevista",
-      "link": "https://sobralemrevista.com.br",
-      "time": "24/10 às 11:02",
-      "dt_iso": "2026-10-24T14:02:58+00:00",
-      "summary": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá &nbsp;&nbsp; Sobral em Revista",
-      "category": "expansao",
+      "id": "1adf127e9e",
+      "headline": "Novo supermercado será inaugurado no prédio da antiga C&C na Dutra em Guarulhos - GuarulhosWeb",
+      "source": "Guarulhosweb",
+      "link": "https://guarulhosweb.com.br",
+      "time": "27/10 às 17:34",
+      "dt_iso": "2026-10-27T20:34:43+00:00",
+      "summary": "Novo supermercado será inaugurado no prédio da antiga C&amp;C na Dutra em Guarulhos &nbsp;&nbsp; GuarulhosWeb",
+      "category": "logistica",
       "keywords": [
-        "centro de distribuição",
-        "expansão"
+        "c&a",
+        "inaugura",
+        "inaugurado"
       ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
-        "Expansão"
+        "Logística"
+      ]
+    },
+    {
+      "id": "e422e8ec0b",
+      "headline": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico - HiperNotícias - Você bem informado",
+      "source": "Hnt",
+      "link": "https://www.hnt.com.br",
+      "time": "hoje, 09:35",
+      "dt_iso": "2026-10-30T12:35:00+00:00",
+      "summary": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico &nbsp;&nbsp; HiperNotícias - Você bem informado",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -269,7 +268,7 @@
       "headline": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&C na avenida Guarulhos - Click Guarulhos",
       "source": "Clickguarulhos",
       "link": "https://www.clickguarulhos.com.br",
-      "time": "ontem, 11:53",
+      "time": "28/10 às 11:53",
       "dt_iso": "2026-10-28T14:53:36+00:00",
       "summary": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&amp;C na avenida Guarulhos &nbsp;&nbsp; Click Guarulhos",
       "category": "logistica",
@@ -326,7 +325,7 @@
       "headline": "Galpões logísticos crescem no Paraná com avanço do e-commerce - Paranashop",
       "source": "Paranashop",
       "link": "https://www.paranashop.com.br",
-      "time": "ontem, 03:00",
+      "time": "28/10 às 03:00",
       "dt_iso": "2026-10-28T06:00:00+00:00",
       "summary": "Galpões logísticos crescem no Paraná com avanço do e-commerce &nbsp;&nbsp; Paranashop",
       "category": "ecommerce",
@@ -341,20 +340,20 @@
       ]
     },
     {
-      "id": "262e1f8d98",
-      "headline": "Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "27/10 às 11:16",
-      "dt_iso": "2026-10-27T14:16:00+00:00",
-      "summary": "Queda abriu oportunidade? Citi eleva Mercado Livre para compra, mas baixa preço-alvo &nbsp;&nbsp; Money Times",
+      "id": "ef8b55df05",
+      "headline": "Mercado Livre inaugura polo e soma 2,3 mil empregos - Portal ABC do ABC",
+      "source": "Abcdoabc",
+      "link": "https://www.abcdoabc.com.br",
+      "time": "hoje, 20:05",
+      "dt_iso": "2026-10-29T23:05:30+00:00",
+      "summary": "Mercado Livre inaugura polo e soma 2,3 mil empregos &nbsp;&nbsp; Portal ABC do ABC",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "abriu"
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "E-commerce"
       ]
@@ -383,9 +382,28 @@
       "headline": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos - InvestNews",
       "source": "InvestNews",
       "link": "https://investnews.com.br",
-      "time": "ontem, 12:07",
+      "time": "28/10 às 12:07",
       "dt_iso": "2026-10-28T15:07:40+00:00",
       "summary": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos &nbsp;&nbsp; InvestNews",
+      "category": "logistica",
+      "keywords": [
+        "heineken",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "9ed2574457",
+      "headline": "Heineken volta a crescer no Brasil e vê reação do mercado de cerveja no país - Guia da Cerveja",
+      "source": "Guiadacervejabr",
+      "link": "https://guiadacervejabr.com",
+      "time": "28/10 às 10:32",
+      "dt_iso": "2026-10-28T13:32:13+00:00",
+      "summary": "Heineken volta a crescer no Brasil e vê reação do mercado de cerveja no país &nbsp;&nbsp; Guia da Cerveja",
       "category": "logistica",
       "keywords": [
         "heineken",
@@ -402,8 +420,8 @@
       "headline": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% - Guia da Cerveja",
       "source": "Guiadacervejabr",
       "link": "https://guiadacervejabr.com",
-      "time": "hoje, 10:23",
-      "dt_iso": "2026-10-29T13:23:20+00:00",
+      "time": "hoje, 07:09",
+      "dt_iso": "2026-10-30T10:09:15+00:00",
       "summary": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% &nbsp;&nbsp; Guia da Cerveja",
       "category": "logistica",
       "keywords": [
@@ -412,44 +430,6 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "c85309997a",
-      "headline": "Heineken volta a crescer no mercado brasileiro - SpaceMoney",
-      "source": "Spacemoney",
-      "link": "https://www.spacemoney.com.br",
-      "time": "ontem, 12:59",
-      "dt_iso": "2026-10-28T15:59:23+00:00",
-      "summary": "Heineken volta a crescer no mercado brasileiro &nbsp;&nbsp; SpaceMoney",
-      "category": "logistica",
-      "keywords": [
-        "heineken",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "0951a6e4f9",
-      "headline": "MBRF Pet entra nos EUA e investe R$ 13,6 mi no Paraguai - Portal Cães e Gatos",
-      "source": "Caesegatos",
-      "link": "https://caesegatos.com.br",
-      "time": "23/10 às 09:30",
-      "dt_iso": "2026-10-23T12:30:58+00:00",
-      "summary": "MBRF Pet entra nos EUA e investe R$ 13,6 mi no Paraguai &nbsp;&nbsp; Portal Cães e Gatos",
-      "category": "logistica",
-      "keywords": [
-        "brf",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
