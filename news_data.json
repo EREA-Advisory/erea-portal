@@ -1,6 +1,6 @@
 {
-  "gerado_em": "31/10/2026 às 11:52",
-  "total": 24,
+  "gerado_em": "31/10/2026 às 16:42",
+  "total": 23,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
@@ -110,26 +110,6 @@
       ]
     },
     {
-      "id": "2d3bb4f446",
-      "headline": "Esta família do Nordeste é dona de 12 mil imóveis, fatura R$ 1,5 bilhão e vai chegar em SP",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/esta-familia-do-nordeste-e-dona-de-12-mil-imoveis-fatura-r-15-bilhao-e-vai-chegar-em-sp/",
-      "time": "hoje, 05:03",
-      "dt_iso": "2026-10-31T08:03:56+00:00",
-      "summary": "Com 50 anos de história, o Grupo CNS cresceu no Norte e Nordeste com apartamentos populares, shopping e galpões logísticos",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "cresce",
-        "cresceu"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "7b4462d962",
       "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
       "source": "Ne9",
@@ -168,26 +148,6 @@
       ]
     },
     {
-      "id": "57fe68daff",
-      "headline": "Loja da C&A no Lajeado Shopping tem inauguração prevista para o início de dezembro - Rádio Independente",
-      "source": "Independente",
-      "link": "https://www.independente.com.br",
-      "time": "hoje, 16:01",
-      "dt_iso": "2026-10-30T19:01:00+00:00",
-      "summary": "Loja da C&amp;A no Lajeado Shopping tem inauguração prevista para o início de dezembro &nbsp;&nbsp; Rádio Independente",
-      "category": "expansao",
-      "keywords": [
-        "c&a",
-        "inaugura",
-        "inauguração"
-      ],
-      "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "89163dc3e4",
       "headline": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André - Repórter Diário",
       "source": "Reporterdiario",
@@ -208,11 +168,31 @@
       ]
     },
     {
+      "id": "57fe68daff",
+      "headline": "Loja da C&A no Lajeado Shopping tem inauguração prevista para o início de dezembro - Rádio Independente",
+      "source": "Independente",
+      "link": "https://www.independente.com.br",
+      "time": "ontem, 16:01",
+      "dt_iso": "2026-10-30T19:01:00+00:00",
+      "summary": "Loja da C&amp;A no Lajeado Shopping tem inauguração prevista para o início de dezembro &nbsp;&nbsp; Rádio Independente",
+      "category": "expansao",
+      "keywords": [
+        "c&a",
+        "inaugura",
+        "inauguração"
+      ],
+      "score": 7,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "a7eef6eb81",
       "headline": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline - TNOnline",
       "source": "UOL",
       "link": "https://tnonline.uol.com.br",
-      "time": "hoje, 14:27",
+      "time": "ontem, 14:27",
       "dt_iso": "2026-10-30T17:27:50+00:00",
       "summary": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline &nbsp;&nbsp; TNOnline",
       "category": "industrial",
@@ -304,6 +284,25 @@
       ]
     },
     {
+      "id": "175c7b2219",
+      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Notícia Já",
+      "source": "Noticiaja",
+      "link": "https://www.noticiaja.com",
+      "time": "26/10 às 16:48",
+      "dt_iso": "2026-10-26T19:48:14+00:00",
+      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Notícia Já",
+      "category": "logistica",
+      "keywords": [
+        "operação logística",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "acdb5b649f",
       "headline": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&C na avenida Guarulhos - Click Guarulhos",
       "source": "Clickguarulhos",
@@ -358,25 +357,6 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "175c7b2219",
-      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Notícia Já",
-      "source": "Noticiaja",
-      "link": "https://www.noticiaja.com",
-      "time": "26/10 às 16:48",
-      "dt_iso": "2026-10-26T19:48:14+00:00",
-      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Notícia Já",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
