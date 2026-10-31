@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/10/2026 às 17:22",
-  "total": 23,
+  "gerado_em": "31/10/2026 às 11:52",
+  "total": 24,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
@@ -29,7 +29,7 @@
       "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
       "source": "Buildings",
       "link": "https://revista.buildings.com.br",
-      "time": "hoje, 11:40",
+      "time": "ontem, 11:40",
       "dt_iso": "2026-10-30T14:40:47+00:00",
       "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
       "category": "expansao",
@@ -110,13 +110,33 @@
       ]
     },
     {
+      "id": "2d3bb4f446",
+      "headline": "Esta família do Nordeste é dona de 12 mil imóveis, fatura R$ 1,5 bilhão e vai chegar em SP",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/esta-familia-do-nordeste-e-dona-de-12-mil-imoveis-fatura-r-15-bilhao-e-vai-chegar-em-sp/",
+      "time": "hoje, 05:03",
+      "dt_iso": "2026-10-31T08:03:56+00:00",
+      "summary": "Com 50 anos de história, o Grupo CNS cresceu no Norte e Nordeste com apartamentos populares, shopping e galpões logísticos",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "cresce",
+        "cresceu"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "7b4462d962",
-      "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - NE9",
+      "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
       "source": "Ne9",
       "link": "https://ne9.com.br",
-      "time": "ontem, 07:13",
-      "dt_iso": "2026-10-29T10:13:48+00:00",
-      "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; NE9",
+      "time": "hoje, 07:20",
+      "dt_iso": "2026-10-31T10:20:59+00:00",
+      "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; Portal NE9",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -129,21 +149,40 @@
       ]
     },
     {
-      "id": "6dab0aeb49",
-      "headline": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição - Guarulhos em Destaque",
-      "source": "Guarulhosemdestaque",
-      "link": "https://guarulhosemdestaque.com.br",
-      "time": "25/10 às 14:51",
-      "dt_iso": "2026-10-25T17:51:28+00:00",
-      "summary": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição &nbsp;&nbsp; Guarulhos em Destaque",
+      "id": "fc5967e72a",
+      "headline": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 20:57",
+      "dt_iso": "2026-10-30T23:57:00+00:00",
+      "summary": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "57fe68daff",
+      "headline": "Loja da C&A no Lajeado Shopping tem inauguração prevista para o início de dezembro - Rádio Independente",
+      "source": "Independente",
+      "link": "https://www.independente.com.br",
+      "time": "hoje, 16:01",
+      "dt_iso": "2026-10-30T19:01:00+00:00",
+      "summary": "Loja da C&amp;A no Lajeado Shopping tem inauguração prevista para o início de dezembro &nbsp;&nbsp; Rádio Independente",
       "category": "expansao",
       "keywords": [
-        "centro de distribuição",
+        "c&a",
         "inaugura",
         "inauguração"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Expansão"
       ]
@@ -189,41 +228,22 @@
       ]
     },
     {
-      "id": "fa6bc0caac",
-      "headline": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores - Olhar Direto",
-      "source": "Olhardireto",
-      "link": "https://www.olhardireto.com.br",
-      "time": "hoje, 09:29",
-      "dt_iso": "2026-10-30T12:29:00+00:00",
-      "summary": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores &nbsp;&nbsp; Olhar Direto",
+      "id": "e422e8ec0b",
+      "headline": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico - HiperNotícias - Você bem informado",
+      "source": "Hnt",
+      "link": "https://www.hnt.com.br",
+      "time": "ontem, 09:35",
+      "dt_iso": "2026-10-30T12:35:00+00:00",
+      "summary": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico &nbsp;&nbsp; HiperNotícias - Você bem informado",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "galpão"
+        "centro de distribuição"
       ],
       "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "342aac00d4",
-      "headline": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá - Sobral em Revista",
-      "source": "Sobralemrevista",
-      "link": "https://sobralemrevista.com.br",
-      "time": "24/10 às 11:02",
-      "dt_iso": "2026-10-24T14:02:58+00:00",
-      "summary": "RJ Distribuidora avança na expansão e anuncia futuro centro de distribuição em Quixadá &nbsp;&nbsp; Sobral em Revista",
-      "category": "expansao",
-      "keywords": [
-        "centro de distribuição",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -284,25 +304,6 @@
       ]
     },
     {
-      "id": "175c7b2219",
-      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Gazeta da Semana",
-      "source": "Gazetadasemana",
-      "link": "https://gazetadasemana.com.br",
-      "time": "26/10 às 15:26",
-      "dt_iso": "2026-10-26T18:26:33+00:00",
-      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Gazeta da Semana",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "acdb5b649f",
       "headline": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&C na avenida Guarulhos - Click Guarulhos",
       "source": "Clickguarulhos",
@@ -319,6 +320,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "6260552d44",
+      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "27/10 às 15:22",
+      "dt_iso": "2026-10-27T18:22:45+00:00",
+      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -341,11 +361,30 @@
       ]
     },
     {
+      "id": "175c7b2219",
+      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Notícia Já",
+      "source": "Noticiaja",
+      "link": "https://www.noticiaja.com",
+      "time": "26/10 às 16:48",
+      "dt_iso": "2026-10-26T19:48:14+00:00",
+      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Notícia Já",
+      "category": "logistica",
+      "keywords": [
+        "operação logística",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "ef8b55df05",
       "headline": "Mercado Livre inaugura polo e soma 2,3 mil empregos - Portal ABC do ABC",
       "source": "Abcdoabc",
       "link": "https://www.abcdoabc.com.br",
-      "time": "hoje, 20:05",
+      "time": "ontem, 20:05",
       "dt_iso": "2026-10-29T23:05:30+00:00",
       "summary": "Mercado Livre inaugura polo e soma 2,3 mil empregos &nbsp;&nbsp; Portal ABC do ABC",
       "category": "ecommerce",
@@ -355,25 +394,6 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "6260552d44",
-      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "27/10 às 15:22",
-      "dt_iso": "2026-10-27T18:22:45+00:00",
-      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "E-commerce"
       ]
@@ -440,7 +460,7 @@
       "headline": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% - Guia da Cerveja",
       "source": "Guiadacervejabr",
       "link": "https://guiadacervejabr.com",
-      "time": "hoje, 07:09",
+      "time": "ontem, 07:09",
       "dt_iso": "2026-10-30T10:09:15+00:00",
       "summary": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% &nbsp;&nbsp; Guia da Cerveja",
       "category": "logistica",
