@@ -1,6 +1,6 @@
 {
-  "gerado_em": "31/10/2026 às 16:42",
-  "total": 23,
+  "gerado_em": "01/11/2026 às 12:31",
+  "total": 24,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
@@ -29,7 +29,7 @@
       "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
       "source": "Buildings",
       "link": "https://revista.buildings.com.br",
-      "time": "ontem, 11:40",
+      "time": "30/10 às 11:40",
       "dt_iso": "2026-10-30T14:40:47+00:00",
       "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
       "category": "expansao",
@@ -114,8 +114,8 @@
       "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
       "source": "Ne9",
       "link": "https://ne9.com.br",
-      "time": "hoje, 07:20",
-      "dt_iso": "2026-10-31T10:20:59+00:00",
+      "time": "ontem, 07:13",
+      "dt_iso": "2026-10-31T10:13:48+00:00",
       "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; Portal NE9",
       "category": "ecommerce",
       "keywords": [
@@ -133,7 +133,7 @@
       "headline": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 20:57",
+      "time": "ontem, 20:57",
       "dt_iso": "2026-10-30T23:57:00+00:00",
       "summary": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
@@ -148,43 +148,43 @@
       ]
     },
     {
-      "id": "89163dc3e4",
-      "headline": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André - Repórter Diário",
-      "source": "Reporterdiario",
-      "link": "https://www.reporterdiario.com.br",
-      "time": "27/10 às 19:52",
-      "dt_iso": "2026-10-27T22:52:23+00:00",
-      "summary": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André &nbsp;&nbsp; Repórter Diário",
+      "id": "6dab0aeb49",
+      "headline": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição - Guarulhos em Destaque",
+      "source": "Guarulhosemdestaque",
+      "link": "https://guarulhosemdestaque.com.br",
+      "time": "25/10 às 14:51",
+      "dt_iso": "2026-10-25T17:51:28+00:00",
+      "summary": "Guarulhos fortalece potencial logístico com inauguração de mais um centro de distribuição &nbsp;&nbsp; Guarulhos em Destaque",
       "category": "expansao",
       "keywords": [
-        "assaí",
+        "centro de distribuição",
         "inaugura",
-        "nova unidade"
+        "inauguração"
       ],
       "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Santo André.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
         "Expansão"
       ]
     },
     {
-      "id": "57fe68daff",
-      "headline": "Loja da C&A no Lajeado Shopping tem inauguração prevista para o início de dezembro - Rádio Independente",
-      "source": "Independente",
-      "link": "https://www.independente.com.br",
-      "time": "ontem, 16:01",
-      "dt_iso": "2026-10-30T19:01:00+00:00",
-      "summary": "Loja da C&amp;A no Lajeado Shopping tem inauguração prevista para o início de dezembro &nbsp;&nbsp; Rádio Independente",
-      "category": "expansao",
+      "id": "1adf127e9e",
+      "headline": "Novo supermercado será inaugurado no prédio da antiga C&C na Dutra em Guarulhos - GuarulhosWeb",
+      "source": "Guarulhosweb",
+      "link": "https://guarulhosweb.com.br",
+      "time": "27/10 às 17:34",
+      "dt_iso": "2026-10-27T20:34:43+00:00",
+      "summary": "Novo supermercado será inaugurado no prédio da antiga C&amp;C na Dutra em Guarulhos &nbsp;&nbsp; GuarulhosWeb",
+      "category": "logistica",
       "keywords": [
         "c&a",
         "inaugura",
-        "inauguração"
+        "inaugurado"
       ],
       "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -208,20 +208,20 @@
       ]
     },
     {
-      "id": "e422e8ec0b",
-      "headline": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico - HiperNotícias - Você bem informado",
-      "source": "Hnt",
-      "link": "https://www.hnt.com.br",
-      "time": "ontem, 09:35",
-      "dt_iso": "2026-10-30T12:35:00+00:00",
-      "summary": "Bombeiros evacuam centro de distribuição do Mercado Livre após vazamento de produto químico &nbsp;&nbsp; HiperNotícias - Você bem informado",
+      "id": "fa6bc0caac",
+      "headline": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores - Olhar Direto",
+      "source": "Olhardireto",
+      "link": "https://www.olhardireto.com.br",
+      "time": "30/10 às 09:29",
+      "dt_iso": "2026-10-30T12:29:00+00:00",
+      "summary": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores &nbsp;&nbsp; Olhar Direto",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
-        "centro de distribuição"
+        "galpão"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
       ]
@@ -341,6 +341,25 @@
       ]
     },
     {
+      "id": "30797fc585",
+      "headline": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações - Gazeta da Semana",
+      "source": "Gazetadasemana",
+      "link": "https://gazetadasemana.com.br",
+      "time": "30/10 às 12:26",
+      "dt_iso": "2026-10-30T15:26:47+00:00",
+      "summary": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações &nbsp;&nbsp; Gazeta da Semana",
+      "category": "expansao",
+      "keywords": [
+        "condomínios logísticos",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "01236b0d93",
       "headline": "Galpões logísticos crescem no Paraná com avanço do e-commerce - Paranashop",
       "source": "Paranashop",
@@ -363,8 +382,8 @@
       "id": "ef8b55df05",
       "headline": "Mercado Livre inaugura polo e soma 2,3 mil empregos - Portal ABC do ABC",
       "source": "Abcdoabc",
-      "link": "https://www.abcdoabc.com.br",
-      "time": "ontem, 20:05",
+      "link": "https://abcdoabc.com.br",
+      "time": "29/10 às 20:05",
       "dt_iso": "2026-10-29T23:05:30+00:00",
       "summary": "Mercado Livre inaugura polo e soma 2,3 mil empregos &nbsp;&nbsp; Portal ABC do ABC",
       "category": "ecommerce",
@@ -440,7 +459,7 @@
       "headline": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% - Guia da Cerveja",
       "source": "Guiadacervejabr",
       "link": "https://guiadacervejabr.com",
-      "time": "ontem, 07:09",
+      "time": "30/10 às 07:09",
       "dt_iso": "2026-10-30T10:09:15+00:00",
       "summary": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% &nbsp;&nbsp; Guia da Cerveja",
       "category": "logistica",
