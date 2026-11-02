@@ -1,6 +1,6 @@
 {
-  "gerado_em": "01/11/2026 às 17:08",
-  "total": 25,
+  "gerado_em": "02/11/2026 às 15:54",
+  "total": 26,
   "noticias": [
     {
       "id": "1cb7cf3fdb",
@@ -114,7 +114,7 @@
       "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
       "source": "Ne9",
       "link": "https://ne9.com.br",
-      "time": "ontem, 07:13",
+      "time": "31/10 às 07:13",
       "dt_iso": "2026-10-31T10:13:48+00:00",
       "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; Portal NE9",
       "category": "ecommerce",
@@ -133,7 +133,7 @@
       "headline": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 20:57",
+      "time": "30/10 às 20:57",
       "dt_iso": "2026-10-30T23:57:00+00:00",
       "summary": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
@@ -148,43 +148,23 @@
       ]
     },
     {
-      "id": "89163dc3e4",
-      "headline": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André - Repórter Diário",
-      "source": "Reporterdiario",
-      "link": "https://www.reporterdiario.com.br",
-      "time": "27/10 às 19:52",
-      "dt_iso": "2026-10-27T22:52:23+00:00",
-      "summary": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André &nbsp;&nbsp; Repórter Diário",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "inaugura",
-        "nova unidade"
-      ],
-      "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Santo André.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "57fe68daff",
-      "headline": "Loja da C&A no Lajeado Shopping tem inauguração prevista para o início de dezembro - Rádio Independente",
-      "source": "Independente",
-      "link": "https://www.independente.com.br",
-      "time": "30/10 às 16:01",
-      "dt_iso": "2026-10-30T19:01:00+00:00",
-      "summary": "Loja da C&amp;A no Lajeado Shopping tem inauguração prevista para o início de dezembro &nbsp;&nbsp; Rádio Independente",
-      "category": "expansao",
+      "id": "1adf127e9e",
+      "headline": "Novo supermercado será inaugurado no prédio da antiga C&C na Dutra em Guarulhos - GuarulhosWeb",
+      "source": "Guarulhosweb",
+      "link": "https://guarulhosweb.com.br",
+      "time": "27/10 às 17:34",
+      "dt_iso": "2026-10-27T20:34:43+00:00",
+      "summary": "Novo supermercado será inaugurado no prédio da antiga C&amp;C na Dutra em Guarulhos &nbsp;&nbsp; GuarulhosWeb",
+      "category": "logistica",
       "keywords": [
         "c&a",
         "inaugura",
-        "inauguração"
+        "inaugurado"
       ],
       "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
-        "Expansão"
+        "Logística"
       ]
     },
     {
@@ -246,44 +226,6 @@
       ]
     },
     {
-      "id": "c78324f1ab",
-      "headline": "Geek+ e Seal Sistemas firmam parceria para ampliar automação de armazéns no Brasil - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "26/10 às 09:42",
-      "dt_iso": "2026-10-26T12:42:32+00:00",
-      "summary": "Geek+ e Seal Sistemas firmam parceria para ampliar automação de armazéns no Brasil &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "armazéns",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "aec54398dc",
-      "headline": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "26/10 às 12:35",
-      "dt_iso": "2026-10-26T15:35:29+00:00",
-      "summary": "Americanas abre mais de 3.700 vagas temporárias para a Black Friday &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "americanas",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "acdb5b649f",
       "headline": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&C na avenida Guarulhos - Click Guarulhos",
       "source": "Clickguarulhos",
@@ -303,22 +245,22 @@
       ]
     },
     {
-      "id": "6260552d44",
-      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "27/10 às 15:22",
-      "dt_iso": "2026-10-27T18:22:45+00:00",
-      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
+      "id": "85127ff3b5",
+      "headline": "Mercado de portões industriais até 2035: automação de armazéns e demanda logística impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "hoje, 19:16",
+      "dt_iso": "2026-11-01T22:16:03+00:00",
+      "summary": "Mercado de portões industriais até 2035: automação de armazéns e demanda logística impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "logistica",
       "keywords": [
-        "shopee",
-        "amplia"
+        "armazéns",
+        "crescimento"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -341,11 +283,49 @@
       ]
     },
     {
+      "id": "e9eab56fbf",
+      "headline": "Espírito Santo pode atrair R$ 5 bilhões e mais de 100 empresas em nova expansão logística que já multiplicou por dez a área de galpões - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 23:36",
+      "dt_iso": "2026-11-02T02:36:00+00:00",
+      "summary": "Espírito Santo pode atrair R$ 5 bilhões e mais de 100 empresas em nova expansão logística que já multiplicou por dez a área de galpões &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "ed70a4c7f6",
+      "headline": "Mercado de Edifícios de Armazenagem até 2035: demanda da logística do comércio eletrônico impulsiona expansão - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "hoje, 01:01",
+      "dt_iso": "2026-11-02T04:01:04+00:00",
+      "summary": "Mercado de Edifícios de Armazenagem até 2035: demanda da logística do comércio eletrônico impulsiona expansão - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "expansao",
+      "keywords": [
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "52afa3cc43",
       "headline": "Mercado de sistemas de prateleiras deve crescer até 2035 com automação de armazéns e logística do comércio eletrônico - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "hoje, 14:06",
+      "time": "ontem, 14:06",
       "dt_iso": "2026-11-01T17:06:04+00:00",
       "summary": "Mercado de sistemas de prateleiras deve crescer até 2035 com automação de armazéns e logística do comércio eletrônico - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
@@ -417,22 +397,41 @@
       ]
     },
     {
-      "id": "8820f960f4",
-      "headline": "Época Cosméticos inaugura primeiro outlet em megaloja do Magalu em SP - Mercado&Consumo",
-      "source": "Mercadoeconsumo",
-      "link": "https://mercadoeconsumo.com.br",
-      "time": "26/10 às 03:01",
-      "dt_iso": "2026-10-26T06:01:44+00:00",
-      "summary": "Época Cosméticos inaugura primeiro outlet em megaloja do Magalu em SP &nbsp;&nbsp; Mercado&amp;Consumo",
-      "category": "logistica",
+      "id": "3c7b2ef68c",
+      "headline": "Mercado Livre inaugura centro logístico e prevê 500 vagas em São Bernardo - Repórter Diário",
+      "source": "Reporterdiario",
+      "link": "https://www.reporterdiario.com.br",
+      "time": "29/10 às 22:32",
+      "dt_iso": "2026-10-30T01:32:29+00:00",
+      "summary": "Mercado Livre inaugura centro logístico e prevê 500 vagas em São Bernardo &nbsp;&nbsp; Repórter Diário",
+      "category": "ecommerce",
       "keywords": [
-        "magalu",
+        "mercado livre",
         "inaugura"
       ],
       "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa. Região(ões) mencionada(s): São Bernardo.",
       "badges": [
-        "Logística"
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "6260552d44",
+      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "27/10 às 15:22",
+      "dt_iso": "2026-10-27T18:22:45+00:00",
+      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -488,6 +487,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "9fcecda7cd",
+      "headline": "Enquanto Ascenty amplia capacidade de IA, Digital Realty bate recorde de leasing - BNamericas",
+      "source": "Bnamericas",
+      "link": "https://www.bnamericas.com",
+      "time": "30/10 às 14:51",
+      "dt_iso": "2026-10-30T17:51:20+00:00",
+      "summary": "Enquanto Ascenty amplia capacidade de IA, Digital Realty bate recorde de leasing &nbsp;&nbsp; BNamericas",
+      "category": "logistica",
+      "keywords": [
+        "ascenty",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
