@@ -1,29 +1,7 @@
 {
-  "gerado_em": "02/11/2026 às 15:54",
-  "total": 26,
+  "gerado_em": "02/11/2026 às 20:18",
+  "total": 27,
   "noticias": [
-    {
-      "id": "1cb7cf3fdb",
-      "headline": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país - Movimento Econômico",
-      "source": "Movimentoeconomico",
-      "link": "https://movimentoeconomico.com.br",
-      "time": "28/10 às 14:39",
-      "dt_iso": "2026-10-28T17:39:43+00:00",
-      "summary": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país &nbsp;&nbsp; Movimento Econômico",
-      "category": "expansao",
-      "keywords": [
-        "shopee",
-        "galpões",
-        "expansão",
-        "novo cd"
-      ],
-      "score": 9,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Expansão"
-      ]
-    },
     {
       "id": "50e2551132",
       "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
@@ -43,6 +21,28 @@
       "score": 9,
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
       "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "1cb7cf3fdb",
+      "headline": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país - Movimento Econômico",
+      "source": "Movimentoeconomico",
+      "link": "https://movimentoeconomico.com.br",
+      "time": "28/10 às 14:39",
+      "dt_iso": "2026-10-28T17:39:43+00:00",
+      "summary": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país &nbsp;&nbsp; Movimento Econômico",
+      "category": "expansao",
+      "keywords": [
+        "shopee",
+        "galpões",
+        "expansão",
+        "novo cd"
+      ],
+      "score": 9,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
         "Expansão"
       ]
     },
@@ -89,46 +89,6 @@
       ]
     },
     {
-      "id": "7506441bd0",
-      "headline": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil - Startups",
-      "source": "Startups",
-      "link": "https://startups.com.br",
-      "time": "27/10 às 15:04",
-      "dt_iso": "2026-10-27T18:04:02+00:00",
-      "summary": "Shopee amplia logística e investe em entregas rápidas para crescer no Brasil &nbsp;&nbsp; Startups",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "amplia",
-        "investe",
-        "cresce"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7b4462d962",
-      "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
-      "source": "Ne9",
-      "link": "https://ne9.com.br",
-      "time": "31/10 às 07:13",
-      "dt_iso": "2026-10-31T10:13:48+00:00",
-      "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; Portal NE9",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "fc5967e72a",
       "headline": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
@@ -165,6 +125,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "7b4462d962",
+      "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
+      "source": "Ne9",
+      "link": "https://ne9.com.br",
+      "time": "31/10 às 07:13",
+      "dt_iso": "2026-10-31T10:13:48+00:00",
+      "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; Portal NE9",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -249,7 +228,7 @@
       "headline": "Mercado de portões industriais até 2035: automação de armazéns e demanda logística impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "hoje, 19:16",
+      "time": "ontem, 19:16",
       "dt_iso": "2026-11-01T22:16:03+00:00",
       "summary": "Mercado de portões industriais até 2035: automação de armazéns e demanda logística impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
@@ -280,6 +259,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "6260552d44",
+      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
+      "source": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br",
+      "time": "27/10 às 15:22",
+      "dt_iso": "2026-10-27T18:22:45+00:00",
+      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -340,6 +338,44 @@
       ]
     },
     {
+      "id": "2da8f1c2ea",
+      "headline": "Mercado de armazenagem drive-in até 2035: demanda da cadeia de frio e otimização de espaço impulsionam a expansão - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "31/10 às 13:31",
+      "dt_iso": "2026-10-31T16:31:04+00:00",
+      "summary": "Mercado de armazenagem drive-in até 2035: demanda da cadeia de frio e otimização de espaço impulsionam a expansão - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "expansao",
+      "keywords": [
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "48d3474364",
+      "headline": "Shopee amplia capacidade logística em 60% e aguarda regulamentação da Anvisa para vender medicamentos - Surgiu",
+      "source": "Surgiu",
+      "link": "https://surgiu.com.br",
+      "time": "27/10 às 17:11",
+      "dt_iso": "2026-10-27T20:11:00+00:00",
+      "summary": "Shopee amplia capacidade logística em 60% e aguarda regulamentação da Anvisa para vender medicamentos &nbsp;&nbsp; Surgiu",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "01236b0d93",
       "headline": "Galpões logísticos crescem no Paraná com avanço do e-commerce - Paranashop",
       "source": "Paranashop",
@@ -356,25 +392,6 @@
       "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "175c7b2219",
-      "headline": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes - Notícia Já",
-      "source": "Noticiaja",
-      "link": "https://www.noticiaja.com",
-      "time": "26/10 às 16:48",
-      "dt_iso": "2026-10-26T19:48:14+00:00",
-      "summary": "LMX Logística abre 25 vagas para operação logística dos produtos Soprano em Navegantes &nbsp;&nbsp; Notícia Já",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -416,20 +433,20 @@
       ]
     },
     {
-      "id": "6260552d44",
-      "headline": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "27/10 às 15:22",
-      "dt_iso": "2026-10-27T18:22:45+00:00",
-      "summary": "Shopee amplia capacidade em 60% e aguarda Anvisa para vender medicamentos &nbsp;&nbsp; CNN Brasil",
+      "id": "1afb00ce27",
+      "headline": "Shopee abre temporada com R$ 50 milhões em cupons entre 11.11 e Black Friday no Brasil - BPMoney",
+      "source": "Bpmoney",
+      "link": "https://bpmoney.com.br",
+      "time": "27/10 às 15:45",
+      "dt_iso": "2026-10-27T18:45:52+00:00",
+      "summary": "Shopee abre temporada com R$ 50 milhões em cupons entre 11.11 e Black Friday no Brasil &nbsp;&nbsp; BPMoney",
       "category": "ecommerce",
       "keywords": [
         "shopee",
-        "amplia"
+        "abre"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
       ]
