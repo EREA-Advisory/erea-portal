@@ -1,29 +1,7 @@
 {
-  "gerado_em": "03/11/2026 às 18:29",
-  "total": 25,
+  "gerado_em": "04/11/2026 às 13:39",
+  "total": 17,
   "noticias": [
-    {
-      "id": "50e2551132",
-      "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
-      "source": "Buildings",
-      "link": "https://revista.buildings.com.br",
-      "time": "30/10 às 11:40",
-      "dt_iso": "2026-10-30T14:40:47+00:00",
-      "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão",
-        "amplia",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 9,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
-      "badges": [
-        "Expansão"
-      ]
-    },
     {
       "id": "1cb7cf3fdb",
       "headline": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país - Movimento Econômico",
@@ -47,45 +25,25 @@
       ]
     },
     {
-      "id": "ce79711fe2",
-      "headline": "Shopee inaugura 4 centros de distribuição e se prepara para Black Friday e 11.11 - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "28/10 às 12:00",
-      "dt_iso": "2026-10-28T15:00:49+00:00",
-      "summary": "Shopee inaugura 4 centros de distribuição e se prepara para Black Friday e 11.11 &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
+      "id": "50e2551132",
+      "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
+      "source": "Buildings",
+      "link": "https://revista.buildings.com.br",
+      "time": "30/10 às 11:40",
+      "dt_iso": "2026-10-30T14:40:47+00:00",
+      "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
+      "category": "expansao",
       "keywords": [
-        "shopee",
-        "centros de distribuição",
-        "inaugura"
+        "galpões",
+        "expansão",
+        "amplia",
+        "investimento",
+        "investimentos"
       ],
-      "score": 8,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "score": 9,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
       "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "6621038420",
-      "headline": "Shopee amplia capacidade em 60% e chega a 30 centros de distribuição no Brasil - Portal IN - Pompeu Vasconcelos - Balada IN",
-      "source": "Portalin",
-      "link": "https://www.portalin.com.br",
-      "time": "28/10 às 10:55",
-      "dt_iso": "2026-10-28T13:55:00+00:00",
-      "summary": "Shopee amplia capacidade em 60% e chega a 30 centros de distribuição no Brasil - Portal IN - Pompeu Vasconcelos &nbsp;&nbsp; Balada IN",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "centros de distribuição",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
+        "Expansão"
       ]
     },
     {
@@ -93,7 +51,7 @@
       "headline": "Tegma aprova R$ 52 milhões em investimentos para ampliar operações logísticas até 2027 - ADVFN",
       "source": "Google News",
       "link": "https://br.advfn.com",
-      "time": "hoje, 08:44",
+      "time": "ontem, 08:44",
       "dt_iso": "2026-11-03T11:44:12+00:00",
       "summary": "Tegma aprova R$ 52 milhões em investimentos para ampliar operações logísticas até 2027 &nbsp;&nbsp; ADVFN",
       "category": "logistica",
@@ -110,24 +68,22 @@
       ]
     },
     {
-      "id": "4b936f83eb",
-      "headline": "Shopee abre 4 centros de distribuição no Brasil e libera R$ 50 milhões em cupons - A TARDE",
-      "source": "Atarde",
-      "link": "https://atarde.com.br",
-      "time": "27/10 às 18:31",
-      "dt_iso": "2026-10-27T21:31:58+00:00",
-      "summary": "Shopee abre 4 centros de distribuição no Brasil e libera R$ 50 milhões em cupons &nbsp;&nbsp; A TARDE",
-      "category": "ecommerce",
+      "id": "832794eb1b",
+      "headline": "Mercado Livre chega a 3,8 mi de m² em galpões logísticos - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 11:22",
+      "dt_iso": "2026-11-04T14:22:51+00:00",
+      "summary": "Mercado Livre chega a 3,8 mi de m² em galpões logísticos &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
       "keywords": [
-        "shopee",
-        "centros de distribuição",
-        "abre"
+        "mercado livre",
+        "galpões"
       ],
-      "score": 8,
+      "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
-        "Destaque",
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -150,26 +106,6 @@
       ]
     },
     {
-      "id": "89163dc3e4",
-      "headline": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André - Repórter Diário",
-      "source": "Reporterdiario",
-      "link": "https://www.reporterdiario.com.br",
-      "time": "27/10 às 19:52",
-      "dt_iso": "2026-10-27T22:52:23+00:00",
-      "summary": "Assaí Farma inaugura nova unidade no Jardim Utinga em Santo André &nbsp;&nbsp; Repórter Diário",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "inaugura",
-        "nova unidade"
-      ],
-      "score": 7,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Santo André.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "7b4462d962",
       "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
       "source": "Ne9",
@@ -186,6 +122,26 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "412f8faa36",
+      "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
+      "source": "UOL",
+      "link": "https://jc.uol.com.br",
+      "time": "hoje, 06:37",
+      "dt_iso": "2026-11-04T09:37:06+00:00",
+      "summary": "Shopee expande rede logística com novo CD em Pernambuco &nbsp;&nbsp; JC",
+      "category": "expansao",
+      "keywords": [
+        "shopee",
+        "expande",
+        "novo cd"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -228,20 +184,20 @@
       ]
     },
     {
-      "id": "acdb5b649f",
-      "headline": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&C na avenida Guarulhos - Click Guarulhos",
-      "source": "Clickguarulhos",
-      "link": "https://www.clickguarulhos.com.br",
-      "time": "28/10 às 11:53",
-      "dt_iso": "2026-10-28T14:53:36+00:00",
-      "summary": "X Supermercados inaugura na sexta-feira sua 21ª loja no local onde era a C&amp;C na avenida Guarulhos &nbsp;&nbsp; Click Guarulhos",
+      "id": "1c91f62732",
+      "headline": "GGRC11 vende 10 galpões ao SNIM por R$ 530 milhões e prevê lucro de R$ 0,22 por cota - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "hoje, 18:32",
+      "dt_iso": "2026-11-03T21:32:52+00:00",
+      "summary": "GGRC11 vende 10 galpões ao SNIM por R$ 530 milhões e prevê lucro de R$ 0,22 por cota &nbsp;&nbsp; melhorinvestimento.net",
       "category": "logistica",
       "keywords": [
-        "c&a",
-        "inaugura"
+        "galpões",
+        "investimento"
       ],
       "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Guarulhos.",
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -251,7 +207,7 @@
       "headline": "Mercado de portões industriais até 2035: automação de armazéns e demanda logística impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "ontem, 19:16",
+      "time": "01/11 às 19:16",
       "dt_iso": "2026-11-01T22:16:03+00:00",
       "summary": "Mercado de portões industriais até 2035: automação de armazéns e demanda logística impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
@@ -267,12 +223,12 @@
     },
     {
       "id": "30797fc585",
-      "headline": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações - Gazeta da Semana",
-      "source": "Gazetadasemana",
-      "link": "https://gazetadasemana.com.br",
+      "headline": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações - Portal Revista Kdea 360",
+      "source": "Revistakdea360",
+      "link": "https://revistakdea360.com.br",
       "time": "30/10 às 12:26",
       "dt_iso": "2026-10-30T15:26:47+00:00",
-      "summary": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações &nbsp;&nbsp; Gazeta da Semana",
+      "summary": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações &nbsp;&nbsp; Portal Revista Kdea 360",
       "category": "expansao",
       "keywords": [
         "condomínios logísticos",
@@ -289,7 +245,7 @@
       "headline": "Espírito Santo pode atrair R$ 5 bilhões e mais de 100 empresas em nova expansão logística que já multiplicou por dez a área de galpões - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 23:36",
+      "time": "01/11 às 23:36",
       "dt_iso": "2026-11-02T02:36:00+00:00",
       "summary": "Espírito Santo pode atrair R$ 5 bilhões e mais de 100 empresas em nova expansão logística que já multiplicou por dez a área de galpões &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "expansao",
@@ -301,101 +257,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "2106e54bf8",
-      "headline": "Shopee mira medicamentos e amplia sua logística em 60% no Brasil - Panorama Farmacêutico",
-      "source": "Panoramafarmaceutico",
-      "link": "https://panoramafarmaceutico.com.br",
-      "time": "29/10 às 15:00",
-      "dt_iso": "2026-10-29T18:00:00+00:00",
-      "summary": "Shopee mira medicamentos e amplia sua logística em 60% no Brasil &nbsp;&nbsp; Panorama Farmacêutico",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "52afa3cc43",
-      "headline": "Mercado de sistemas de prateleiras deve crescer até 2035 com automação de armazéns e logística do comércio eletrônico - Notícias e Estatísticas - IndexBox",
-      "source": "Indexbox",
-      "link": "https://www.indexbox.io",
-      "time": "01/11 às 14:06",
-      "dt_iso": "2026-11-01T17:06:04+00:00",
-      "summary": "Mercado de sistemas de prateleiras deve crescer até 2035 com automação de armazéns e logística do comércio eletrônico - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
-      "category": "logistica",
-      "keywords": [
-        "armazéns",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "2da8f1c2ea",
-      "headline": "Mercado de armazenagem drive-in até 2035: demanda da cadeia de frio e otimização de espaço impulsionam a expansão - Notícias e Estatísticas - IndexBox",
-      "source": "Indexbox",
-      "link": "https://www.indexbox.io",
-      "time": "31/10 às 13:31",
-      "dt_iso": "2026-10-31T16:31:04+00:00",
-      "summary": "Mercado de armazenagem drive-in até 2035: demanda da cadeia de frio e otimização de espaço impulsionam a expansão - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
-      "category": "expansao",
-      "keywords": [
-        "armazenagem",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "01236b0d93",
-      "headline": "Galpões logísticos crescem no Paraná com avanço do e-commerce - Paranashop",
-      "source": "Paranashop",
-      "link": "https://www.paranashop.com.br",
-      "time": "28/10 às 03:00",
-      "dt_iso": "2026-10-28T06:00:00+00:00",
-      "summary": "Galpões logísticos crescem no Paraná com avanço do e-commerce &nbsp;&nbsp; Paranashop",
-      "category": "ecommerce",
-      "keywords": [
-        "galpões",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "ef8b55df05",
-      "headline": "Mercado Livre inaugura polo e soma 2,3 mil empregos - Portal ABC do ABC",
-      "source": "Abcdoabc",
-      "link": "https://www.abcdoabc.com.br",
-      "time": "29/10 às 20:05",
-      "dt_iso": "2026-10-29T23:05:30+00:00",
-      "summary": "Mercado Livre inaugura polo e soma 2,3 mil empregos &nbsp;&nbsp; Portal ABC do ABC",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -418,39 +279,20 @@
       ]
     },
     {
-      "id": "9ed2574457",
-      "headline": "Heineken volta a crescer no Brasil e vê reação do mercado de cerveja no país - Guia da Cerveja",
-      "source": "Guiadacervejabr",
-      "link": "https://guiadacervejabr.com",
-      "time": "28/10 às 10:32",
-      "dt_iso": "2026-10-28T13:32:13+00:00",
-      "summary": "Heineken volta a crescer no Brasil e vê reação do mercado de cerveja no país &nbsp;&nbsp; Guia da Cerveja",
+      "id": "da80a719ee",
+      "headline": "O paradoxo dos galpões: aluguel sobe 25%, mas cotas dos FIIs de logística recuam - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "hoje, 05:01",
+      "dt_iso": "2026-11-04T08:01:19+00:00",
+      "summary": "O paradoxo dos galpões: aluguel sobe 25%, mas cotas dos FIIs de logística recuam &nbsp;&nbsp; Exame",
       "category": "logistica",
       "keywords": [
-        "heineken",
-        "cresce"
+        "galpões",
+        "aluguel"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "eb3becd192",
-      "headline": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos - InvestNews",
-      "source": "InvestNews",
-      "link": "https://investnews.com.br",
-      "time": "28/10 às 12:07",
-      "dt_iso": "2026-10-28T15:07:40+00:00",
-      "summary": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos &nbsp;&nbsp; InvestNews",
-      "category": "logistica",
-      "keywords": [
-        "heineken",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
         "Logística"
       ]
