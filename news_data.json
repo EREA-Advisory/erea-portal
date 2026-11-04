@@ -1,29 +1,7 @@
 {
-  "gerado_em": "04/11/2026 às 13:39",
-  "total": 17,
+  "gerado_em": "04/11/2026 às 18:43",
+  "total": 18,
   "noticias": [
-    {
-      "id": "1cb7cf3fdb",
-      "headline": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país - Movimento Econômico",
-      "source": "Movimentoeconomico",
-      "link": "https://movimentoeconomico.com.br",
-      "time": "28/10 às 14:39",
-      "dt_iso": "2026-10-28T17:39:43+00:00",
-      "summary": "Pernambuco ganha novo CD da Shopee na expansão que leva rede a 30 galpões no país &nbsp;&nbsp; Movimento Econômico",
-      "category": "expansao",
-      "keywords": [
-        "shopee",
-        "galpões",
-        "expansão",
-        "novo cd"
-      ],
-      "score": 9,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Expansão"
-      ]
-    },
     {
       "id": "50e2551132",
       "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
@@ -44,6 +22,27 @@
       "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "bc0aa90f72",
+      "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - MundoLogística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 16:25",
+      "dt_iso": "2026-11-04T19:25:28+00:00",
+      "summary": "Unilever inaugura hub logístico automatizado em Itupeva (SP) &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "unilever",
+        "hub logístico",
+        "inaugura"
+      ],
+      "score": 8,
+      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Destaque",
+        "Logística"
       ]
     },
     {
@@ -68,13 +67,13 @@
       ]
     },
     {
-      "id": "832794eb1b",
-      "headline": "Mercado Livre chega a 3,8 mi de m² em galpões logísticos - Mundo Logística",
+      "id": "240f836150",
+      "headline": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "hoje, 11:22",
       "dt_iso": "2026-11-04T14:22:51+00:00",
-      "summary": "Mercado Livre chega a 3,8 mi de m² em galpões logísticos &nbsp;&nbsp; Mundo Logística",
+      "summary": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos &nbsp;&nbsp; MundoLogística",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -125,26 +124,6 @@
       ]
     },
     {
-      "id": "412f8faa36",
-      "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
-      "source": "UOL",
-      "link": "https://jc.uol.com.br",
-      "time": "hoje, 06:37",
-      "dt_iso": "2026-11-04T09:37:06+00:00",
-      "summary": "Shopee expande rede logística com novo CD em Pernambuco &nbsp;&nbsp; JC",
-      "category": "expansao",
-      "keywords": [
-        "shopee",
-        "expande",
-        "novo cd"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "a7eef6eb81",
       "headline": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline - TNOnline",
       "source": "UOL",
@@ -184,20 +163,59 @@
       ]
     },
     {
-      "id": "1c91f62732",
-      "headline": "GGRC11 vende 10 galpões ao SNIM por R$ 530 milhões e prevê lucro de R$ 0,22 por cota - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "hoje, 18:32",
-      "dt_iso": "2026-11-03T21:32:52+00:00",
-      "summary": "GGRC11 vende 10 galpões ao SNIM por R$ 530 milhões e prevê lucro de R$ 0,22 por cota &nbsp;&nbsp; melhorinvestimento.net",
-      "category": "logistica",
+      "id": "412f8faa36",
+      "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
+      "source": "UOL",
+      "link": "https://jc.uol.com.br",
+      "time": "hoje, 06:37",
+      "dt_iso": "2026-11-04T09:37:06+00:00",
+      "summary": "Shopee expande rede logística com novo CD em Pernambuco &nbsp;&nbsp; JC",
+      "category": "expansao",
       "keywords": [
-        "galpões",
-        "investimento"
+        "shopee",
+        "expande",
+        "novo cd"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "75bc9c1f62",
+      "headline": "Mercado Livre lucra US$ 448 milhões no 3º tri, mas margem volta a cair",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/mercado-livre-lucra-us-448-milhoes-no-3o-tri-mas-margem-volta-a-cair/",
+      "time": "hoje, 15:33",
+      "dt_iso": "2026-11-04T18:33:50+00:00",
+      "summary": "Descontos a vendedores, frete grátis e expansão logística encarecem a operação; ação cai 7% no 'after market'",
+      "category": "expansao",
+      "keywords": [
+        "mercado livre",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "e072dca885",
+      "headline": "Ultracargo amplia sua capacidade de armazenagem em Suape - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 08:38",
+      "dt_iso": "2026-11-04T11:38:00+00:00",
+      "summary": "Ultracargo amplia sua capacidade de armazenagem em Suape &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
