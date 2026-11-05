@@ -1,0 +1,394 @@
+{
+  "gerado_em": "05/11/2026 às 13:54",
+  "total": 20,
+  "noticias": [
+    {
+      "id": "50e2551132",
+      "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
+      "source": "Buildings",
+      "link": "https://revista.buildings.com.br",
+      "time": "30/10 às 11:40",
+      "dt_iso": "2026-10-30T14:40:47+00:00",
+      "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão",
+        "amplia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 9,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "bc0aa90f72",
+      "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 16:25",
+      "dt_iso": "2026-11-04T19:25:28+00:00",
+      "summary": "Unilever inaugura hub logístico automatizado em Itupeva (SP) &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "unilever",
+        "hub logístico",
+        "inaugura"
+      ],
+      "score": 8,
+      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "240f836150",
+      "headline": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "ontem, 11:22",
+      "dt_iso": "2026-11-04T14:22:51+00:00",
+      "summary": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "galpões"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7b4462d962",
+      "headline": "Conheça o novo centro de distribuição da Shopee no Nordeste - Portal NE9",
+      "source": "Ne9",
+      "link": "https://ne9.com.br",
+      "time": "31/10 às 07:13",
+      "dt_iso": "2026-10-31T10:13:48+00:00",
+      "summary": "Conheça o novo centro de distribuição da Shopee no Nordeste &nbsp;&nbsp; Portal NE9",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "a7eef6eb81",
+      "headline": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline - TNOnline",
+      "source": "UOL",
+      "link": "https://tnonline.uol.com.br",
+      "time": "30/10 às 14:27",
+      "dt_iso": "2026-10-30T17:27:50+00:00",
+      "summary": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline &nbsp;&nbsp; TNOnline",
+      "category": "industrial",
+      "keywords": [
+        "galpão",
+        "galpão industrial",
+        "construção"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Industrial"
+      ]
+    },
+    {
+      "id": "fa6bc0caac",
+      "headline": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores - Olhar Direto",
+      "source": "Olhardireto",
+      "link": "https://www.olhardireto.com.br",
+      "time": "30/10 às 09:29",
+      "dt_iso": "2026-10-30T12:29:00+00:00",
+      "summary": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores &nbsp;&nbsp; Olhar Direto",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "412f8faa36",
+      "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
+      "source": "UOL",
+      "link": "https://jc.uol.com.br",
+      "time": "ontem, 06:37",
+      "dt_iso": "2026-11-04T09:37:06+00:00",
+      "summary": "Shopee expande rede logística com novo CD em Pernambuco &nbsp;&nbsp; JC",
+      "category": "expansao",
+      "keywords": [
+        "shopee",
+        "expande",
+        "novo cd"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "8b50e908f3",
+      "headline": "CFO do Mercado Livre defende investimentos ousados após lucro abaixo das estimativas - Bloomberg Linea Brasil",
+      "source": "Bloomberglinea",
+      "link": "https://www.bloomberglinea.com.br",
+      "time": "hoje, 03:20",
+      "dt_iso": "2026-11-05T06:20:00+00:00",
+      "summary": "CFO do Mercado Livre defende investimentos ousados após lucro abaixo das estimativas &nbsp;&nbsp; Bloomberg Linea Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "730d1bb482",
+      "headline": "TRBL11 compra novos galpões, mas encolhe deal com BTLG11 - Metro Quadrado",
+      "source": "Metroquadrado",
+      "link": "https://metroquadrado.com",
+      "time": "hoje, 19:26",
+      "dt_iso": "2026-11-04T22:26:09+00:00",
+      "summary": "TRBL11 compra novos galpões, mas encolhe deal com BTLG11 &nbsp;&nbsp; Metro Quadrado",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "e072dca885",
+      "headline": "Ultracargo amplia sua capacidade de armazenagem em Suape - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "ontem, 08:38",
+      "dt_iso": "2026-11-04T11:38:00+00:00",
+      "summary": "Ultracargo amplia sua capacidade de armazenagem em Suape &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "224c4d91ea",
+      "headline": "Perfumes e cosméticos importados: empresa capixaba investe R$ 25 mi em galpão tecnológico - Folha Vitória",
+      "source": "Folhavitoria",
+      "link": "https://www.folhavitoria.com.br",
+      "time": "hoje, 19:15",
+      "dt_iso": "2026-11-04T22:15:30+00:00",
+      "summary": "Perfumes e cosméticos importados: empresa capixaba investe R$ 25 mi em galpão tecnológico &nbsp;&nbsp; Folha Vitória",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1c91f62732",
+      "headline": "GGRC11 vende 10 galpões ao SNIM por R$ 530 milhões e prevê lucro de R$ 0,22 por cota - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "ontem, 18:32",
+      "dt_iso": "2026-11-03T21:32:52+00:00",
+      "summary": "GGRC11 vende 10 galpões ao SNIM por R$ 530 milhões e prevê lucro de R$ 0,22 por cota &nbsp;&nbsp; melhorinvestimento.net",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "30797fc585",
+      "headline": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações - Portal Revista Kdea 360",
+      "source": "Revistakdea360",
+      "link": "https://revistakdea360.com.br",
+      "time": "30/10 às 12:26",
+      "dt_iso": "2026-10-30T15:26:47+00:00",
+      "summary": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações &nbsp;&nbsp; Portal Revista Kdea 360",
+      "category": "expansao",
+      "keywords": [
+        "condomínios logísticos",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "e9eab56fbf",
+      "headline": "Espírito Santo pode atrair R$ 5 bilhões e mais de 100 empresas em nova expansão logística que já multiplicou por dez a área de galpões - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "01/11 às 23:36",
+      "dt_iso": "2026-11-02T02:36:00+00:00",
+      "summary": "Espírito Santo pode atrair R$ 5 bilhões e mais de 100 empresas em nova expansão logística que já multiplicou por dez a área de galpões &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "8c21e07965",
+      "headline": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "hoje, 18:31",
+      "dt_iso": "2026-11-04T21:31:00+00:00",
+      "summary": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil &nbsp;&nbsp; Estadão",
+      "category": "expansao",
+      "keywords": [
+        "mercado livre",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "bbfd074652",
+      "headline": "Mercado Livre amplia receita em 45% no 3º trimestre, mas margem operacional encolhe a 6,3% - Brasil 247",
+      "source": "Brasil247",
+      "link": "https://www.brasil247.com",
+      "time": "hoje, 19:30",
+      "dt_iso": "2026-11-04T22:30:16+00:00",
+      "summary": "Mercado Livre amplia receita em 45% no 3º trimestre, mas margem operacional encolhe a 6,3% &nbsp;&nbsp; Brasil 247",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "3c7b2ef68c",
+      "headline": "Mercado Livre inaugura centro logístico e prevê 500 vagas em São Bernardo - Repórter Diário",
+      "source": "Reporterdiario",
+      "link": "https://www.reporterdiario.com.br",
+      "time": "29/10 às 22:32",
+      "dt_iso": "2026-10-30T01:32:29+00:00",
+      "summary": "Mercado Livre inaugura centro logístico e prevê 500 vagas em São Bernardo &nbsp;&nbsp; Repórter Diário",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa. Região(ões) mencionada(s): São Bernardo.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "f85773410d",
+      "headline": "Fundo imobiliário desembolsa R$ 456,5 milhões por galpões alugados à Amazon e outras empresas; IFIX recua - Money Times",
+      "source": "Money Times",
+      "link": "https://www.moneytimes.com.br",
+      "time": "ontem, 08:22",
+      "dt_iso": "2026-11-04T11:22:00+00:00",
+      "summary": "Fundo imobiliário desembolsa R$ 456,5 milhões por galpões alugados à Amazon e outras empresas; IFIX recua &nbsp;&nbsp; Money Times",
+      "category": "investimento",
+      "keywords": [
+        "galpões",
+        "aluga"
+      ],
+      "score": 6,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "9e0b625f02",
+      "headline": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% - Guia da Cerveja",
+      "source": "Guiadacervejabr",
+      "link": "https://guiadacervejabr.com",
+      "time": "30/10 às 07:09",
+      "dt_iso": "2026-10-30T10:09:15+00:00",
+      "summary": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% &nbsp;&nbsp; Guia da Cerveja",
+      "category": "logistica",
+      "keywords": [
+        "ambev",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "9fcecda7cd",
+      "headline": "Enquanto Ascenty amplia capacidade de IA, Digital Realty bate recorde de leasing - BNamericas",
+      "source": "Bnamericas",
+      "link": "https://www.bnamericas.com",
+      "time": "30/10 às 14:51",
+      "dt_iso": "2026-10-30T17:51:20+00:00",
+      "summary": "Enquanto Ascenty amplia capacidade de IA, Digital Realty bate recorde de leasing &nbsp;&nbsp; BNamericas",
+      "category": "logistica",
+      "keywords": [
+        "ascenty",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    }
+  ]
+}
