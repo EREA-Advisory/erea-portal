@@ -1,13 +1,34 @@
 {
-  "gerado_em": "06/11/2026 às 13:22",
-  "total": 21,
+  "gerado_em": "06/11/2026 às 18:15",
+  "total": 23,
   "noticias": [
+    {
+      "id": "affcd2d7ee",
+      "headline": "Para além da maquiagem, ela mira escalar a beleza natural e investe R$ 8 mi",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/para-alem-da-maquiagem-ela-escala-a-beleza-natural-com-investimento-de-r-8-mi/",
+      "time": "hoje, 13:10",
+      "dt_iso": "2026-11-06T16:10:43+00:00",
+      "summary": "A Alva Personal Care, de Joinville (SC), anunciou a compra da feito brasil por R$ 6 milhões e prevê outros R$ 2 milhões em investimentos para expandir a marca de cosméticos premium",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "investe",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 8,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Joinville.",
+      "badges": [
+        "Logística"
+      ]
+    },
     {
       "id": "bc0aa90f72",
       "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 16:25",
+      "time": "04/11 às 16:25",
       "dt_iso": "2026-11-04T19:25:28+00:00",
       "summary": "Unilever inaugura hub logístico automatizado em Itupeva (SP) &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -87,7 +108,7 @@
       "headline": "TRBL11 investe R$ 456,5 milhões em galpões, incluindo imóvel da Amazon - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 16:50",
+      "time": "ontem, 16:50",
       "dt_iso": "2026-11-05T19:50:03+00:00",
       "summary": "TRBL11 investe R$ 456,5 milhões em galpões, incluindo imóvel da Amazon &nbsp;&nbsp; melhorinvestimento.net",
       "category": "ecommerce",
@@ -122,31 +143,11 @@
       ]
     },
     {
-      "id": "a7eef6eb81",
-      "headline": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline - TNOnline",
-      "source": "UOL",
-      "link": "https://tnonline.uol.com.br",
-      "time": "30/10 às 14:27",
-      "dt_iso": "2026-10-30T17:27:50+00:00",
-      "summary": "Galpão industrial no Norte do Paraná: como a construção industrializada reduz custos e garante qualidade - TNOnline &nbsp;&nbsp; TNOnline",
-      "category": "industrial",
-      "keywords": [
-        "galpão",
-        "galpão industrial",
-        "construção"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Industrial"
-      ]
-    },
-    {
       "id": "135dc43008",
       "headline": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 15:01",
+      "time": "ontem, 15:01",
       "dt_iso": "2026-11-05T18:01:00+00:00",
       "summary": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
@@ -224,7 +225,7 @@
       "headline": "NIX Intralogística investe R$ 25 milhões em armazém climatizado no Espírito Santo - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 17:16",
+      "time": "ontem, 17:16",
       "dt_iso": "2026-11-05T20:16:29+00:00",
       "summary": "NIX Intralogística investe R$ 25 milhões em armazém climatizado no Espírito Santo &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -277,6 +278,25 @@
       ]
     },
     {
+      "id": "45f4abbb76",
+      "headline": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul - Saúde Digital News",
+      "source": "Saudedigitalnews",
+      "link": "https://saudedigitalnews.com.br",
+      "time": "hoje, 16:38",
+      "dt_iso": "2026-11-06T19:38:28+00:00",
+      "summary": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul &nbsp;&nbsp; Saúde Digital News",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "eda7d0c62b",
       "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
       "source": "Bandab",
@@ -296,16 +316,16 @@
       ]
     },
     {
-      "id": "8c21e07965",
-      "headline": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "ontem, 18:31",
-      "dt_iso": "2026-11-04T21:31:00+00:00",
-      "summary": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil &nbsp;&nbsp; Estadão",
+      "id": "30797fc585",
+      "headline": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações - Portal Revista Kdea 360",
+      "source": "Revistakdea360",
+      "link": "https://revistakdea360.com.br",
+      "time": "01/11 às 21:12",
+      "dt_iso": "2026-11-02T00:12:42+00:00",
+      "summary": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações &nbsp;&nbsp; Portal Revista Kdea 360",
       "category": "expansao",
       "keywords": [
-        "mercado livre",
+        "condomínios logísticos",
         "expansão"
       ],
       "score": 6,
@@ -325,6 +345,25 @@
       "category": "expansao",
       "keywords": [
         "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "8c21e07965",
+      "headline": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil - Estadão",
+      "source": "Estadão",
+      "link": "https://www.estadao.com.br",
+      "time": "ontem, 18:31",
+      "dt_iso": "2026-11-04T21:31:00+00:00",
+      "summary": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil &nbsp;&nbsp; Estadão",
+      "category": "expansao",
+      "keywords": [
+        "mercado livre",
         "expansão"
       ],
       "score": 6,
@@ -377,7 +416,7 @@
       "source": "Gironews",
       "link": "https://gironews.com",
       "time": "hoje, 09:56",
-      "dt_iso": "2026-11-06T12:56:15+00:00",
+      "dt_iso": "2026-11-06T12:56:17+00:00",
       "summary": "Assaí aumenta lucro em 55% e amplia fluxo de clientes no trimestre &nbsp;&nbsp; Giro News",
       "category": "logistica",
       "keywords": [
@@ -391,22 +430,22 @@
       ]
     },
     {
-      "id": "9fcecda7cd",
-      "headline": "Enquanto Ascenty amplia capacidade de IA, Digital Realty bate recorde de leasing - BNamericas",
-      "source": "Bnamericas",
-      "link": "https://www.bnamericas.com",
-      "time": "30/10 às 14:51",
-      "dt_iso": "2026-10-30T17:51:20+00:00",
-      "summary": "Enquanto Ascenty amplia capacidade de IA, Digital Realty bate recorde de leasing &nbsp;&nbsp; BNamericas",
-      "category": "logistica",
+      "id": "a269f11fdb",
+      "headline": "Assaí relata alta nas vendas após veto às bets e mira expansão - TV Sim Brasil",
+      "source": "Tvsimbrasil",
+      "link": "https://tvsimbrasil.com.br",
+      "time": "hoje, 14:46",
+      "dt_iso": "2026-11-06T17:46:06+00:00",
+      "summary": "Assaí relata alta nas vendas após veto às bets e mira expansão &nbsp;&nbsp; TV Sim Brasil",
+      "category": "expansao",
       "keywords": [
-        "ascenty",
-        "amplia"
+        "assaí",
+        "expansão"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     }
   ]
