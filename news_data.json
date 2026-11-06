@@ -1,29 +1,7 @@
 {
-  "gerado_em": "05/11/2026 às 18:45",
-  "total": 22,
+  "gerado_em": "06/11/2026 às 13:22",
+  "total": 21,
   "noticias": [
-    {
-      "id": "50e2551132",
-      "headline": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste - Revista Buildings",
-      "source": "Buildings",
-      "link": "https://revista.buildings.com.br",
-      "time": "30/10 às 11:40",
-      "dt_iso": "2026-10-30T14:40:47+00:00",
-      "summary": "Fulwood amplia investimentos em Extrema e prevê expansão de galpões no Sul e Sudeste &nbsp;&nbsp; Revista Buildings",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão",
-        "amplia",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 9,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Extrema.",
-      "badges": [
-        "Expansão"
-      ]
-    },
     {
       "id": "bc0aa90f72",
       "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - Mundo Logística",
@@ -46,11 +24,32 @@
       ]
     },
     {
+      "id": "c4f9dad337",
+      "headline": "Lojista que abriu uma ferragem há 4 meses vira ponto da Jadlog e recebe devoluções da Shein e do TikTok Shop por cerca de R$ 0,60 o pacote, depois de a Shopee não responder - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 19:16",
+      "dt_iso": "2026-11-05T22:16:00+00:00",
+      "summary": "Lojista que abriu uma ferragem há 4 meses vira ponto da Jadlog e recebe devoluções da Shein e do TikTok Shop por cerca de R$ 0,60 o pacote, depois de a Shopee não responder &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "shein",
+        "jadlog",
+        "abriu"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "240f836150",
       "headline": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 11:22",
+      "time": "04/11 às 11:22",
       "dt_iso": "2026-11-04T14:22:51+00:00",
       "summary": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -62,6 +61,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "fc5967e72a",
+      "headline": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "30/10 às 20:57",
+      "dt_iso": "2026-10-30T23:57:00+00:00",
+      "summary": "Mercado Livre terá galpão de 122 mil m² em cidade de menos de 7 mil habitantes em MG, com obra de mais de R$ 400 milhões e 2 mil empregos previstos &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -124,16 +142,16 @@
       ]
     },
     {
-      "id": "fa6bc0caac",
-      "headline": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores - Olhar Direto",
-      "source": "Olhardireto",
-      "link": "https://www.olhardireto.com.br",
-      "time": "30/10 às 09:29",
-      "dt_iso": "2026-10-30T12:29:00+00:00",
-      "summary": "Bombeiros evacuam galpão do Mercado Livre após vazamento de produto químico causar náuseas em trabalhadores &nbsp;&nbsp; Olhar Direto",
+      "id": "135dc43008",
+      "headline": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 15:01",
+      "dt_iso": "2026-11-05T18:01:00+00:00",
+      "summary": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
       "keywords": [
-        "mercado livre",
+        "shopee",
         "galpão"
       ],
       "score": 7,
@@ -147,7 +165,7 @@
       "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
       "source": "UOL",
       "link": "https://jc.uol.com.br",
-      "time": "ontem, 06:37",
+      "time": "04/11 às 06:37",
       "dt_iso": "2026-11-04T09:37:06+00:00",
       "summary": "Shopee expande rede logística com novo CD em Pernambuco &nbsp;&nbsp; JC",
       "category": "expansao",
@@ -167,7 +185,7 @@
       "headline": "CFO do Mercado Livre defende investimentos ousados após lucro abaixo das estimativas - Bloomberg Linea Brasil",
       "source": "Bloomberglinea",
       "link": "https://www.bloomberglinea.com.br",
-      "time": "hoje, 03:20",
+      "time": "ontem, 03:20",
       "dt_iso": "2026-11-05T06:20:00+00:00",
       "summary": "CFO do Mercado Livre defende investimentos ousados após lucro abaixo das estimativas &nbsp;&nbsp; Bloomberg Linea Brasil",
       "category": "ecommerce",
@@ -183,30 +201,11 @@
       ]
     },
     {
-      "id": "a5cadda64d",
-      "headline": "Há mais de 60 anos no Brasil, Hellmann’s tem 63% do mercado de maionese e cresce acima da categoria",
-      "source": "Exame",
-      "link": "https://exame.com/marketing/ha-mais-de-60-anos-no-brasil-hellmanns-tem-63-do-mercado-de-maionese-e-cresce-acima-da-categoria/",
-      "time": "hoje, 13:37",
-      "dt_iso": "2026-11-05T16:37:45+00:00",
-      "summary": "Marca da Unilever registrou avanço de 15,9% em valor em 2025; pesquisa encomendada à Opinion Box mostra os motivos de preferência dos consumidores",
-      "category": "logistica",
-      "keywords": [
-        "unilever",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "730d1bb482",
       "headline": "TRBL11 compra novos galpões, mas encolhe deal com BTLG11 - Metro Quadrado",
       "source": "Metroquadrado",
       "link": "https://metroquadrado.com",
-      "time": "hoje, 19:26",
+      "time": "ontem, 19:26",
       "dt_iso": "2026-11-04T22:26:09+00:00",
       "summary": "TRBL11 compra novos galpões, mas encolhe deal com BTLG11 &nbsp;&nbsp; Metro Quadrado",
       "category": "logistica",
@@ -244,7 +243,7 @@
       "headline": "Ultracargo amplia sua capacidade de armazenagem em Suape - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 08:38",
+      "time": "04/11 às 08:38",
       "dt_iso": "2026-11-04T11:38:00+00:00",
       "summary": "Ultracargo amplia sua capacidade de armazenagem em Suape &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -263,7 +262,7 @@
       "headline": "Perfumes e cosméticos importados: empresa capixaba investe R$ 25 mi em galpão tecnológico - Folha Vitória",
       "source": "Folhavitoria",
       "link": "https://www.folhavitoria.com.br",
-      "time": "hoje, 19:15",
+      "time": "ontem, 19:15",
       "dt_iso": "2026-11-04T22:15:30+00:00",
       "summary": "Perfumes e cosméticos importados: empresa capixaba investe R$ 25 mi em galpão tecnológico &nbsp;&nbsp; Folha Vitória",
       "category": "logistica",
@@ -294,25 +293,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "30797fc585",
-      "headline": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações - Portal Revista Kdea 360",
-      "source": "Revistakdea360",
-      "link": "https://revistakdea360.com.br",
-      "time": "30/10 às 12:26",
-      "dt_iso": "2026-10-30T15:26:47+00:00",
-      "summary": "Expansão dos condomínios logísticos impulsiona demanda por empilhadeiras e modernização das operações &nbsp;&nbsp; Portal Revista Kdea 360",
-      "category": "expansao",
-      "keywords": [
-        "condomínios logísticos",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -354,22 +334,22 @@
       ]
     },
     {
-      "id": "3c7b2ef68c",
-      "headline": "Mercado Livre inaugura centro logístico e prevê 500 vagas em São Bernardo - Repórter Diário",
-      "source": "Reporterdiario",
-      "link": "https://www.reporterdiario.com.br",
-      "time": "29/10 às 22:32",
-      "dt_iso": "2026-10-30T01:32:29+00:00",
-      "summary": "Mercado Livre inaugura centro logístico e prevê 500 vagas em São Bernardo &nbsp;&nbsp; Repórter Diário",
-      "category": "ecommerce",
+      "id": "da80a719ee",
+      "headline": "O paradoxo dos galpões: aluguel sobe 25%, mas cotas dos FIIs de logística recuam - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "04/11 às 05:01",
+      "dt_iso": "2026-11-04T08:01:19+00:00",
+      "summary": "O paradoxo dos galpões: aluguel sobe 25%, mas cotas dos FIIs de logística recuam &nbsp;&nbsp; Exame",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "inaugura"
+        "galpões",
+        "aluguel"
       ],
       "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa. Região(ões) mencionada(s): São Bernardo.",
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -377,7 +357,7 @@
       "headline": "Fundo imobiliário desembolsa R$ 456,5 milhões por galpões alugados à Amazon e outras empresas; IFIX recua - Money Times",
       "source": "Money Times",
       "link": "https://www.moneytimes.com.br",
-      "time": "ontem, 08:22",
+      "time": "04/11 às 08:22",
       "dt_iso": "2026-11-04T11:22:00+00:00",
       "summary": "Fundo imobiliário desembolsa R$ 456,5 milhões por galpões alugados à Amazon e outras empresas; IFIX recua &nbsp;&nbsp; Money Times",
       "category": "investimento",
@@ -392,20 +372,20 @@
       ]
     },
     {
-      "id": "9e0b625f02",
-      "headline": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% - Guia da Cerveja",
-      "source": "Guiadacervejabr",
-      "link": "https://guiadacervejabr.com",
-      "time": "30/10 às 07:09",
-      "dt_iso": "2026-10-30T10:09:15+00:00",
-      "summary": "Resultado da Ambev: Michelob Ultra cresce 478% no Brasil e premium avança 19% &nbsp;&nbsp; Guia da Cerveja",
+      "id": "0b1e1bed4e",
+      "headline": "Assaí aumenta lucro em 55% e amplia fluxo de clientes no trimestre - Giro News",
+      "source": "Gironews",
+      "link": "https://gironews.com",
+      "time": "hoje, 09:56",
+      "dt_iso": "2026-11-06T12:56:15+00:00",
+      "summary": "Assaí aumenta lucro em 55% e amplia fluxo de clientes no trimestre &nbsp;&nbsp; Giro News",
       "category": "logistica",
       "keywords": [
-        "ambev",
-        "cresce"
+        "assaí",
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
