@@ -1,6 +1,6 @@
 {
-  "gerado_em": "07/11/2026 às 12:14",
-  "total": 22,
+  "gerado_em": "07/11/2026 às 16:51",
+  "total": 24,
   "noticias": [
     {
       "id": "bc0aa90f72",
@@ -45,26 +45,6 @@
       ]
     },
     {
-      "id": "e14dd8878a",
-      "headline": "Eletrodomésticos no 11.11: como comparar Electrolux, Brastemp e o preço final",
-      "source": "Exame",
-      "link": "https://exame.com/tecnologia/examelab/11-11-eletrodomesticos-comparar-electrolux-brastemp/",
-      "time": "hoje, 07:00",
-      "dt_iso": "2026-11-07T10:00:42+00:00",
-      "summary": "Capacidade, consumo de energia e custo de instalação ajudam a escolher geladeiras e lavadoras; veja uma referência de preço e o que conferir antes de usar cupons",
-      "category": "logistica",
-      "keywords": [
-        "electrolux",
-        "instala",
-        "instalação"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "240f836150",
       "headline": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos - Mundo Logística",
       "source": "Mundo Logística",
@@ -88,7 +68,7 @@
       "headline": "TRBL11 investe R$ 456,5 milhões em galpões, incluindo imóvel da Amazon - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "ontem, 16:50",
+      "time": "05/11 às 16:50",
       "dt_iso": "2026-11-05T19:50:03+00:00",
       "summary": "TRBL11 investe R$ 456,5 milhões em galpões, incluindo imóvel da Amazon &nbsp;&nbsp; melhorinvestimento.net",
       "category": "ecommerce",
@@ -147,7 +127,7 @@
       "headline": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 15:01",
+      "time": "05/11 às 15:01",
       "dt_iso": "2026-11-05T18:01:00+00:00",
       "summary": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
@@ -263,7 +243,7 @@
       "headline": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul - Saúde Digital News",
       "source": "Saudedigitalnews",
       "link": "https://saudedigitalnews.com.br",
-      "time": "hoje, 16:38",
+      "time": "ontem, 16:38",
       "dt_iso": "2026-11-06T19:38:28+00:00",
       "summary": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul &nbsp;&nbsp; Saúde Digital News",
       "category": "logistica",
@@ -292,6 +272,25 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1b41756615",
+      "headline": "Prefeitura de Arujá inaugura novo prédio da Secretaria de Esportes - Diário de Suzano",
+      "source": "Diariodesuzano",
+      "link": "https://www.diariodesuzano.com.br",
+      "time": "hoje, 13:42",
+      "dt_iso": "2026-11-07T16:42:00+00:00",
+      "summary": "Prefeitura de Arujá inaugura novo prédio da Secretaria de Esportes &nbsp;&nbsp; Diário de Suzano",
+      "category": "logistica",
+      "keywords": [
+        "suzano",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -335,6 +334,25 @@
       ]
     },
     {
+      "id": "bbfd074652",
+      "headline": "Mercado Livre amplia receita em 45% no 3º trimestre, mas margem operacional encolhe a 6,3% - Brasil 247",
+      "source": "Brasil247",
+      "link": "https://www.brasil247.com",
+      "time": "04/11 às 19:30",
+      "dt_iso": "2026-11-04T22:30:16+00:00",
+      "summary": "Mercado Livre amplia receita em 45% no 3º trimestre, mas margem operacional encolhe a 6,3% &nbsp;&nbsp; Brasil 247",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "da80a719ee",
       "headline": "O paradoxo dos galpões: aluguel sobe 25%, mas cotas dos FIIs de logística recuam - Exame",
       "source": "Exame",
@@ -368,6 +386,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "a4d2c94be7",
+      "headline": "Shopee cresce 28% em GMV, vende US$ 38 bilhões e diz que já é a líder no e-commerce brasileiro - Times Brasil | CNBC",
+      "source": "Timesbrasil",
+      "link": "https://timesbrasil.com.br",
+      "time": "hoje, 11:22",
+      "dt_iso": "2026-11-07T14:22:37+00:00",
+      "summary": "Shopee cresce 28% em GMV, vende US$ 38 bilhões e diz que já é a líder no e-commerce brasileiro &nbsp;&nbsp; Times Brasil | CNBC",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
       "badges": [
         "E-commerce"
       ]
@@ -415,7 +452,7 @@
       "headline": "Assaí relata alta nas vendas após veto às bets e mira expansão - TV Sim Brasil",
       "source": "Tvsimbrasil",
       "link": "https://tvsimbrasil.com.br",
-      "time": "hoje, 14:46",
+      "time": "ontem, 14:46",
       "dt_iso": "2026-11-06T17:46:06+00:00",
       "summary": "Assaí relata alta nas vendas após veto às bets e mira expansão &nbsp;&nbsp; TV Sim Brasil",
       "category": "expansao",
