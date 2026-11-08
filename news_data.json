@@ -1,6 +1,6 @@
 {
-  "gerado_em": "07/11/2026 às 16:51",
-  "total": 24,
+  "gerado_em": "08/11/2026 às 12:38",
+  "total": 21,
   "noticias": [
     {
       "id": "bc0aa90f72",
@@ -28,7 +28,7 @@
       "headline": "Lojista que abriu uma ferragem há 4 meses vira ponto da Jadlog e recebe devoluções da Shein e do TikTok Shop por cerca de R$ 0,60 o pacote, depois de a Shopee não responder - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 19:16",
+      "time": "05/11 às 19:16",
       "dt_iso": "2026-11-05T22:16:00+00:00",
       "summary": "Lojista que abriu uma ferragem há 4 meses vira ponto da Jadlog e recebe devoluções da Shein e do TikTok Shop por cerca de R$ 0,60 o pacote, depois de a Shopee não responder &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
@@ -88,7 +88,7 @@
       "headline": "BLIPS INAUGURA CENTRO DE DISTRIBUIÇÃO EM CABREÚVA (SP) - Bahia Econômica",
       "source": "Bahiaeconomica",
       "link": "https://bahiaeconomica.com.br",
-      "time": "hoje, 10:00",
+      "time": "ontem, 10:00",
       "dt_iso": "2026-11-07T13:00:00+00:00",
       "summary": "BLIPS INAUGURA CENTRO DE DISTRIBUIÇÃO EM CABREÚVA (SP) &nbsp;&nbsp; Bahia Econômica",
       "category": "logistica",
@@ -123,25 +123,6 @@
       ]
     },
     {
-      "id": "135dc43008",
-      "headline": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "05/11 às 15:01",
-      "dt_iso": "2026-11-05T18:01:00+00:00",
-      "summary": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "galpão"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "412f8faa36",
       "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
       "source": "UOL",
@@ -159,6 +140,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "135dc43008",
+      "headline": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "05/11 às 15:01",
+      "dt_iso": "2026-11-05T18:01:00+00:00",
+      "summary": "No Rio, motoristas que entregam para a Shopee cruzam os braços por tempo indeterminado no galpão da Ilha do Governador às vésperas do 11.11, que terá R$ 25 milhões em cupons, e cobram transparência nas escalas e nas rotas &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "galpão"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -186,7 +186,7 @@
       "headline": "NIX Intralogística investe R$ 25 milhões em armazém climatizado no Espírito Santo - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 17:16",
+      "time": "05/11 às 17:16",
       "dt_iso": "2026-11-05T20:16:29+00:00",
       "summary": "NIX Intralogística investe R$ 25 milhões em armazém climatizado no Espírito Santo &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -196,25 +196,6 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "e072dca885",
-      "headline": "Ultracargo amplia sua capacidade de armazenagem em Suape - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "04/11 às 08:38",
-      "dt_iso": "2026-11-04T11:38:00+00:00",
-      "summary": "Ultracargo amplia sua capacidade de armazenagem em Suape &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -334,22 +315,22 @@
       ]
     },
     {
-      "id": "bbfd074652",
-      "headline": "Mercado Livre amplia receita em 45% no 3º trimestre, mas margem operacional encolhe a 6,3% - Brasil 247",
-      "source": "Brasil247",
-      "link": "https://www.brasil247.com",
-      "time": "04/11 às 19:30",
-      "dt_iso": "2026-11-04T22:30:16+00:00",
-      "summary": "Mercado Livre amplia receita em 45% no 3º trimestre, mas margem operacional encolhe a 6,3% &nbsp;&nbsp; Brasil 247",
-      "category": "ecommerce",
+      "id": "e3ef93b4e5",
+      "headline": "Mercado de Robôs Manipuladores Móveis Autônomos (AMMR) até 2035: automação de armazéns e escassez de mão de obra impulsionam a expansão - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "ontem, 15:16",
+      "dt_iso": "2026-11-06T18:16:04+00:00",
+      "summary": "Mercado de Robôs Manipuladores Móveis Autônomos (AMMR) até 2035: automação de armazéns e escassez de mão de obra impulsionam a expansão - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "expansao",
       "keywords": [
-        "mercado livre",
-        "amplia"
+        "armazéns",
+        "expansão"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "E-commerce"
+        "Expansão"
       ]
     },
     {
@@ -391,49 +372,11 @@
       ]
     },
     {
-      "id": "a4d2c94be7",
-      "headline": "Shopee cresce 28% em GMV, vende US$ 38 bilhões e diz que já é a líder no e-commerce brasileiro - Times Brasil | CNBC",
-      "source": "Timesbrasil",
-      "link": "https://timesbrasil.com.br",
-      "time": "hoje, 11:22",
-      "dt_iso": "2026-11-07T14:22:37+00:00",
-      "summary": "Shopee cresce 28% em GMV, vende US$ 38 bilhões e diz que já é a líder no e-commerce brasileiro &nbsp;&nbsp; Times Brasil | CNBC",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "f85773410d",
-      "headline": "Fundo imobiliário desembolsa R$ 456,5 milhões por galpões alugados à Amazon e outras empresas; IFIX recua - Money Times",
-      "source": "Money Times",
-      "link": "https://www.moneytimes.com.br",
-      "time": "04/11 às 08:22",
-      "dt_iso": "2026-11-04T11:22:00+00:00",
-      "summary": "Fundo imobiliário desembolsa R$ 456,5 milhões por galpões alugados à Amazon e outras empresas; IFIX recua &nbsp;&nbsp; Money Times",
-      "category": "investimento",
-      "keywords": [
-        "galpões",
-        "aluga"
-      ],
-      "score": 6,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "0b1e1bed4e",
       "headline": "Assaí aumenta lucro em 55% e amplia fluxo de clientes no trimestre - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "ontem, 09:56",
+      "time": "06/11 às 09:56",
       "dt_iso": "2026-11-06T12:56:17+00:00",
       "summary": "Assaí aumenta lucro em 55% e amplia fluxo de clientes no trimestre &nbsp;&nbsp; Giro News",
       "category": "logistica",
