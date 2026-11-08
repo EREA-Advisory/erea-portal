@@ -1,7 +1,28 @@
 {
-  "gerado_em": "08/11/2026 às 12:38",
+  "gerado_em": "08/11/2026 às 17:09",
   "total": 21,
   "noticias": [
+    {
+      "id": "4c5a2b0799",
+      "headline": "A aposta da Australian Gold para crescer além do verão e chegar à bancada de beleza",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/business/a-aposta-da-australian-gold-para-levar-o-verao-a-bancada-de-beleza-e-crescer-8/",
+      "time": "hoje, 15:30",
+      "dt_iso": "2026-11-08T18:30:34+00:00",
+      "summary": "Licenciada pelo Grupo Boticário, a marca expande o portfólio para 'body care' e skincare e busca forma de reduzir a dependência do verão, quando concentra cerca de 60% do seu GMV \n The post  A aposta da Australian Gold para crescer além do verão e chegar à bancada de beleza  appeared first on  InfoMoney .",
+      "category": "ecommerce",
+      "keywords": [
+        "grupo boticário",
+        "boticário",
+        "expande",
+        "cresce"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
     {
       "id": "bc0aa90f72",
       "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - Mundo Logística",
@@ -224,7 +245,7 @@
       "headline": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul - Saúde Digital News",
       "source": "Saudedigitalnews",
       "link": "https://saudedigitalnews.com.br",
-      "time": "ontem, 16:38",
+      "time": "06/11 às 16:38",
       "dt_iso": "2026-11-06T19:38:28+00:00",
       "summary": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul &nbsp;&nbsp; Saúde Digital News",
       "category": "logistica",
@@ -239,30 +260,11 @@
       ]
     },
     {
-      "id": "eda7d0c62b",
-      "headline": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia - Banda B",
-      "source": "Bandab",
-      "link": "https://www.bandab.com.br",
-      "time": "03/11 às 05:00",
-      "dt_iso": "2026-11-03T08:00:00+00:00",
-      "summary": "Walmart inaugura centro de distribuição e promete mais de mil novos empregos na Califórnia &nbsp;&nbsp; Banda B",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "1b41756615",
       "headline": "Prefeitura de Arujá inaugura novo prédio da Secretaria de Esportes - Diário de Suzano",
       "source": "Diariodesuzano",
       "link": "https://www.diariodesuzano.com.br",
-      "time": "hoje, 13:42",
+      "time": "ontem, 13:42",
       "dt_iso": "2026-11-07T16:42:00+00:00",
       "summary": "Prefeitura de Arujá inaugura novo prédio da Secretaria de Esportes &nbsp;&nbsp; Diário de Suzano",
       "category": "logistica",
@@ -319,7 +321,7 @@
       "headline": "Mercado de Robôs Manipuladores Móveis Autônomos (AMMR) até 2035: automação de armazéns e escassez de mão de obra impulsionam a expansão - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "ontem, 15:16",
+      "time": "06/11 às 15:16",
       "dt_iso": "2026-11-06T18:16:04+00:00",
       "summary": "Mercado de Robôs Manipuladores Móveis Autônomos (AMMR) até 2035: automação de armazéns e escassez de mão de obra impulsionam a expansão - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "expansao",
@@ -395,7 +397,7 @@
       "headline": "Assaí relata alta nas vendas após veto às bets e mira expansão - TV Sim Brasil",
       "source": "Tvsimbrasil",
       "link": "https://tvsimbrasil.com.br",
-      "time": "ontem, 14:46",
+      "time": "06/11 às 14:46",
       "dt_iso": "2026-11-06T17:46:06+00:00",
       "summary": "Assaí relata alta nas vendas após veto às bets e mira expansão &nbsp;&nbsp; TV Sim Brasil",
       "category": "expansao",
