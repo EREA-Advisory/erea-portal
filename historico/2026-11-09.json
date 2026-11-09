@@ -1,6 +1,6 @@
 {
-  "gerado_em": "09/11/2026 às 16:15",
-  "total": 22,
+  "gerado_em": "09/11/2026 às 20:57",
+  "total": 26,
   "noticias": [
     {
       "id": "bc0aa90f72",
@@ -63,6 +63,26 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "740fb7816d",
+      "headline": "Riachuelo (RIAA3) lucra R$ 85 milhões no terceiro trimestre de 2026, alta de 61%",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/riachuelo-riaa3-resultados-terceiro-trimestre-2026/",
+      "time": "hoje, 19:18",
+      "dt_iso": "2026-11-09T22:18:31+00:00",
+      "summary": "A receita líquida de vestuário cresceu 8%, para R$ 1,6 bilhão \n The post  Riachuelo (RIAA3) lucra R$ 85 milhões no terceiro trimestre de 2026, alta de 61%  appeared first on  InfoMoney .",
+      "category": "logistica",
+      "keywords": [
+        "riachuelo",
+        "cresce",
+        "cresceu"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -164,6 +184,26 @@
       ]
     },
     {
+      "id": "6a3e14771d",
+      "headline": "Magalu cresce diante de crise na Casas Bahia e com parcerias com plataformas internacionais - O GLOBO",
+      "source": "O Globo",
+      "link": "https://oglobo.globo.com",
+      "time": "hoje, 18:53",
+      "dt_iso": "2026-11-09T21:53:55+00:00",
+      "summary": "Magalu cresce diante de crise na Casas Bahia e com parcerias com plataformas internacionais &nbsp;&nbsp; O GLOBO",
+      "category": "investimento",
+      "keywords": [
+        "magalu",
+        "casas bahia",
+        "cresce"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "8b50e908f3",
       "headline": "CFO do Mercado Livre defende investimentos ousados após lucro abaixo das estimativas - Bloomberg Linea Brasil",
       "source": "Bloomberglinea",
@@ -181,6 +221,25 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "fd198be099",
+      "headline": "JBS compra Flora e Canal Rural da holding J&F em negócio de US$ 553 milhões",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/jbs-compra-flora-e-canal-rural-da-holding-jf-em-negocio-de-us-553-milhoes/",
+      "time": "hoje, 15:24",
+      "dt_iso": "2026-11-09T18:24:02+00:00",
+      "summary": "Dona de marcas como Minuano, Francis, Neutrox e OX passa a integrar a gigante de alimentos, em movimento que amplia a atuação da companhia no mercado de cuidados pessoais, incluindo nutrição, saúde e suplementos alimentares",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -321,7 +380,7 @@
       "headline": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre - BPMoney",
       "source": "Bpmoney",
       "link": "https://bpmoney.com.br",
-      "time": "há 4 min",
+      "time": "hoje, 16:11",
       "dt_iso": "2026-11-09T19:11:08+00:00",
       "summary": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre &nbsp;&nbsp; BPMoney",
       "category": "investimento",
@@ -336,17 +395,17 @@
       ]
     },
     {
-      "id": "35fe73141d",
-      "headline": "BTLG11 tem lucro menor e negocia novos galpões - SpaceMoney",
-      "source": "Spacemoney",
-      "link": "https://www.spacemoney.com.br",
-      "time": "hoje, 10:07",
-      "dt_iso": "2026-11-09T13:07:46+00:00",
-      "summary": "BTLG11 tem lucro menor e negocia novos galpões &nbsp;&nbsp; SpaceMoney",
+      "id": "261aff2d3f",
+      "headline": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas - Poder360",
+      "source": "Poder360",
+      "link": "https://www.poder360.com.br",
+      "time": "hoje, 19:10",
+      "dt_iso": "2026-11-09T22:10:15+00:00",
+      "summary": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas &nbsp;&nbsp; Poder360",
       "category": "logistica",
       "keywords": [
-        "galpões",
-        "novos galpões"
+        "magalu",
+        "cresce"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -371,6 +430,25 @@
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos.",
       "badges": [
         "Investimento"
+      ]
+    },
+    {
+      "id": "35fe73141d",
+      "headline": "BTLG11 tem lucro menor e negocia novos galpões - SpaceMoney",
+      "source": "Spacemoney",
+      "link": "https://www.spacemoney.com.br",
+      "time": "hoje, 10:07",
+      "dt_iso": "2026-11-09T13:07:46+00:00",
+      "summary": "BTLG11 tem lucro menor e negocia novos galpões &nbsp;&nbsp; SpaceMoney",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "novos galpões"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
