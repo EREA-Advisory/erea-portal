@@ -1,7 +1,28 @@
 {
-  "gerado_em": "10/11/2026 às 13:38",
-  "total": 30,
+  "gerado_em": "10/11/2026 às 18:39",
+  "total": 34,
   "noticias": [
+    {
+      "id": "8d4281f9f0",
+      "headline": "Riachuelo e Grupo SBF desabam até 11% apesar de balanços “distintos”; entenda",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/riachuelo-e-grupo-sbf-desabam-ate-13-apesar-de-balancos-com-desempenhos-distintos/",
+      "time": "há 14 min",
+      "dt_iso": "2026-11-10T21:24:00+00:00",
+      "summary": "Enquanto a Riachuelo manteve crescimento acima dos concorrentes e expansão das margens, o Grupo SBF enfrentou pressão sobre a rentabilidade \n The post  Riachuelo e Grupo SBF desabam até 11% apesar de balanços &#8220;distintos&#8221;; entenda  appeared first on  InfoMoney .",
+      "category": "expansao",
+      "keywords": [
+        "riachuelo",
+        "grupo sbf",
+        "expansão",
+        "crescimento"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
     {
       "id": "bc0aa90f72",
       "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - MundoLogística",
@@ -124,6 +145,26 @@
       ]
     },
     {
+      "id": "0f171c3cc5",
+      "headline": "Vacância de galpões logísticos cai à mínima histórica no país - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "hoje, 16:25",
+      "dt_iso": "2026-11-10T19:25:07+00:00",
+      "summary": "Vacância de galpões logísticos cai à mínima histórica no país &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "412f8faa36",
       "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
       "source": "UOL",
@@ -164,23 +205,23 @@
       ]
     },
     {
-      "id": "d291de3506",
-      "headline": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "hoje, 18:57",
-      "dt_iso": "2026-11-09T21:57:18+00:00",
-      "summary": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia &nbsp;&nbsp; Exame",
-      "category": "investimento",
+      "id": "bdaca5601e",
+      "headline": "BTLG11 fecha compra de galpões logísticos da Capitânia - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "hoje, 13:49",
+      "dt_iso": "2026-11-10T16:49:14+00:00",
+      "summary": "BTLG11 fecha compra de galpões logísticos da Capitânia &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
       "keywords": [
-        "magalu",
-        "casas bahia",
-        "crescimento"
+        "galpões",
+        "investimento",
+        "investimentos"
       ],
       "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Investimento"
+        "Logística"
       ]
     },
     {
@@ -204,11 +245,51 @@
       ]
     },
     {
+      "id": "127aa9c88a",
+      "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
+      "source": "Seudinheiro",
+      "link": "https://www.seudinheiro.com",
+      "time": "hoje, 13:49",
+      "dt_iso": "2026-11-10T16:49:00+00:00",
+      "summary": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) &nbsp;&nbsp; Seu Dinheiro",
+      "category": "investimento",
+      "keywords": [
+        "magazine luiza",
+        "casas bahia",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "d291de3506",
+      "headline": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "hoje, 18:57",
+      "dt_iso": "2026-11-09T21:57:18+00:00",
+      "summary": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia &nbsp;&nbsp; Exame",
+      "category": "investimento",
+      "keywords": [
+        "magalu",
+        "casas bahia",
+        "crescimento"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "2f4d69d2e2",
       "headline": "Unilider prevê inaugurar até três centros de distribuição em Minas Gerais - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "hoje, 18:33",
+      "time": "ontem, 18:33",
       "dt_iso": "2026-11-09T21:33:53+00:00",
       "summary": "Unilider prevê inaugurar até três centros de distribuição em Minas Gerais &nbsp;&nbsp; Giro News",
       "category": "logistica",
@@ -220,6 +301,25 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "00b7d2079d",
+      "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "hoje, 05:10",
+      "dt_iso": "2026-11-10T08:10:01+00:00",
+      "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -275,25 +375,6 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "4ba7e8b654",
-      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
-      "source": "Ecosdanoticia",
-      "link": "https://ecosdanoticia.net",
-      "time": "hoje, 08:52",
-      "dt_iso": "2026-11-10T11:52:21+00:00",
-      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "locação"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -356,25 +437,6 @@
       ]
     },
     {
-      "id": "00b7d2079d",
-      "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
-      "source": "Valor Econômico",
-      "link": "https://valor.globo.com",
-      "time": "hoje, 05:10",
-      "dt_iso": "2026-11-10T08:10:01+00:00",
-      "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "a842997708",
       "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
       "source": "CNN Brasil",
@@ -413,11 +475,30 @@
       ]
     },
     {
+      "id": "4ba7e8b654",
+      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
+      "source": "Ecosdanoticia",
+      "link": "https://ecosdanoticia.net",
+      "time": "hoje, 08:52",
+      "dt_iso": "2026-11-10T11:52:21+00:00",
+      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "ef0a17ad34",
       "headline": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre - BPMoney",
       "source": "Bpmoney",
       "link": "https://bpmoney.com.br",
-      "time": "hoje, 16:11",
+      "time": "ontem, 16:11",
       "dt_iso": "2026-11-09T19:11:08+00:00",
       "summary": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre &nbsp;&nbsp; BPMoney",
       "category": "investimento",
@@ -569,8 +650,8 @@
       "headline": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA - Na Hora da Notícia",
       "source": "Nahoradanoticia",
       "link": "https://nahoradanoticia.com.br",
-      "time": "ontem, 05:00",
-      "dt_iso": "2026-11-09T08:00:00+00:00",
+      "time": "hoje, 12:20",
+      "dt_iso": "2026-11-10T15:20:08+00:00",
       "summary": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA &nbsp;&nbsp; Na Hora da Notícia",
       "category": "expansao",
       "keywords": [
