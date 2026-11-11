@@ -1,28 +1,7 @@
 {
-  "gerado_em": "10/11/2026 às 18:39",
+  "gerado_em": "11/11/2026 às 13:42",
   "total": 34,
   "noticias": [
-    {
-      "id": "8d4281f9f0",
-      "headline": "Riachuelo e Grupo SBF desabam até 11% apesar de balanços “distintos”; entenda",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/riachuelo-e-grupo-sbf-desabam-ate-13-apesar-de-balancos-com-desempenhos-distintos/",
-      "time": "há 14 min",
-      "dt_iso": "2026-11-10T21:24:00+00:00",
-      "summary": "Enquanto a Riachuelo manteve crescimento acima dos concorrentes e expansão das margens, o Grupo SBF enfrentou pressão sobre a rentabilidade \n The post  Riachuelo e Grupo SBF desabam até 11% apesar de balanços &#8220;distintos&#8221;; entenda  appeared first on  InfoMoney .",
-      "category": "expansao",
-      "keywords": [
-        "riachuelo",
-        "grupo sbf",
-        "expansão",
-        "crescimento"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
     {
       "id": "bc0aa90f72",
       "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - MundoLogística",
@@ -49,7 +28,7 @@
       "headline": "Mercado Livre, Shopee ou Amazon: quem lotou os galpões no País? Só 4,9% dos espaços estão vagos - Blog do Gustavo Negreiros",
       "source": "Gustavonegreiros",
       "link": "https://gustavonegreiros.com.br",
-      "time": "ontem, 11:17",
+      "time": "09/11 às 11:17",
       "dt_iso": "2026-11-09T14:17:46+00:00",
       "summary": "Mercado Livre, Shopee ou Amazon: quem lotou os galpões no País? Só 4,9% dos espaços estão vagos &nbsp;&nbsp; Blog do Gustavo Negreiros",
       "category": "ecommerce",
@@ -66,13 +45,54 @@
       ]
     },
     {
-      "id": "240f836150",
-      "headline": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "04/11 às 11:22",
-      "dt_iso": "2026-11-04T14:22:51+00:00",
-      "summary": "Mercado Livre chega a 3,8 milhões de m² em galpões logísticos &nbsp;&nbsp; Mundo Logística",
+      "id": "f0ec4e856a",
+      "headline": "Mercado Livre amplia em 52% área ocupada em galpões logísticos no Brasil - Portal BE News",
+      "source": "Portalbenews",
+      "link": "https://portalbenews.com.br",
+      "time": "06/11 às 07:24",
+      "dt_iso": "2026-11-06T10:24:00+00:00",
+      "summary": "Mercado Livre amplia em 52% área ocupada em galpões logísticos no Brasil &nbsp;&nbsp; Portal BE News",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpões",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "5687316742",
+      "headline": "ZAL Port inicia construção de armazém de 55.000 m² para hub logístico da Lidl - Data Portuaria",
+      "source": "Dataportuaria",
+      "link": "https://dataportuaria.com",
+      "time": "ontem, 14:40",
+      "dt_iso": "2026-11-09T17:40:14+00:00",
+      "summary": "ZAL Port inicia construção de armazém de 55.000 m² para hub logístico da Lidl &nbsp;&nbsp; Data Portuaria",
+      "category": "logistica",
+      "keywords": [
+        "armazém",
+        "hub logístico",
+        "construção"
+      ],
+      "score": 7,
+      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "a294f4106f",
+      "headline": "Mercado Livre é maior locadora de galpões logísticos do Brasil, com 3,8 milhões de m² ocupados - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "06/11 às 16:01",
+      "dt_iso": "2026-11-06T19:01:25+00:00",
+      "summary": "Mercado Livre é maior locadora de galpões logísticos do Brasil, com 3,8 milhões de m² ocupados &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "mercado livre",
@@ -89,7 +109,7 @@
       "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
       "source": "Diariodoacre",
       "link": "https://diariodoacre.com.br",
-      "time": "hoje, 09:10",
+      "time": "ontem, 09:10",
       "dt_iso": "2026-11-10T12:10:00+00:00",
       "summary": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel &nbsp;&nbsp; Diário do Acre",
       "category": "logistica",
@@ -145,6 +165,25 @@
       ]
     },
     {
+      "id": "19f9cb4f79",
+      "headline": "Shopee inicia operação em novo centro de distribuição de 8 mil m² em Rio Preto - Tanabi Noticias",
+      "source": "Tanabinoticias",
+      "link": "https://tanabinoticias.com.br",
+      "time": "ontem, 23:15",
+      "dt_iso": "2026-11-10T02:15:40+00:00",
+      "summary": "Shopee inicia operação em novo centro de distribuição de 8 mil m² em Rio Preto &nbsp;&nbsp; Tanabi Noticias",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "0f171c3cc5",
       "headline": "Vacância de galpões logísticos cai à mínima histórica no país - Suno - Investimentos Inteligentes",
       "source": "Suno",
@@ -165,33 +204,13 @@
       ]
     },
     {
-      "id": "412f8faa36",
-      "headline": "Shopee expande rede logística com novo CD em Pernambuco - JC",
-      "source": "UOL",
-      "link": "https://jc.uol.com.br",
-      "time": "04/11 às 06:37",
-      "dt_iso": "2026-11-04T09:37:06+00:00",
-      "summary": "Shopee expande rede logística com novo CD em Pernambuco &nbsp;&nbsp; JC",
-      "category": "expansao",
-      "keywords": [
-        "shopee",
-        "expande",
-        "novo cd"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "84be92ea9a",
-      "headline": "Magalu cresce com a crise da Casas Bahia e parcerias com plataformas internacionais - O GLOBO",
+      "id": "9cbe846861",
+      "headline": "Magalu cresce diante de crise na Casas Bahia e parcerias com plataformas internacionais - O GLOBO",
       "source": "O Globo",
       "link": "https://oglobo.globo.com",
-      "time": "hoje, 18:53",
+      "time": "ontem, 18:53",
       "dt_iso": "2026-11-09T21:53:55+00:00",
-      "summary": "Magalu cresce com a crise da Casas Bahia e parcerias com plataformas internacionais &nbsp;&nbsp; O GLOBO",
+      "summary": "Magalu cresce diante de crise na Casas Bahia e parcerias com plataformas internacionais &nbsp;&nbsp; O GLOBO",
       "category": "investimento",
       "keywords": [
         "magalu",
@@ -245,6 +264,26 @@
       ]
     },
     {
+      "id": "d291de3506",
+      "headline": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "ontem, 18:57",
+      "dt_iso": "2026-11-09T21:57:18+00:00",
+      "summary": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia &nbsp;&nbsp; Exame",
+      "category": "investimento",
+      "keywords": [
+        "magalu",
+        "casas bahia",
+        "crescimento"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "127aa9c88a",
       "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
       "source": "Seudinheiro",
@@ -257,26 +296,6 @@
         "magazine luiza",
         "casas bahia",
         "abre"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "d291de3506",
-      "headline": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "hoje, 18:57",
-      "dt_iso": "2026-11-09T21:57:18+00:00",
-      "summary": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia &nbsp;&nbsp; Exame",
-      "category": "investimento",
-      "keywords": [
-        "magalu",
-        "casas bahia",
-        "crescimento"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -308,7 +327,7 @@
       "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "hoje, 05:10",
+      "time": "ontem, 05:10",
       "dt_iso": "2026-11-10T08:10:01+00:00",
       "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
       "category": "expansao",
@@ -346,7 +365,7 @@
       "headline": "Luft Logistics amplia qualificação de mulheres na logística - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 10:43",
+      "time": "ontem, 10:43",
       "dt_iso": "2026-11-10T13:43:00+00:00",
       "summary": "Luft Logistics amplia qualificação de mulheres na logística &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -394,25 +413,6 @@
       ],
       "score": 6,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "1b41756615",
-      "headline": "Prefeitura de Arujá inaugura novo prédio da Secretaria de Esportes - Diário de Suzano",
-      "source": "Diariodesuzano",
-      "link": "https://www.diariodesuzano.com.br",
-      "time": "07/11 às 13:42",
-      "dt_iso": "2026-11-07T16:42:00+00:00",
-      "summary": "Prefeitura de Arujá inaugura novo prédio da Secretaria de Esportes &nbsp;&nbsp; Diário de Suzano",
-      "category": "logistica",
-      "keywords": [
-        "suzano",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -479,7 +479,7 @@
       "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
       "source": "Ecosdanoticia",
       "link": "https://ecosdanoticia.net",
-      "time": "hoje, 08:52",
+      "time": "ontem, 08:52",
       "dt_iso": "2026-11-10T11:52:21+00:00",
       "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
       "category": "logistica",
@@ -517,7 +517,7 @@
       "headline": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas - Poder360",
       "source": "Poder360",
       "link": "https://www.poder360.com.br",
-      "time": "hoje, 19:10",
+      "time": "ontem, 19:10",
       "dt_iso": "2026-11-09T22:10:15+00:00",
       "summary": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas &nbsp;&nbsp; Poder360",
       "category": "logistica",
@@ -536,7 +536,7 @@
       "headline": "BTLG11 tem lucro menor e negocia novos galpões - SpaceMoney",
       "source": "Spacemoney",
       "link": "https://www.spacemoney.com.br",
-      "time": "ontem, 10:07",
+      "time": "09/11 às 10:07",
       "dt_iso": "2026-11-09T13:07:46+00:00",
       "summary": "BTLG11 tem lucro menor e negocia novos galpões &nbsp;&nbsp; SpaceMoney",
       "category": "logistica",
@@ -555,7 +555,7 @@
       "headline": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "hoje, 05:01",
+      "time": "ontem, 05:01",
       "dt_iso": "2026-11-10T08:01:28+00:00",
       "summary": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão &nbsp;&nbsp; Exame",
       "category": "logistica",
@@ -574,7 +574,7 @@
       "headline": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri - Valor Investe",
       "source": "Valorinveste",
       "link": "https://valorinveste.globo.com",
-      "time": "hoje, 11:04",
+      "time": "ontem, 11:04",
       "dt_iso": "2026-11-10T14:04:16+00:00",
       "summary": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri &nbsp;&nbsp; Valor Investe",
       "category": "logistica",
@@ -586,25 +586,6 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "3a6989ed5c",
-      "headline": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x - SA+ Ecossistema de Varejo",
-      "source": "Samais",
-      "link": "https://samais.com.br",
-      "time": "ontem, 10:43",
-      "dt_iso": "2026-11-09T13:43:00+00:00",
-      "summary": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x &nbsp;&nbsp; SA+ Ecossistema de Varejo",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -624,6 +605,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "3a6989ed5c",
+      "headline": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x - SA+ Ecossistema de Varejo",
+      "source": "Samais",
+      "link": "https://samais.com.br",
+      "time": "09/11 às 10:43",
+      "dt_iso": "2026-11-09T13:43:00+00:00",
+      "summary": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x &nbsp;&nbsp; SA+ Ecossistema de Varejo",
+      "category": "expansao",
+      "keywords": [
+        "assaí",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -650,7 +650,7 @@
       "headline": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA - Na Hora da Notícia",
       "source": "Nahoradanoticia",
       "link": "https://nahoradanoticia.com.br",
-      "time": "hoje, 12:20",
+      "time": "ontem, 12:20",
       "dt_iso": "2026-11-10T15:20:08+00:00",
       "summary": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA &nbsp;&nbsp; Na Hora da Notícia",
       "category": "expansao",
