@@ -1,15 +1,36 @@
 {
-  "gerado_em": "11/11/2026 às 13:42",
+  "gerado_em": "11/11/2026 às 19:28",
   "total": 34,
   "noticias": [
     {
-      "id": "bc0aa90f72",
-      "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - MundoLogística",
+      "id": "f3490e9bb8",
+      "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - MundoLogística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "04/11 às 16:25",
-      "dt_iso": "2026-11-04T19:25:28+00:00",
-      "summary": "Unilever inaugura hub logístico automatizado em Itupeva (SP) &nbsp;&nbsp; MundoLogística",
+      "time": "hoje, 16:17",
+      "dt_iso": "2026-11-11T19:17:35+00:00",
+      "summary": "Temu firma acordo com Correios para ampliar operação logística no Brasil &nbsp;&nbsp; MundoLogística",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "operação logística",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "bc0aa90f72",
+      "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "09/11 às 11:20",
+      "dt_iso": "2026-11-09T14:20:00+00:00",
+      "summary": "Unilever inaugura hub logístico automatizado em Itupeva (SP) &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "unilever",
@@ -70,7 +91,7 @@
       "headline": "ZAL Port inicia construção de armazém de 55.000 m² para hub logístico da Lidl - Data Portuaria",
       "source": "Dataportuaria",
       "link": "https://dataportuaria.com",
-      "time": "ontem, 14:40",
+      "time": "09/11 às 14:40",
       "dt_iso": "2026-11-09T17:40:14+00:00",
       "summary": "ZAL Port inicia construção de armazém de 55.000 m² para hub logístico da Lidl &nbsp;&nbsp; Data Portuaria",
       "category": "logistica",
@@ -188,7 +209,7 @@
       "headline": "Vacância de galpões logísticos cai à mínima histórica no país - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "hoje, 16:25",
+      "time": "ontem, 16:25",
       "dt_iso": "2026-11-10T19:25:07+00:00",
       "summary": "Vacância de galpões logísticos cai à mínima histórica no país &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "logistica",
@@ -204,11 +225,31 @@
       ]
     },
     {
+      "id": "efeaa3eb2a",
+      "headline": "Mercado Livre amplia investimento em afiliados no Brasil - Revista Empreende",
+      "source": "Revistaempreende",
+      "link": "https://revistaempreende.com.br",
+      "time": "hoje, 14:09",
+      "dt_iso": "2026-11-11T17:09:00+00:00",
+      "summary": "Mercado Livre amplia investimento em afiliados no Brasil &nbsp;&nbsp; Revista Empreende",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "amplia",
+        "investimento"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "9cbe846861",
       "headline": "Magalu cresce diante de crise na Casas Bahia e parcerias com plataformas internacionais - O GLOBO",
       "source": "O Globo",
       "link": "https://oglobo.globo.com",
-      "time": "ontem, 18:53",
+      "time": "09/11 às 18:53",
       "dt_iso": "2026-11-09T21:53:55+00:00",
       "summary": "Magalu cresce diante de crise na Casas Bahia e parcerias com plataformas internacionais &nbsp;&nbsp; O GLOBO",
       "category": "investimento",
@@ -224,13 +265,13 @@
       ]
     },
     {
-      "id": "bdaca5601e",
-      "headline": "BTLG11 fecha compra de galpões logísticos da Capitânia - Suno - Investimentos Inteligentes",
+      "id": "3365c1317e",
+      "headline": "BTLG11 adquire galpões logísticos do CPLG11 - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "hoje, 13:49",
+      "time": "ontem, 13:49",
       "dt_iso": "2026-11-10T16:49:14+00:00",
-      "summary": "BTLG11 fecha compra de galpões logísticos da Capitânia &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "summary": "BTLG11 adquire galpões logísticos do CPLG11 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "logistica",
       "keywords": [
         "galpões",
@@ -268,7 +309,7 @@
       "headline": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "ontem, 18:57",
+      "time": "09/11 às 18:57",
       "dt_iso": "2026-11-09T21:57:18+00:00",
       "summary": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia &nbsp;&nbsp; Exame",
       "category": "investimento",
@@ -288,7 +329,7 @@
       "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
-      "time": "hoje, 13:49",
+      "time": "ontem, 13:49",
       "dt_iso": "2026-11-10T16:49:00+00:00",
       "summary": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) &nbsp;&nbsp; Seu Dinheiro",
       "category": "investimento",
@@ -308,7 +349,7 @@
       "headline": "Unilider prevê inaugurar até três centros de distribuição em Minas Gerais - Giro News",
       "source": "Gironews",
       "link": "https://gironews.com",
-      "time": "ontem, 18:33",
+      "time": "09/11 às 18:33",
       "dt_iso": "2026-11-09T21:33:53+00:00",
       "summary": "Unilider prevê inaugurar até três centros de distribuição em Minas Gerais &nbsp;&nbsp; Giro News",
       "category": "logistica",
@@ -380,25 +421,6 @@
       ]
     },
     {
-      "id": "224c4d91ea",
-      "headline": "Perfumes e cosméticos importados: empresa capixaba investe R$ 25 mi em galpão tecnológico - Folha Vitória",
-      "source": "Folhavitoria",
-      "link": "https://www.folhavitoria.com.br",
-      "time": "04/11 às 19:15",
-      "dt_iso": "2026-11-04T22:15:30+00:00",
-      "summary": "Perfumes e cosméticos importados: empresa capixaba investe R$ 25 mi em galpão tecnológico &nbsp;&nbsp; Folha Vitória",
-      "category": "logistica",
-      "keywords": [
-        "galpão",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "45f4abbb76",
       "headline": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul - Saúde Digital News",
       "source": "Saudedigitalnews",
@@ -437,44 +459,6 @@
       ]
     },
     {
-      "id": "a842997708",
-      "headline": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor - CNN Brasil",
-      "source": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br",
-      "time": "05/11 às 05:00",
-      "dt_iso": "2026-11-05T08:00:00+00:00",
-      "summary": "Prioridade do Mercado Livre é crescimento a longo prazo, diz diretor &nbsp;&nbsp; CNN Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "8c21e07965",
-      "headline": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil - Estadão",
-      "source": "Estadão",
-      "link": "https://www.estadao.com.br",
-      "time": "04/11 às 18:31",
-      "dt_iso": "2026-11-04T21:31:00+00:00",
-      "summary": "Mercado Livre lucra US$ 448 milhões no 3T26 e acelera expansão com frete grátis no Brasil &nbsp;&nbsp; Estadão",
-      "category": "expansao",
-      "keywords": [
-        "mercado livre",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "4ba7e8b654",
       "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
       "source": "Ecosdanoticia",
@@ -498,7 +482,7 @@
       "headline": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre - BPMoney",
       "source": "Bpmoney",
       "link": "https://bpmoney.com.br",
-      "time": "ontem, 16:11",
+      "time": "09/11 às 16:11",
       "dt_iso": "2026-11-09T19:11:08+00:00",
       "summary": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre &nbsp;&nbsp; BPMoney",
       "category": "investimento",
@@ -517,7 +501,7 @@
       "headline": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas - Poder360",
       "source": "Poder360",
       "link": "https://www.poder360.com.br",
-      "time": "ontem, 19:10",
+      "time": "09/11 às 19:10",
       "dt_iso": "2026-11-09T22:10:15+00:00",
       "summary": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas &nbsp;&nbsp; Poder360",
       "category": "logistica",
@@ -643,6 +627,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "e4c113495b",
+      "headline": "Vestuário amplia peso nos resultados da Riachuelo - GBLJeans",
+      "source": "Gbljeans",
+      "link": "https://gbljeans.com.br",
+      "time": "hoje, 13:40",
+      "dt_iso": "2026-11-11T16:40:04+00:00",
+      "summary": "Vestuário amplia peso nos resultados da Riachuelo &nbsp;&nbsp; GBLJeans",
+      "category": "logistica",
+      "keywords": [
+        "riachuelo",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
