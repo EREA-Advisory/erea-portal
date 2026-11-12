@@ -1,15 +1,15 @@
 {
-  "gerado_em": "12/11/2026 às 14:10",
-  "total": 34,
+  "gerado_em": "12/11/2026 às 19:02",
+  "total": 30,
   "noticias": [
     {
-      "id": "ca1391d616",
-      "headline": "Mercado Livre inaugura novo centro de distribuição em Contagem e abre mais de 300 vagas de emprego - O Tempo",
-      "source": "Otempo",
-      "link": "https://www.otempo.com.br",
-      "time": "hoje, 11:44",
-      "dt_iso": "2026-11-12T14:44:02+00:00",
-      "summary": "Mercado Livre inaugura novo centro de distribuição em Contagem e abre mais de 300 vagas de emprego &nbsp;&nbsp; O Tempo",
+      "id": "b40c57a122",
+      "headline": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego - BHAZ",
+      "source": "Bhaz",
+      "link": "https://bhaz.com.br",
+      "time": "hoje, 16:08",
+      "dt_iso": "2026-11-12T19:08:00+00:00",
+      "summary": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego &nbsp;&nbsp; BHAZ",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -25,11 +25,32 @@
       ]
     },
     {
+      "id": "1aa64bbf67",
+      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
+      "source": "Jornaldhoje",
+      "link": "https://jornaldhoje.com.br",
+      "time": "ontem, 16:00",
+      "dt_iso": "2026-11-11T19:00:00+00:00",
+      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
       "id": "f3490e9bb8",
       "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 16:17",
+      "time": "ontem, 16:17",
       "dt_iso": "2026-11-11T19:17:35+00:00",
       "summary": "Temu firma acordo com Correios para ampliar operação logística no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -46,24 +67,24 @@
       ]
     },
     {
-      "id": "1aa64bbf67",
-      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
-      "source": "Jornaldhoje",
-      "link": "https://jornaldhoje.com.br",
-      "time": "hoje, 16:00",
-      "dt_iso": "2026-11-11T19:00:00+00:00",
-      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
-      "category": "logistica",
+      "id": "5c28076a0e",
+      "headline": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA - Folha de S.Paulo",
+      "source": "UOL",
+      "link": "https://www1.folha.uol.com.br",
+      "time": "hoje, 15:28",
+      "dt_iso": "2026-11-12T18:28:00+00:00",
+      "summary": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA &nbsp;&nbsp; Folha de S.Paulo",
+      "category": "ecommerce",
       "keywords": [
+        "mercado livre",
         "shopee",
-        "centro de distribuição",
-        "amplia"
+        "galpões"
       ],
       "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -82,27 +103,6 @@
       ],
       "score": 8,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "f0ec4e856a",
-      "headline": "Mercado Livre amplia em 52% área ocupada em galpões logísticos no Brasil - Portal BE News",
-      "source": "Portalbenews",
-      "link": "https://portalbenews.com.br",
-      "time": "06/11 às 07:24",
-      "dt_iso": "2026-11-06T10:24:00+00:00",
-      "summary": "Mercado Livre amplia em 52% área ocupada em galpões logísticos no Brasil &nbsp;&nbsp; Portal BE News",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "galpões",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "E-commerce"
@@ -148,26 +148,6 @@
       ]
     },
     {
-      "id": "6ca3e38a46",
-      "headline": "TRBL11 investe R$ 456,5 milhões em galpões, incluindo imóvel da Amazon - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "05/11 às 16:50",
-      "dt_iso": "2026-11-05T19:50:03+00:00",
-      "summary": "TRBL11 investe R$ 456,5 milhões em galpões, incluindo imóvel da Amazon &nbsp;&nbsp; melhorinvestimento.net",
-      "category": "ecommerce",
-      "keywords": [
-        "galpões",
-        "investe",
-        "investimento"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "805a62e160",
       "headline": "BLIPS INAUGURA CENTRO DE DISTRIBUIÇÃO EM CABREÚVA (SP) - Bahia Econômica",
       "source": "Bahiaeconomica",
@@ -188,30 +168,11 @@
       ]
     },
     {
-      "id": "70266622da",
-      "headline": "Novo centro de distribuição da Shopee impulsiona logística e economia em Rio Preto - Região Noroeste",
-      "source": "Regiaonoroeste",
-      "link": "https://regiaonoroeste.com",
-      "time": "ontem, 09:05",
-      "dt_iso": "2026-11-11T12:05:00+00:00",
-      "summary": "Novo centro de distribuição da Shopee impulsiona logística e economia em Rio Preto &nbsp;&nbsp; Região Noroeste",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "0f171c3cc5",
       "headline": "Vacância de galpões logísticos cai à mínima histórica no país - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "ontem, 16:25",
+      "time": "10/11 às 16:25",
       "dt_iso": "2026-11-10T19:25:07+00:00",
       "summary": "Vacância de galpões logísticos cai à mínima histórica no país &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "logistica",
@@ -327,25 +288,6 @@
       ]
     },
     {
-      "id": "2f4d69d2e2",
-      "headline": "Unilider prevê inaugurar até três centros de distribuição em Minas Gerais - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "09/11 às 18:33",
-      "dt_iso": "2026-11-09T21:33:53+00:00",
-      "summary": "Unilider prevê inaugurar até três centros de distribuição em Minas Gerais &nbsp;&nbsp; Giro News",
-      "category": "logistica",
-      "keywords": [
-        "centros de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades. Intenção declarada de expansão — janela de prospecção ativa.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "00b7d2079d",
       "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
       "source": "Valor Econômico",
@@ -365,25 +307,6 @@
       ]
     },
     {
-      "id": "78fbe35250",
-      "headline": "NIX Intralogística investe R$ 25 milhões em armazém climatizado no Espírito Santo - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "05/11 às 17:16",
-      "dt_iso": "2026-11-05T20:16:29+00:00",
-      "summary": "NIX Intralogística investe R$ 25 milhões em armazém climatizado no Espírito Santo &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "armazém",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "ab2b4aff89",
       "headline": "Luft Logistics amplia qualificação de mulheres na logística - Modais em Foco",
       "source": "Modais em Foco",
@@ -398,6 +321,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "4ba7e8b654",
+      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
+      "source": "Ecosdanoticia",
+      "link": "https://ecosdanoticia.net",
+      "time": "10/11 às 08:52",
+      "dt_iso": "2026-11-10T11:52:21+00:00",
+      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -441,6 +383,25 @@
       ]
     },
     {
+      "id": "238e096e01",
+      "headline": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo - bra1.com.br",
+      "source": "Bra1",
+      "link": "https://www.bra1.com.br",
+      "time": "hoje, 15:50",
+      "dt_iso": "2026-11-12T18:50:00+00:00",
+      "summary": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo &nbsp;&nbsp; bra1.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "9f94cdfac0",
       "headline": "Galpões portuários alugados por 40 anos rendem até 11% e atraem R$ 1 bi de fundo - Exame",
       "source": "Exame",
@@ -457,25 +418,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "4ba7e8b654",
-      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
-      "source": "Ecosdanoticia",
-      "link": "https://ecosdanoticia.net",
-      "time": "10/11 às 08:52",
-      "dt_iso": "2026-11-10T11:52:21+00:00",
-      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "locação"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -509,25 +451,6 @@
       "keywords": [
         "magalu",
         "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "35fe73141d",
-      "headline": "BTLG11 tem lucro menor e negocia novos galpões - SpaceMoney",
-      "source": "Spacemoney",
-      "link": "https://www.spacemoney.com.br",
-      "time": "09/11 às 10:07",
-      "dt_iso": "2026-11-09T13:07:46+00:00",
-      "summary": "BTLG11 tem lucro menor e negocia novos galpões &nbsp;&nbsp; SpaceMoney",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "novos galpões"
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -593,25 +516,6 @@
       ]
     },
     {
-      "id": "3a6989ed5c",
-      "headline": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x - SA+ Ecossistema de Varejo",
-      "source": "Samais",
-      "link": "https://samais.com.br",
-      "time": "09/11 às 10:43",
-      "dt_iso": "2026-11-09T13:43:00+00:00",
-      "summary": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x &nbsp;&nbsp; SA+ Ecossistema de Varejo",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "a269f11fdb",
       "headline": "Assaí relata alta nas vendas após veto às bets e mira expansão - TV Sim Brasil",
       "source": "Tvsimbrasil",
@@ -645,6 +549,25 @@
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "101bbf9b37",
+      "headline": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários - TeleSíntese",
+      "source": "Telesintese",
+      "link": "https://telesintese.com.br",
+      "time": "hoje, 17:59",
+      "dt_iso": "2026-11-12T20:59:57+00:00",
+      "summary": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários &nbsp;&nbsp; TeleSíntese",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
