@@ -1,15 +1,37 @@
 {
-  "gerado_em": "11/11/2026 às 19:28",
+  "gerado_em": "12/11/2026 às 14:10",
   "total": 34,
   "noticias": [
     {
+      "id": "ca1391d616",
+      "headline": "Mercado Livre inaugura novo centro de distribuição em Contagem e abre mais de 300 vagas de emprego - O Tempo",
+      "source": "Otempo",
+      "link": "https://www.otempo.com.br",
+      "time": "hoje, 11:44",
+      "dt_iso": "2026-11-12T14:44:02+00:00",
+      "summary": "Mercado Livre inaugura novo centro de distribuição em Contagem e abre mais de 300 vagas de emprego &nbsp;&nbsp; O Tempo",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição",
+        "inaugura",
+        "abre"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Contagem.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
       "id": "f3490e9bb8",
-      "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - MundoLogística",
+      "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
       "time": "hoje, 16:17",
       "dt_iso": "2026-11-11T19:17:35+00:00",
-      "summary": "Temu firma acordo com Correios para ampliar operação logística no Brasil &nbsp;&nbsp; MundoLogística",
+      "summary": "Temu firma acordo com Correios para ampliar operação logística no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "correios",
@@ -24,21 +46,21 @@
       ]
     },
     {
-      "id": "bc0aa90f72",
-      "headline": "Unilever inaugura hub logístico automatizado em Itupeva (SP) - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "09/11 às 11:20",
-      "dt_iso": "2026-11-09T14:20:00+00:00",
-      "summary": "Unilever inaugura hub logístico automatizado em Itupeva (SP) &nbsp;&nbsp; Modais em Foco",
+      "id": "1aa64bbf67",
+      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
+      "source": "Jornaldhoje",
+      "link": "https://jornaldhoje.com.br",
+      "time": "hoje, 16:00",
+      "dt_iso": "2026-11-11T19:00:00+00:00",
+      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
       "category": "logistica",
       "keywords": [
-        "unilever",
-        "hub logístico",
-        "inaugura"
+        "shopee",
+        "centro de distribuição",
+        "amplia"
       ],
       "score": 8,
-      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas. Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -87,21 +109,21 @@
       ]
     },
     {
-      "id": "5687316742",
-      "headline": "ZAL Port inicia construção de armazém de 55.000 m² para hub logístico da Lidl - Data Portuaria",
-      "source": "Dataportuaria",
-      "link": "https://dataportuaria.com",
-      "time": "09/11 às 14:40",
-      "dt_iso": "2026-11-09T17:40:14+00:00",
-      "summary": "ZAL Port inicia construção de armazém de 55.000 m² para hub logístico da Lidl &nbsp;&nbsp; Data Portuaria",
+      "id": "ef5b62a05a",
+      "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
+      "source": "Diariodoacre",
+      "link": "https://diariodoacre.com.br",
+      "time": "10/11 às 09:10",
+      "dt_iso": "2026-11-10T12:10:00+00:00",
+      "summary": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel &nbsp;&nbsp; Diário do Acre",
       "category": "logistica",
       "keywords": [
-        "armazém",
-        "hub logístico",
-        "construção"
+        "galpões",
+        "cresce",
+        "aluguel"
       ],
       "score": 7,
-      "relevance": "Expansão de hub/cross-docking — imóvel com alto fluxo de docas.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -118,26 +140,6 @@
       "keywords": [
         "mercado livre",
         "galpões"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ef5b62a05a",
-      "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
-      "source": "Diariodoacre",
-      "link": "https://diariodoacre.com.br",
-      "time": "ontem, 09:10",
-      "dt_iso": "2026-11-10T12:10:00+00:00",
-      "summary": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel &nbsp;&nbsp; Diário do Acre",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "cresce",
-        "aluguel"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -186,14 +188,14 @@
       ]
     },
     {
-      "id": "19f9cb4f79",
-      "headline": "Shopee inicia operação em novo centro de distribuição de 8 mil m² em Rio Preto - Tanabi Noticias",
-      "source": "Tanabinoticias",
-      "link": "https://tanabinoticias.com.br",
-      "time": "ontem, 23:15",
-      "dt_iso": "2026-11-10T02:15:40+00:00",
-      "summary": "Shopee inicia operação em novo centro de distribuição de 8 mil m² em Rio Preto &nbsp;&nbsp; Tanabi Noticias",
-      "category": "ecommerce",
+      "id": "70266622da",
+      "headline": "Novo centro de distribuição da Shopee impulsiona logística e economia em Rio Preto - Região Noroeste",
+      "source": "Regiaonoroeste",
+      "link": "https://regiaonoroeste.com",
+      "time": "ontem, 09:05",
+      "dt_iso": "2026-11-11T12:05:00+00:00",
+      "summary": "Novo centro de distribuição da Shopee impulsiona logística e economia em Rio Preto &nbsp;&nbsp; Região Noroeste",
+      "category": "logistica",
       "keywords": [
         "shopee",
         "centro de distribuição"
@@ -201,7 +203,7 @@
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -229,7 +231,7 @@
       "headline": "Mercado Livre amplia investimento em afiliados no Brasil - Revista Empreende",
       "source": "Revistaempreende",
       "link": "https://revistaempreende.com.br",
-      "time": "hoje, 14:09",
+      "time": "ontem, 14:09",
       "dt_iso": "2026-11-11T17:09:00+00:00",
       "summary": "Mercado Livre amplia investimento em afiliados no Brasil &nbsp;&nbsp; Revista Empreende",
       "category": "ecommerce",
@@ -269,7 +271,7 @@
       "headline": "BTLG11 adquire galpões logísticos do CPLG11 - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "ontem, 13:49",
+      "time": "10/11 às 13:49",
       "dt_iso": "2026-11-10T16:49:14+00:00",
       "summary": "BTLG11 adquire galpões logísticos do CPLG11 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "logistica",
@@ -282,26 +284,6 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "8b50e908f3",
-      "headline": "CFO do Mercado Livre defende investimentos ousados após lucro abaixo das estimativas - Bloomberg Linea Brasil",
-      "source": "Bloomberglinea",
-      "link": "https://www.bloomberglinea.com.br",
-      "time": "05/11 às 08:20",
-      "dt_iso": "2026-11-05T11:20:58+00:00",
-      "summary": "CFO do Mercado Livre defende investimentos ousados após lucro abaixo das estimativas &nbsp;&nbsp; Bloomberg Linea Brasil",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -329,7 +311,7 @@
       "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
       "source": "Seudinheiro",
       "link": "https://www.seudinheiro.com",
-      "time": "ontem, 13:49",
+      "time": "10/11 às 13:49",
       "dt_iso": "2026-11-10T16:49:00+00:00",
       "summary": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) &nbsp;&nbsp; Seu Dinheiro",
       "category": "investimento",
@@ -368,7 +350,7 @@
       "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "ontem, 05:10",
+      "time": "10/11 às 05:10",
       "dt_iso": "2026-11-10T08:10:01+00:00",
       "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
       "category": "expansao",
@@ -406,7 +388,7 @@
       "headline": "Luft Logistics amplia qualificação de mulheres na logística - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 10:43",
+      "time": "10/11 às 10:43",
       "dt_iso": "2026-11-10T13:43:00+00:00",
       "summary": "Luft Logistics amplia qualificação de mulheres na logística &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -459,11 +441,30 @@
       ]
     },
     {
+      "id": "9f94cdfac0",
+      "headline": "Galpões portuários alugados por 40 anos rendem até 11% e atraem R$ 1 bi de fundo - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "hoje, 05:03",
+      "dt_iso": "2026-11-12T08:03:24+00:00",
+      "summary": "Galpões portuários alugados por 40 anos rendem até 11% e atraem R$ 1 bi de fundo &nbsp;&nbsp; Exame",
+      "category": "investimento",
+      "keywords": [
+        "galpões",
+        "aluga"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "4ba7e8b654",
       "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
       "source": "Ecosdanoticia",
       "link": "https://ecosdanoticia.net",
-      "time": "ontem, 08:52",
+      "time": "10/11 às 08:52",
       "dt_iso": "2026-11-10T11:52:21+00:00",
       "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
       "category": "logistica",
@@ -539,7 +540,7 @@
       "headline": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "ontem, 05:01",
+      "time": "10/11 às 05:01",
       "dt_iso": "2026-11-10T08:01:28+00:00",
       "summary": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão &nbsp;&nbsp; Exame",
       "category": "logistica",
@@ -558,7 +559,7 @@
       "headline": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri - Valor Investe",
       "source": "Valorinveste",
       "link": "https://valorinveste.globo.com",
-      "time": "ontem, 11:04",
+      "time": "10/11 às 11:04",
       "dt_iso": "2026-11-10T14:04:16+00:00",
       "summary": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri &nbsp;&nbsp; Valor Investe",
       "category": "logistica",
@@ -634,8 +635,8 @@
       "headline": "Vestuário amplia peso nos resultados da Riachuelo - GBLJeans",
       "source": "Gbljeans",
       "link": "https://gbljeans.com.br",
-      "time": "hoje, 13:40",
-      "dt_iso": "2026-11-11T16:40:04+00:00",
+      "time": "ontem, 13:39",
+      "dt_iso": "2026-11-11T16:39:22+00:00",
       "summary": "Vestuário amplia peso nos resultados da Riachuelo &nbsp;&nbsp; GBLJeans",
       "category": "logistica",
       "keywords": [
@@ -653,7 +654,7 @@
       "headline": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA - Na Hora da Notícia",
       "source": "Nahoradanoticia",
       "link": "https://nahoradanoticia.com.br",
-      "time": "ontem, 12:20",
+      "time": "10/11 às 12:20",
       "dt_iso": "2026-11-10T15:20:08+00:00",
       "summary": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA &nbsp;&nbsp; Na Hora da Notícia",
       "category": "expansao",
