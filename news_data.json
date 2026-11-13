@@ -1,6 +1,6 @@
 {
-  "gerado_em": "12/11/2026 às 19:02",
-  "total": 30,
+  "gerado_em": "13/11/2026 às 13:49",
+  "total": 31,
   "noticias": [
     {
       "id": "b40c57a122",
@@ -25,27 +25,6 @@
       ]
     },
     {
-      "id": "1aa64bbf67",
-      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
-      "source": "Jornaldhoje",
-      "link": "https://jornaldhoje.com.br",
-      "time": "ontem, 16:00",
-      "dt_iso": "2026-11-11T19:00:00+00:00",
-      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "centro de distribuição",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
       "id": "f3490e9bb8",
       "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - Mundo Logística",
       "source": "Mundo Logística",
@@ -61,6 +40,48 @@
       ],
       "score": 8,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "f914549744",
+      "headline": "Maersk inaugura instalação logística em Montevidéu - Portos e Navios",
+      "source": "Portos e Navios",
+      "link": "https://www.portosenavios.com.br",
+      "time": "hoje, 19:35",
+      "dt_iso": "2026-11-12T22:35:20+00:00",
+      "summary": "Maersk inaugura instalação logística em Montevidéu &nbsp;&nbsp; Portos e Navios",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "inaugura",
+        "instala",
+        "instalação"
+      ],
+      "score": 8,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1aa64bbf67",
+      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
+      "source": "Jornaldhoje",
+      "link": "https://jornaldhoje.com.br",
+      "time": "ontem, 16:00",
+      "dt_iso": "2026-11-11T19:00:00+00:00",
+      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -188,21 +209,20 @@
       ]
     },
     {
-      "id": "efeaa3eb2a",
-      "headline": "Mercado Livre amplia investimento em afiliados no Brasil - Revista Empreende",
-      "source": "Revistaempreende",
-      "link": "https://revistaempreende.com.br",
-      "time": "ontem, 14:09",
-      "dt_iso": "2026-11-11T17:09:00+00:00",
-      "summary": "Mercado Livre amplia investimento em afiliados no Brasil &nbsp;&nbsp; Revista Empreende",
+      "id": "fac9d7359a",
+      "headline": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída - O Extra.net",
+      "source": "Oextra",
+      "link": "https://oextra.net",
+      "time": "hoje, 12:41",
+      "dt_iso": "2026-11-13T15:41:51+00:00",
+      "summary": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída &nbsp;&nbsp; O Extra.net",
       "category": "ecommerce",
       "keywords": [
-        "mercado livre",
-        "amplia",
-        "investimento"
+        "shopee",
+        "centro de distribuição"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "E-commerce"
       ]
@@ -248,26 +268,6 @@
       ]
     },
     {
-      "id": "d291de3506",
-      "headline": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "09/11 às 18:57",
-      "dt_iso": "2026-11-09T21:57:18+00:00",
-      "summary": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia &nbsp;&nbsp; Exame",
-      "category": "investimento",
-      "keywords": [
-        "magalu",
-        "casas bahia",
-        "crescimento"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
       "id": "127aa9c88a",
       "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
       "source": "Seudinheiro",
@@ -307,13 +307,13 @@
       ]
     },
     {
-      "id": "ab2b4aff89",
-      "headline": "Luft Logistics amplia qualificação de mulheres na logística - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "10/11 às 10:43",
-      "dt_iso": "2026-11-10T13:43:00+00:00",
-      "summary": "Luft Logistics amplia qualificação de mulheres na logística &nbsp;&nbsp; Modais em Foco",
+      "id": "fb51b02660",
+      "headline": "Agência de Comunicação - Luft Logistics amplia projeto de qualificação feminina na logística - Estadão Blue Studio",
+      "source": "Estadão",
+      "link": "https://bluestudio.estadao.com.br",
+      "time": "hoje, 12:14",
+      "dt_iso": "2026-11-13T15:14:24+00:00",
+      "summary": "Agência de Comunicação - Luft Logistics amplia projeto de qualificação feminina na logística &nbsp;&nbsp; Estadão Blue Studio",
       "category": "logistica",
       "keywords": [
         "luft logistics",
@@ -383,6 +383,25 @@
       ]
     },
     {
+      "id": "3a856d67c7",
+      "headline": "Assaí projeta ecossistema integrado ao redor do atacarejo e programa expansão multisserviço para 2027 - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "hoje, 22:15",
+      "dt_iso": "2026-11-13T01:15:05+00:00",
+      "summary": "Assaí projeta ecossistema integrado ao redor do atacarejo e programa expansão multisserviço para 2027 &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "assaí",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "238e096e01",
       "headline": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo - bra1.com.br",
       "source": "Bra1",
@@ -406,7 +425,7 @@
       "headline": "Galpões portuários alugados por 40 anos rendem até 11% e atraem R$ 1 bi de fundo - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "hoje, 05:03",
+      "time": "ontem, 05:03",
       "dt_iso": "2026-11-12T08:03:24+00:00",
       "summary": "Galpões portuários alugados por 40 anos rendem até 11% e atraem R$ 1 bi de fundo &nbsp;&nbsp; Exame",
       "category": "investimento",
@@ -459,6 +478,25 @@
       ]
     },
     {
+      "id": "e639fcbacc",
+      "headline": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo - Seletronic",
+      "source": "Seletronic",
+      "link": "https://seletronic.com.br",
+      "time": "hoje, 00:01",
+      "dt_iso": "2026-11-13T03:01:18+00:00",
+      "summary": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo &nbsp;&nbsp; Seletronic",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "fc0d1ca270",
       "headline": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão - Exame",
       "source": "Exame",
@@ -478,41 +516,22 @@
       ]
     },
     {
-      "id": "2425ef2247",
-      "headline": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri - Valor Investe",
-      "source": "Valorinveste",
-      "link": "https://valorinveste.globo.com",
-      "time": "10/11 às 11:04",
-      "dt_iso": "2026-11-10T14:04:16+00:00",
-      "summary": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri &nbsp;&nbsp; Valor Investe",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "0b1e1bed4e",
-      "headline": "Assaí aumenta lucro em 55% e amplia fluxo de clientes no trimestre - Giro News",
-      "source": "Gironews",
-      "link": "https://gironews.com",
-      "time": "06/11 às 09:56",
-      "dt_iso": "2026-11-06T12:56:17+00:00",
-      "summary": "Assaí aumenta lucro em 55% e amplia fluxo de clientes no trimestre &nbsp;&nbsp; Giro News",
-      "category": "logistica",
+      "id": "3a6989ed5c",
+      "headline": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x - SA+ Ecossistema de Varejo",
+      "source": "Samais",
+      "link": "https://samais.com.br",
+      "time": "09/11 às 10:43",
+      "dt_iso": "2026-11-09T13:43:00+00:00",
+      "summary": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x &nbsp;&nbsp; SA+ Ecossistema de Varejo",
+      "category": "expansao",
       "keywords": [
         "assaí",
-        "amplia"
+        "expansão"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -539,7 +558,7 @@
       "headline": "Vestuário amplia peso nos resultados da Riachuelo - GBLJeans",
       "source": "Gbljeans",
       "link": "https://gbljeans.com.br",
-      "time": "ontem, 13:39",
+      "time": "11/11 às 13:39",
       "dt_iso": "2026-11-11T16:39:22+00:00",
       "summary": "Vestuário amplia peso nos resultados da Riachuelo &nbsp;&nbsp; GBLJeans",
       "category": "logistica",

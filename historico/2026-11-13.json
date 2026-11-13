@@ -1,0 +1,614 @@
+{
+  "gerado_em": "13/11/2026 às 13:49",
+  "total": 31,
+  "noticias": [
+    {
+      "id": "b40c57a122",
+      "headline": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego - BHAZ",
+      "source": "Bhaz",
+      "link": "https://bhaz.com.br",
+      "time": "hoje, 16:08",
+      "dt_iso": "2026-11-12T19:08:00+00:00",
+      "summary": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego &nbsp;&nbsp; BHAZ",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "centro de distribuição",
+        "inaugura",
+        "abre"
+      ],
+      "score": 9,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Contagem.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "f3490e9bb8",
+      "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "ontem, 16:17",
+      "dt_iso": "2026-11-11T19:17:35+00:00",
+      "summary": "Temu firma acordo com Correios para ampliar operação logística no Brasil &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "correios",
+        "operação logística",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "f914549744",
+      "headline": "Maersk inaugura instalação logística em Montevidéu - Portos e Navios",
+      "source": "Portos e Navios",
+      "link": "https://www.portosenavios.com.br",
+      "time": "hoje, 19:35",
+      "dt_iso": "2026-11-12T22:35:20+00:00",
+      "summary": "Maersk inaugura instalação logística em Montevidéu &nbsp;&nbsp; Portos e Navios",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "inaugura",
+        "instala",
+        "instalação"
+      ],
+      "score": 8,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1aa64bbf67",
+      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
+      "source": "Jornaldhoje",
+      "link": "https://jornaldhoje.com.br",
+      "time": "ontem, 16:00",
+      "dt_iso": "2026-11-11T19:00:00+00:00",
+      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "5c28076a0e",
+      "headline": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA - Folha de S.Paulo",
+      "source": "UOL",
+      "link": "https://www1.folha.uol.com.br",
+      "time": "hoje, 15:28",
+      "dt_iso": "2026-11-12T18:28:00+00:00",
+      "summary": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA &nbsp;&nbsp; Folha de S.Paulo",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "166fa57678",
+      "headline": "Mercado Livre, Shopee ou Amazon: quem lotou os galpões no País? Só 4,9% dos espaços estão vagos - Blog do Gustavo Negreiros",
+      "source": "Gustavonegreiros",
+      "link": "https://gustavonegreiros.com.br",
+      "time": "09/11 às 11:17",
+      "dt_iso": "2026-11-09T14:17:46+00:00",
+      "summary": "Mercado Livre, Shopee ou Amazon: quem lotou os galpões no País? Só 4,9% dos espaços estão vagos &nbsp;&nbsp; Blog do Gustavo Negreiros",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "galpões"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "ef5b62a05a",
+      "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
+      "source": "Diariodoacre",
+      "link": "https://diariodoacre.com.br",
+      "time": "10/11 às 09:10",
+      "dt_iso": "2026-11-10T12:10:00+00:00",
+      "summary": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel &nbsp;&nbsp; Diário do Acre",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "cresce",
+        "aluguel"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "a294f4106f",
+      "headline": "Mercado Livre é maior locadora de galpões logísticos do Brasil, com 3,8 milhões de m² ocupados - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "06/11 às 16:01",
+      "dt_iso": "2026-11-06T19:01:25+00:00",
+      "summary": "Mercado Livre é maior locadora de galpões logísticos do Brasil, com 3,8 milhões de m² ocupados &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "galpões"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "805a62e160",
+      "headline": "BLIPS INAUGURA CENTRO DE DISTRIBUIÇÃO EM CABREÚVA (SP) - Bahia Econômica",
+      "source": "Bahiaeconomica",
+      "link": "https://bahiaeconomica.com.br",
+      "time": "07/11 às 10:00",
+      "dt_iso": "2026-11-07T13:00:00+00:00",
+      "summary": "BLIPS INAUGURA CENTRO DE DISTRIBUIÇÃO EM CABREÚVA (SP) &nbsp;&nbsp; Bahia Econômica",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "0f171c3cc5",
+      "headline": "Vacância de galpões logísticos cai à mínima histórica no país - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "10/11 às 16:25",
+      "dt_iso": "2026-11-10T19:25:07+00:00",
+      "summary": "Vacância de galpões logísticos cai à mínima histórica no país &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "fac9d7359a",
+      "headline": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída - O Extra.net",
+      "source": "Oextra",
+      "link": "https://oextra.net",
+      "time": "hoje, 12:41",
+      "dt_iso": "2026-11-13T15:41:51+00:00",
+      "summary": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída &nbsp;&nbsp; O Extra.net",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "9cbe846861",
+      "headline": "Magalu cresce diante de crise na Casas Bahia e parcerias com plataformas internacionais - O GLOBO",
+      "source": "O Globo",
+      "link": "https://oglobo.globo.com",
+      "time": "09/11 às 18:53",
+      "dt_iso": "2026-11-09T21:53:55+00:00",
+      "summary": "Magalu cresce diante de crise na Casas Bahia e parcerias com plataformas internacionais &nbsp;&nbsp; O GLOBO",
+      "category": "investimento",
+      "keywords": [
+        "magalu",
+        "casas bahia",
+        "cresce"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "3365c1317e",
+      "headline": "BTLG11 adquire galpões logísticos do CPLG11 - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "10/11 às 13:49",
+      "dt_iso": "2026-11-10T16:49:14+00:00",
+      "summary": "BTLG11 adquire galpões logísticos do CPLG11 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "127aa9c88a",
+      "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
+      "source": "Seudinheiro",
+      "link": "https://www.seudinheiro.com",
+      "time": "10/11 às 13:49",
+      "dt_iso": "2026-11-10T16:49:00+00:00",
+      "summary": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) &nbsp;&nbsp; Seu Dinheiro",
+      "category": "investimento",
+      "keywords": [
+        "magazine luiza",
+        "casas bahia",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "00b7d2079d",
+      "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "10/11 às 05:10",
+      "dt_iso": "2026-11-10T08:10:01+00:00",
+      "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "fb51b02660",
+      "headline": "Agência de Comunicação - Luft Logistics amplia projeto de qualificação feminina na logística - Estadão Blue Studio",
+      "source": "Estadão",
+      "link": "https://bluestudio.estadao.com.br",
+      "time": "hoje, 12:14",
+      "dt_iso": "2026-11-13T15:14:24+00:00",
+      "summary": "Agência de Comunicação - Luft Logistics amplia projeto de qualificação feminina na logística &nbsp;&nbsp; Estadão Blue Studio",
+      "category": "logistica",
+      "keywords": [
+        "luft logistics",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "4ba7e8b654",
+      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
+      "source": "Ecosdanoticia",
+      "link": "https://ecosdanoticia.net",
+      "time": "10/11 às 08:52",
+      "dt_iso": "2026-11-10T11:52:21+00:00",
+      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
+      "category": "logistica",
+      "keywords": [
+        "galpões",
+        "locação"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "45f4abbb76",
+      "headline": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul - Saúde Digital News",
+      "source": "Saudedigitalnews",
+      "link": "https://saudedigitalnews.com.br",
+      "time": "06/11 às 16:38",
+      "dt_iso": "2026-11-06T19:38:28+00:00",
+      "summary": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul &nbsp;&nbsp; Saúde Digital News",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "1d45b95050",
+      "headline": "A empresa Tam Huong inaugura seu 6º centro de distribuição para produtos agrícolas e produtos OCOP. - Vietnam.vn",
+      "source": "Vietnam",
+      "link": "https://www.vietnam.vn",
+      "time": "07/11 às 05:00",
+      "dt_iso": "2026-11-07T08:00:00+00:00",
+      "summary": "A empresa Tam Huong inaugura seu 6º centro de distribuição para produtos agrícolas e produtos OCOP. &nbsp;&nbsp; Vietnam.vn",
+      "category": "logistica",
+      "keywords": [
+        "centro de distribuição",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3a856d67c7",
+      "headline": "Assaí projeta ecossistema integrado ao redor do atacarejo e programa expansão multisserviço para 2027 - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "hoje, 22:15",
+      "dt_iso": "2026-11-13T01:15:05+00:00",
+      "summary": "Assaí projeta ecossistema integrado ao redor do atacarejo e programa expansão multisserviço para 2027 &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "assaí",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "238e096e01",
+      "headline": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo - bra1.com.br",
+      "source": "Bra1",
+      "link": "https://www.bra1.com.br",
+      "time": "hoje, 15:50",
+      "dt_iso": "2026-11-12T18:50:00+00:00",
+      "summary": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo &nbsp;&nbsp; bra1.com.br",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "9f94cdfac0",
+      "headline": "Galpões portuários alugados por 40 anos rendem até 11% e atraem R$ 1 bi de fundo - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "ontem, 05:03",
+      "dt_iso": "2026-11-12T08:03:24+00:00",
+      "summary": "Galpões portuários alugados por 40 anos rendem até 11% e atraem R$ 1 bi de fundo &nbsp;&nbsp; Exame",
+      "category": "investimento",
+      "keywords": [
+        "galpões",
+        "aluga"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "ef0a17ad34",
+      "headline": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre - BPMoney",
+      "source": "Bpmoney",
+      "link": "https://bpmoney.com.br",
+      "time": "09/11 às 16:11",
+      "dt_iso": "2026-11-09T19:11:08+00:00",
+      "summary": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre &nbsp;&nbsp; BPMoney",
+      "category": "investimento",
+      "keywords": [
+        "mercado livre",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "261aff2d3f",
+      "headline": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas - Poder360",
+      "source": "Poder360",
+      "link": "https://www.poder360.com.br",
+      "time": "09/11 às 19:10",
+      "dt_iso": "2026-11-09T22:10:15+00:00",
+      "summary": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas &nbsp;&nbsp; Poder360",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "e639fcbacc",
+      "headline": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo - Seletronic",
+      "source": "Seletronic",
+      "link": "https://seletronic.com.br",
+      "time": "hoje, 00:01",
+      "dt_iso": "2026-11-13T03:01:18+00:00",
+      "summary": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo &nbsp;&nbsp; Seletronic",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "fc0d1ca270",
+      "headline": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "10/11 às 05:01",
+      "dt_iso": "2026-11-10T08:01:28+00:00",
+      "summary": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão &nbsp;&nbsp; Exame",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3a6989ed5c",
+      "headline": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x - SA+ Ecossistema de Varejo",
+      "source": "Samais",
+      "link": "https://samais.com.br",
+      "time": "09/11 às 10:43",
+      "dt_iso": "2026-11-09T13:43:00+00:00",
+      "summary": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x &nbsp;&nbsp; SA+ Ecossistema de Varejo",
+      "category": "expansao",
+      "keywords": [
+        "assaí",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "a269f11fdb",
+      "headline": "Assaí relata alta nas vendas após veto às bets e mira expansão - TV Sim Brasil",
+      "source": "Tvsimbrasil",
+      "link": "https://tvsimbrasil.com.br",
+      "time": "06/11 às 14:46",
+      "dt_iso": "2026-11-06T17:46:06+00:00",
+      "summary": "Assaí relata alta nas vendas após veto às bets e mira expansão &nbsp;&nbsp; TV Sim Brasil",
+      "category": "expansao",
+      "keywords": [
+        "assaí",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "e4c113495b",
+      "headline": "Vestuário amplia peso nos resultados da Riachuelo - GBLJeans",
+      "source": "Gbljeans",
+      "link": "https://gbljeans.com.br",
+      "time": "11/11 às 13:39",
+      "dt_iso": "2026-11-11T16:39:22+00:00",
+      "summary": "Vestuário amplia peso nos resultados da Riachuelo &nbsp;&nbsp; GBLJeans",
+      "category": "logistica",
+      "keywords": [
+        "riachuelo",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "101bbf9b37",
+      "headline": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários - TeleSíntese",
+      "source": "Telesintese",
+      "link": "https://telesintese.com.br",
+      "time": "hoje, 17:59",
+      "dt_iso": "2026-11-12T20:59:57+00:00",
+      "summary": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários &nbsp;&nbsp; TeleSíntese",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d19aeffc49",
+      "headline": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA - Na Hora da Notícia",
+      "source": "Nahoradanoticia",
+      "link": "https://nahoradanoticia.com.br",
+      "time": "10/11 às 12:20",
+      "dt_iso": "2026-11-10T15:20:08+00:00",
+      "summary": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA &nbsp;&nbsp; Na Hora da Notícia",
+      "category": "expansao",
+      "keywords": [
+        "brf",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    }
+  ]
+}
