@@ -1,13 +1,13 @@
 {
-  "gerado_em": "13/11/2026 às 13:49",
-  "total": 31,
+  "gerado_em": "13/11/2026 às 18:48",
+  "total": 29,
   "noticias": [
     {
       "id": "b40c57a122",
       "headline": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego - BHAZ",
       "source": "Bhaz",
       "link": "https://bhaz.com.br",
-      "time": "hoje, 16:08",
+      "time": "ontem, 16:08",
       "dt_iso": "2026-11-12T19:08:00+00:00",
       "summary": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego &nbsp;&nbsp; BHAZ",
       "category": "ecommerce",
@@ -29,7 +29,7 @@
       "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 16:17",
+      "time": "11/11 às 16:17",
       "dt_iso": "2026-11-11T19:17:35+00:00",
       "summary": "Temu firma acordo com Correios para ampliar operação logística no Brasil &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -67,32 +67,11 @@
       ]
     },
     {
-      "id": "1aa64bbf67",
-      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
-      "source": "Jornaldhoje",
-      "link": "https://jornaldhoje.com.br",
-      "time": "ontem, 16:00",
-      "dt_iso": "2026-11-11T19:00:00+00:00",
-      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "centro de distribuição",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
       "id": "5c28076a0e",
       "headline": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA - Folha de S.Paulo",
       "source": "UOL",
       "link": "https://www1.folha.uol.com.br",
-      "time": "hoje, 15:28",
+      "time": "ontem, 15:28",
       "dt_iso": "2026-11-12T18:28:00+00:00",
       "summary": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA &nbsp;&nbsp; Folha de S.Paulo",
       "category": "ecommerce",
@@ -106,6 +85,27 @@
       "badges": [
         "Destaque",
         "E-commerce"
+      ]
+    },
+    {
+      "id": "1aa64bbf67",
+      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
+      "source": "Jornaldhoje",
+      "link": "https://jornaldhoje.com.br",
+      "time": "11/11 às 16:00",
+      "dt_iso": "2026-11-11T19:00:00+00:00",
+      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
+      "category": "logistica",
+      "keywords": [
+        "shopee",
+        "centro de distribuição",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
       ]
     },
     {
@@ -142,25 +142,6 @@
         "galpões",
         "cresce",
         "aluguel"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "a294f4106f",
-      "headline": "Mercado Livre é maior locadora de galpões logísticos do Brasil, com 3,8 milhões de m² ocupados - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "06/11 às 16:01",
-      "dt_iso": "2026-11-06T19:01:25+00:00",
-      "summary": "Mercado Livre é maior locadora de galpões logísticos do Brasil, com 3,8 milhões de m² ocupados &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "mercado livre",
-        "galpões"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -213,8 +194,8 @@
       "headline": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída - O Extra.net",
       "source": "Oextra",
       "link": "https://oextra.net",
-      "time": "hoje, 12:41",
-      "dt_iso": "2026-11-13T15:41:51+00:00",
+      "time": "há 20 min",
+      "dt_iso": "2026-11-13T21:27:10+00:00",
       "summary": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída &nbsp;&nbsp; O Extra.net",
       "category": "ecommerce",
       "keywords": [
@@ -288,25 +269,6 @@
       ]
     },
     {
-      "id": "00b7d2079d",
-      "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
-      "source": "Valor Econômico",
-      "link": "https://valor.globo.com",
-      "time": "10/11 às 05:10",
-      "dt_iso": "2026-11-10T08:10:01+00:00",
-      "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "fb51b02660",
       "headline": "Agência de Comunicação - Luft Logistics amplia projeto de qualificação feminina na logística - Estadão Blue Studio",
       "source": "Estadão",
@@ -345,25 +307,6 @@
       ]
     },
     {
-      "id": "45f4abbb76",
-      "headline": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul - Saúde Digital News",
-      "source": "Saudedigitalnews",
-      "link": "https://saudedigitalnews.com.br",
-      "time": "06/11 às 16:38",
-      "dt_iso": "2026-11-06T19:38:28+00:00",
-      "summary": "Profarma Distribuição inaugura novo Centro de Distribuição no Rio Grande do Sul &nbsp;&nbsp; Saúde Digital News",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "1d45b95050",
       "headline": "A empresa Tam Huong inaugura seu 6º centro de distribuição para produtos agrícolas e produtos OCOP. - Vietnam.vn",
       "source": "Vietnam",
@@ -380,6 +323,44 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "00b7d2079d",
+      "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "10/11 às 05:10",
+      "dt_iso": "2026-11-10T08:10:01+00:00",
+      "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "2433a1cd0d",
+      "headline": "Transporte e armazenagem travam expansão do agro - Agrolink",
+      "source": "Agrolink",
+      "link": "https://www.agrolink.com.br",
+      "time": "hoje, 02:30",
+      "dt_iso": "2026-11-13T05:30:00+00:00",
+      "summary": "Transporte e armazenagem travam expansão do agro &nbsp;&nbsp; Agrolink",
+      "category": "expansao",
+      "keywords": [
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -406,7 +387,7 @@
       "headline": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo - bra1.com.br",
       "source": "Bra1",
       "link": "https://www.bra1.com.br",
-      "time": "hoje, 15:50",
+      "time": "ontem, 15:50",
       "dt_iso": "2026-11-12T18:50:00+00:00",
       "summary": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo &nbsp;&nbsp; bra1.com.br",
       "category": "ecommerce",
@@ -535,25 +516,6 @@
       ]
     },
     {
-      "id": "a269f11fdb",
-      "headline": "Assaí relata alta nas vendas após veto às bets e mira expansão - TV Sim Brasil",
-      "source": "Tvsimbrasil",
-      "link": "https://tvsimbrasil.com.br",
-      "time": "06/11 às 14:46",
-      "dt_iso": "2026-11-06T17:46:06+00:00",
-      "summary": "Assaí relata alta nas vendas após veto às bets e mira expansão &nbsp;&nbsp; TV Sim Brasil",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "e4c113495b",
       "headline": "Vestuário amplia peso nos resultados da Riachuelo - GBLJeans",
       "source": "Gbljeans",
@@ -577,7 +539,7 @@
       "headline": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários - TeleSíntese",
       "source": "Telesintese",
       "link": "https://telesintese.com.br",
-      "time": "hoje, 17:59",
+      "time": "ontem, 17:59",
       "dt_iso": "2026-11-12T20:59:57+00:00",
       "summary": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários &nbsp;&nbsp; TeleSíntese",
       "category": "logistica",
