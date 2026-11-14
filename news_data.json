@@ -1,13 +1,13 @@
 {
-  "gerado_em": "14/11/2026 às 12:23",
-  "total": 27,
+  "gerado_em": "14/11/2026 às 17:23",
+  "total": 28,
   "noticias": [
     {
       "id": "b40c57a122",
       "headline": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego - BHAZ",
       "source": "Bhaz",
       "link": "https://bhaz.com.br",
-      "time": "ontem, 16:08",
+      "time": "12/11 às 16:08",
       "dt_iso": "2026-11-12T19:08:00+00:00",
       "summary": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego &nbsp;&nbsp; BHAZ",
       "category": "ecommerce",
@@ -71,7 +71,7 @@
       "headline": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA - Folha de S.Paulo",
       "source": "UOL",
       "link": "https://www1.folha.uol.com.br",
-      "time": "ontem, 15:28",
+      "time": "12/11 às 15:28",
       "dt_iso": "2026-11-12T18:28:00+00:00",
       "summary": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA &nbsp;&nbsp; Folha de S.Paulo",
       "category": "ecommerce",
@@ -150,25 +150,6 @@
       ]
     },
     {
-      "id": "70266622da",
-      "headline": "Novo centro de distribuição da Shopee impulsiona logística e economia em Rio Preto - Região Noroeste",
-      "source": "Regiaonoroeste",
-      "link": "https://regiaonoroeste.com",
-      "time": "11/11 às 09:05",
-      "dt_iso": "2026-11-11T12:05:00+00:00",
-      "summary": "Novo centro de distribuição da Shopee impulsiona logística e economia em Rio Preto &nbsp;&nbsp; Região Noroeste",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "centro de distribuição"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "0f171c3cc5",
       "headline": "Vacância de galpões logísticos cai à mínima histórica no país - Suno - Investimentos Inteligentes",
       "source": "Suno",
@@ -186,6 +167,25 @@
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "fac9d7359a",
+      "headline": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída - O Extra.net",
+      "source": "Oextra",
+      "link": "https://oextra.net",
+      "time": "hoje, 07:30",
+      "dt_iso": "2026-11-14T10:30:27+00:00",
+      "summary": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída &nbsp;&nbsp; O Extra.net",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -329,7 +329,7 @@
       "headline": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo - bra1.com.br",
       "source": "Bra1",
       "link": "https://www.bra1.com.br",
-      "time": "ontem, 15:50",
+      "time": "12/11 às 15:50",
       "dt_iso": "2026-11-12T18:50:00+00:00",
       "summary": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo &nbsp;&nbsp; bra1.com.br",
       "category": "ecommerce",
@@ -341,6 +341,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "1e5e2fdca1",
+      "headline": "Mercado de forragens secas em galpão até 2035: produtividade leiteira e demanda por qualidade impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "hoje, 09:31",
+      "dt_iso": "2026-11-14T12:31:04+00:00",
+      "summary": "Mercado de forragens secas em galpão até 2035: produtividade leiteira e demanda por qualidade impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
