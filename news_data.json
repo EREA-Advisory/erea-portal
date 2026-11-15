@@ -1,5 +1,5 @@
 {
-  "gerado_em": "15/11/2026 às 12:55",
+  "gerado_em": "15/11/2026 às 17:47",
   "total": 29,
   "noticias": [
     {
@@ -130,26 +130,6 @@
       ]
     },
     {
-      "id": "29b9accbc3",
-      "headline": "Lula diz que Brasil buscou parceiros em vez de 'ficar chorando' após tarifaço de Trump",
-      "source": "Exame",
-      "link": "https://exame.com/brasil/lula-diz-que-brasil-buscou-parceiros-em-vez-de-ficar-chorando-apos-tarifaco-de-trump/",
-      "time": "hoje, 06:06",
-      "dt_iso": "2026-11-15T09:06:58+00:00",
-      "summary": "Em balanço de viagem à Ásia, presidente afirmou que comércio com China, Alemanha, Indonésia e Vietnã cresceu após aumento das tarifas americanas; governo também negocia novos acordos comerciais",
-      "category": "logistica",
-      "keywords": [
-        "americanas",
-        "cresce",
-        "cresceu"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "ef5b62a05a",
       "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
       "source": "Diariodoacre",
@@ -209,13 +189,13 @@
       ]
     },
     {
-      "id": "3365c1317e",
-      "headline": "BTLG11 adquire galpões logísticos do CPLG11 - Suno - Investimentos Inteligentes",
+      "id": "bdaca5601e",
+      "headline": "BTLG11 fecha compra de galpões logísticos da Capitânia - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
       "time": "10/11 às 13:49",
       "dt_iso": "2026-11-10T16:49:14+00:00",
-      "summary": "BTLG11 adquire galpões logísticos do CPLG11 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "summary": "BTLG11 fecha compra de galpões logísticos da Capitânia &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "logistica",
       "keywords": [
         "galpões",
@@ -284,6 +264,25 @@
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "0532144caa",
+      "headline": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/",
+      "time": "há 9 min",
+      "dt_iso": "2026-11-15T20:38:01+00:00",
+      "summary": "Estatal registra patrimônio líquido negativo e despesas financeiras em alta; governo prevê aporte de R$ 6 bilhões até o fim de 2027 \n The post  Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano  appeared first on  InfoMoney .",
+      "category": "investimento",
+      "keywords": [
+        "correios",
+        "aporte"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Investimento"
       ]
@@ -555,22 +554,22 @@
       ]
     },
     {
-      "id": "101bbf9b37",
-      "headline": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários - TeleSíntese",
-      "source": "Telesintese",
-      "link": "https://telesintese.com.br",
-      "time": "12/11 às 17:59",
-      "dt_iso": "2026-11-12T20:59:57+00:00",
-      "summary": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários &nbsp;&nbsp; TeleSíntese",
-      "category": "logistica",
+      "id": "d19aeffc49",
+      "headline": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA - Na Hora da Notícia",
+      "source": "Nahoradanoticia",
+      "link": "https://nahoradanoticia.com.br",
+      "time": "10/11 às 12:20",
+      "dt_iso": "2026-11-10T15:20:08+00:00",
+      "summary": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA &nbsp;&nbsp; Na Hora da Notícia",
+      "category": "expansao",
       "keywords": [
-        "natura",
-        "amplia"
+        "brf",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     }
   ]
