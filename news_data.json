@@ -1,6 +1,6 @@
 {
-  "gerado_em": "14/11/2026 às 17:23",
-  "total": 28,
+  "gerado_em": "15/11/2026 às 12:55",
+  "total": 29,
   "noticias": [
     {
       "id": "b40c57a122",
@@ -50,7 +50,7 @@
       "headline": "Maersk inaugura instalação logística em Montevidéu - Portos e Navios",
       "source": "Portos e Navios",
       "link": "https://www.portosenavios.com.br",
-      "time": "ontem, 19:35",
+      "time": "12/11 às 19:35",
       "dt_iso": "2026-11-12T22:35:20+00:00",
       "summary": "Maersk inaugura instalação logística em Montevidéu &nbsp;&nbsp; Portos e Navios",
       "category": "logistica",
@@ -130,6 +130,26 @@
       ]
     },
     {
+      "id": "29b9accbc3",
+      "headline": "Lula diz que Brasil buscou parceiros em vez de 'ficar chorando' após tarifaço de Trump",
+      "source": "Exame",
+      "link": "https://exame.com/brasil/lula-diz-que-brasil-buscou-parceiros-em-vez-de-ficar-chorando-apos-tarifaco-de-trump/",
+      "time": "hoje, 06:06",
+      "dt_iso": "2026-11-15T09:06:58+00:00",
+      "summary": "Em balanço de viagem à Ásia, presidente afirmou que comércio com China, Alemanha, Indonésia e Vietnã cresceu após aumento das tarifas americanas; governo também negocia novos acordos comerciais",
+      "category": "logistica",
+      "keywords": [
+        "americanas",
+        "cresce",
+        "cresceu"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "ef5b62a05a",
       "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
       "source": "Diariodoacre",
@@ -174,7 +194,7 @@
       "headline": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída - O Extra.net",
       "source": "Oextra",
       "link": "https://oextra.net",
-      "time": "hoje, 07:30",
+      "time": "ontem, 07:30",
       "dt_iso": "2026-11-14T10:30:27+00:00",
       "summary": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída &nbsp;&nbsp; O Extra.net",
       "category": "ecommerce",
@@ -229,6 +249,26 @@
       ]
     },
     {
+      "id": "ce547652bd",
+      "headline": "MGLU3 Fórum | Ações Magazine Luiza ON - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "source": "Google News",
+      "link": "https://br.investing.com",
+      "time": "ontem, 17:54",
+      "dt_iso": "2026-11-13T20:54:59+00:00",
+      "summary": "MGLU3 Fórum | Ações Magazine Luiza ON &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "category": "logistica",
+      "keywords": [
+        "magazine luiza",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "127aa9c88a",
       "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
       "source": "Seudinheiro",
@@ -249,13 +289,13 @@
       ]
     },
     {
-      "id": "fb51b02660",
-      "headline": "Agência de Comunicação - Luft Logistics amplia projeto de qualificação feminina na logística - Estadão Blue Studio",
-      "source": "Estadão",
-      "link": "https://bluestudio.estadao.com.br",
-      "time": "ontem, 12:14",
-      "dt_iso": "2026-11-13T15:14:24+00:00",
-      "summary": "Agência de Comunicação - Luft Logistics amplia projeto de qualificação feminina na logística &nbsp;&nbsp; Estadão Blue Studio",
+      "id": "ab2b4aff89",
+      "headline": "Luft Logistics amplia qualificação de mulheres na logística - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "10/11 às 10:43",
+      "dt_iso": "2026-11-10T13:43:00+00:00",
+      "summary": "Luft Logistics amplia qualificação de mulheres na logística &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "luft logistics",
@@ -268,13 +308,13 @@
       ]
     },
     {
-      "id": "4ba7e8b654",
-      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
-      "source": "Ecosdanoticia",
-      "link": "https://ecosdanoticia.net",
-      "time": "10/11 às 08:52",
-      "dt_iso": "2026-11-10T11:52:21+00:00",
-      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
+      "id": "804b554b12",
+      "headline": "Acre não tem galpões logísticos de alto padrão disponíveis para locação, aponta levantamento - ac24horas",
+      "source": "Ac24Horas",
+      "link": "https://ac24horas.com",
+      "time": "10/11 às 07:55",
+      "dt_iso": "2026-11-10T10:55:02+00:00",
+      "summary": "Acre não tem galpões logísticos de alto padrão disponíveis para locação, aponta levantamento &nbsp;&nbsp; ac24horas",
       "category": "logistica",
       "keywords": [
         "galpões",
@@ -310,7 +350,7 @@
       "headline": "Transporte e armazenagem travam expansão do agro - Agrolink",
       "source": "Agrolink",
       "link": "https://www.agrolink.com.br",
-      "time": "ontem, 02:30",
+      "time": "13/11 às 02:30",
       "dt_iso": "2026-11-13T05:30:00+00:00",
       "summary": "Transporte e armazenagem travam expansão do agro &nbsp;&nbsp; Agrolink",
       "category": "expansao",
@@ -348,7 +388,7 @@
       "headline": "Mercado de forragens secas em galpão até 2035: produtividade leiteira e demanda por qualidade impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "hoje, 09:31",
+      "time": "ontem, 09:31",
       "dt_iso": "2026-11-14T12:31:04+00:00",
       "summary": "Mercado de forragens secas em galpão até 2035: produtividade leiteira e demanda por qualidade impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
@@ -424,7 +464,7 @@
       "headline": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo - Seletronic",
       "source": "Seletronic",
       "link": "https://seletronic.com.br",
-      "time": "ontem, 00:01",
+      "time": "13/11 às 00:01",
       "dt_iso": "2026-11-13T03:01:18+00:00",
       "summary": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo &nbsp;&nbsp; Seletronic",
       "category": "ecommerce",
@@ -500,7 +540,7 @@
       "headline": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "hoje, 09:02",
+      "time": "ontem, 09:02",
       "dt_iso": "2026-11-14T12:02:45+00:00",
       "summary": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' &nbsp;&nbsp; Exame",
       "category": "logistica",
@@ -519,7 +559,7 @@
       "headline": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários - TeleSíntese",
       "source": "Telesintese",
       "link": "https://telesintese.com.br",
-      "time": "ontem, 17:59",
+      "time": "12/11 às 17:59",
       "dt_iso": "2026-11-12T20:59:57+00:00",
       "summary": "Vivo amplia atuação em saúde e lança assinatura de serviços veterinários &nbsp;&nbsp; TeleSíntese",
       "category": "logistica",
@@ -531,25 +571,6 @@
       "relevance": "Setor farmacêutico — exige imóvel com controle de temperatura e ANVISA. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "d19aeffc49",
-      "headline": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA - Na Hora da Notícia",
-      "source": "Nahoradanoticia",
-      "link": "https://nahoradanoticia.com.br",
-      "time": "10/11 às 12:20",
-      "dt_iso": "2026-11-10T15:20:08+00:00",
-      "summary": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA &nbsp;&nbsp; Na Hora da Notícia",
-      "category": "expansao",
-      "keywords": [
-        "brf",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     }
   ]
