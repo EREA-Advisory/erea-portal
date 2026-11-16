@@ -1,6 +1,6 @@
 {
-  "gerado_em": "15/11/2026 às 17:47",
-  "total": 29,
+  "gerado_em": "16/11/2026 às 15:59",
+  "total": 23,
   "noticias": [
     {
       "id": "b40c57a122",
@@ -109,27 +109,6 @@
       ]
     },
     {
-      "id": "166fa57678",
-      "headline": "Mercado Livre, Shopee ou Amazon: quem lotou os galpões no País? Só 4,9% dos espaços estão vagos - Blog do Gustavo Negreiros",
-      "source": "Gustavonegreiros",
-      "link": "https://gustavonegreiros.com.br",
-      "time": "09/11 às 11:17",
-      "dt_iso": "2026-11-09T14:17:46+00:00",
-      "summary": "Mercado Livre, Shopee ou Amazon: quem lotou os galpões no País? Só 4,9% dos espaços estão vagos &nbsp;&nbsp; Blog do Gustavo Negreiros",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "shopee",
-        "galpões"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
       "id": "ef5b62a05a",
       "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
       "source": "Diariodoacre",
@@ -174,7 +153,7 @@
       "headline": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída - O Extra.net",
       "source": "Oextra",
       "link": "https://oextra.net",
-      "time": "ontem, 07:30",
+      "time": "14/11 às 07:30",
       "dt_iso": "2026-11-14T10:30:27+00:00",
       "summary": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída &nbsp;&nbsp; O Extra.net",
       "category": "ecommerce",
@@ -229,62 +208,22 @@
       ]
     },
     {
-      "id": "ce547652bd",
-      "headline": "MGLU3 Fórum | Ações Magazine Luiza ON - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Google News",
-      "link": "https://br.investing.com",
-      "time": "ontem, 17:54",
-      "dt_iso": "2026-11-13T20:54:59+00:00",
-      "summary": "MGLU3 Fórum | Ações Magazine Luiza ON &nbsp;&nbsp; Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "category": "logistica",
+      "id": "9e8dd0d1db",
+      "headline": "Ri Happy estreia na Shopee e aposta em marketplaces para ampliar vendas",
+      "source": "Exame",
+      "link": "https://exame.com/negocios/ri-happy-estreia-na-shopee-e-aposta-em-marketplaces-para-ampliar-vendas/",
+      "time": "hoje, 11:25",
+      "dt_iso": "2026-11-16T14:25:20+00:00",
+      "summary": "Em meio à reestruturação financeira, varejista estreia na Shopee e planeja entrar em outros marketplaces nos próximos meses",
+      "category": "ecommerce",
       "keywords": [
-        "magazine luiza",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "127aa9c88a",
-      "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
-      "source": "Seudinheiro",
-      "link": "https://www.seudinheiro.com",
-      "time": "10/11 às 13:49",
-      "dt_iso": "2026-11-10T16:49:00+00:00",
-      "summary": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) &nbsp;&nbsp; Seu Dinheiro",
-      "category": "investimento",
-      "keywords": [
-        "magazine luiza",
-        "casas bahia",
-        "abre"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "0532144caa",
-      "headline": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/",
-      "time": "há 9 min",
-      "dt_iso": "2026-11-15T20:38:01+00:00",
-      "summary": "Estatal registra patrimônio líquido negativo e despesas financeiras em alta; governo prevê aporte de R$ 6 bilhões até o fim de 2027 \n The post  Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano  appeared first on  InfoMoney .",
-      "category": "investimento",
-      "keywords": [
-        "correios",
-        "aporte"
+        "shopee",
+        "amplia"
       ],
       "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Investimento"
+        "E-commerce"
       ]
     },
     {
@@ -307,13 +246,32 @@
       ]
     },
     {
-      "id": "804b554b12",
-      "headline": "Acre não tem galpões logísticos de alto padrão disponíveis para locação, aponta levantamento - ac24horas",
-      "source": "Ac24Horas",
-      "link": "https://ac24horas.com",
-      "time": "10/11 às 07:55",
-      "dt_iso": "2026-11-10T10:55:02+00:00",
-      "summary": "Acre não tem galpões logísticos de alto padrão disponíveis para locação, aponta levantamento &nbsp;&nbsp; ac24horas",
+      "id": "4b1011e6f7",
+      "headline": "Emprego nos operadores logísticos cresce 22%, aponta Abol - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "hoje, 09:07",
+      "dt_iso": "2026-11-16T12:07:00+00:00",
+      "summary": "Emprego nos operadores logísticos cresce 22%, aponta Abol &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "operadores logísticos",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "4ba7e8b654",
+      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
+      "source": "Ecosdanoticia",
+      "link": "https://ecosdanoticia.net",
+      "time": "10/11 às 08:52",
+      "dt_iso": "2026-11-10T11:52:21+00:00",
+      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
       "category": "logistica",
       "keywords": [
         "galpões",
@@ -336,25 +294,6 @@
       "category": "expansao",
       "keywords": [
         "galpões",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "2433a1cd0d",
-      "headline": "Transporte e armazenagem travam expansão do agro - Agrolink",
-      "source": "Agrolink",
-      "link": "https://www.agrolink.com.br",
-      "time": "13/11 às 02:30",
-      "dt_iso": "2026-11-13T05:30:00+00:00",
-      "summary": "Transporte e armazenagem travam expansão do agro &nbsp;&nbsp; Agrolink",
-      "category": "expansao",
-      "keywords": [
-        "armazenagem",
         "expansão"
       ],
       "score": 6,
@@ -387,7 +326,7 @@
       "headline": "Mercado de forragens secas em galpão até 2035: produtividade leiteira e demanda por qualidade impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "ontem, 09:31",
+      "time": "14/11 às 09:31",
       "dt_iso": "2026-11-14T12:31:04+00:00",
       "summary": "Mercado de forragens secas em galpão até 2035: produtividade leiteira e demanda por qualidade impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
@@ -459,25 +398,6 @@
       ]
     },
     {
-      "id": "e639fcbacc",
-      "headline": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo - Seletronic",
-      "source": "Seletronic",
-      "link": "https://seletronic.com.br",
-      "time": "13/11 às 00:01",
-      "dt_iso": "2026-11-13T03:01:18+00:00",
-      "summary": "Mercado Livre Abre o Dia 13 de Novembro com Cupom de 25% OFF sem Valor Mínimo &nbsp;&nbsp; Seletronic",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "fc0d1ca270",
       "headline": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão - Exame",
       "source": "Exame",
@@ -494,25 +414,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "3a6989ed5c",
-      "headline": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x - SA+ Ecossistema de Varejo",
-      "source": "Samais",
-      "link": "https://samais.com.br",
-      "time": "09/11 às 10:43",
-      "dt_iso": "2026-11-09T13:43:00+00:00",
-      "summary": "Assaí pode retomar expansão de lojas se alavancagem chegar a 1,5x &nbsp;&nbsp; SA+ Ecossistema de Varejo",
-      "category": "expansao",
-      "keywords": [
-        "assaí",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -539,7 +440,7 @@
       "headline": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "ontem, 09:02",
+      "time": "14/11 às 09:02",
       "dt_iso": "2026-11-14T12:02:45+00:00",
       "summary": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' &nbsp;&nbsp; Exame",
       "category": "logistica",
@@ -551,25 +452,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "d19aeffc49",
-      "headline": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA - Na Hora da Notícia",
-      "source": "Nahoradanoticia",
-      "link": "https://nahoradanoticia.com.br",
-      "time": "10/11 às 12:20",
-      "dt_iso": "2026-11-10T15:20:08+00:00",
-      "summary": "Acreano comanda expansão internacional da MBRF Pet e mira mercado dos EUA &nbsp;&nbsp; Na Hora da Notícia",
-      "category": "expansao",
-      "keywords": [
-        "brf",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     }
   ]
