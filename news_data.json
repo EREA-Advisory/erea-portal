@@ -1,5 +1,5 @@
 {
-  "gerado_em": "16/11/2026 às 15:59",
+  "gerado_em": "16/11/2026 às 20:58",
   "total": 23,
   "noticias": [
     {
@@ -188,42 +188,23 @@
       ]
     },
     {
-      "id": "84be92ea9a",
-      "headline": "Magalu cresce com a crise da Casas Bahia e parcerias com plataformas internacionais - O GLOBO",
-      "source": "O Globo",
-      "link": "https://oglobo.globo.com",
-      "time": "09/11 às 18:53",
-      "dt_iso": "2026-11-09T21:53:55+00:00",
-      "summary": "Magalu cresce com a crise da Casas Bahia e parcerias com plataformas internacionais &nbsp;&nbsp; O GLOBO",
+      "id": "127aa9c88a",
+      "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
+      "source": "Seudinheiro",
+      "link": "https://www.seudinheiro.com",
+      "time": "10/11 às 13:49",
+      "dt_iso": "2026-11-10T16:49:00+00:00",
+      "summary": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) &nbsp;&nbsp; Seu Dinheiro",
       "category": "investimento",
       "keywords": [
-        "magalu",
+        "magazine luiza",
         "casas bahia",
-        "cresce"
+        "abre"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "9e8dd0d1db",
-      "headline": "Ri Happy estreia na Shopee e aposta em marketplaces para ampliar vendas",
-      "source": "Exame",
-      "link": "https://exame.com/negocios/ri-happy-estreia-na-shopee-e-aposta-em-marketplaces-para-ampliar-vendas/",
-      "time": "hoje, 11:25",
-      "dt_iso": "2026-11-16T14:25:20+00:00",
-      "summary": "Em meio à reestruturação financeira, varejista estreia na Shopee e planeja entrar em outros marketplaces nos próximos meses",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -303,6 +284,25 @@
       ]
     },
     {
+      "id": "92ebd5a903",
+      "headline": "Logística do agro: dependência de caminhões e déficit de armazenagem limitam expansão dos grãos - Portal do Agronegócio",
+      "source": "Portaldoagronegocio",
+      "link": "https://www.portaldoagronegocio.com.br",
+      "time": "hoje, 10:35",
+      "dt_iso": "2026-11-16T13:35:00+00:00",
+      "summary": "Logística do agro: dependência de caminhões e déficit de armazenagem limitam expansão dos grãos &nbsp;&nbsp; Portal do Agronegócio",
+      "category": "expansao",
+      "keywords": [
+        "armazenagem",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "238e096e01",
       "headline": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo - bra1.com.br",
       "source": "Bra1",
@@ -360,44 +360,6 @@
       ]
     },
     {
-      "id": "ef0a17ad34",
-      "headline": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre - BPMoney",
-      "source": "Bpmoney",
-      "link": "https://bpmoney.com.br",
-      "time": "09/11 às 16:11",
-      "dt_iso": "2026-11-09T19:11:08+00:00",
-      "summary": "TRXF11 distribui R$ 0,93 por cota em outubro e anuncia aporte de R$ 250 milhões no Mercado Livre &nbsp;&nbsp; BPMoney",
-      "category": "investimento",
-      "keywords": [
-        "mercado livre",
-        "aporte"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
-      ]
-    },
-    {
-      "id": "261aff2d3f",
-      "headline": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas - Poder360",
-      "source": "Poder360",
-      "link": "https://www.poder360.com.br",
-      "time": "09/11 às 19:10",
-      "dt_iso": "2026-11-09T22:10:15+00:00",
-      "summary": "Magalu acelera vendas em outubro e cresce 16% nas lojas físicas &nbsp;&nbsp; Poder360",
-      "category": "logistica",
-      "keywords": [
-        "magalu",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "fc0d1ca270",
       "headline": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão - Exame",
       "source": "Exame",
@@ -412,6 +374,25 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "2425ef2247",
+      "headline": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri - Valor Investe",
+      "source": "Valorinveste",
+      "link": "https://valorinveste.globo.com",
+      "time": "10/11 às 11:04",
+      "dt_iso": "2026-11-10T14:04:16+00:00",
+      "summary": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri &nbsp;&nbsp; Valor Investe",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -433,6 +414,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "7ac75731ce",
+      "headline": "Ri Happy estreia na Shopee e amplia presença em marketplaces - Mercado&Consumo",
+      "source": "Mercadoeconsumo",
+      "link": "https://mercadoeconsumo.com.br",
+      "time": "hoje, 18:10",
+      "dt_iso": "2026-11-16T21:10:41+00:00",
+      "summary": "Ri Happy estreia na Shopee e amplia presença em marketplaces &nbsp;&nbsp; Mercado&amp;Consumo",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
