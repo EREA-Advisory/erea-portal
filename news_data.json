@@ -1,6 +1,6 @@
 {
-  "gerado_em": "16/11/2026 às 20:58",
-  "total": 23,
+  "gerado_em": "17/11/2026 às 14:57",
+  "total": 21,
   "noticias": [
     {
       "id": "b40c57a122",
@@ -46,13 +46,13 @@
       ]
     },
     {
-      "id": "f914549744",
-      "headline": "Maersk inaugura instalação logística em Montevidéu - Portos e Navios",
-      "source": "Portos e Navios",
-      "link": "https://www.portosenavios.com.br",
-      "time": "12/11 às 19:35",
-      "dt_iso": "2026-11-12T22:35:20+00:00",
-      "summary": "Maersk inaugura instalação logística em Montevidéu &nbsp;&nbsp; Portos e Navios",
+      "id": "09950ddb27",
+      "headline": "Maersk inaugura nova instalação em Montevidéu - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 08:42",
+      "dt_iso": "2026-11-17T11:42:54+00:00",
+      "summary": "Maersk inaugura nova instalação em Montevidéu &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
         "maersk",
@@ -88,47 +88,6 @@
       ]
     },
     {
-      "id": "1aa64bbf67",
-      "headline": "Novo centro de distribuição da Shopee amplia estrutura logística de RP - Dhoje Interior",
-      "source": "Jornaldhoje",
-      "link": "https://jornaldhoje.com.br",
-      "time": "11/11 às 16:00",
-      "dt_iso": "2026-11-11T19:00:00+00:00",
-      "summary": "Novo centro de distribuição da Shopee amplia estrutura logística de RP &nbsp;&nbsp; Dhoje Interior",
-      "category": "logistica",
-      "keywords": [
-        "shopee",
-        "centro de distribuição",
-        "amplia"
-      ],
-      "score": 8,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "ef5b62a05a",
-      "headline": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel - Diário do Acre",
-      "source": "Diariodoacre",
-      "link": "https://diariodoacre.com.br",
-      "time": "10/11 às 09:10",
-      "dt_iso": "2026-11-10T12:10:00+00:00",
-      "summary": "Mercado logístico cresce no Brasil, mas Acre não possui galpões de alto padrão para aluguel &nbsp;&nbsp; Diário do Acre",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "cresce",
-        "aluguel"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "0f171c3cc5",
       "headline": "Vacância de galpões logísticos cai à mínima histórica no país - Suno - Investimentos Inteligentes",
       "source": "Suno",
@@ -153,8 +112,8 @@
       "headline": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída - O Extra.net",
       "source": "Oextra",
       "link": "https://oextra.net",
-      "time": "14/11 às 07:30",
-      "dt_iso": "2026-11-14T10:30:27+00:00",
+      "time": "11/11 às 06:01",
+      "dt_iso": "2026-11-11T09:01:33+00:00",
       "summary": "Novo centro de distribuição da Shopee em Rio Preto tem 8 mil m² de área construída &nbsp;&nbsp; O Extra.net",
       "category": "ecommerce",
       "keywords": [
@@ -168,56 +127,54 @@
       ]
     },
     {
-      "id": "bdaca5601e",
-      "headline": "BTLG11 fecha compra de galpões logísticos da Capitânia - Suno - Investimentos Inteligentes",
-      "source": "Suno",
-      "link": "https://www.suno.com.br",
-      "time": "10/11 às 13:49",
-      "dt_iso": "2026-11-10T16:49:14+00:00",
-      "summary": "BTLG11 fecha compra de galpões logísticos da Capitânia &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "id": "389f7bf468",
+      "headline": "FedEx saiu do Brasil? Empresa faz dezenas de milhares de entregas e investe R$ 75 mi no país",
+      "source": "Exame",
+      "link": "https://exame.com/invest/mercados/fedex-saiu-do-brasil-empresa-faz-60-mil-entregas-por-dia-e-investe-r-75-mi-no-pais/",
+      "time": "hoje, 10:49",
+      "dt_iso": "2026-11-17T13:49:08+00:00",
+      "summary": "Empresa encerrou o transporte rodoviário tradicional, mas mantém dezenas de milhares de entregas expressas por dia e investe R$ 75 milhões em 2026",
       "category": "logistica",
       "keywords": [
-        "galpões",
-        "investimento",
-        "investimentos"
+        "fedex",
+        "investe"
       ],
-      "score": 7,
+      "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
     },
     {
-      "id": "127aa9c88a",
-      "headline": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) - Seu Dinheiro",
-      "source": "Seudinheiro",
-      "link": "https://www.seudinheiro.com",
-      "time": "10/11 às 13:49",
-      "dt_iso": "2026-11-10T16:49:00+00:00",
-      "summary": "\"O micro vai salvar o macro\": Fred Trajano abre o jogo sobre ganhos do Magazine Luiza (MGLU3) após crise na Casas Bahia (BHIA3) &nbsp;&nbsp; Seu Dinheiro",
-      "category": "investimento",
+      "id": "25606e427d",
+      "headline": "Braspress investe R$ 10 milhões em 30 veículos elétricos - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 11:33",
+      "dt_iso": "2026-11-17T14:33:18+00:00",
+      "summary": "Braspress investe R$ 10 milhões em 30 veículos elétricos &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
       "keywords": [
-        "magazine luiza",
-        "casas bahia",
-        "abre"
+        "braspress",
+        "investe"
       ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Investimento"
+        "Logística"
       ]
     },
     {
-      "id": "ab2b4aff89",
-      "headline": "Luft Logistics amplia qualificação de mulheres na logística - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "10/11 às 10:43",
-      "dt_iso": "2026-11-10T13:43:00+00:00",
-      "summary": "Luft Logistics amplia qualificação de mulheres na logística &nbsp;&nbsp; Modais em Foco",
+      "id": "6c41ccc2d8",
+      "headline": "Braspress adquire 30 veículos elétricos e amplia frota de baixa emissão - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 08:00",
+      "dt_iso": "2026-11-17T11:00:00+00:00",
+      "summary": "Braspress adquire 30 veículos elétricos e amplia frota de baixa emissão &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
-        "luft logistics",
+        "braspress",
         "amplia"
       ],
       "score": 6,
@@ -231,7 +188,7 @@
       "headline": "Emprego nos operadores logísticos cresce 22%, aponta Abol - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 09:07",
+      "time": "ontem, 09:07",
       "dt_iso": "2026-11-16T12:07:00+00:00",
       "summary": "Emprego nos operadores logísticos cresce 22%, aponta Abol &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -246,35 +203,35 @@
       ]
     },
     {
-      "id": "4ba7e8b654",
-      "headline": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo - Ecos da Notícia",
-      "source": "Ecosdanoticia",
-      "link": "https://ecosdanoticia.net",
-      "time": "10/11 às 08:52",
-      "dt_iso": "2026-11-10T11:52:21+00:00",
-      "summary": "Acre carece de galpões logísticos de alto padrão para locação, aponta estudo &nbsp;&nbsp; Ecos da Notícia",
+      "id": "976e98bda6",
+      "headline": "Grupo ETE expande operação logística na Região com centro logístico na Terceira - Açoriano Oriental",
+      "source": "Acorianooriental",
+      "link": "https://www.acorianooriental.pt",
+      "time": "hoje, 08:09",
+      "dt_iso": "2026-11-17T11:09:00+00:00",
+      "summary": "Grupo ETE expande operação logística na Região com centro logístico na Terceira &nbsp;&nbsp; Açoriano Oriental",
       "category": "logistica",
       "keywords": [
-        "galpões",
-        "locação"
+        "operação logística",
+        "expande"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
     },
     {
-      "id": "00b7d2079d",
-      "headline": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil - Valor Econômico",
-      "source": "Valor Econômico",
-      "link": "https://valor.globo.com",
-      "time": "10/11 às 05:10",
-      "dt_iso": "2026-11-10T08:10:01+00:00",
-      "summary": "Nordeste lidera expansão do mercado de galpões logísticos no Brasil &nbsp;&nbsp; Valor Econômico",
+      "id": "2433a1cd0d",
+      "headline": "Transporte e armazenagem travam expansão do agro - Agrolink",
+      "source": "Agrolink",
+      "link": "https://www.agrolink.com.br",
+      "time": "13/11 às 02:30",
+      "dt_iso": "2026-11-13T05:30:00+00:00",
+      "summary": "Transporte e armazenagem travam expansão do agro &nbsp;&nbsp; Agrolink",
       "category": "expansao",
       "keywords": [
-        "galpões",
+        "armazenagem",
         "expansão"
       ],
       "score": 6,
@@ -288,7 +245,7 @@
       "headline": "Logística do agro: dependência de caminhões e déficit de armazenagem limitam expansão dos grãos - Portal do Agronegócio",
       "source": "Portaldoagronegocio",
       "link": "https://www.portaldoagronegocio.com.br",
-      "time": "hoje, 10:35",
+      "time": "ontem, 10:35",
       "dt_iso": "2026-11-16T13:35:00+00:00",
       "summary": "Logística do agro: dependência de caminhões e déficit de armazenagem limitam expansão dos grãos &nbsp;&nbsp; Portal do Agronegócio",
       "category": "expansao",
@@ -319,6 +276,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
+      ]
+    },
+    {
+      "id": "a5518d0a22",
+      "headline": "Luft Logistics amplia projeto de qualificação feminina na logística - PR Newswire",
+      "source": "Prnewswire",
+      "link": "https://www.prnewswire.com",
+      "time": "13/11 às 11:51",
+      "dt_iso": "2026-11-13T14:51:00+00:00",
+      "summary": "Luft Logistics amplia projeto de qualificação feminina na logística &nbsp;&nbsp; PR Newswire",
+      "category": "logistica",
+      "keywords": [
+        "luft logistics",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -360,16 +336,16 @@
       ]
     },
     {
-      "id": "fc0d1ca270",
-      "headline": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "10/11 às 05:01",
-      "dt_iso": "2026-11-10T08:01:28+00:00",
-      "summary": "Magalu paga mais de R$ 1 bi em dívidas e diz que pode crescer mesmo em recessão &nbsp;&nbsp; Exame",
+      "id": "ef1a0fceba",
+      "headline": "Faltam galpões logísticos para atender demanda crescente em Goiás - O Popular",
+      "source": "Opopular",
+      "link": "https://opopular.com.br",
+      "time": "13/11 às 22:45",
+      "dt_iso": "2026-11-14T01:45:06+00:00",
+      "summary": "Faltam galpões logísticos para atender demanda crescente em Goiás &nbsp;&nbsp; O Popular",
       "category": "logistica",
       "keywords": [
-        "magalu",
+        "galpões",
         "cresce"
       ],
       "score": 6,
@@ -379,35 +355,16 @@
       ]
     },
     {
-      "id": "2425ef2247",
-      "headline": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri - Valor Investe",
-      "source": "Valorinveste",
-      "link": "https://valorinveste.globo.com",
-      "time": "10/11 às 11:04",
-      "dt_iso": "2026-11-10T14:04:16+00:00",
-      "summary": "Magalu (MGLU3) dispara 12% na bolsa mesmo após prejuízo no 3º tri &nbsp;&nbsp; Valor Investe",
+      "id": "d0b3b985ba",
+      "headline": "Shopee amplia logística de fim de ano com novos CDs - SpaceMoney",
+      "source": "Spacemoney",
+      "link": "https://www.spacemoney.com.br",
+      "time": "11/11 às 12:45",
+      "dt_iso": "2026-11-11T15:45:52+00:00",
+      "summary": "Shopee amplia logística de fim de ano com novos CDs &nbsp;&nbsp; SpaceMoney",
       "category": "logistica",
       "keywords": [
-        "magalu",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "e4c113495b",
-      "headline": "Vestuário amplia peso nos resultados da Riachuelo - GBLJeans",
-      "source": "Gbljeans",
-      "link": "https://gbljeans.com.br",
-      "time": "11/11 às 13:39",
-      "dt_iso": "2026-11-11T16:39:22+00:00",
-      "summary": "Vestuário amplia peso nos resultados da Riachuelo &nbsp;&nbsp; GBLJeans",
-      "category": "logistica",
-      "keywords": [
-        "riachuelo",
+        "shopee",
         "amplia"
       ],
       "score": 6,
