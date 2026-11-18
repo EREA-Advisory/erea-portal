@@ -1,6 +1,6 @@
 {
-  "gerado_em": "18/11/2026 às 14:39",
-  "total": 24,
+  "gerado_em": "18/11/2026 às 19:50",
+  "total": 21,
   "noticias": [
     {
       "id": "b40c57a122",
@@ -25,13 +25,13 @@
       ]
     },
     {
-      "id": "f3490e9bb8",
-      "headline": "Temu firma acordo com Correios para ampliar operação logística no Brasil - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "11/11 às 16:17",
-      "dt_iso": "2026-11-11T19:17:35+00:00",
-      "summary": "Temu firma acordo com Correios para ampliar operação logística no Brasil &nbsp;&nbsp; Mundo Logística",
+      "id": "493f16f07b",
+      "headline": "Temu e Correios assinam acordo para ampliar operação logística - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "12/11 às 08:57",
+      "dt_iso": "2026-11-12T11:57:00+00:00",
+      "summary": "Temu e Correios assinam acordo para ampliar operação logística &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
       "keywords": [
         "correios",
@@ -102,46 +102,6 @@
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "651434309a",
-      "headline": "Grupo Boticário suspende construção de fábrica em Pouso Alegre - Terra do Mandu",
-      "source": "Terradomandu",
-      "link": "https://terradomandu.com.br",
-      "time": "ontem, 17:43",
-      "dt_iso": "2026-11-16T20:43:38+00:00",
-      "summary": "Grupo Boticário suspende construção de fábrica em Pouso Alegre &nbsp;&nbsp; Terra do Mandu",
-      "category": "logistica",
-      "keywords": [
-        "grupo boticário",
-        "boticário",
-        "construção"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "4f1d3e61fb",
-      "headline": "C.Vale investe R$ 47,6 milhões e amplia capacidade de armazenagem de grãos no Oeste do Paraná - Portal do Agronegócio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "hoje, 15:00",
-      "dt_iso": "2026-11-17T18:00:00+00:00",
-      "summary": "C.Vale investe R$ 47,6 milhões e amplia capacidade de armazenagem de grãos no Oeste do Paraná &nbsp;&nbsp; Portal do Agronegócio",
-      "category": "logistica",
-      "keywords": [
-        "armazenagem",
-        "amplia",
-        "investe"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -277,25 +237,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "92ebd5a903",
-      "headline": "Logística do agro: dependência de caminhões e déficit de armazenagem limitam expansão dos grãos - Portal do Agronegócio",
-      "source": "Portaldoagronegocio",
-      "link": "https://www.portaldoagronegocio.com.br",
-      "time": "16/11 às 10:35",
-      "dt_iso": "2026-11-16T13:35:00+00:00",
-      "summary": "Logística do agro: dependência de caminhões e déficit de armazenagem limitam expansão dos grãos &nbsp;&nbsp; Portal do Agronegócio",
-      "category": "expansao",
-      "keywords": [
-        "armazenagem",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -436,7 +377,7 @@
       "headline": "Ri Happy estreia na Shopee e amplia presença em marketplaces - Mercado&Consumo",
       "source": "Mercadoeconsumo",
       "link": "https://mercadoeconsumo.com.br",
-      "time": "ontem, 18:10",
+      "time": "16/11 às 18:10",
       "dt_iso": "2026-11-16T21:10:41+00:00",
       "summary": "Ri Happy estreia na Shopee e amplia presença em marketplaces &nbsp;&nbsp; Mercado&amp;Consumo",
       "category": "ecommerce",
