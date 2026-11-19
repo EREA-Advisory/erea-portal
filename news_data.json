@@ -1,24 +1,24 @@
 {
-  "gerado_em": "19/11/2026 às 14:46",
+  "gerado_em": "19/11/2026 às 19:53",
   "total": 24,
   "noticias": [
     {
-      "id": "b40c57a122",
-      "headline": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego - BHAZ",
-      "source": "Bhaz",
-      "link": "https://bhaz.com.br",
-      "time": "12/11 às 16:08",
-      "dt_iso": "2026-11-12T19:08:00+00:00",
-      "summary": "Mercado Livre inaugura centro de distribuição em Contagem e abre mais de 300 vagas de emprego &nbsp;&nbsp; BHAZ",
+      "id": "ed72aed2ef",
+      "headline": "Centro de distribuição Mercado Livre é inaugurado. Saiba onde - Portal UAI",
+      "source": "Mercadohoje",
+      "link": "https://mercadohoje.uai.com.br",
+      "time": "hoje, 18:01",
+      "dt_iso": "2026-11-19T21:01:27+00:00",
+      "summary": "Centro de distribuição Mercado Livre é inaugurado. Saiba onde &nbsp;&nbsp; Portal UAI",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
         "centro de distribuição",
         "inaugura",
-        "abre"
+        "inaugurado"
       ],
       "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades. Região(ões) mencionada(s): Contagem.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Destaque",
         "E-commerce"
@@ -46,13 +46,13 @@
       ]
     },
     {
-      "id": "5c28076a0e",
-      "headline": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA - Folha de S.Paulo",
-      "source": "UOL",
-      "link": "https://www1.folha.uol.com.br",
-      "time": "12/11 às 15:28",
-      "dt_iso": "2026-11-12T18:28:00+00:00",
-      "summary": "Painel S.A.: Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA &nbsp;&nbsp; Folha de S.Paulo",
+      "id": "ffe7a7673c",
+      "headline": "Galpões logísticos: Mercado Livre, Amazon e Shopee geram R$ 1,17 bilhão em aluguéis - Paraíba Business",
+      "source": "Paraibabusiness",
+      "link": "https://paraibabusiness.com.br",
+      "time": "13/11 às 14:40",
+      "dt_iso": "2026-11-13T17:40:00+00:00",
+      "summary": "Galpões logísticos: Mercado Livre, Amazon e Shopee geram R$ 1,17 bilhão em aluguéis &nbsp;&nbsp; Paraíba Business",
       "category": "ecommerce",
       "keywords": [
         "mercado livre",
@@ -67,23 +67,23 @@
       ]
     },
     {
-      "id": "0d963151a7",
-      "headline": "Crescimento dos centros de distribuição amplia oportunidades na área de logística - Fecomércio RS",
-      "source": "Fecomercio Rs",
-      "link": "https://www.fecomercio-rs.org.br",
-      "time": "hoje, 12:12",
-      "dt_iso": "2026-11-19T15:12:57+00:00",
-      "summary": "Crescimento dos centros de distribuição amplia oportunidades na área de logística &nbsp;&nbsp; Fecomércio RS",
-      "category": "logistica",
+      "id": "07bd34c9af",
+      "headline": "Fabricante brasileira amplia complexo industrial em Pernambuco com investimento de R$ 220 milhões, onze linhas de produção e centro de distribuição gigante - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "ontem, 09:16",
+      "dt_iso": "2026-11-18T12:16:00+00:00",
+      "summary": "Fabricante brasileira amplia complexo industrial em Pernambuco com investimento de R$ 220 milhões, onze linhas de produção e centro de distribuição gigante &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "industrial",
       "keywords": [
-        "centros de distribuição",
+        "centro de distribuição",
         "amplia",
-        "crescimento"
+        "investimento"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Logística"
+        "Industrial"
       ]
     },
     {
@@ -111,7 +111,7 @@
       "headline": "Empresa investe R$ 3 milhões em novo centro de distribuição em Cabreúva - Portal da Cidade - Cabreúva / SP",
       "source": "Cabreuva",
       "link": "https://cabreuva.portaldacidade.com",
-      "time": "ontem, 15:48",
+      "time": "17/11 às 15:48",
       "dt_iso": "2026-11-17T18:48:00+00:00",
       "summary": "Empresa investe R$ 3 milhões em novo centro de distribuição em Cabreúva &nbsp;&nbsp; Portal da Cidade - Cabreúva / SP",
       "category": "logistica",
@@ -143,25 +143,6 @@
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "7bf559576a",
-      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Sala da Notícia",
-      "source": "Portal",
-      "link": "https://portal.saladanoticia.com.br",
-      "time": "hoje, 02:00",
-      "dt_iso": "2026-11-19T05:00:54+00:00",
-      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Sala da Notícia",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -203,6 +184,25 @@
       ]
     },
     {
+      "id": "6c41ccc2d8",
+      "headline": "Braspress adquire 30 veículos elétricos e amplia frota de baixa emissão - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "17/11 às 08:00",
+      "dt_iso": "2026-11-17T11:00:00+00:00",
+      "summary": "Braspress adquire 30 veículos elétricos e amplia frota de baixa emissão &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "braspress",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "4b1011e6f7",
       "headline": "Emprego nos operadores logísticos cresce 22%, aponta Abol - Modais em Foco",
       "source": "Modais em Foco",
@@ -238,6 +238,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "f37556cf97",
+      "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi. até 2028 - Jornal da Orla",
+      "source": "Jornaldaorla",
+      "link": "https://jornaldaorla.com.br",
+      "time": "hoje, 14:45",
+      "dt_iso": "2026-11-19T17:45:00+00:00",
+      "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi. até 2028 &nbsp;&nbsp; Jornal da Orla",
+      "category": "logistica",
+      "keywords": [
+        "multilog",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -295,25 +314,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "238e096e01",
-      "headline": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo - bra1.com.br",
-      "source": "Bra1",
-      "link": "https://www.bra1.com.br",
-      "time": "12/11 às 15:50",
-      "dt_iso": "2026-11-12T18:50:00+00:00",
-      "summary": "Shopee e Amazon dominam a Black Friday no Brasil com crescimento explosivo &nbsp;&nbsp; bra1.com.br",
-      "category": "ecommerce",
-      "keywords": [
-        "shopee",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
