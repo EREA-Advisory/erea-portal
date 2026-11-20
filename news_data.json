@@ -1,29 +1,7 @@
 {
-  "gerado_em": "20/11/2026 às 14:23",
-  "total": 23,
+  "gerado_em": "20/11/2026 às 19:29",
+  "total": 19,
   "noticias": [
-    {
-      "id": "ed72aed2ef",
-      "headline": "Centro de distribuição Mercado Livre é inaugurado. Saiba onde - Portal UAI",
-      "source": "Mercadohoje",
-      "link": "https://mercadohoje.uai.com.br",
-      "time": "hoje, 18:01",
-      "dt_iso": "2026-11-19T21:01:27+00:00",
-      "summary": "Centro de distribuição Mercado Livre é inaugurado. Saiba onde &nbsp;&nbsp; Portal UAI",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura",
-        "inaugurado"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
     {
       "id": "09950ddb27",
       "headline": "Maersk inaugura nova instalação em Montevidéu - Tecnologística",
@@ -43,27 +21,6 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "ffe7a7673c",
-      "headline": "Galpões logísticos: Mercado Livre, Amazon e Shopee geram R$ 1,17 bilhão em aluguéis - Paraíba Business",
-      "source": "Paraibabusiness",
-      "link": "https://paraibabusiness.com.br",
-      "time": "13/11 às 14:40",
-      "dt_iso": "2026-11-13T17:40:00+00:00",
-      "summary": "Galpões logísticos: Mercado Livre, Amazon e Shopee geram R$ 1,17 bilhão em aluguéis &nbsp;&nbsp; Paraíba Business",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "shopee",
-        "galpões"
-      ],
-      "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
       ]
     },
     {
@@ -264,7 +221,7 @@
       "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi. até 2028 - Jornal da Orla",
       "source": "Jornaldaorla",
       "link": "https://jornaldaorla.com.br",
-      "time": "hoje, 14:45",
+      "time": "ontem, 14:45",
       "dt_iso": "2026-11-19T17:45:00+00:00",
       "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi. até 2028 &nbsp;&nbsp; Jornal da Orla",
       "category": "logistica",
@@ -290,63 +247,6 @@
       "keywords": [
         "operação logística",
         "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "5367a8483f",
-      "headline": "Mercado de estruturas de tecido até 2035: demanda por galpões do e-commerce impulsiona o crescimento - Notícias e Estatísticas - IndexBox",
-      "source": "Indexbox",
-      "link": "https://www.indexbox.io",
-      "time": "16/11 às 01:16",
-      "dt_iso": "2026-11-16T04:16:04+00:00",
-      "summary": "Mercado de estruturas de tecido até 2035: demanda por galpões do e-commerce impulsiona o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
-      "category": "ecommerce",
-      "keywords": [
-        "galpões",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "a52306da5a",
-      "headline": "Mercado de empilhadeiras elétricas de quatro rodas até 2035: automação de armazéns e logística verde impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
-      "source": "Indexbox",
-      "link": "https://www.indexbox.io",
-      "time": "ontem, 11:36",
-      "dt_iso": "2026-11-19T14:36:05+00:00",
-      "summary": "Mercado de empilhadeiras elétricas de quatro rodas até 2035: automação de armazéns e logística verde impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
-      "category": "logistica",
-      "keywords": [
-        "armazéns",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "ce534410cb",
-      "headline": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "14/11 às 09:02",
-      "dt_iso": "2026-11-14T12:02:45+00:00",
-      "summary": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' &nbsp;&nbsp; Exame",
-      "category": "logistica",
-      "keywords": [
-        "electrolux",
-        "amplia"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
@@ -412,30 +312,11 @@
       ]
     },
     {
-      "id": "4a1dce3ef4",
-      "headline": "Embraer e governo holandês expandem acordos industriais vinculados ao cargueiro C-390 Millennium - Brasil Inovador",
-      "source": "Brasilinovador",
-      "link": "https://brasilinovador.com.br",
-      "time": "hoje, 19:45",
-      "dt_iso": "2026-11-19T22:45:14+00:00",
-      "summary": "Embraer e governo holandês expandem acordos industriais vinculados ao cargueiro C-390 Millennium &nbsp;&nbsp; Brasil Inovador",
-      "category": "logistica",
-      "keywords": [
-        "embraer",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "481325dec2",
       "headline": "Grupo Mateus (GMAT3) inaugura 2ª loja da Mix Toureiro Farma em Balsas (MA) - Visno Invest",
       "source": "Visnoinvest",
       "link": "https://visnoinvest.com.br",
-      "time": "hoje, 18:05",
+      "time": "ontem, 18:05",
       "dt_iso": "2026-11-19T21:05:29+00:00",
       "summary": "Grupo Mateus (GMAT3) inaugura 2ª loja da Mix Toureiro Farma em Balsas (MA) &nbsp;&nbsp; Visno Invest",
       "category": "logistica",
@@ -445,6 +326,44 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "82eddf0c19",
+      "headline": "Grupo Mateus mantém cautela na expansão após sinais de reação do varejo no Nordeste - Traders Union",
+      "source": "Tradersunion",
+      "link": "https://tradersunion.com",
+      "time": "15/11 às 09:10",
+      "dt_iso": "2026-11-15T12:10:22+00:00",
+      "summary": "Grupo Mateus mantém cautela na expansão após sinais de reação do varejo no Nordeste &nbsp;&nbsp; Traders Union",
+      "category": "expansao",
+      "keywords": [
+        "grupo mateus",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "ce534410cb",
+      "headline": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "14/11 às 09:02",
+      "dt_iso": "2026-11-14T12:02:45+00:00",
+      "summary": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' &nbsp;&nbsp; Exame",
+      "category": "logistica",
+      "keywords": [
+        "electrolux",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
