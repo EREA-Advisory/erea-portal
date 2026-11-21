@@ -1,6 +1,6 @@
 {
-  "gerado_em": "20/11/2026 às 19:29",
-  "total": 19,
+  "gerado_em": "21/11/2026 às 13:27",
+  "total": 16,
   "noticias": [
     {
       "id": "09950ddb27",
@@ -28,7 +28,7 @@
       "headline": "Fim da escala 6x1 pode elevar demanda por galpões logísticos em 30%, aponta Sort Investimentos - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 11:24",
+      "time": "19/11 às 11:24",
       "dt_iso": "2026-11-19T14:24:29+00:00",
       "summary": "Fim da escala 6x1 pode elevar demanda por galpões logísticos em 30%, aponta Sort Investimentos &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -68,7 +68,7 @@
       "headline": "Multilog investe R$ 290 milhões e inaugura terminal três vezes maior em Santos, com 72 mil m² e capacidade para receber 6 mil veículos por mês - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 12:21",
+      "time": "ontem, 12:21",
       "dt_iso": "2026-11-20T15:21:00+00:00",
       "summary": "Multilog investe R$ 290 milhões e inaugura terminal três vezes maior em Santos, com 72 mil m² e capacidade para receber 6 mil veículos por mês &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "logistica",
@@ -79,6 +79,26 @@
       ],
       "score": 7,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "a7d1924d9a",
+      "headline": "Com investimento de R$ 700 milhões, Electrolux amplia fábrica na Grande Curitiba - Bem Paraná",
+      "source": "Bemparana",
+      "link": "https://www.bemparana.com.br",
+      "time": "17/11 às 14:53",
+      "dt_iso": "2026-11-17T17:53:09+00:00",
+      "summary": "Com investimento de R$ 700 milhões, Electrolux amplia fábrica na Grande Curitiba &nbsp;&nbsp; Bem Paraná",
+      "category": "logistica",
+      "keywords": [
+        "electrolux",
+        "amplia",
+        "investimento"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Curitiba.",
       "badges": [
         "Logística"
       ]
@@ -183,7 +203,7 @@
       "headline": "Multilog inaugura novo terminal alfandegado no Porto de Santos - Portos e Navios",
       "source": "Portos e Navios",
       "link": "https://www.portosenavios.com.br",
-      "time": "hoje, 23:17",
+      "time": "ontem, 23:17",
       "dt_iso": "2026-11-20T02:17:23+00:00",
       "summary": "Multilog inaugura novo terminal alfandegado no Porto de Santos &nbsp;&nbsp; Portos e Navios",
       "category": "logistica",
@@ -198,32 +218,13 @@
       ]
     },
     {
-      "id": "c699fc7a15",
-      "headline": "Belém entrega nova Unidade de Valorização de Recicláveis Filhos do Sol com galpão recuperado - Belém.com.br",
-      "source": "Belem",
-      "link": "https://belem.com.br",
-      "time": "18/11 às 07:00",
-      "dt_iso": "2026-11-18T10:00:00+00:00",
-      "summary": "Belém entrega nova Unidade de Valorização de Recicláveis Filhos do Sol com galpão recuperado &nbsp;&nbsp; Belém.com.br",
-      "category": "expansao",
-      "keywords": [
-        "galpão",
-        "nova unidade"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "f37556cf97",
-      "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi. até 2028 - Jornal da Orla",
+      "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 - Jornal da Orla",
       "source": "Jornaldaorla",
       "link": "https://jornaldaorla.com.br",
       "time": "ontem, 14:45",
       "dt_iso": "2026-11-19T17:45:00+00:00",
-      "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi. até 2028 &nbsp;&nbsp; Jornal da Orla",
+      "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 &nbsp;&nbsp; Jornal da Orla",
       "category": "logistica",
       "keywords": [
         "multilog",
@@ -236,30 +237,11 @@
       ]
     },
     {
-      "id": "976e98bda6",
-      "headline": "Grupo ETE expande operação logística na Região com centro logístico na Terceira - Açoriano Oriental",
-      "source": "Acorianooriental",
-      "link": "https://www.acorianooriental.pt",
-      "time": "17/11 às 08:09",
-      "dt_iso": "2026-11-17T11:09:00+00:00",
-      "summary": "Grupo ETE expande operação logística na Região com centro logístico na Terceira &nbsp;&nbsp; Açoriano Oriental",
-      "category": "logistica",
-      "keywords": [
-        "operação logística",
-        "expande"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "36ab341a6c",
       "headline": "Mercado de forragens secas em galpão até 2035: demanda leiteira sustenta crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "ontem, 12:56",
+      "time": "19/11 às 12:56",
       "dt_iso": "2026-11-19T15:56:05+00:00",
       "summary": "Mercado de forragens secas em galpão até 2035: demanda leiteira sustenta crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
@@ -312,25 +294,6 @@
       ]
     },
     {
-      "id": "481325dec2",
-      "headline": "Grupo Mateus (GMAT3) inaugura 2ª loja da Mix Toureiro Farma em Balsas (MA) - Visno Invest",
-      "source": "Visnoinvest",
-      "link": "https://visnoinvest.com.br",
-      "time": "ontem, 18:05",
-      "dt_iso": "2026-11-19T21:05:29+00:00",
-      "summary": "Grupo Mateus (GMAT3) inaugura 2ª loja da Mix Toureiro Farma em Balsas (MA) &nbsp;&nbsp; Visno Invest",
-      "category": "logistica",
-      "keywords": [
-        "grupo mateus",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "82eddf0c19",
       "headline": "Grupo Mateus mantém cautela na expansão após sinais de reação do varejo no Nordeste - Traders Union",
       "source": "Tradersunion",
@@ -347,25 +310,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "ce534410cb",
-      "headline": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "14/11 às 09:02",
-      "dt_iso": "2026-11-14T12:02:45+00:00",
-      "summary": "Electrolux amplia fábrica de R$ 700 milhões para dominar lares no Brasil. Mas '2027 exigirá cautela' &nbsp;&nbsp; Exame",
-      "category": "logistica",
-      "keywords": [
-        "electrolux",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     }
   ]
