@@ -1,6 +1,6 @@
 {
-  "gerado_em": "21/11/2026 às 13:27",
-  "total": 16,
+  "gerado_em": "21/11/2026 às 18:26",
+  "total": 15,
   "noticias": [
     {
       "id": "09950ddb27",
@@ -19,6 +19,25 @@
       ],
       "score": 8,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "bf144167de",
+      "headline": "Incerteza geopolítica dá negócio à DHL Supply Chain: receitas sobem 12% e contratos devem passar os 8 mil milhões - Executive Digest",
+      "source": "Executivedigest",
+      "link": "https://executivedigest.sapo.pt",
+      "time": "18/11 às 08:32",
+      "dt_iso": "2026-11-18T11:32:00+00:00",
+      "summary": "Incerteza geopolítica dá negócio à DHL Supply Chain: receitas sobem 12% e contratos devem passar os 8 mil milhões &nbsp;&nbsp; Executive Digest",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "supply chain"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -44,26 +63,6 @@
       ]
     },
     {
-      "id": "7dd7a4d79c",
-      "headline": "Empresa investe R$ 3 milhões em novo centro de distribuição em Cabreúva - Portal da Cidade - Cabreúva / SP",
-      "source": "Cabreuva",
-      "link": "https://cabreuva.portaldacidade.com",
-      "time": "17/11 às 15:48",
-      "dt_iso": "2026-11-17T18:48:00+00:00",
-      "summary": "Empresa investe R$ 3 milhões em novo centro de distribuição em Cabreúva &nbsp;&nbsp; Portal da Cidade - Cabreúva / SP",
-      "category": "logistica",
-      "keywords": [
-        "centro de distribuição",
-        "abre",
-        "investe"
-      ],
-      "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "4ffbf470a9",
       "headline": "Multilog investe R$ 290 milhões e inaugura terminal três vezes maior em Santos, com 72 mil m² e capacidade para receber 6 mil veículos por mês - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
@@ -84,26 +83,6 @@
       ]
     },
     {
-      "id": "a7d1924d9a",
-      "headline": "Com investimento de R$ 700 milhões, Electrolux amplia fábrica na Grande Curitiba - Bem Paraná",
-      "source": "Bemparana",
-      "link": "https://www.bemparana.com.br",
-      "time": "17/11 às 14:53",
-      "dt_iso": "2026-11-17T17:53:09+00:00",
-      "summary": "Com investimento de R$ 700 milhões, Electrolux amplia fábrica na Grande Curitiba &nbsp;&nbsp; Bem Paraná",
-      "category": "logistica",
-      "keywords": [
-        "electrolux",
-        "amplia",
-        "investimento"
-      ],
-      "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Curitiba.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e64f8d1b03",
       "headline": "Petlove desembolsa R$ 50 mi em novo centro de distribuição em Minas Gerais - Terra",
       "source": "Terra",
@@ -118,6 +97,25 @@
       ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "116edbd20f",
+      "headline": "Mercado Livre abre 25 vagas para Auxiliar de Logística sem exigir experiência no CD em Simões Filho - Portal N1N",
+      "source": "N1N",
+      "link": "https://n1n.com.br",
+      "time": "16/11 às 18:43",
+      "dt_iso": "2026-11-16T21:43:36+00:00",
+      "summary": "Mercado Livre abre 25 vagas para Auxiliar de Logística sem exigir experiência no CD em Simões Filho &nbsp;&nbsp; Portal N1N",
+      "category": "logistica",
+      "keywords": [
+        "mercado livre",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -222,7 +220,7 @@
       "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 - Jornal da Orla",
       "source": "Jornaldaorla",
       "link": "https://jornaldaorla.com.br",
-      "time": "ontem, 14:45",
+      "time": "19/11 às 14:45",
       "dt_iso": "2026-11-19T17:45:00+00:00",
       "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 &nbsp;&nbsp; Jornal da Orla",
       "category": "logistica",
@@ -251,25 +249,6 @@
       ],
       "score": 6,
       "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "87107ae654",
-      "headline": "Fulwood investe R$ 319 milhões em Minas Gerais, onde a vacância de galpões é a menor da série histórica - Portogente",
-      "source": "Portogente",
-      "link": "https://portogente.com.br",
-      "time": "14/11 às 15:22",
-      "dt_iso": "2026-11-14T18:22:11+00:00",
-      "summary": "Fulwood investe R$ 319 milhões em Minas Gerais, onde a vacância de galpões é a menor da série histórica &nbsp;&nbsp; Portogente",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
