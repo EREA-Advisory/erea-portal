@@ -1,5 +1,5 @@
 {
-  "gerado_em": "22/11/2026 às 13:44",
+  "gerado_em": "22/11/2026 às 18:30",
   "total": 12,
   "noticias": [
     {
@@ -158,6 +158,25 @@
       ]
     },
     {
+      "id": "c699fc7a15",
+      "headline": "Belém entrega nova Unidade de Valorização de Recicláveis Filhos do Sol com galpão recuperado - Belém.com.br",
+      "source": "Belem",
+      "link": "https://belem.com.br",
+      "time": "18/11 às 07:00",
+      "dt_iso": "2026-11-18T10:00:00+00:00",
+      "summary": "Belém entrega nova Unidade de Valorização de Recicláveis Filhos do Sol com galpão recuperado &nbsp;&nbsp; Belém.com.br",
+      "category": "expansao",
+      "keywords": [
+        "galpão",
+        "nova unidade"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "f37556cf97",
       "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 - Jornal da Orla",
       "source": "Jornaldaorla",
@@ -212,25 +231,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "481325dec2",
-      "headline": "Grupo Mateus (GMAT3) inaugura 2ª loja da Mix Toureiro Farma em Balsas (MA) - Visno Invest",
-      "source": "Visnoinvest",
-      "link": "https://visnoinvest.com.br",
-      "time": "19/11 às 18:05",
-      "dt_iso": "2026-11-19T21:05:29+00:00",
-      "summary": "Grupo Mateus (GMAT3) inaugura 2ª loja da Mix Toureiro Farma em Balsas (MA) &nbsp;&nbsp; Visno Invest",
-      "category": "logistica",
-      "keywords": [
-        "grupo mateus",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
       ]
     }
   ]
