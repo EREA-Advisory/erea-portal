@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/11/2026 às 18:30",
-  "total": 12,
+  "gerado_em": "23/11/2026 às 17:38",
+  "total": 15,
   "noticias": [
     {
       "id": "09950ddb27",
@@ -24,6 +24,26 @@
       ]
     },
     {
+      "id": "e3823efb4a",
+      "headline": "MBRF quer um Natal 8% maior — e aposta até em Chester no McDonald's",
+      "source": "Exame",
+      "link": "https://exame.com/agro/mbrf-quer-um-natal-8-maior-e-aposta-ate-em-chester-no-mcdonalds/",
+      "time": "hoje, 13:09",
+      "dt_iso": "2026-11-23T16:09:28+00:00",
+      "summary": "Dona de Sadia e Perdigão mira expansão dos kits natalinos, investe em novos produtos e vê espaço para recuperação do consumo",
+      "category": "expansao",
+      "keywords": [
+        "brf",
+        "expansão",
+        "investe"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "5bd5a518ca",
       "headline": "Fim da escala 6x1 pode elevar demanda por galpões logísticos em 30%, aponta Sort Investimentos - Mundo Logística",
       "source": "Mundo Logística",
@@ -44,17 +64,18 @@
       ]
     },
     {
-      "id": "e64f8d1b03",
-      "headline": "Petlove desembolsa R$ 50 mi em novo centro de distribuição em Minas Gerais - Terra",
-      "source": "Terra",
-      "link": "https://www.terra.com.br",
-      "time": "16/11 às 05:00",
-      "dt_iso": "2026-11-16T08:00:00+00:00",
-      "summary": "Petlove desembolsa R$ 50 mi em novo centro de distribuição em Minas Gerais &nbsp;&nbsp; Terra",
+      "id": "633295beac",
+      "headline": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico - Jornal Contábil",
+      "source": "Jornalcontabil",
+      "link": "https://jornalcontabil.com.br",
+      "time": "hoje, 14:17",
+      "dt_iso": "2026-11-23T17:17:06+00:00",
+      "summary": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico &nbsp;&nbsp; Jornal Contábil",
       "category": "logistica",
       "keywords": [
-        "petlove",
-        "centro de distribuição"
+        "galpão",
+        "centro de distribuição",
+        "instala"
       ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
@@ -120,30 +141,11 @@
       ]
     },
     {
-      "id": "4b1011e6f7",
-      "headline": "Emprego nos operadores logísticos cresce 22%, aponta Abol - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "16/11 às 09:07",
-      "dt_iso": "2026-11-16T12:07:00+00:00",
-      "summary": "Emprego nos operadores logísticos cresce 22%, aponta Abol &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "operadores logísticos",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "78de87ce71",
       "headline": "Multilog inaugura novo terminal alfandegado no Porto de Santos - Modais em Foco",
       "source": "Modais em Foco",
       "link": "https://www.modaisemfoco.com.br",
-      "time": "hoje, 09:23",
+      "time": "ontem, 09:23",
       "dt_iso": "2026-11-22T12:23:00+00:00",
       "summary": "Multilog inaugura novo terminal alfandegado no Porto de Santos &nbsp;&nbsp; Modais em Foco",
       "category": "logistica",
@@ -196,6 +198,44 @@
       ]
     },
     {
+      "id": "bbc07533bf",
+      "headline": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento - Correio Paulista",
+      "source": "Correiopaulista",
+      "link": "https://correiopaulista.com",
+      "time": "hoje, 14:17",
+      "dt_iso": "2026-11-23T17:17:11+00:00",
+      "summary": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento &nbsp;&nbsp; Correio Paulista",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "976e98bda6",
+      "headline": "Grupo ETE expande operação logística na Região com centro logístico na Terceira - Açoriano Oriental",
+      "source": "Acorianooriental",
+      "link": "https://www.acorianooriental.pt",
+      "time": "17/11 às 08:09",
+      "dt_iso": "2026-11-17T11:09:00+00:00",
+      "summary": "Grupo ETE expande operação logística na Região com centro logístico na Terceira &nbsp;&nbsp; Açoriano Oriental",
+      "category": "logistica",
+      "keywords": [
+        "operação logística",
+        "expande"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "36ab341a6c",
       "headline": "Mercado de forragens secas em galpão até 2035: demanda leiteira sustenta crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
@@ -231,6 +271,25 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "57e012e650",
+      "headline": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez - ncnews.com.br",
+      "source": "Ncnews",
+      "link": "https://ncnews.com.br",
+      "time": "hoje, 08:04",
+      "dt_iso": "2026-11-23T11:04:12+00:00",
+      "summary": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez &nbsp;&nbsp; ncnews.com.br",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
       ]
     }
   ]
