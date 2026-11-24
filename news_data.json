@@ -1,44 +1,64 @@
 {
-  "gerado_em": "23/11/2026 às 23:44",
+  "gerado_em": "24/11/2026 às 16:45",
   "total": 17,
   "noticias": [
     {
-      "id": "09950ddb27",
-      "headline": "Maersk inaugura nova instalação em Montevidéu - Tecnologística",
+      "id": "e41e6f5809",
+      "headline": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "17/11 às 08:42",
-      "dt_iso": "2026-11-17T11:42:54+00:00",
-      "summary": "Maersk inaugura nova instalação em Montevidéu &nbsp;&nbsp; Tecnologística",
+      "time": "hoje, 07:50",
+      "dt_iso": "2026-11-24T10:50:00+00:00",
+      "summary": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
       "keywords": [
-        "maersk",
-        "inaugura",
-        "instala",
-        "instalação"
+        "fedex",
+        "operações logísticas",
+        "amplia"
       ],
       "score": 8,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
+        "Destaque",
         "Logística"
       ]
     },
     {
-      "id": "633295beac",
-      "headline": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico - Jornal Contábil",
-      "source": "Jornalcontabil",
-      "link": "https://jornalcontabil.com.br",
-      "time": "hoje, 14:17",
-      "dt_iso": "2026-11-23T17:17:06+00:00",
-      "summary": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico &nbsp;&nbsp; Jornal Contábil",
+      "id": "e7b2306c64",
+      "headline": "FedEx expande supply chain no Brasil após encerrar o doméstico - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "hoje, 09:00",
+      "dt_iso": "2026-11-24T12:00:00+00:00",
+      "summary": "FedEx expande supply chain no Brasil após encerrar o doméstico &nbsp;&nbsp; E-Commerce Brasil",
       "category": "logistica",
       "keywords": [
-        "galpão",
-        "centro de distribuição",
-        "instala"
+        "fedex",
+        "supply chain",
+        "expande"
+      ],
+      "score": 8,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "bf144167de",
+      "headline": "Incerteza geopolítica dá negócio à DHL Supply Chain: receitas sobem 12% e contratos devem passar os 8 mil milhões - Executive Digest",
+      "source": "Executivedigest",
+      "link": "https://executivedigest.sapo.pt",
+      "time": "18/11 às 08:32",
+      "dt_iso": "2026-11-18T11:32:00+00:00",
+      "summary": "Incerteza geopolítica dá negócio à DHL Supply Chain: receitas sobem 12% e contratos devem passar os 8 mil milhões &nbsp;&nbsp; Executive Digest",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "supply chain"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -64,21 +84,41 @@
       ]
     },
     {
-      "id": "7dd7a4d79c",
-      "headline": "Empresa investe R$ 3 milhões em novo centro de distribuição em Cabreúva - Portal da Cidade - Cabreúva / SP",
-      "source": "Cabreuva",
-      "link": "https://cabreuva.portaldacidade.com",
-      "time": "17/11 às 15:48",
-      "dt_iso": "2026-11-17T18:48:00+00:00",
-      "summary": "Empresa investe R$ 3 milhões em novo centro de distribuição em Cabreúva &nbsp;&nbsp; Portal da Cidade - Cabreúva / SP",
+      "id": "633295beac",
+      "headline": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico - Jornal Contábil",
+      "source": "Jornalcontabil",
+      "link": "https://jornalcontabil.com.br",
+      "time": "ontem, 14:17",
+      "dt_iso": "2026-11-23T17:17:06+00:00",
+      "summary": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico &nbsp;&nbsp; Jornal Contábil",
       "category": "logistica",
       "keywords": [
+        "galpão",
         "centro de distribuição",
-        "abre",
-        "investe"
+        "instala"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "53d7b47588",
+      "headline": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "hoje, 19:26",
+      "dt_iso": "2026-11-23T22:26:44+00:00",
+      "summary": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Logística"
       ]
@@ -103,16 +143,16 @@
       ]
     },
     {
-      "id": "25606e427d",
-      "headline": "Braspress investe R$ 10 milhões em 30 veículos elétricos - Mundo Logística",
+      "id": "1ff7b29621",
+      "headline": "Total Express investe mais de R$ 100 mi para a Black Friday - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "17/11 às 11:32",
-      "dt_iso": "2026-11-17T14:32:55+00:00",
-      "summary": "Braspress investe R$ 10 milhões em 30 veículos elétricos &nbsp;&nbsp; Mundo Logística",
+      "time": "hoje, 12:05",
+      "dt_iso": "2026-11-24T15:05:07+00:00",
+      "summary": "Total Express investe mais de R$ 100 mi para a Black Friday &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
-        "braspress",
+        "total express",
         "investe"
       ],
       "score": 6,
@@ -122,32 +162,13 @@
       ]
     },
     {
-      "id": "6c41ccc2d8",
-      "headline": "Braspress adquire 30 veículos elétricos e amplia frota de baixa emissão - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "17/11 às 08:00",
-      "dt_iso": "2026-11-17T11:00:00+00:00",
-      "summary": "Braspress adquire 30 veículos elétricos e amplia frota de baixa emissão &nbsp;&nbsp; Tecnologística",
-      "category": "logistica",
-      "keywords": [
-        "braspress",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "78de87ce71",
-      "headline": "Multilog inaugura novo terminal alfandegado no Porto de Santos - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "ontem, 09:23",
-      "dt_iso": "2026-11-22T12:23:00+00:00",
-      "summary": "Multilog inaugura novo terminal alfandegado no Porto de Santos &nbsp;&nbsp; Modais em Foco",
+      "id": "6b3229d803",
+      "headline": "Multilog inaugura terminal alfandegado em Santos (SP) - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "hoje, 11:28",
+      "dt_iso": "2026-11-24T14:28:17+00:00",
+      "summary": "Multilog inaugura terminal alfandegado em Santos (SP) &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
       "keywords": [
         "multilog",
@@ -179,35 +200,35 @@
       ]
     },
     {
-      "id": "26e2026837",
-      "headline": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "hoje, 16:30",
-      "dt_iso": "2026-11-23T19:30:34+00:00",
-      "summary": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) &nbsp;&nbsp; SuperHiper",
-      "category": "logistica",
+      "id": "7869db0520",
+      "headline": "Mercado Livre investe R$ 468 milhões em novo megacentro logístico em Simões Filho; obra deve movimentar milhares de empregos - Empregos na Bahia",
+      "source": "Empregosnabahia",
+      "link": "https://empregosnabahia.com.br",
+      "time": "hoje, 12:02",
+      "dt_iso": "2026-11-24T15:02:57+00:00",
+      "summary": "Mercado Livre investe R$ 468 milhões em novo megacentro logístico em Simões Filho; obra deve movimentar milhares de empregos &nbsp;&nbsp; Empregos na Bahia",
+      "category": "ecommerce",
       "keywords": [
-        "assaí",
-        "abertura"
+        "mercado livre",
+        "investe"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
-      "id": "bbc07533bf",
-      "headline": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento - Correio Paulista",
-      "source": "Correiopaulista",
-      "link": "https://correiopaulista.com",
-      "time": "hoje, 14:17",
-      "dt_iso": "2026-11-23T17:17:11+00:00",
-      "summary": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento &nbsp;&nbsp; Correio Paulista",
+      "id": "f37556cf97",
+      "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 - Jornal da Orla",
+      "source": "Jornaldaorla",
+      "link": "https://jornaldaorla.com.br",
+      "time": "19/11 às 14:45",
+      "dt_iso": "2026-11-19T17:45:00+00:00",
+      "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 &nbsp;&nbsp; Jornal da Orla",
       "category": "logistica",
       "keywords": [
-        "assaí",
+        "multilog",
         "inaugura"
       ],
       "score": 6,
@@ -217,20 +238,20 @@
       ]
     },
     {
-      "id": "c29686812a",
-      "headline": "ID Logistics prepara contratação de 3 mil profissionais e quatro novas unidades no Brasil para enfrentar alta de 162% nas encomendas durante a Black Friday de 2026 - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 16:33",
-      "dt_iso": "2026-11-23T19:33:00+00:00",
-      "summary": "ID Logistics prepara contratação de 3 mil profissionais e quatro novas unidades no Brasil para enfrentar alta de 162% nas encomendas durante a Black Friday de 2026 &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "id": "bbc07533bf",
+      "headline": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento - Correio Paulista",
+      "source": "Correiopaulista",
+      "link": "https://correiopaulista.com",
+      "time": "ontem, 14:17",
+      "dt_iso": "2026-11-23T17:17:11+00:00",
+      "summary": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento &nbsp;&nbsp; Correio Paulista",
       "category": "logistica",
       "keywords": [
-        "id logistics",
-        "novas unidades"
+        "assaí",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -274,25 +295,6 @@
       ]
     },
     {
-      "id": "389f7bf468",
-      "headline": "FedEx saiu do Brasil? Empresa faz dezenas de milhares de entregas e investe R$ 75 mi no país - Exame",
-      "source": "Exame",
-      "link": "https://exame.com",
-      "time": "17/11 às 15:02",
-      "dt_iso": "2026-11-17T18:02:47+00:00",
-      "summary": "FedEx saiu do Brasil? Empresa faz dezenas de milhares de entregas e investe R$ 75 mi no país &nbsp;&nbsp; Exame",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "34174fa6b2",
       "headline": "Mercado livre de energia se abre a novos consumidores, mas economia dependerá da gestão dos contratos - Administradores",
       "source": "Administradores",
@@ -316,7 +318,7 @@
       "headline": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez - ncnews.com.br",
       "source": "Ncnews",
       "link": "https://ncnews.com.br",
-      "time": "hoje, 08:04",
+      "time": "ontem, 08:04",
       "dt_iso": "2026-11-23T11:04:12+00:00",
       "summary": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez &nbsp;&nbsp; ncnews.com.br",
       "category": "logistica",
