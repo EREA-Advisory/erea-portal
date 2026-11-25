@@ -1,6 +1,6 @@
 {
-  "gerado_em": "25/11/2026 às 15:52",
-  "total": 22,
+  "gerado_em": "25/11/2026 às 20:58",
+  "total": 23,
   "noticias": [
     {
       "id": "ed72aed2ef",
@@ -25,6 +25,28 @@
       ]
     },
     {
+      "id": "f2665c5eac",
+      "headline": "FedEx investe em seu maior centro logístico da América Latina no Brasil, amplia armazenagem em mais de 60% e alcança 90 mil posições-palete - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 18:03",
+      "dt_iso": "2026-11-25T21:03:00+00:00",
+      "summary": "FedEx investe em seu maior centro logístico da América Latina no Brasil, amplia armazenagem em mais de 60% e alcança 90 mil posições-palete &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "armazenagem",
+        "amplia",
+        "investe"
+      ],
+      "score": 9,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
       "id": "e41e6f5809",
       "headline": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil - Tecnologística",
       "source": "Tecnologística",
@@ -46,44 +68,24 @@
       ]
     },
     {
-      "id": "e7b2306c64",
-      "headline": "FedEx expande supply chain no Brasil após encerrar o doméstico - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "ontem, 09:00",
-      "dt_iso": "2026-11-24T12:00:00+00:00",
-      "summary": "FedEx expande supply chain no Brasil após encerrar o doméstico &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "logistica",
+      "id": "b3493cefad",
+      "headline": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "hoje, 13:27",
+      "dt_iso": "2026-11-25T16:27:37+00:00",
+      "summary": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday &nbsp;&nbsp; melhorinvestimento.net",
+      "category": "ecommerce",
       "keywords": [
-        "fedex",
-        "supply chain",
-        "expande"
+        "mercado livre",
+        "shopee",
+        "magalu",
+        "investimento"
       ],
       "score": 8,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "9613caa2ce",
-      "headline": "Dados da Nielsen trazem boas notícias para ações de Assaí, Grupo Mateus e GPA",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/mercados/dados-da-nielsen-trazem-boas-noticias-para-acoes-de-assai-grupo-mateus-e-gpa/",
-      "time": "há 2 min",
-      "dt_iso": "2026-11-25T18:49:08+00:00",
-      "summary": "Vendas em supermercados e hipermercados, lojas de atacarejo e farmácias cresceram mais de 6% ao ano \n The post  Dados da Nielsen trazem boas notícias para ações de Assaí, Grupo Mateus e GPA  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "grupo mateus",
-        "assaí",
-        "cresce"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
+        "E-commerce"
       ]
     },
     {
@@ -146,11 +148,31 @@
       ]
     },
     {
+      "id": "ac48414750",
+      "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "hoje, 23:23",
+      "dt_iso": "2026-11-25T02:23:02+00:00",
+      "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
+      "category": "investimento",
+      "keywords": [
+        "casas bahia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "53d7b47588",
       "headline": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara - Suno - Investimentos Inteligentes",
       "source": "Suno",
       "link": "https://www.suno.com.br",
-      "time": "ontem, 19:26",
+      "time": "23/11 às 19:26",
       "dt_iso": "2026-11-23T22:26:44+00:00",
       "summary": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara &nbsp;&nbsp; Suno - Investimentos Inteligentes",
       "category": "logistica",
@@ -161,6 +183,44 @@
       ],
       "score": 7,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7a0bf17268",
+      "headline": "Segurança alimentar global é oportunidade para Brasil, diz Tomazoni, da JBS",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/business/seguranca-alimentar-global-e-oportunidade-para-brasil-diz-tomazoni-da-jbs/",
+      "time": "hoje, 19:21",
+      "dt_iso": "2026-11-25T22:21:38+00:00",
+      "summary": "Em encontro com a imprensa na sede da companhia, em São Paulo, os executivos da JBS ligaram as novas operações no exterior a projetos de segurança alimentar de governos estrangeiros, disseram por que as tarifas incomodam pouco e detalharam os planos para Omã e Indonésia \n The post  Segurança alimentar global é oportunidade para Brasil, diz Tomazoni, da JBS  appeared first on  InfoMoney .",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "novas operações"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "952a8d2566",
+      "headline": "Brasileira no Brasil e americana nos EUA: como a JBS cresce sendo local pelo mundo",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/business/brasileira-no-brasil-e-americana-nos-eua-como-a-jbs-cresce-sendo-local-no-mundo/",
+      "time": "hoje, 18:48",
+      "dt_iso": "2026-11-25T21:48:21+00:00",
+      "summary": "Em encontro com a imprensa na sede da companhia, em São Paulo, os principais executivos da JBS detalharam por que a maior empresa de proteína do mundo trata cada país em que atua como casa — e não como \"resto do mundo\" \n The post  Brasileira no Brasil e americana nos EUA: como a JBS cresce sendo local pelo mundo  appeared first on  InfoMoney .",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "cresce"
+      ],
+      "score": 6,
+      "relevance": "Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado.",
       "badges": [
         "Logística"
       ]
@@ -189,7 +249,7 @@
       "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
       "source": "Olhardireto",
       "link": "https://www.olhardireto.com.br",
-      "time": "hoje, 17:38",
+      "time": "ontem, 17:38",
       "dt_iso": "2026-11-24T20:38:00+00:00",
       "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
       "category": "expansao",
@@ -246,7 +306,7 @@
       "headline": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA - Bahia Econômica",
       "source": "Bahiaeconomica",
       "link": "https://bahiaeconomica.com.br",
-      "time": "hoje, 16:59",
+      "time": "ontem, 16:59",
       "dt_iso": "2026-11-24T19:59:00+00:00",
       "summary": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA &nbsp;&nbsp; Bahia Econômica",
       "category": "ecommerce",
@@ -280,32 +340,13 @@
       ]
     },
     {
-      "id": "26e2026837",
-      "headline": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) - SuperHiper",
-      "source": "Superhiper",
-      "link": "https://www.superhiper.com.br",
-      "time": "ontem, 16:30",
-      "dt_iso": "2026-11-23T19:30:34+00:00",
-      "summary": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) &nbsp;&nbsp; SuperHiper",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "abertura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "899d193622",
-      "headline": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim - Brasil Inovador",
+      "id": "4247cd9da4",
+      "headline": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional - Brasil Inovador",
       "source": "Brasilinovador",
       "link": "https://brasilinovador.com.br",
-      "time": "hoje, 13:10",
-      "dt_iso": "2026-11-25T16:10:06+00:00",
-      "summary": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim &nbsp;&nbsp; Brasil Inovador",
+      "time": "hoje, 16:10",
+      "dt_iso": "2026-11-25T19:10:09+00:00",
+      "summary": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional &nbsp;&nbsp; Brasil Inovador",
       "category": "expansao",
       "keywords": [
         "embraer",
@@ -318,13 +359,13 @@
       ]
     },
     {
-      "id": "f58620e058",
-      "headline": "Embraer projeta expansão no México com plataformas de defesa e aviação comercial - Brasil Inovador",
+      "id": "7562971f51",
+      "headline": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico - Brasil Inovador",
       "source": "Brasilinovador",
       "link": "https://brasilinovador.com.br",
-      "time": "hoje, 14:30",
-      "dt_iso": "2026-11-25T17:30:15+00:00",
-      "summary": "Embraer projeta expansão no México com plataformas de defesa e aviação comercial &nbsp;&nbsp; Brasil Inovador",
+      "time": "há 48 min",
+      "dt_iso": "2026-11-25T23:10:07+00:00",
+      "summary": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico &nbsp;&nbsp; Brasil Inovador",
       "category": "expansao",
       "keywords": [
         "embraer",
@@ -334,44 +375,6 @@
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
-      ]
-    },
-    {
-      "id": "c29686812a",
-      "headline": "ID Logistics prepara contratação de 3 mil profissionais e quatro novas unidades no Brasil para enfrentar alta de 162% nas encomendas durante a Black Friday de 2026 - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 16:33",
-      "dt_iso": "2026-11-23T19:33:00+00:00",
-      "summary": "ID Logistics prepara contratação de 3 mil profissionais e quatro novas unidades no Brasil para enfrentar alta de 162% nas encomendas durante a Black Friday de 2026 &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "logistica",
-      "keywords": [
-        "id logistics",
-        "novas unidades"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "bc457b76ef",
-      "headline": "DHL investirá R$ 270 milhões para ampliar rede no Brasil e promete entregas nos EUA em 48 horas - ncnews.com.br",
-      "source": "Ncnews",
-      "link": "https://ncnews.com.br",
-      "time": "22/11 às 16:10",
-      "dt_iso": "2026-11-22T19:10:35+00:00",
-      "summary": "DHL investirá R$ 270 milhões para ampliar rede no Brasil e promete entregas nos EUA em 48 horas &nbsp;&nbsp; ncnews.com.br",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
       ]
     },
     {
@@ -417,7 +420,7 @@
       "headline": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "hoje, 19:21",
+      "time": "ontem, 19:21",
       "dt_iso": "2026-11-24T22:21:04+00:00",
       "summary": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "logistica",
@@ -429,6 +432,25 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "2268ea83fa",
+      "headline": "Mercado de tratamentos contra pulgas e carrapatos até 2035: humanização dos PETs e assinaturas no e-commerce impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "hoje, 19:51",
+      "dt_iso": "2026-11-25T22:51:04+00:00",
+      "summary": "Mercado de tratamentos contra pulgas e carrapatos até 2035: humanização dos PETs e assinaturas no e-commerce impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "ecommerce",
+      "keywords": [
+        "natura",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "E-commerce"
       ]
     }
   ]
