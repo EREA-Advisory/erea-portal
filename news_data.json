@@ -1,5 +1,5 @@
 {
-  "gerado_em": "24/11/2026 às 21:19",
+  "gerado_em": "25/11/2026 às 15:52",
   "total": 22,
   "noticias": [
     {
@@ -25,32 +25,11 @@
       ]
     },
     {
-      "id": "955fe438a6",
-      "headline": "América Latina tem recursos, talentos e oportunidades. O que falta para crescer mais?",
-      "source": "Exame",
-      "link": "https://exame.com/economia/america-latina-tem-recursos-talentos-e-oportunidades-o-que-falta-para-crescer-mais/",
-      "time": "hoje, 16:05",
-      "dt_iso": "2026-11-24T19:05:48+00:00",
-      "summary": "Em Miami, líderes do Bank of America, PepsiCo, AES e Philip Morris discutiram os caminhos para aumentar a produtividade e atrair investimentos para a região",
-      "category": "logistica",
-      "keywords": [
-        "pepsico",
-        "investimento",
-        "investimentos",
-        "cresce"
-      ],
-      "score": 8,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "e41e6f5809",
       "headline": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 07:50",
+      "time": "ontem, 07:50",
       "dt_iso": "2026-11-24T10:50:00+00:00",
       "summary": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -71,7 +50,7 @@
       "headline": "FedEx expande supply chain no Brasil após encerrar o doméstico - E-Commerce Brasil",
       "source": "E-commerce Brasil",
       "link": "https://www.ecommercebrasil.com.br",
-      "time": "hoje, 09:00",
+      "time": "ontem, 09:00",
       "dt_iso": "2026-11-24T12:00:00+00:00",
       "summary": "FedEx expande supply chain no Brasil após encerrar o doméstico &nbsp;&nbsp; E-Commerce Brasil",
       "category": "logistica",
@@ -88,17 +67,18 @@
       ]
     },
     {
-      "id": "bf144167de",
-      "headline": "Incerteza geopolítica dá negócio à DHL Supply Chain: receitas sobem 12% e contratos devem passar os 8 mil milhões - Executive Digest",
-      "source": "Executivedigest",
-      "link": "https://executivedigest.sapo.pt",
-      "time": "18/11 às 08:32",
-      "dt_iso": "2026-11-18T11:32:00+00:00",
-      "summary": "Incerteza geopolítica dá negócio à DHL Supply Chain: receitas sobem 12% e contratos devem passar os 8 mil milhões &nbsp;&nbsp; Executive Digest",
+      "id": "9613caa2ce",
+      "headline": "Dados da Nielsen trazem boas notícias para ações de Assaí, Grupo Mateus e GPA",
+      "source": "InfoMoney",
+      "link": "https://www.infomoney.com.br/mercados/dados-da-nielsen-trazem-boas-noticias-para-acoes-de-assai-grupo-mateus-e-gpa/",
+      "time": "há 2 min",
+      "dt_iso": "2026-11-25T18:49:08+00:00",
+      "summary": "Vendas em supermercados e hipermercados, lojas de atacarejo e farmácias cresceram mais de 6% ao ano \n The post  Dados da Nielsen trazem boas notícias para ações de Assaí, Grupo Mateus e GPA  appeared first on  InfoMoney .",
       "category": "logistica",
       "keywords": [
-        "dhl",
-        "supply chain"
+        "grupo mateus",
+        "assaí",
+        "cresce"
       ],
       "score": 7,
       "relevance": "Notícia relevante para o mercado logístico.",
@@ -127,11 +107,30 @@
       ]
     },
     {
+      "id": "a3b0dd27de",
+      "headline": "ID Logistics assume operação logística da LVMH Beauty no Brasil - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "hoje, 11:02",
+      "dt_iso": "2026-11-25T14:02:50+00:00",
+      "summary": "ID Logistics assume operação logística da LVMH Beauty no Brasil &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "id logistics",
+        "operação logística"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "633295beac",
       "headline": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico - Jornal Contábil",
       "source": "Jornalcontabil",
       "link": "https://jornalcontabil.com.br",
-      "time": "ontem, 14:17",
+      "time": "23/11 às 14:17",
       "dt_iso": "2026-11-23T17:17:06+00:00",
       "summary": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico &nbsp;&nbsp; Jornal Contábil",
       "category": "logistica",
@@ -142,25 +141,6 @@
       ],
       "score": 7,
       "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "a3b0dd27de",
-      "headline": "ID Logistics assume operação logística da LVMH Beauty no Brasil - bra1.com.br",
-      "source": "Bra1",
-      "link": "https://www.bra1.com.br",
-      "time": "hoje, 13:41",
-      "dt_iso": "2026-11-24T16:41:00+00:00",
-      "summary": "ID Logistics assume operação logística da LVMH Beauty no Brasil &nbsp;&nbsp; bra1.com.br",
-      "category": "logistica",
-      "keywords": [
-        "id logistics",
-        "operação logística"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
@@ -186,22 +166,41 @@
       ]
     },
     {
-      "id": "cfea4b7a0f",
-      "headline": "FedEx investe R$ 7 milhões em CD de Cajamar - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "18/11 às 09:48",
-      "dt_iso": "2026-11-18T12:48:44+00:00",
-      "summary": "FedEx investe R$ 7 milhões em CD de Cajamar &nbsp;&nbsp; Mundo Logística",
+      "id": "6d64fc2077",
+      "headline": "Primeiro tilt-up duplo chega ao Brasil como solução para construção de galpões logísticos - Revista O Empreiteiro",
+      "source": "Revistaoe",
+      "link": "https://revistaoe.com.br",
+      "time": "19/11 às 12:39",
+      "dt_iso": "2026-11-19T15:39:26+00:00",
+      "summary": "Primeiro tilt-up duplo chega ao Brasil como solução para construção de galpões logísticos &nbsp;&nbsp; Revista O Empreiteiro",
       "category": "logistica",
       "keywords": [
-        "fedex",
-        "investe"
+        "galpões",
+        "construção"
       ],
       "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física. Região(ões) mencionada(s): Cajamar.",
+      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
+      ]
+    },
+    {
+      "id": "7bf559576a",
+      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
+      "source": "Olhardireto",
+      "link": "https://www.olhardireto.com.br",
+      "time": "hoje, 17:38",
+      "dt_iso": "2026-11-24T20:38:00+00:00",
+      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -209,7 +208,7 @@
       "headline": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 12:05",
+      "time": "ontem, 12:05",
       "dt_iso": "2026-11-24T15:05:07+00:00",
       "summary": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -228,7 +227,7 @@
       "headline": "Multilog inaugura terminal alfandegado em Santos (SP) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "hoje, 11:28",
+      "time": "ontem, 11:28",
       "dt_iso": "2026-11-24T14:28:17+00:00",
       "summary": "Multilog inaugura terminal alfandegado em Santos (SP) &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -240,25 +239,6 @@
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
-      ]
-    },
-    {
-      "id": "c699fc7a15",
-      "headline": "Belém entrega nova Unidade de Valorização de Recicláveis Filhos do Sol com galpão recuperado - Belém.com.br",
-      "source": "Belem",
-      "link": "https://belem.com.br",
-      "time": "18/11 às 07:00",
-      "dt_iso": "2026-11-18T10:00:00+00:00",
-      "summary": "Belém entrega nova Unidade de Valorização de Recicláveis Filhos do Sol com galpão recuperado &nbsp;&nbsp; Belém.com.br",
-      "category": "expansao",
-      "keywords": [
-        "galpão",
-        "nova unidade"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Expansão"
       ]
     },
     {
@@ -281,6 +261,25 @@
       ]
     },
     {
+      "id": "f37556cf97",
+      "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 - Jornal da Orla",
+      "source": "Jornaldaorla",
+      "link": "https://jornaldaorla.com.br",
+      "time": "19/11 às 14:45",
+      "dt_iso": "2026-11-19T17:45:00+00:00",
+      "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 &nbsp;&nbsp; Jornal da Orla",
+      "category": "logistica",
+      "keywords": [
+        "multilog",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "26e2026837",
       "headline": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) - SuperHiper",
       "source": "Superhiper",
@@ -300,41 +299,60 @@
       ]
     },
     {
-      "id": "bbc07533bf",
-      "headline": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento - Correio Paulista",
-      "source": "Correiopaulista",
-      "link": "https://correiopaulista.com",
-      "time": "ontem, 14:17",
-      "dt_iso": "2026-11-23T17:17:11+00:00",
-      "summary": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento &nbsp;&nbsp; Correio Paulista",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7bf559576a",
-      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
-      "source": "Olhardireto",
-      "link": "https://www.olhardireto.com.br",
-      "time": "hoje, 17:38",
-      "dt_iso": "2026-11-24T20:38:00+00:00",
-      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
+      "id": "899d193622",
+      "headline": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "hoje, 13:10",
+      "dt_iso": "2026-11-25T16:10:06+00:00",
+      "summary": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim &nbsp;&nbsp; Brasil Inovador",
       "category": "expansao",
       "keywords": [
-        "galpões",
+        "embraer",
         "expansão"
       ],
       "score": 6,
       "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Expansão"
+      ]
+    },
+    {
+      "id": "f58620e058",
+      "headline": "Embraer projeta expansão no México com plataformas de defesa e aviação comercial - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "hoje, 14:30",
+      "dt_iso": "2026-11-25T17:30:15+00:00",
+      "summary": "Embraer projeta expansão no México com plataformas de defesa e aviação comercial &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "c29686812a",
+      "headline": "ID Logistics prepara contratação de 3 mil profissionais e quatro novas unidades no Brasil para enfrentar alta de 162% nas encomendas durante a Black Friday de 2026 - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "ontem, 16:33",
+      "dt_iso": "2026-11-23T19:33:00+00:00",
+      "summary": "ID Logistics prepara contratação de 3 mil profissionais e quatro novas unidades no Brasil para enfrentar alta de 162% nas encomendas durante a Black Friday de 2026 &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "logistica",
+      "keywords": [
+        "id logistics",
+        "novas unidades"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -376,30 +394,11 @@
       ]
     },
     {
-      "id": "34174fa6b2",
-      "headline": "Mercado livre de energia se abre a novos consumidores, mas economia dependerá da gestão dos contratos - Administradores",
-      "source": "Administradores",
-      "link": "https://www.administradores.com.br",
-      "time": "ontem, 18:00",
-      "dt_iso": "2026-11-23T21:00:58+00:00",
-      "summary": "Mercado livre de energia se abre a novos consumidores, mas economia dependerá da gestão dos contratos &nbsp;&nbsp; Administradores",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "abre"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "57e012e650",
       "headline": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez - ncnews.com.br",
       "source": "Ncnews",
       "link": "https://ncnews.com.br",
-      "time": "ontem, 08:04",
+      "time": "23/11 às 08:04",
       "dt_iso": "2026-11-23T11:04:12+00:00",
       "summary": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez &nbsp;&nbsp; ncnews.com.br",
       "category": "logistica",
