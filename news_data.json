@@ -1,6 +1,6 @@
 {
-  "gerado_em": "25/11/2026 às 20:58",
-  "total": 23,
+  "gerado_em": "26/11/2026 às 15:41",
+  "total": 27,
   "noticias": [
     {
       "id": "ed72aed2ef",
@@ -47,24 +47,45 @@
       ]
     },
     {
-      "id": "e41e6f5809",
-      "headline": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil - Tecnologística",
-      "source": "Tecnologística",
-      "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 07:50",
-      "dt_iso": "2026-11-24T10:50:00+00:00",
-      "summary": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil &nbsp;&nbsp; Tecnologística",
+      "id": "e7b2306c64",
+      "headline": "FedEx expande supply chain no Brasil após encerrar o doméstico - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "24/11 às 09:00",
+      "dt_iso": "2026-11-24T12:00:00+00:00",
+      "summary": "FedEx expande supply chain no Brasil após encerrar o doméstico &nbsp;&nbsp; E-Commerce Brasil",
       "category": "logistica",
       "keywords": [
         "fedex",
-        "operações logísticas",
-        "amplia"
+        "supply chain",
+        "expande"
       ],
       "score": 8,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
+      ]
+    },
+    {
+      "id": "88e0a3c9cd",
+      "headline": "Meli e Shopee dominam locação de galpões em 2026 - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "hoje, 05:00",
+      "dt_iso": "2026-11-26T08:00:01+00:00",
+      "summary": "Meli e Shopee dominam locação de galpões em 2026 &nbsp;&nbsp; Valor Econômico",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "galpões",
+        "locação"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
       ]
     },
     {
@@ -72,7 +93,7 @@
       "headline": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday - melhorinvestimento.net",
       "source": "Melhorinvestimento",
       "link": "https://melhorinvestimento.net",
-      "time": "hoje, 13:27",
+      "time": "ontem, 13:27",
       "dt_iso": "2026-11-25T16:27:37+00:00",
       "summary": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday &nbsp;&nbsp; melhorinvestimento.net",
       "category": "ecommerce",
@@ -89,31 +110,11 @@
       ]
     },
     {
-      "id": "5bd5a518ca",
-      "headline": "Fim da escala 6x1 pode elevar demanda por galpões logísticos em 30%, aponta Sort Investimentos - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "19/11 às 11:24",
-      "dt_iso": "2026-11-19T14:24:29+00:00",
-      "summary": "Fim da escala 6x1 pode elevar demanda por galpões logísticos em 30%, aponta Sort Investimentos &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "a3b0dd27de",
       "headline": "ID Logistics assume operação logística da LVMH Beauty no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "hoje, 11:02",
+      "time": "ontem, 11:02",
       "dt_iso": "2026-11-25T14:02:50+00:00",
       "summary": "ID Logistics assume operação logística da LVMH Beauty no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -128,23 +129,23 @@
       ]
     },
     {
-      "id": "633295beac",
-      "headline": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico - Jornal Contábil",
-      "source": "Jornalcontabil",
-      "link": "https://jornalcontabil.com.br",
-      "time": "23/11 às 14:17",
-      "dt_iso": "2026-11-23T17:17:06+00:00",
-      "summary": "Centro de distribuição próprio a partir de 2027: como o IBS no destino muda a escolha de onde instalar o galpão logístico &nbsp;&nbsp; Jornal Contábil",
-      "category": "logistica",
+      "id": "3593bc6982",
+      "headline": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "hoje, 14:40",
+      "dt_iso": "2026-11-26T17:40:06+00:00",
+      "summary": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
       "keywords": [
-        "galpão",
-        "centro de distribuição",
-        "instala"
+        "mercedes-benz",
+        "expansão",
+        "amplia"
       ],
       "score": 7,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
       ]
     },
     {
@@ -152,7 +153,7 @@
       "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "hoje, 23:23",
+      "time": "ontem, 23:23",
       "dt_iso": "2026-11-25T02:23:02+00:00",
       "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
       "category": "investimento",
@@ -165,6 +166,25 @@
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Investimento"
+      ]
+    },
+    {
+      "id": "65eb9213c3",
+      "headline": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "hoje, 21:18",
+      "dt_iso": "2026-11-26T00:18:00+00:00",
+      "summary": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpões"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
       ]
     },
     {
@@ -188,87 +208,11 @@
       ]
     },
     {
-      "id": "7a0bf17268",
-      "headline": "Segurança alimentar global é oportunidade para Brasil, diz Tomazoni, da JBS",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/business/seguranca-alimentar-global-e-oportunidade-para-brasil-diz-tomazoni-da-jbs/",
-      "time": "hoje, 19:21",
-      "dt_iso": "2026-11-25T22:21:38+00:00",
-      "summary": "Em encontro com a imprensa na sede da companhia, em São Paulo, os executivos da JBS ligaram as novas operações no exterior a projetos de segurança alimentar de governos estrangeiros, disseram por que as tarifas incomodam pouco e detalharam os planos para Omã e Indonésia \n The post  Segurança alimentar global é oportunidade para Brasil, diz Tomazoni, da JBS  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "jbs",
-        "novas operações"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "952a8d2566",
-      "headline": "Brasileira no Brasil e americana nos EUA: como a JBS cresce sendo local pelo mundo",
-      "source": "InfoMoney",
-      "link": "https://www.infomoney.com.br/business/brasileira-no-brasil-e-americana-nos-eua-como-a-jbs-cresce-sendo-local-no-mundo/",
-      "time": "hoje, 18:48",
-      "dt_iso": "2026-11-25T21:48:21+00:00",
-      "summary": "Em encontro com a imprensa na sede da companhia, em São Paulo, os principais executivos da JBS detalharam por que a maior empresa de proteína do mundo trata cada país em que atua como casa — e não como \"resto do mundo\" \n The post  Brasileira no Brasil e americana nos EUA: como a JBS cresce sendo local pelo mundo  appeared first on  InfoMoney .",
-      "category": "logistica",
-      "keywords": [
-        "jbs",
-        "cresce"
-      ],
-      "score": 6,
-      "relevance": "Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "6d64fc2077",
-      "headline": "Primeiro tilt-up duplo chega ao Brasil como solução para construção de galpões logísticos - Revista O Empreiteiro",
-      "source": "Revistaoe",
-      "link": "https://revistaoe.com.br",
-      "time": "19/11 às 12:39",
-      "dt_iso": "2026-11-19T15:39:26+00:00",
-      "summary": "Primeiro tilt-up duplo chega ao Brasil como solução para construção de galpões logísticos &nbsp;&nbsp; Revista O Empreiteiro",
-      "category": "logistica",
-      "keywords": [
-        "galpões",
-        "construção"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7bf559576a",
-      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
-      "source": "Olhardireto",
-      "link": "https://www.olhardireto.com.br",
-      "time": "ontem, 17:38",
-      "dt_iso": "2026-11-24T20:38:00+00:00",
-      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
       "id": "ac7eab3dfe",
       "headline": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 12:05",
+      "time": "24/11 às 12:05",
       "dt_iso": "2026-11-24T15:05:07+00:00",
       "summary": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -287,7 +231,7 @@
       "headline": "Multilog inaugura terminal alfandegado em Santos (SP) - Mundo Logística",
       "source": "Mundo Logística",
       "link": "https://mundologistica.com.br",
-      "time": "ontem, 11:28",
+      "time": "24/11 às 11:28",
       "dt_iso": "2026-11-24T14:28:17+00:00",
       "summary": "Multilog inaugura terminal alfandegado em Santos (SP) &nbsp;&nbsp; Mundo Logística",
       "category": "logistica",
@@ -297,6 +241,25 @@
       ],
       "score": 6,
       "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "a344d69b5d",
+      "headline": "FedEx amplia portfólio para gestão de suprimentos no Brasil - Modais em Foco",
+      "source": "Modais em Foco",
+      "link": "https://www.modaisemfoco.com.br",
+      "time": "24/11 às 08:57",
+      "dt_iso": "2026-11-24T11:57:00+00:00",
+      "summary": "FedEx amplia portfólio para gestão de suprimentos no Brasil &nbsp;&nbsp; Modais em Foco",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Logística"
       ]
@@ -321,16 +284,35 @@
       ]
     },
     {
-      "id": "f37556cf97",
-      "headline": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 - Jornal da Orla",
-      "source": "Jornaldaorla",
-      "link": "https://jornaldaorla.com.br",
-      "time": "19/11 às 14:45",
-      "dt_iso": "2026-11-19T17:45:00+00:00",
-      "summary": "Multilog inaugura centro logístico em Santos e vai investir R$ 1 bi até 2028 &nbsp;&nbsp; Jornal da Orla",
+      "id": "26e2026837",
+      "headline": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) - Sincovaga Notícias",
+      "source": "Sincovaganoticias",
+      "link": "https://www.sincovaganoticias.com.br",
+      "time": "24/11 às 14:37",
+      "dt_iso": "2026-11-24T17:37:00+00:00",
+      "summary": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) &nbsp;&nbsp; Sincovaga Notícias",
       "category": "logistica",
       "keywords": [
-        "multilog",
+        "assaí",
+        "abertura"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "bbc07533bf",
+      "headline": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento - Correio Paulista",
+      "source": "Correiopaulista",
+      "link": "https://correiopaulista.com",
+      "time": "23/11 às 14:17",
+      "dt_iso": "2026-11-23T17:17:11+00:00",
+      "summary": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento &nbsp;&nbsp; Correio Paulista",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
         "inaugura"
       ],
       "score": 6,
@@ -359,11 +341,30 @@
       ]
     },
     {
+      "id": "899d193622",
+      "headline": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "ontem, 13:10",
+      "dt_iso": "2026-11-25T16:10:06+00:00",
+      "summary": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "7562971f51",
       "headline": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico - Brasil Inovador",
       "source": "Brasilinovador",
       "link": "https://brasilinovador.com.br",
-      "time": "há 48 min",
+      "time": "hoje, 20:10",
       "dt_iso": "2026-11-25T23:10:07+00:00",
       "summary": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico &nbsp;&nbsp; Brasil Inovador",
       "category": "expansao",
@@ -378,20 +379,115 @@
       ]
     },
     {
-      "id": "36ab341a6c",
-      "headline": "Mercado de forragens secas em galpão até 2035: demanda leiteira sustenta crescimento - Notícias e Estatísticas - IndexBox",
-      "source": "Indexbox",
-      "link": "https://www.indexbox.io",
-      "time": "19/11 às 12:56",
-      "dt_iso": "2026-11-19T15:56:05+00:00",
-      "summary": "Mercado de forragens secas em galpão até 2035: demanda leiteira sustenta crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
-      "category": "logistica",
+      "id": "5c4702717d",
+      "headline": "Embraer projeta expansão na aviação executiva com programa de jatos leves e consolidação global do Legacy - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "hoje, 16:30",
+      "dt_iso": "2026-11-25T19:30:15+00:00",
+      "summary": "Embraer projeta expansão na aviação executiva com programa de jatos leves e consolidação global do Legacy &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
       "keywords": [
-        "galpão",
-        "crescimento"
+        "embraer",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "1c4630d89a",
+      "headline": "LATAM estreia Embraer E195-E2 em voo histórico e amplia malha no Brasil - Mobilidade Sampa",
+      "source": "Mobilidadesampa",
+      "link": "https://mobilidadesampa.com.br",
+      "time": "hoje, 14:27",
+      "dt_iso": "2026-11-26T17:27:01+00:00",
+      "summary": "LATAM estreia Embraer E195-E2 em voo histórico e amplia malha no Brasil &nbsp;&nbsp; Mobilidade Sampa",
+      "category": "logistica",
+      "keywords": [
+        "embraer",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7918ffad31",
+      "headline": "LATAM leva estudantes em primeiro voo com Embraer E195-E2 e anuncia expansão recorde no Brasil - Mobilidade Sampa",
+      "source": "Mobilidadesampa",
+      "link": "https://mobilidadesampa.com.br",
+      "time": "hoje, 13:57",
+      "dt_iso": "2026-11-26T16:57:33+00:00",
+      "summary": "LATAM leva estudantes em primeiro voo com Embraer E195-E2 e anuncia expansão recorde no Brasil &nbsp;&nbsp; Mobilidade Sampa",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "bc457b76ef",
+      "headline": "DHL investirá R$ 270 milhões para ampliar rede no Brasil e promete entregas nos EUA em 48 horas - ncnews.com.br",
+      "source": "Ncnews",
+      "link": "https://ncnews.com.br",
+      "time": "22/11 às 16:10",
+      "dt_iso": "2026-11-22T19:10:35+00:00",
+      "summary": "DHL investirá R$ 270 milhões para ampliar rede no Brasil e promete entregas nos EUA em 48 horas &nbsp;&nbsp; ncnews.com.br",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7bf559576a",
+      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
+      "source": "Olhardireto",
+      "link": "https://www.olhardireto.com.br",
+      "time": "ontem, 17:38",
+      "dt_iso": "2026-11-24T20:38:00+00:00",
+      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "c39b8f453f",
+      "headline": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "hoje, 12:47",
+      "dt_iso": "2026-11-26T15:47:10+00:00",
+      "summary": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos &nbsp;&nbsp; NSC Total",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado.",
       "badges": [
         "Logística"
       ]
@@ -411,25 +507,6 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d2ee47c7ea",
-      "headline": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
-      "source": "Indexbox",
-      "link": "https://www.indexbox.io",
-      "time": "ontem, 19:21",
-      "dt_iso": "2026-11-24T22:21:04+00:00",
-      "summary": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
