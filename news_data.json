@@ -1,5 +1,5 @@
 {
-  "gerado_em": "26/11/2026 às 21:17",
+  "gerado_em": "27/11/2026 às 15:32",
   "total": 19,
   "noticias": [
     {
@@ -25,23 +25,65 @@
       ]
     },
     {
-      "id": "88e0a3c9cd",
-      "headline": "Meli e Shopee dominam locação de galpões em 2026 - Valor Econômico",
-      "source": "Valor Econômico",
-      "link": "https://valor.globo.com",
-      "time": "hoje, 05:00",
-      "dt_iso": "2026-11-26T08:00:01+00:00",
-      "summary": "Meli e Shopee dominam locação de galpões em 2026 &nbsp;&nbsp; Valor Econômico",
-      "category": "ecommerce",
+      "id": "e41e6f5809",
+      "headline": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "24/11 às 07:50",
+      "dt_iso": "2026-11-24T10:50:00+00:00",
+      "summary": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
       "keywords": [
-        "shopee",
-        "galpões",
-        "locação"
+        "fedex",
+        "operações logísticas",
+        "amplia"
       ],
       "score": 8,
-      "relevance": "Notícia relevante para o mercado logístico.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "e7b2306c64",
+      "headline": "FedEx expande supply chain no Brasil após encerrar o doméstico - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "24/11 às 09:00",
+      "dt_iso": "2026-11-24T12:00:00+00:00",
+      "summary": "FedEx expande supply chain no Brasil após encerrar o doméstico &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "supply chain",
+        "expande"
+      ],
+      "score": 8,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "b3493cefad",
+      "headline": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday - melhorinvestimento.net",
+      "source": "Melhorinvestimento",
+      "link": "https://melhorinvestimento.net",
+      "time": "25/11 às 13:27",
+      "dt_iso": "2026-11-25T16:27:37+00:00",
+      "summary": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday &nbsp;&nbsp; melhorinvestimento.net",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "shopee",
+        "magalu",
+        "investimento"
+      ],
+      "score": 8,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
         "E-commerce"
       ]
     },
@@ -50,7 +92,7 @@
       "headline": "ID Logistics assume operação logística da LVMH Beauty no Brasil - Tecnologística",
       "source": "Tecnologística",
       "link": "https://www.tecnologistica.com.br",
-      "time": "ontem, 11:02",
+      "time": "25/11 às 11:02",
       "dt_iso": "2026-11-25T14:02:50+00:00",
       "summary": "ID Logistics assume operação logística da LVMH Beauty no Brasil &nbsp;&nbsp; Tecnologística",
       "category": "logistica",
@@ -104,11 +146,51 @@
       ]
     },
     {
+      "id": "3593bc6982",
+      "headline": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "ontem, 14:40",
+      "dt_iso": "2026-11-26T17:40:06+00:00",
+      "summary": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "mercedes-benz",
+        "expansão",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "56bee4d123",
+      "headline": "Enquanto Mobly e Tok&Stok reduzem a rede, MadeiraMadeira abre lojas de olho na IKEA - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "hoje, 07:03",
+      "dt_iso": "2026-11-27T10:03:24+00:00",
+      "summary": "Enquanto Mobly e Tok&amp;Stok reduzem a rede, MadeiraMadeira abre lojas de olho na IKEA &nbsp;&nbsp; Exame",
+      "category": "logistica",
+      "keywords": [
+        "tok&stok",
+        "mobly",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "ac48414750",
       "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
       "source": "Nordinvestimentos",
       "link": "https://www.nordinvestimentos.com.br",
-      "time": "ontem, 23:23",
+      "time": "24/11 às 23:23",
       "dt_iso": "2026-11-25T02:23:02+00:00",
       "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
       "category": "investimento",
@@ -121,25 +203,6 @@
       "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
       "badges": [
         "Investimento"
-      ]
-    },
-    {
-      "id": "65eb9213c3",
-      "headline": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 21:18",
-      "dt_iso": "2026-11-26T00:18:00+00:00",
-      "summary": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "galpões"
-      ],
-      "score": 7,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "E-commerce"
       ]
     },
     {
@@ -220,63 +283,6 @@
       ]
     },
     {
-      "id": "a344d69b5d",
-      "headline": "FedEx amplia portfólio para gestão de suprimentos no Brasil - Modais em Foco",
-      "source": "Modais em Foco",
-      "link": "https://www.modaisemfoco.com.br",
-      "time": "24/11 às 08:57",
-      "dt_iso": "2026-11-24T11:57:00+00:00",
-      "summary": "FedEx amplia portfólio para gestão de suprimentos no Brasil &nbsp;&nbsp; Modais em Foco",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "26e2026837",
-      "headline": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) - Sincovaga Notícias",
-      "source": "Sincovaganoticias",
-      "link": "https://www.sincovaganoticias.com.br",
-      "time": "24/11 às 14:37",
-      "dt_iso": "2026-11-24T17:37:00+00:00",
-      "summary": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) &nbsp;&nbsp; Sincovaga Notícias",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "abertura"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "bbc07533bf",
-      "headline": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento - Correio Paulista",
-      "source": "Correiopaulista",
-      "link": "https://correiopaulista.com",
-      "time": "23/11 às 14:17",
-      "dt_iso": "2026-11-23T17:17:11+00:00",
-      "summary": "Assaí inaugura terceira loja em Osasco no dia 1º de dezembro com farmácia e mais de 300 vagas de estacionamento &nbsp;&nbsp; Correio Paulista",
-      "category": "logistica",
-      "keywords": [
-        "assaí",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
       "id": "a7fd6c01c9",
       "headline": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA - Bahia Econômica",
       "source": "Bahiaeconomica",
@@ -296,22 +302,41 @@
       ]
     },
     {
-      "id": "c39b8f453f",
-      "headline": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos - NSC Total",
-      "source": "NSC Total",
-      "link": "https://www.nsctotal.com.br",
-      "time": "hoje, 12:47",
-      "dt_iso": "2026-11-26T15:47:10+00:00",
-      "summary": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos &nbsp;&nbsp; NSC Total",
-      "category": "logistica",
+      "id": "7562971f51",
+      "headline": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "ontem, 20:10",
+      "dt_iso": "2026-11-25T23:10:07+00:00",
+      "summary": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
       "keywords": [
-        "assaí",
-        "abre"
+        "embraer",
+        "expansão"
       ],
       "score": 6,
-      "relevance": "Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado.",
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
-        "Logística"
+        "Expansão"
+      ]
+    },
+    {
+      "id": "899d193622",
+      "headline": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "25/11 às 13:10",
+      "dt_iso": "2026-11-25T16:10:06+00:00",
+      "summary": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
       ]
     },
     {
@@ -329,25 +354,6 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "d2ee47c7ea",
-      "headline": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
-      "source": "Indexbox",
-      "link": "https://www.indexbox.io",
-      "time": "24/11 às 19:21",
-      "dt_iso": "2026-11-24T22:21:04+00:00",
-      "summary": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
-      "category": "logistica",
-      "keywords": [
-        "natura",
-        "crescimento"
-      ],
-      "score": 6,
-      "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Logística"
       ]
