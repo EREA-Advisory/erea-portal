@@ -1,35 +1,13 @@
 {
-  "gerado_em": "26/11/2026 às 15:41",
-  "total": 27,
+  "gerado_em": "26/11/2026 às 21:17",
+  "total": 19,
   "noticias": [
-    {
-      "id": "ed72aed2ef",
-      "headline": "Centro de distribuição Mercado Livre é inaugurado. Saiba onde - Portal UAI",
-      "source": "Mercadohoje",
-      "link": "https://mercadohoje.uai.com.br",
-      "time": "19/11 às 18:01",
-      "dt_iso": "2026-11-19T21:01:27+00:00",
-      "summary": "Centro de distribuição Mercado Livre é inaugurado. Saiba onde &nbsp;&nbsp; Portal UAI",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "centro de distribuição",
-        "inaugura",
-        "inaugurado"
-      ],
-      "score": 9,
-      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Inauguração confirmada — prospecção para próximas unidades.",
-      "badges": [
-        "Destaque",
-        "E-commerce"
-      ]
-    },
     {
       "id": "f2665c5eac",
       "headline": "FedEx investe em seu maior centro logístico da América Latina no Brasil, amplia armazenagem em mais de 60% e alcança 90 mil posições-palete - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "hoje, 18:03",
+      "time": "ontem, 18:03",
       "dt_iso": "2026-11-25T21:03:00+00:00",
       "summary": "FedEx investe em seu maior centro logístico da América Latina no Brasil, amplia armazenagem em mais de 60% e alcança 90 mil posições-palete &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "logistica",
@@ -41,27 +19,6 @@
       ],
       "score": 9,
       "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
-    {
-      "id": "e7b2306c64",
-      "headline": "FedEx expande supply chain no Brasil após encerrar o doméstico - E-Commerce Brasil",
-      "source": "E-commerce Brasil",
-      "link": "https://www.ecommercebrasil.com.br",
-      "time": "24/11 às 09:00",
-      "dt_iso": "2026-11-24T12:00:00+00:00",
-      "summary": "FedEx expande supply chain no Brasil após encerrar o doméstico &nbsp;&nbsp; E-Commerce Brasil",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "supply chain",
-        "expande"
-      ],
-      "score": 8,
-      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
       "badges": [
         "Destaque",
         "Logística"
@@ -89,27 +46,6 @@
       ]
     },
     {
-      "id": "b3493cefad",
-      "headline": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "ontem, 13:27",
-      "dt_iso": "2026-11-25T16:27:37+00:00",
-      "summary": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday &nbsp;&nbsp; melhorinvestimento.net",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "shopee",
-        "magalu",
-        "investimento"
-      ],
-      "score": 8,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "a3b0dd27de",
       "headline": "ID Logistics assume operação logística da LVMH Beauty no Brasil - Tecnologística",
       "source": "Tecnologística",
@@ -129,23 +65,42 @@
       ]
     },
     {
-      "id": "3593bc6982",
-      "headline": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro - Brasil Inovador",
-      "source": "Brasilinovador",
-      "link": "https://brasilinovador.com.br",
-      "time": "hoje, 14:40",
-      "dt_iso": "2026-11-26T17:40:06+00:00",
-      "summary": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro &nbsp;&nbsp; Brasil Inovador",
-      "category": "expansao",
+      "id": "ff0ab78dd5",
+      "headline": "HGLG11 conclui compra de fatia restante do galpão G400 - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "hoje, 19:39",
+      "dt_iso": "2026-11-26T22:39:58+00:00",
+      "summary": "HGLG11 conclui compra de fatia restante do galpão G400 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
       "keywords": [
-        "mercedes-benz",
-        "expansão",
-        "amplia"
+        "galpão",
+        "investimento",
+        "investimentos"
       ],
       "score": 7,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Expansão"
+        "Logística"
+      ]
+    },
+    {
+      "id": "cce354f827",
+      "headline": "DHL reforça operação logística para alta de 19% no volume do e-commerce - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "hoje, 16:45",
+      "dt_iso": "2026-11-26T19:45:00+00:00",
+      "summary": "DHL reforça operação logística para alta de 19% no volume do e-commerce &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "operação logística"
+      ],
+      "score": 7,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
       ]
     },
     {
@@ -208,6 +163,25 @@
       ]
     },
     {
+      "id": "7bf559576a",
+      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
+      "source": "Olhardireto",
+      "link": "https://www.olhardireto.com.br",
+      "time": "24/11 às 17:38",
+      "dt_iso": "2026-11-24T20:38:00+00:00",
+      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "ac7eab3dfe",
       "headline": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 - Mundo Logística",
       "source": "Mundo Logística",
@@ -265,25 +239,6 @@
       ]
     },
     {
-      "id": "a7fd6c01c9",
-      "headline": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA - Bahia Econômica",
-      "source": "Bahiaeconomica",
-      "link": "https://bahiaeconomica.com.br",
-      "time": "ontem, 16:59",
-      "dt_iso": "2026-11-24T19:59:00+00:00",
-      "summary": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA &nbsp;&nbsp; Bahia Econômica",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "investe"
-      ],
-      "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "E-commerce"
-      ]
-    },
-    {
       "id": "26e2026837",
       "headline": "Assaí confirma abertura de sua terceira unidade em Osasco (SP) - Sincovaga Notícias",
       "source": "Sincovaganoticias",
@@ -322,155 +277,22 @@
       ]
     },
     {
-      "id": "4247cd9da4",
-      "headline": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional - Brasil Inovador",
-      "source": "Brasilinovador",
-      "link": "https://brasilinovador.com.br",
-      "time": "hoje, 16:10",
-      "dt_iso": "2026-11-25T19:10:09+00:00",
-      "summary": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional &nbsp;&nbsp; Brasil Inovador",
-      "category": "expansao",
+      "id": "a7fd6c01c9",
+      "headline": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA - Bahia Econômica",
+      "source": "Bahiaeconomica",
+      "link": "https://bahiaeconomica.com.br",
+      "time": "24/11 às 16:59",
+      "dt_iso": "2026-11-24T19:59:00+00:00",
+      "summary": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA &nbsp;&nbsp; Bahia Econômica",
+      "category": "ecommerce",
       "keywords": [
-        "embraer",
-        "expansão"
+        "mercado livre",
+        "investe"
       ],
       "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
       "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "899d193622",
-      "headline": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim - Brasil Inovador",
-      "source": "Brasilinovador",
-      "link": "https://brasilinovador.com.br",
-      "time": "ontem, 13:10",
-      "dt_iso": "2026-11-25T16:10:06+00:00",
-      "summary": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim &nbsp;&nbsp; Brasil Inovador",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "7562971f51",
-      "headline": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico - Brasil Inovador",
-      "source": "Brasilinovador",
-      "link": "https://brasilinovador.com.br",
-      "time": "hoje, 20:10",
-      "dt_iso": "2026-11-25T23:10:07+00:00",
-      "summary": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico &nbsp;&nbsp; Brasil Inovador",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "5c4702717d",
-      "headline": "Embraer projeta expansão na aviação executiva com programa de jatos leves e consolidação global do Legacy - Brasil Inovador",
-      "source": "Brasilinovador",
-      "link": "https://brasilinovador.com.br",
-      "time": "hoje, 16:30",
-      "dt_iso": "2026-11-25T19:30:15+00:00",
-      "summary": "Embraer projeta expansão na aviação executiva com programa de jatos leves e consolidação global do Legacy &nbsp;&nbsp; Brasil Inovador",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "1c4630d89a",
-      "headline": "LATAM estreia Embraer E195-E2 em voo histórico e amplia malha no Brasil - Mobilidade Sampa",
-      "source": "Mobilidadesampa",
-      "link": "https://mobilidadesampa.com.br",
-      "time": "hoje, 14:27",
-      "dt_iso": "2026-11-26T17:27:01+00:00",
-      "summary": "LATAM estreia Embraer E195-E2 em voo histórico e amplia malha no Brasil &nbsp;&nbsp; Mobilidade Sampa",
-      "category": "logistica",
-      "keywords": [
-        "embraer",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7918ffad31",
-      "headline": "LATAM leva estudantes em primeiro voo com Embraer E195-E2 e anuncia expansão recorde no Brasil - Mobilidade Sampa",
-      "source": "Mobilidadesampa",
-      "link": "https://mobilidadesampa.com.br",
-      "time": "hoje, 13:57",
-      "dt_iso": "2026-11-26T16:57:33+00:00",
-      "summary": "LATAM leva estudantes em primeiro voo com Embraer E195-E2 e anuncia expansão recorde no Brasil &nbsp;&nbsp; Mobilidade Sampa",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Intenção declarada de expansão — janela de prospecção ativa. Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "bc457b76ef",
-      "headline": "DHL investirá R$ 270 milhões para ampliar rede no Brasil e promete entregas nos EUA em 48 horas - ncnews.com.br",
-      "source": "Ncnews",
-      "link": "https://ncnews.com.br",
-      "time": "22/11 às 16:10",
-      "dt_iso": "2026-11-22T19:10:35+00:00",
-      "summary": "DHL investirá R$ 270 milhões para ampliar rede no Brasil e promete entregas nos EUA em 48 horas &nbsp;&nbsp; ncnews.com.br",
-      "category": "logistica",
-      "keywords": [
-        "dhl",
-        "amplia"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "7bf559576a",
-      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
-      "source": "Olhardireto",
-      "link": "https://www.olhardireto.com.br",
-      "time": "ontem, 17:38",
-      "dt_iso": "2026-11-24T20:38:00+00:00",
-      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
-      "category": "expansao",
-      "keywords": [
-        "galpões",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
+        "E-commerce"
       ]
     },
     {
@@ -512,11 +334,30 @@
       ]
     },
     {
+      "id": "d2ee47c7ea",
+      "headline": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "24/11 às 19:21",
+      "dt_iso": "2026-11-24T22:21:04+00:00",
+      "summary": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
       "id": "2268ea83fa",
       "headline": "Mercado de tratamentos contra pulgas e carrapatos até 2035: humanização dos PETs e assinaturas no e-commerce impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
       "source": "Indexbox",
       "link": "https://www.indexbox.io",
-      "time": "hoje, 19:51",
+      "time": "ontem, 19:51",
       "dt_iso": "2026-11-25T22:51:04+00:00",
       "summary": "Mercado de tratamentos contra pulgas e carrapatos até 2035: humanização dos PETs e assinaturas no e-commerce impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
       "category": "ecommerce",
