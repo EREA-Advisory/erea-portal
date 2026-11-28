@@ -1,29 +1,7 @@
 {
-  "gerado_em": "27/11/2026 às 20:54",
-  "total": 26,
+  "gerado_em": "28/11/2026 às 14:14",
+  "total": 25,
   "noticias": [
-    {
-      "id": "f2665c5eac",
-      "headline": "FedEx investe em seu maior centro logístico da América Latina no Brasil, amplia armazenagem em mais de 60% e alcança 90 mil posições-palete - CPG Click Petróleo e Gás",
-      "source": "Clickpetroleoegas",
-      "link": "https://clickpetroleoegas.com.br",
-      "time": "25/11 às 18:03",
-      "dt_iso": "2026-11-25T21:03:00+00:00",
-      "summary": "FedEx investe em seu maior centro logístico da América Latina no Brasil, amplia armazenagem em mais de 60% e alcança 90 mil posições-palete &nbsp;&nbsp; CPG Click Petróleo e Gás",
-      "category": "logistica",
-      "keywords": [
-        "fedex",
-        "armazenagem",
-        "amplia",
-        "investe"
-      ],
-      "score": 9,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Destaque",
-        "Logística"
-      ]
-    },
     {
       "id": "e41e6f5809",
       "headline": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil - Tecnologística",
@@ -67,13 +45,13 @@
       ]
     },
     {
-      "id": "88e0a3c9cd",
-      "headline": "Meli e Shopee dominam locação de galpões em 2026 - Valor Econômico",
+      "id": "3639a18999",
+      "headline": "Mercardo Livre e Shopee dominam locação de galpões em 2026 - Valor Econômico",
       "source": "Valor Econômico",
       "link": "https://valor.globo.com",
-      "time": "ontem, 05:00",
+      "time": "26/11 às 05:00",
       "dt_iso": "2026-11-26T08:00:01+00:00",
-      "summary": "Meli e Shopee dominam locação de galpões em 2026 &nbsp;&nbsp; Valor Econômico",
+      "summary": "Mercardo Livre e Shopee dominam locação de galpões em 2026 &nbsp;&nbsp; Valor Econômico",
       "category": "ecommerce",
       "keywords": [
         "shopee",
@@ -84,27 +62,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "Destaque",
-        "E-commerce"
-      ]
-    },
-    {
-      "id": "b3493cefad",
-      "headline": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday - melhorinvestimento.net",
-      "source": "Melhorinvestimento",
-      "link": "https://melhorinvestimento.net",
-      "time": "25/11 às 13:27",
-      "dt_iso": "2026-11-25T16:27:37+00:00",
-      "summary": "Amazon, Mercado Livre, Magalu e Shopee reforçam entregas 24hrs na Black Friday &nbsp;&nbsp; melhorinvestimento.net",
-      "category": "ecommerce",
-      "keywords": [
-        "mercado livre",
-        "shopee",
-        "magalu",
-        "investimento"
-      ],
-      "score": 8,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
         "E-commerce"
       ]
     },
@@ -167,6 +124,26 @@
       ]
     },
     {
+      "id": "3593bc6982",
+      "headline": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "ontem, 14:40",
+      "dt_iso": "2026-11-26T17:40:06+00:00",
+      "summary": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "mercedes-benz",
+        "expansão",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "d21c6e7270",
       "headline": "Galpões do Mercado Livre mudam de dono em negócio de R$ 798,5 milhões - TV Sim Brasil",
       "source": "Tvsimbrasil",
@@ -183,26 +160,6 @@
       "relevance": "Notícia relevante para o mercado logístico.",
       "badges": [
         "E-commerce"
-      ]
-    },
-    {
-      "id": "ac48414750",
-      "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
-      "source": "Nordinvestimentos",
-      "link": "https://www.nordinvestimentos.com.br",
-      "time": "24/11 às 23:23",
-      "dt_iso": "2026-11-25T02:23:02+00:00",
-      "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
-      "category": "investimento",
-      "keywords": [
-        "casas bahia",
-        "investimento",
-        "investimentos"
-      ],
-      "score": 7,
-      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Investimento"
       ]
     },
     {
@@ -229,7 +186,7 @@
       "headline": "Enquanto Mobly e Tok&Stok reduzem a rede, MadeiraMadeira abre lojas de olho na IKEA - Exame",
       "source": "Exame",
       "link": "https://exame.com",
-      "time": "hoje, 07:03",
+      "time": "ontem, 07:03",
       "dt_iso": "2026-11-27T10:03:24+00:00",
       "summary": "Enquanto Mobly e Tok&amp;Stok reduzem a rede, MadeiraMadeira abre lojas de olho na IKEA &nbsp;&nbsp; Exame",
       "category": "logistica",
@@ -245,11 +202,31 @@
       ]
     },
     {
+      "id": "ac48414750",
+      "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "24/11 às 23:23",
+      "dt_iso": "2026-11-25T02:23:02+00:00",
+      "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
+      "category": "investimento",
+      "keywords": [
+        "casas bahia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
       "id": "65eb9213c3",
       "headline": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon - CPG Click Petróleo e Gás",
       "source": "Clickpetroleoegas",
       "link": "https://clickpetroleoegas.com.br",
-      "time": "ontem, 21:18",
+      "time": "25/11 às 21:18",
       "dt_iso": "2026-11-26T00:18:00+00:00",
       "summary": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon &nbsp;&nbsp; CPG Click Petróleo e Gás",
       "category": "ecommerce",
@@ -304,6 +281,25 @@
       ]
     },
     {
+      "id": "4247cd9da4",
+      "headline": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "25/11 às 16:10",
+      "dt_iso": "2026-11-25T19:10:09+00:00",
+      "summary": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
       "id": "ac7eab3dfe",
       "headline": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 - Mundo Logística",
       "source": "Mundo Logística",
@@ -318,25 +314,6 @@
       ],
       "score": 6,
       "relevance": "Investimento anunciado — capital disponível para expansão física.",
-      "badges": [
-        "Logística"
-      ]
-    },
-    {
-      "id": "6b3229d803",
-      "headline": "Multilog inaugura terminal alfandegado em Santos (SP) - Mundo Logística",
-      "source": "Mundo Logística",
-      "link": "https://mundologistica.com.br",
-      "time": "24/11 às 11:28",
-      "dt_iso": "2026-11-24T14:28:17+00:00",
-      "summary": "Multilog inaugura terminal alfandegado em Santos (SP) &nbsp;&nbsp; Mundo Logística",
-      "category": "logistica",
-      "keywords": [
-        "multilog",
-        "inaugura"
-      ],
-      "score": 6,
-      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
         "Logística"
       ]
@@ -361,22 +338,22 @@
       ]
     },
     {
-      "id": "a7fd6c01c9",
-      "headline": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA - Bahia Econômica",
-      "source": "Bahiaeconomica",
-      "link": "https://bahiaeconomica.com.br",
-      "time": "24/11 às 16:59",
-      "dt_iso": "2026-11-24T19:59:00+00:00",
-      "summary": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA &nbsp;&nbsp; Bahia Econômica",
-      "category": "ecommerce",
+      "id": "6d7d1e0aec",
+      "headline": "Lojas Colombo inaugura primeira loja em Ourinhos e reforça presença no interior paulista - Passando a Régua",
+      "source": "Passandoaregua",
+      "link": "https://www.passandoaregua.com.br",
+      "time": "hoje, 09:29",
+      "dt_iso": "2026-11-28T12:29:00+00:00",
+      "summary": "Lojas Colombo inaugura primeira loja em Ourinhos e reforça presença no interior paulista &nbsp;&nbsp; Passando a Régua",
+      "category": "logistica",
       "keywords": [
-        "mercado livre",
-        "investe"
+        "lojas colombo",
+        "inaugura"
       ],
       "score": 6,
-      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
       "badges": [
-        "E-commerce"
+        "Logística"
       ]
     },
     {
@@ -387,25 +364,6 @@
       "time": "25/11 às 20:10",
       "dt_iso": "2026-11-25T23:10:07+00:00",
       "summary": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico &nbsp;&nbsp; Brasil Inovador",
-      "category": "expansao",
-      "keywords": [
-        "embraer",
-        "expansão"
-      ],
-      "score": 6,
-      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
-      "badges": [
-        "Expansão"
-      ]
-    },
-    {
-      "id": "899d193622",
-      "headline": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim - Brasil Inovador",
-      "source": "Brasilinovador",
-      "link": "https://brasilinovador.com.br",
-      "time": "25/11 às 13:10",
-      "dt_iso": "2026-11-25T16:10:06+00:00",
-      "summary": "Embraer estrutura expansão no mercado asiático com canal institucional em mandarim &nbsp;&nbsp; Brasil Inovador",
       "category": "expansao",
       "keywords": [
         "embraer",
@@ -437,11 +395,30 @@
       ]
     },
     {
+      "id": "a7fd6c01c9",
+      "headline": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA - Bahia Econômica",
+      "source": "Bahiaeconomica",
+      "link": "https://bahiaeconomica.com.br",
+      "time": "24/11 às 16:59",
+      "dt_iso": "2026-11-24T19:59:00+00:00",
+      "summary": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA &nbsp;&nbsp; Bahia Econômica",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
       "id": "c39b8f453f",
       "headline": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos - NSC Total",
       "source": "NSC Total",
       "link": "https://www.nsctotal.com.br",
-      "time": "ontem, 12:47",
+      "time": "26/11 às 12:47",
       "dt_iso": "2026-11-26T15:47:10+00:00",
       "summary": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos &nbsp;&nbsp; NSC Total",
       "category": "logistica",

@@ -1,0 +1,493 @@
+{
+  "gerado_em": "28/11/2026 às 14:14",
+  "total": 25,
+  "noticias": [
+    {
+      "id": "e41e6f5809",
+      "headline": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "24/11 às 07:50",
+      "dt_iso": "2026-11-24T10:50:00+00:00",
+      "summary": "FedEx amplia serviços de gestão da cadeia de suprimentos e operações logísticas no Brasil &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "operações logísticas",
+        "amplia"
+      ],
+      "score": 8,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "e7b2306c64",
+      "headline": "FedEx expande supply chain no Brasil após encerrar o doméstico - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "24/11 às 09:00",
+      "dt_iso": "2026-11-24T12:00:00+00:00",
+      "summary": "FedEx expande supply chain no Brasil após encerrar o doméstico &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "logistica",
+      "keywords": [
+        "fedex",
+        "supply chain",
+        "expande"
+      ],
+      "score": 8,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A. Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Destaque",
+        "Logística"
+      ]
+    },
+    {
+      "id": "3639a18999",
+      "headline": "Mercardo Livre e Shopee dominam locação de galpões em 2026 - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "26/11 às 05:00",
+      "dt_iso": "2026-11-26T08:00:01+00:00",
+      "summary": "Mercardo Livre e Shopee dominam locação de galpões em 2026 &nbsp;&nbsp; Valor Econômico",
+      "category": "ecommerce",
+      "keywords": [
+        "shopee",
+        "galpões",
+        "locação"
+      ],
+      "score": 8,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Destaque",
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "a3b0dd27de",
+      "headline": "ID Logistics assume operação logística da LVMH Beauty no Brasil - Tecnologística",
+      "source": "Tecnologística",
+      "link": "https://www.tecnologistica.com.br",
+      "time": "25/11 às 11:02",
+      "dt_iso": "2026-11-25T14:02:50+00:00",
+      "summary": "ID Logistics assume operação logística da LVMH Beauty no Brasil &nbsp;&nbsp; Tecnologística",
+      "category": "logistica",
+      "keywords": [
+        "id logistics",
+        "operação logística"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "ff0ab78dd5",
+      "headline": "HGLG11 conclui compra de fatia restante do galpão G400 - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "ontem, 19:39",
+      "dt_iso": "2026-11-26T22:39:58+00:00",
+      "summary": "HGLG11 conclui compra de fatia restante do galpão G400 &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "galpão",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "cce354f827",
+      "headline": "DHL reforça operação logística para alta de 19% no volume do e-commerce - E-Commerce Brasil",
+      "source": "E-commerce Brasil",
+      "link": "https://www.ecommercebrasil.com.br",
+      "time": "ontem, 16:45",
+      "dt_iso": "2026-11-26T19:45:00+00:00",
+      "summary": "DHL reforça operação logística para alta de 19% no volume do e-commerce &nbsp;&nbsp; E-Commerce Brasil",
+      "category": "logistica",
+      "keywords": [
+        "dhl",
+        "operação logística"
+      ],
+      "score": 7,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "3593bc6982",
+      "headline": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "ontem, 14:40",
+      "dt_iso": "2026-11-26T17:40:06+00:00",
+      "summary": "Mercedes-Benz amplia portfólio eletrificado no Brasil e concessionária projeta expansão no mercado mineiro &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "mercedes-benz",
+        "expansão",
+        "amplia"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "d21c6e7270",
+      "headline": "Galpões do Mercado Livre mudam de dono em negócio de R$ 798,5 milhões - TV Sim Brasil",
+      "source": "Tvsimbrasil",
+      "link": "https://tvsimbrasil.com.br",
+      "time": "hoje, 17:49",
+      "dt_iso": "2026-11-27T20:49:23+00:00",
+      "summary": "Galpões do Mercado Livre mudam de dono em negócio de R$ 798,5 milhões &nbsp;&nbsp; TV Sim Brasil",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpões"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "829f1d0b3e",
+      "headline": "Magalu prevê despachar 400 mil itens na Black Friday em seu maior centro de distribuição - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://valor.globo.com",
+      "time": "hoje, 19:28",
+      "dt_iso": "2026-11-27T22:28:06+00:00",
+      "summary": "Magalu prevê despachar 400 mil itens na Black Friday em seu maior centro de distribuição &nbsp;&nbsp; Valor Econômico",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "centro de distribuição"
+      ],
+      "score": 7,
+      "relevance": "Expansão de CD — demanda direta por imóvel logístico. Intenção declarada de expansão — janela de prospecção ativa.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "56bee4d123",
+      "headline": "Enquanto Mobly e Tok&Stok reduzem a rede, MadeiraMadeira abre lojas de olho na IKEA - Exame",
+      "source": "Exame",
+      "link": "https://exame.com",
+      "time": "ontem, 07:03",
+      "dt_iso": "2026-11-27T10:03:24+00:00",
+      "summary": "Enquanto Mobly e Tok&amp;Stok reduzem a rede, MadeiraMadeira abre lojas de olho na IKEA &nbsp;&nbsp; Exame",
+      "category": "logistica",
+      "keywords": [
+        "tok&stok",
+        "mobly",
+        "abre"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "ac48414750",
+      "headline": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado - Nord Investimentos",
+      "source": "Nordinvestimentos",
+      "link": "https://www.nordinvestimentos.com.br",
+      "time": "24/11 às 23:23",
+      "dt_iso": "2026-11-25T02:23:02+00:00",
+      "summary": "HSLG11 e Casas Bahia: o que a queda do FII revela sobre pânico de mercado &nbsp;&nbsp; Nord Investimentos",
+      "category": "investimento",
+      "keywords": [
+        "casas bahia",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Movimento de capital — FII com apetite por aquisição de ativos logísticos. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Investimento"
+      ]
+    },
+    {
+      "id": "65eb9213c3",
+      "headline": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon - CPG Click Petróleo e Gás",
+      "source": "Clickpetroleoegas",
+      "link": "https://clickpetroleoegas.com.br",
+      "time": "25/11 às 21:18",
+      "dt_iso": "2026-11-26T00:18:00+00:00",
+      "summary": "BTG Pactual fecha acordo de R$ 964,7 milhões por participações em três megagalpões logísticos no Brasil, com 182 mil m² para Mercado Livre e Amazon &nbsp;&nbsp; CPG Click Petróleo e Gás",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "galpões"
+      ],
+      "score": 7,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "53d7b47588",
+      "headline": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara - Suno - Investimentos Inteligentes",
+      "source": "Suno",
+      "link": "https://www.suno.com.br",
+      "time": "23/11 às 19:26",
+      "dt_iso": "2026-11-23T22:26:44+00:00",
+      "summary": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara &nbsp;&nbsp; Suno - Investimentos Inteligentes",
+      "category": "logistica",
+      "keywords": [
+        "magalu",
+        "investimento",
+        "investimentos"
+      ],
+      "score": 7,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6491b3354c",
+      "headline": "C.Vale investe R$ 50 milhões e amplia capacidade de armazenagem em Alto Piquiri - O Presente Rural",
+      "source": "Opresenterural",
+      "link": "https://opresenterural.com.br",
+      "time": "hoje, 18:32",
+      "dt_iso": "2026-11-27T21:32:21+00:00",
+      "summary": "C.Vale investe R$ 50 milhões e amplia capacidade de armazenagem em Alto Piquiri &nbsp;&nbsp; O Presente Rural",
+      "category": "logistica",
+      "keywords": [
+        "armazenagem",
+        "amplia",
+        "investe"
+      ],
+      "score": 7,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada. Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "4247cd9da4",
+      "headline": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "25/11 às 16:10",
+      "dt_iso": "2026-11-25T19:10:09+00:00",
+      "summary": "Expansão da Embraer na Ásia-Pacífico consolida suporte e frota regional &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "ac7eab3dfe",
+      "headline": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 - Mundo Logística",
+      "source": "Mundo Logística",
+      "link": "https://mundologistica.com.br",
+      "time": "24/11 às 12:05",
+      "dt_iso": "2026-11-24T15:05:07+00:00",
+      "summary": "Total Express investe mais de R$ 100 milhões para a Black Friday 2026 &nbsp;&nbsp; Mundo Logística",
+      "category": "logistica",
+      "keywords": [
+        "total express",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "17c1664e05",
+      "headline": "Maersk testa câmeras a bordo para ampliar proteção a cadeias de suprimento - Portos e Navios",
+      "source": "Portos e Navios",
+      "link": "https://www.portosenavios.com.br",
+      "time": "hoje, 17:14",
+      "dt_iso": "2026-11-27T20:14:28+00:00",
+      "summary": "Maersk testa câmeras a bordo para ampliar proteção a cadeias de suprimento &nbsp;&nbsp; Portos e Navios",
+      "category": "logistica",
+      "keywords": [
+        "maersk",
+        "amplia"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "6d7d1e0aec",
+      "headline": "Lojas Colombo inaugura primeira loja em Ourinhos e reforça presença no interior paulista - Passando a Régua",
+      "source": "Passandoaregua",
+      "link": "https://www.passandoaregua.com.br",
+      "time": "hoje, 09:29",
+      "dt_iso": "2026-11-28T12:29:00+00:00",
+      "summary": "Lojas Colombo inaugura primeira loja em Ourinhos e reforça presença no interior paulista &nbsp;&nbsp; Passando a Régua",
+      "category": "logistica",
+      "keywords": [
+        "lojas colombo",
+        "inaugura"
+      ],
+      "score": 6,
+      "relevance": "Inauguração confirmada — prospecção para próximas unidades.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "7562971f51",
+      "headline": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico - Brasil Inovador",
+      "source": "Brasilinovador",
+      "link": "https://brasilinovador.com.br",
+      "time": "25/11 às 20:10",
+      "dt_iso": "2026-11-25T23:10:07+00:00",
+      "summary": "Embraer estrutura expansão comercial e parcerias industriais na Bacia do Pacífico &nbsp;&nbsp; Brasil Inovador",
+      "category": "expansao",
+      "keywords": [
+        "embraer",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "7bf559576a",
+      "headline": "PZ Log aposta em galpões modulares para atender expansão empresarial - Olhar Direto",
+      "source": "Olhardireto",
+      "link": "https://www.olhardireto.com.br",
+      "time": "24/11 às 17:38",
+      "dt_iso": "2026-11-24T20:38:00+00:00",
+      "summary": "PZ Log aposta em galpões modulares para atender expansão empresarial &nbsp;&nbsp; Olhar Direto",
+      "category": "expansao",
+      "keywords": [
+        "galpões",
+        "expansão"
+      ],
+      "score": 6,
+      "relevance": "Sinal de expansão — prospecção ativa recomendada.",
+      "badges": [
+        "Expansão"
+      ]
+    },
+    {
+      "id": "a7fd6c01c9",
+      "headline": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA - Bahia Econômica",
+      "source": "Bahiaeconomica",
+      "link": "https://bahiaeconomica.com.br",
+      "time": "24/11 às 16:59",
+      "dt_iso": "2026-11-24T19:59:00+00:00",
+      "summary": "MERCADO LIVRE INVESTE R$ 468 MILHÕES EM MEGACENTRO LOGÍSTICO NA BAHIA &nbsp;&nbsp; Bahia Econômica",
+      "category": "ecommerce",
+      "keywords": [
+        "mercado livre",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "E-commerce"
+      ]
+    },
+    {
+      "id": "c39b8f453f",
+      "headline": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos - NSC Total",
+      "source": "NSC Total",
+      "link": "https://www.nsctotal.com.br",
+      "time": "26/11 às 12:47",
+      "dt_iso": "2026-11-26T15:47:10+00:00",
+      "summary": "Assaí abre todas as 313 lojas às 6h na Black Friday com mais de 7 mil ofertas de alimentos a eletrodomésticos &nbsp;&nbsp; NSC Total",
+      "category": "logistica",
+      "keywords": [
+        "assaí",
+        "abre"
+      ],
+      "score": 6,
+      "relevance": "Indústria de alimentos — potencial demanda de câmara fria ou galpão refrigerado.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "57e012e650",
+      "headline": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez - ncnews.com.br",
+      "source": "Ncnews",
+      "link": "https://ncnews.com.br",
+      "time": "23/11 às 08:04",
+      "dt_iso": "2026-11-23T11:04:12+00:00",
+      "summary": "JBS Brasil investe R$ 3 bi em Flora, Canal Rural e Omã até dez &nbsp;&nbsp; ncnews.com.br",
+      "category": "logistica",
+      "keywords": [
+        "jbs",
+        "investe"
+      ],
+      "score": 6,
+      "relevance": "Investimento anunciado — capital disponível para expansão física.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "d2ee47c7ea",
+      "headline": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "24/11 às 19:21",
+      "dt_iso": "2026-11-24T22:21:04+00:00",
+      "summary": "Mercado de recargas para escovas de tosa de pets até 2035: demanda por assinatura e premiumização impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "logistica",
+      "keywords": [
+        "natura",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "Notícia relevante para o mercado logístico.",
+      "badges": [
+        "Logística"
+      ]
+    },
+    {
+      "id": "2268ea83fa",
+      "headline": "Mercado de tratamentos contra pulgas e carrapatos até 2035: humanização dos PETs e assinaturas no e-commerce impulsionam o crescimento - Notícias e Estatísticas - IndexBox",
+      "source": "Indexbox",
+      "link": "https://www.indexbox.io",
+      "time": "25/11 às 19:51",
+      "dt_iso": "2026-11-25T22:51:04+00:00",
+      "summary": "Mercado de tratamentos contra pulgas e carrapatos até 2035: humanização dos PETs e assinaturas no e-commerce impulsionam o crescimento - Notícias e Estatísticas &nbsp;&nbsp; IndexBox",
+      "category": "ecommerce",
+      "keywords": [
+        "natura",
+        "crescimento"
+      ],
+      "score": 6,
+      "relevance": "E-commerce em expansão — típico de contratos longos e galpões Classe A.",
+      "badges": [
+        "E-commerce"
+      ]
+    }
+  ]
+}
